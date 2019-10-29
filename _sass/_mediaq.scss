@@ -1,46 +1,28 @@
+/* Most desktops */
+@media only screen and (min-device-width: 991px) {
+}
+
+/* Most tablets */
+@media only screen and (max-device-width: 990px) {
+}
+
 /* Most mobiles */
 @media only screen and (max-device-width: 480px) {
-    #outerContainer {
-        margin: 0;
-        padding: 10px;
+    .mainContent {
+        left: 0;
 
-        #outer {
-            width: 480px;
+        &.subMenu {
+            left: 122px;
         }
     }
 
-    #header {
-        background: none;
-        height: 43px;
-        width: 100%;
-        margin: 0 auto;
-        padding: 0;
-        text-align: center;
-        margin: 0 auto;
-
-        #headerContent {
-            margin-left: 25px;
-        }
+    nav.poem-menu {
+        font-size: 12px;
+        max-width: 114px;
     }
 
-    #menu {
-        float: none;
-
-        img {
-            display: none;
-        }
-    }
-
-    #mainContent {
-        #inner {
-            margin: 0;
-            padding: 0;
-            width: 90%;
-        }
-    }
-
-    #buyBox {
-        float: left;
+    .wrap img {
+        max-width: 308px;
     }
 }
 

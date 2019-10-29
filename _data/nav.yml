@@ -1,20 +1,37 @@
 menu:
 
-    - title: home
-      url: /index.html
+- title: home
+  url: /index.html
 
-    - title: vid
-      url: /pages/vid.html
+- title: Stopping the Sun
+  url: /pages/read/poetry/sts/00-index.html
 
-    - title: pics
-      url: /pages/pics.html
+- title: Mahabodhi Moonlight
+  url: /pages/read/poetry/mbm/00-index.html
 
-    - title: testimonials
-      url: /pages/testimonials.html
+- title: Sunshine & Shadow
+  url: /pages/read/poetry/sas/00-index.html
 
-    - title: blog
-      url: /pages/blog.html
+- title: First Burn
+  url: /pages/read/prose/01-fb.html
 
-    - title: guitar tuition
-      url: http://guitar.hugle.co.uk
+- title: anecdotes
+  url: /pages/read/anecdotes/000-index.html
 
+- title: mani stones
+  url: /pages/mani.html
+
+- title: portfolio
+  url: /pages/portfolio.html
+
+- title: bio
+  url: /pages/bio.html
+
+- title: circus
+  url: /pages/circus.html
+
+- title: Chan
+  url: /pages/chan.html
+
+- title: faves
+  url: /pages/faves.html

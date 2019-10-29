@@ -1,9 +1,8 @@
-title: hugle
-email: contact@hugle.co.uk
-description: Close up magic
-baseurl: "/"
-url: "https://hugle.co.uk"
-favicon: assets/favicon.ico
+url: "http://carrollonline.uk/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+title: "carrollonline" # the name of your site, e.g. ACME Corp.
+description: Hugh Carroll's personal site, portfolio, pix, writings
+favicon: assets/images/favicon.ico
 permalink: /:path/:basename:output_ext
 
 markdown: kramdown
@@ -19,8 +18,10 @@ sass:
 
 exclude:
     - README.md
+    - Rakefile
     - Gemfile
     - Gemfile.lock
     - changelog.md
     - "*.Rmd"
-    - notes.txt
+    - vendor
+    - .travis.yml
