@@ -1,8 +1,8 @@
-url: "https://carrollonline.uk"
+url: "https://hugle.co.uk/"
 email: hughie@carrollonline.co.uk
-baseurl: "/"
-title: "carrollonline"
-description: Hughie's writings
+baseurl: "/hugle/"
+title: hugle
+description: Hughie's stuff
 favicon: assets/images/favicon.ico
 permalink: /:path/:basename:output_ext
 google_analytics: UA-1199885-2
