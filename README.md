@@ -1,7 +1,6 @@
 # hugle.uk
 
-Hughie's website - hughie (at) hugle.co.uk
-Git - https://bitbucket.org/psaikido/hugle.uk/
+Hughie's website - at hugle.co.uk
 
 This now incorporates content from:
 - carrollonline.uk, personal stuff particularly 'hughku' poetry. That domain is now used as a signpost page
@@ -14,5 +13,6 @@ Content also includes
 - an anthology of Suttas from the Pali Canon
 - pictures galleries
 - a portfolio of IT work
+- an occasional blog
 - sundry gubbins
 - a shop where folks can get my books and CDs
