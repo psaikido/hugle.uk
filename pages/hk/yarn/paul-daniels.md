@@ -175,4 +175,4 @@ shortly afterwards
 he disappeared  
 </div>
 
-![Paul Daniels and me](/assets/images/bio/PaulDaniels.jpg "Paul Daniels and m")
+![Paul Daniels and me]({{ site.baseurl }}/assets/images/bio/PaulDaniels.jpg "Paul Daniels and m")

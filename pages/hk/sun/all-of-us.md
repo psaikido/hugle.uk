@@ -30,4 +30,4 @@ I really do do it
 for all of us
 </div>
 
-![Vulture Peak](/assets/images/pilg1/rajgir.jpg "Rajgir, the Vulture Peak")
+![Vulture Peak]({{ site.baseurl }}/assets/images/pilg1/rajgir.jpg "Rajgir, the Vulture Peak")

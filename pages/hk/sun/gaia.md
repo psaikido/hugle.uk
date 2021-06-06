@@ -28,4 +28,4 @@ streaming with tears
 our pain
 </div>
 
-!["Maenllwyd"](/assets/images/chan/mistymorning.jpg "Maenllwyd")  
+!["Maenllwyd"]({{ site.baseurl }}/assets/images/chan/mistymorning.jpg "Maenllwyd")  

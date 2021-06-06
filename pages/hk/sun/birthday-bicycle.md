@@ -23,4 +23,4 @@ and tacitly received
 </div>
 
 
-!["Colmcille and Hughie 2007"](/assets/images/bio/dadandme.jpg "Colmcille and Hughie 2007")
+!["Colmcille and Hughie 2007"]({{ site.baseurl }}/assets/images/bio/dadandme.jpg "Colmcille and Hughie 2007")

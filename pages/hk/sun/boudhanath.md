@@ -19,4 +19,4 @@ and wonder
 what those eyes see
 </div>
 
-!["Boudhanath, Katmandu"](/assets/images/pilg1/boudhanath.jpg "Boudhanath, Katmandu")
+!["Boudhanath, Katmandu"]({{ site.baseurl }}/assets/images/pilg1/boudhanath.jpg "Boudhanath, Katmandu")

@@ -44,5 +44,5 @@ it took
 some time
 </div>
 
-![The Weedplants](/assets/images/faves/weedplants.jpg "The Weedplants")
+![The Weedplants]({{ site.baseurl }}/assets/images/faves/weedplants.jpg "The Weedplants")
 

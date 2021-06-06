@@ -18,4 +18,4 @@ momentarily
 weightless
 </div>
 
-!["Choglamsar Desert"](/assets/images/pilg1/choglamsarDesert.jpg "Choglamsar Desert")
+!["Choglamsar Desert"]({{ site.baseurl }}/assets/images/pilg1/choglamsarDesert.jpg "Choglamsar Desert")

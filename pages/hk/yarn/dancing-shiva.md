@@ -71,4 +71,4 @@ to what I later learned to call
 the Way of the Bodhisattva
 </div>
 
-![Ananda's cave](/assets/images/faves/anandaCaveMala.jpg)
+![Ananda's cave]({{ site.baseurl }}/assets/images/faves/anandaCaveMala.jpg)

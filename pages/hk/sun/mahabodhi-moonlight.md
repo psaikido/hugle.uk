@@ -20,4 +20,4 @@ and answer
 just answer
 </div>
 
-!["The Mahabodhi Temple"](/assets/images/pilg1/mahabodhi.jpg "The Mahabodhi Temple")
+!["The Mahabodhi Temple"]({{ site.baseurl }}/assets/images/pilg1/mahabodhi.jpg "The Mahabodhi Temple")

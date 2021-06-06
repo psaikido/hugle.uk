@@ -93,4 +93,4 @@ when they become
 nightmares?
 </div>
 
-![Hughie 5 rings](/assets/images/circus/5rings.jpg "Hughie 5 rings")
+![Hughie 5 rings]({{ site.baseurl }}/assets/images/circus/5rings.jpg "Hughie 5 rings")

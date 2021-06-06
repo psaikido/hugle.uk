@@ -47,4 +47,4 @@ never again did stage fright
 come to spoil the party
 </div>
 
-![Snapdragon 90 spectacular](/assets/images/circus/speccie.jpg "'Snapdragon 90 spectacular") 
+![Snapdragon 90 spectacular]({{ site.baseurl }}/assets/images/circus/speccie.jpg "'Snapdragon 90 spectacular") 

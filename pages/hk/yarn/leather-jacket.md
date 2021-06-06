@@ -53,4 +53,4 @@ inside
 was a tenner
 </div>
 
-![Hughie in leather jacket](/assets/images/bucket/h-leather-jacket.jpg "Hughie in leather jacket")
+![Hughie in leather jacket]({{ site.baseurl }}/assets/images/bucket/h-leather-jacket.jpg "Hughie in leather jacket")

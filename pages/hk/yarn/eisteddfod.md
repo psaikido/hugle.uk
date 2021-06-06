@@ -64,5 +64,5 @@ took several
 curtain calls
 </div>
 
-![Peewee & Hughie](/assets/images/circus/peewee_hughie_firetower.jpg "Peewee & Hughie")
+![Peewee & Hughie]({{ site.baseurl }}/assets/images/circus/peewee_hughie_firetower.jpg "Peewee & Hughie")
 

@@ -54,5 +54,5 @@ me
 not them
 </div>
 
-![Chennai woman laughing](/assets/images/pilg1/chennaiWomanLaughing.jpg "Chennai woman laughing")
+![Chennai woman laughing]({{ site.baseurl }}/assets/images/pilg1/chennaiWomanLaughing.jpg "Chennai woman laughing")
 

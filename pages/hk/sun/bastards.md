@@ -82,5 +82,5 @@ thrice cursed
 bloody bastards  
 </div>
 
-!["Gerald-Scarfe-Cameron-cardboard-cartoon"](/assets/images/bucket/Gerald-Scarfe-Cameron-cardboard-cartoon.jpg "Gerald-Scarfe-Cameron-cardboard-cartoon")  
+!["Gerald-Scarfe-Cameron-cardboard-cartoon"]({{ site.baseurl }}/assets/images/bucket/Gerald-Scarfe-Cameron-cardboard-cartoon.jpg "Gerald-Scarfe-Cameron-cardboard-cartoon")  
 [Gerald Scarfe](https://www.geraldscarfe.com/)

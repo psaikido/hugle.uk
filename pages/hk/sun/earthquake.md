@@ -55,6 +55,6 @@ our imminent
 demise
 </div>
 
-!["Tsopema"](/assets/images/pilg1/pilg54.jpg "Nuns at Tsopema")
+!["Tsopema"]({{ site.baseurl }}/assets/images/pilg1/pilg54.jpg "Nuns at Tsopema")
 [what3words](https://what3words.com/sentry.jauntily.dean)  
 [wikipedia](https://en.wikipedia.org/wiki/2005_Kashmir_earthquake)

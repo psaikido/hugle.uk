@@ -71,4 +71,4 @@ boy
 was I in for it
 </div>
 
-!["H and C Sept 15"](/assets/images/bucket/C-H-wedding-ceremony.jpg "H and C Sept 15")  
+!["H and C Sept 15"]({{ site.baseurl }}/assets/images/bucket/C-H-wedding-ceremony.jpg "H and C Sept 15")  

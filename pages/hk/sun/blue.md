@@ -15,4 +15,4 @@ embracing us soft
 in blue grace
 </div>
 
-!["manta ray"](/assets/images/pilg1/mantaray.jpg "manta")
+!["manta ray"]({{ site.baseurl }}/assets/images/pilg1/mantaray.jpg "manta")

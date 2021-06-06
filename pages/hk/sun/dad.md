@@ -57,4 +57,4 @@ that love
 is for always
 </div>
 
-!["Cul larfing"](/assets/images/bio/cul_larfing.jpg "Cul larfing")
+!["Cul larfing"]({{ site.baseurl }}/assets/images/bio/cul_larfing.jpg "Cul larfing")

@@ -23,4 +23,4 @@ I wear
 my shaven head  
 </div>
 
-!["Hughie, Tim, Damian, Matt, Jem 1985"](/assets/images/bio/5brothers1985.jpg "Hughie, Tim, Damian, Matt, Jem 1985")
+!["Hughie, Tim, Damian, Matt, Jem 1985"]({{ site.baseurl }}/assets/images/bio/5brothers1985.jpg "Hughie, Tim, Damian, Matt, Jem 1985")

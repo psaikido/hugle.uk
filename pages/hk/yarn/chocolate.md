@@ -51,5 +51,5 @@ a process that took
 seconds
 </div>
 
-![chocolate club prize, Hughie, Maastricht 1989](/assets/images/bio/maastricht89.jpg "chocolate club prize, Hughie, Maastricht 1989")
+![chocolate club prize, Hughie, Maastricht 1989]({{ site.baseurl }}/assets/images/bio/maastricht89.jpg "chocolate club prize, Hughie, Maastricht 1989")
 

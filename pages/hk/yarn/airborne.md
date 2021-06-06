@@ -43,5 +43,5 @@ was just for a moment
 airborne
 </div>
 
-![Colm at the pithead](/assets/images/bucket/pithead.jpg "Colm at the pithead")
+![Colm at the pithead]({{ site.baseurl }}/assets/images/bucket/pithead.jpg "Colm at the pithead")
 

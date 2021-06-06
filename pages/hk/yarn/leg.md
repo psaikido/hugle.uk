@@ -32,5 +32,5 @@ to have his tie
 straightened
 </div>
 
-![Colm and Hughie](/assets/images/bio/dadandme.jpg "Colm and Hughie")
+![Colm and Hughie]({{ site.baseurl }}/assets/images/bio/dadandme.jpg "Colm and Hughie")
 

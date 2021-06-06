@@ -34,5 +34,5 @@ being shaken
 by the ears
 </div>
 
-![tie burning](/assets/images/bio/hcTieBurn1980.jpeg "burning my tie on the last day of school")
+![tie burning]({{ site.baseurl }}/assets/images/bio/hcTieBurn1980.jpeg "burning my tie on the last day of school")
 

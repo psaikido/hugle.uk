@@ -13,4 +13,4 @@ I was just renting
 </div>
 
 
-!["wedding ring"](/assets/images/bucket/weddingRing.jpg "wedding ring")
+!["wedding ring"]({{ site.baseurl }}/assets/images/bucket/weddingRing.jpg "wedding ring")

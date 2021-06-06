@@ -21,5 +21,5 @@ blazing
 like love
 </div>
 
-![Sarah & Hughie, Chan Retreat 2001](/assets/images/bucket/s_h_chanretreat2000.jpg "Sarah & Hughie, Chan Retreat 2001")
+![Sarah & Hughie, Chan Retreat 2001]({{ site.baseurl }}/assets/images/bucket/s_h_chanretreat2000.jpg "Sarah & Hughie, Chan Retreat 2001")
 

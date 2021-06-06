@@ -3,7 +3,7 @@
     <ul class="">
         {% for item in site.data.suttas-sn.menu %}
             <li {% if page.url  == item.url %}class="current"{% endif %}>
-                <a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
             </li>
         {% endfor %}
     </ul>

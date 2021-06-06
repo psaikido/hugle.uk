@@ -67,4 +67,4 @@ become
 lynch mob
 </div>
 
-![Murray John](/assets/images/bucket/murrayJohn.jpg "Murray John building, Swindon")
+![Murray John]({{ site.baseurl }}/assets/images/bucket/murrayJohn.jpg "Murray John building, Swindon")

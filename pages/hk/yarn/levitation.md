@@ -73,4 +73,4 @@ well
 so can I
 </div>
 
-![joker](/assets/images/bucket/joker.jpg "joker")
+![joker]({{ site.baseurl }}/assets/images/bucket/joker.jpg "joker")

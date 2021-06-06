@@ -65,5 +65,5 @@ the dog-eat-dog mind
 belongs to the animals  
 </div>
 
-!["dog and bone"](/assets/images/bucket/dog-and-bone.jpg "dog and bone")  
+!["dog and bone"]({{ site.baseurl }}/assets/images/bucket/dog-and-bone.jpg "dog and bone")  
 [credit](https://rocksolidk9.wordpress.com/)

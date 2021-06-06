@@ -76,4 +76,4 @@ delighted
 at the nonsense of it all
 </div>
 
-!["Pen behind the ear"](/assets/images/pilg1/pilg34.jpg "trick")
+!["Pen behind the ear"]({{ site.baseurl }}/assets/images/pilg1/pilg34.jpg "trick")

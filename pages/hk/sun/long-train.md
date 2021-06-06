@@ -71,4 +71,4 @@ anywhere
 </div>
 
 
-!["H does a trick for an Indian boy"](/assets/images/pilg1/pilg84.jpg "H does a trick for an Indian boy")
+!["H does a trick for an Indian boy"]({{ site.baseurl }}/assets/images/pilg1/pilg84.jpg "H does a trick for an Indian boy")

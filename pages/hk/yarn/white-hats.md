@@ -51,4 +51,4 @@ a striptease maybe?
 expressive dance?  
 </div>
 
-![Hughie beach juggle Thailand](/assets/images/pilg1/beachJuggle.jpg "Hughie beach juggle Thailand")
+![Hughie beach juggle Thailand]({{ site.baseurl }}/assets/images/pilg1/beachJuggle.jpg "Hughie beach juggle Thailand")

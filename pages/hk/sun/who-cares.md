@@ -29,4 +29,4 @@ even if
 no-one cares?
 </div>
 
-!["mani stone - Holy Island"](/assets/images/faves/HolyIslandMani.jpg "mani stone - Holy Island")  
+!["mani stone - Holy Island"]({{ site.baseurl }}/assets/images/faves/HolyIslandMani.jpg "mani stone - Holy Island")  

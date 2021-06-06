@@ -30,4 +30,4 @@ that makes us
 the same
 </div>
 
-!["dry dock boat"](/assets/images/faves/portisheadDryBoat.jpg "dry dock boat")
+!["dry dock boat"]({{ site.baseurl }}/assets/images/faves/portisheadDryBoat.jpg "dry dock boat")

@@ -15,7 +15,7 @@ permalink: /yarn/
 - buy on [blurb.co.uk](https://www.blurb.co.uk/b/10210368-yarn)
 
 
-![Yarn cover](/assets/images/shop/yarn-cover.jpg "Yarn cover")  
+![Yarn cover]({{ site.baseurl }}/assets/images/shop/yarn-cover.jpg "Yarn cover")  
 
 
 [praise for Yarn](/yarn/praise-for-yarn.html)

@@ -28,6 +28,6 @@ for taking the trouble
 to change my mind  
 </div>
 
-![Damo skidoo](/assets/images/bucket/luckydamooftheantarctic.jpg "Damo skidoo")
+![Damo skidoo]({{ site.baseurl }}/assets/images/bucket/luckydamooftheantarctic.jpg "Damo skidoo")
 
 [Benjamin Glacier](https://what3words.com/meerkats.distinguished.dribbler)

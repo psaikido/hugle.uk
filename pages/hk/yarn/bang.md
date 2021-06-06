@@ -49,4 +49,4 @@ my brother called my name
 distantly
 </div>
 
-![Jem & Hughie](/assets/images/bio/jemHughie.jpg "Jem & Hughie")
+![Jem & Hughie]({{ site.baseurl }}/assets/images/bio/jemHughie.jpg "Jem & Hughie")

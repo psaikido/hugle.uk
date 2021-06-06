@@ -23,4 +23,4 @@ behind me
 where it belongs
 </div>
 
-![Hughie at the rigging bar](/assets/images/circus/hughierigging.jpg "the fateful rigging bar")
+![Hughie at the rigging bar]({{ site.baseurl }}/assets/images/circus/hughierigging.jpg "the fateful rigging bar")

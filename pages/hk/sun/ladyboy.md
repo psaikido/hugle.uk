@@ -71,4 +71,4 @@ oneself
 </div>
 
 
-!["ladyboy"](/assets/images/bucket/ladyboy.jpg "ladyboy")
+!["ladyboy"]({{ site.baseurl }}/assets/images/bucket/ladyboy.jpg "ladyboy")

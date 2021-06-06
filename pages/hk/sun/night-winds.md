@@ -18,4 +18,4 @@ their friends
 ransack the building  
 </div>
 
-!["Lamayuru Gompa"](/assets/images/pilg1/lamayuru.jpg "Lamayuru Gompa")
+!["Lamayuru Gompa"]({{ site.baseurl }}/assets/images/pilg1/lamayuru.jpg "Lamayuru Gompa")

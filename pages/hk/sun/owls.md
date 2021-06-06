@@ -23,4 +23,4 @@ brings
 owls
 </div>
 
-![church & moon](/assets/images/bucket/churchFullMoon.jpg "church & moon")
+![church & moon]({{ site.baseurl }}/assets/images/bucket/churchFullMoon.jpg "church & moon")

@@ -32,4 +32,4 @@ if I've ever felt
 pride like it
 </div>
 
-![John rainbow Hughie](/assets/images/chan/John_rainbow_Hughie.jpg "John rainbow Hughie")
+![John rainbow Hughie]({{ site.baseurl }}/assets/images/chan/John_rainbow_Hughie.jpg "John rainbow Hughie")

@@ -18,4 +18,4 @@ A movement between anguish and clarity underlies these 12 pieces that have emerg
 
 <em>"Only when you drink from the river of silence shall you indeed sing.": Kahlil Gibran (1883-1931)</em>
 
-![Hughie, with guitar and butterflies](/assets/images/mantrasphere/gallery/promo/hc_guitar_butterfly.gif)
+![Hughie, with guitar and butterflies]({{ site.baseurl }}/assets/images/mantrasphere/gallery/promo/hc_guitar_butterfly.gif)

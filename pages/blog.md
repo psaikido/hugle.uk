@@ -6,11 +6,11 @@ layout: default
 <div class="blog">
 <h5>Jan 2014</h5>
 <p>My first musical instrument, the 'egg harp'</p>
-<p><img src="/assets/images/gallery/eggharp1.jpg" alt="" width="80%">  
-<a href="/assets/media/Eggharp1.wav">wav</a>
+<p><img src="{{ site.baseurl }}/assets/images/gallery/eggharp1.jpg" alt="" width="80%">  
+<a href="{{ site.baseurl }}/assets/media/Eggharp1.wav">wav</a>
 </p>
 <p>They had it on <a href="http://www.bbc.co.uk/programmes/b03s6mm7">Radio 4</a> (59:00)</p>
-<p>The relevant <a href="/assets/media/PM20140127-eggharp.wav">fragment</a></p>
+<p>The relevant <a href="{{ site.baseurl }}/assets/media/PM20140127-eggharp.wav">fragment</a></p>
 <p>So, when I was really little, amongst my earliest memories, I used to hypnotise myself with my mam's wee 'egg harp', playing it's tiny strings and listening to it's strangeness. PM, the radio4 show, have a thing where listeners send in odd little sounds, so I sent in a recording of the eggharp. I had recorded it at Christmas to use as a ringtone on my phone.</p>
 </div>
 <div class="blog">
@@ -27,7 +27,7 @@ Thanks to <a href="http://www.elmarrubiophotography.co.uk/">Elmar Rubio</a> for 
 <div class="blog">
 <h3>Paul Daniels Magic Day</h3>
 <h5>May 2013</h5>
-<p><img src="/assets/images/gallery/paulDaniels.jpg" alt="paul daniels"> Amazing day with the grand old man of British magic. What a thrill it was. There were supposed to be 10 students but for unknown reasons 8 didn't show up. Just the 3 of us then! Will expand on this at some point, but basically I didn't stop grinning for days, it was very special and I learned an enormous amount from a very funny and talented guy. Oh, and Debbie McGee was there briefly when I arrived, long enough to offer drinks and snacks, what more could you want?</p>
+<p><img src="{{ site.baseurl }}/assets/images/gallery/paulDaniels.jpg" alt="paul daniels"> Amazing day with the grand old man of British magic. What a thrill it was. There were supposed to be 10 students but for unknown reasons 8 didn't show up. Just the 3 of us then! Will expand on this at some point, but basically I didn't stop grinning for days, it was very special and I learned an enormous amount from a very funny and talented guy. Oh, and Debbie McGee was there briefly when I arrived, long enough to offer drinks and snacks, what more could you want?</p>
 </div>
 <div class="blog">
 <h3>Tashi's Party</h3>

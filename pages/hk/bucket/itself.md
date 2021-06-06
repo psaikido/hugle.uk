@@ -21,4 +21,4 @@ just being itself
 </div>
 
 
-![John leaving](/assets/images/chan/JohnLeaving.jpg "John leaving for China")
+![John leaving]({{ site.baseurl }}/assets/images/chan/JohnLeaving.jpg "John leaving for China")

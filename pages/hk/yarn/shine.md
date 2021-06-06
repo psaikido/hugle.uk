@@ -41,6 +41,6 @@ and says
 is shine!"  
 </div>
 
-![Grandma Carroll](/assets/images/bio/happy_grandmacarroll_1977.jpg "Grandma Carroll")  
+![Grandma Carroll]({{ site.baseurl }}/assets/images/bio/happy_grandmacarroll_1977.jpg "Grandma Carroll")  
 
 [song 'shine' on album Mantrasphere](http://www.reverbnation.com/open_graph/song/6375337)

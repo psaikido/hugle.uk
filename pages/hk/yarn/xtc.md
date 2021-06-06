@@ -79,4 +79,4 @@ steel
 steel
 </div>
 
-![xtc](/assets/images/bio/xtc_affair_1978.jpg "Hughie or Andrew's back of head watching XTC"){: .center-img }
+![xtc]({{ site.baseurl }}/assets/images/bio/xtc_affair_1978.jpg "Hughie or Andrew's back of head watching XTC"){: .center-img }

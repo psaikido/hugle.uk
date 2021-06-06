@@ -37,4 +37,4 @@ two pairs of eyes
 giggle dancing
 </div>
 
-!["China feet"](/assets/images/chan/shoes.jpg "China feet")
+!["China feet"]({{ site.baseurl }}/assets/images/chan/shoes.jpg "China feet")

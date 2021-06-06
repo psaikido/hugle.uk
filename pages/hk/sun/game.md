@@ -28,4 +28,4 @@ and beckon me
 to jump  
 </div>
 
-!["brown eye"](/assets/images/bucket/brownEye.jpg "brown eye")  
+!["brown eye"]({{ site.baseurl }}/assets/images/bucket/brownEye.jpg "brown eye")  

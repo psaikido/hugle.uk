@@ -42,5 +42,5 @@ we each
 have a sentence
 </div>
 
-!["Hughie, guitar, butterfly"](/assets/images/bucket/butterfly.jpg "Hughie, guitar, butterfly")  
+!["Hughie, guitar, butterfly"]({{ site.baseurl }}/assets/images/bucket/butterfly.jpg "Hughie, guitar, butterfly")  
 Photo by Lynette Thomas

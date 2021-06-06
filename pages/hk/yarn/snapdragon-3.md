@@ -80,4 +80,4 @@ with ordinary magic
 </div>
 
 
-![Phil](/assets/images/circus/h_as_phil91.jpg "Hughie as 'Phil'")
+![Phil]({{ site.baseurl }}/assets/images/circus/h_as_phil91.jpg "Hughie as 'Phil'")

@@ -72,4 +72,4 @@ or bunting
 </div>
 
 
-!["Mr Gasket & Bedford Bus"](/assets/images/circus/mr_gasket.jpg "Mr Gasket & Bedford Bus")
+!["Mr Gasket & Bedford Bus"]({{ site.baseurl }}/assets/images/circus/mr_gasket.jpg "Mr Gasket & Bedford Bus")

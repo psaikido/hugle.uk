@@ -18,4 +18,4 @@ the same silence
 of home
 </div>
 
-!["Rizong Gompa, Ladakh"](/assets/images/pilg1/rizong.jpg "Rizong Gompa, Ladakh")
+!["Rizong Gompa, Ladakh"]({{ site.baseurl }}/assets/images/pilg1/rizong.jpg "Rizong Gompa, Ladakh")

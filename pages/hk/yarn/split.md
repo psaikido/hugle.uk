@@ -75,4 +75,4 @@ ripping up
 their world
 </div>
 
-![Hughie, Inevitable Split 1984](/assets/images/bio/Promo1984.jpg "Hughie, Inevitable Split 1984")
+![Hughie, Inevitable Split 1984]({{ site.baseurl }}/assets/images/bio/Promo1984.jpg "Hughie, Inevitable Split 1984")

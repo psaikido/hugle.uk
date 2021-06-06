@@ -54,5 +54,5 @@ hovering
 without security
 </div>
 
-![Peewee & Seb in the fish car](/assets/images/bucket/PeeweeSebFishCar.jpg "Peewee & Seb in the fish car")
+![Peewee & Seb in the fish car]({{ site.baseurl }}/assets/images/bucket/PeeweeSebFishCar.jpg "Peewee & Seb in the fish car")
 

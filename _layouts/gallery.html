@@ -17,7 +17,7 @@
                     {% for image in site.data.galleries[page.dataFile].images %}
 
                         {% capture src %}
-                            /{{ site.data.galleries[page.dataFile].imageFolder }}{{ image.img }}
+                            {{ site.baseurl }}/{{ site.data.galleries[page.dataFile].imageFolder }}{{ image.img }}
                         {% endcapture %}
 
 

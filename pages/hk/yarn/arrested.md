@@ -105,4 +105,4 @@ as they handed me
 my stuff
 </div>
 
-![Eastcott](/assets/images/bucket/eastcottHillLeaf.jpg "Savernake Street playground, Eastcott Hill")
+![Eastcott]({{ site.baseurl }}/assets/images/bucket/eastcottHillLeaf.jpg "Savernake Street playground, Eastcott Hill")

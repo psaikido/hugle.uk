@@ -29,4 +29,4 @@ except for a little bubble
 all mine
 </div>
 
-![Severn Bridge](/assets/images/bucket/severnBridge.jpg "Severn Bridge")
+![Severn Bridge]({{ site.baseurl }}/assets/images/bucket/severnBridge.jpg "Severn Bridge")

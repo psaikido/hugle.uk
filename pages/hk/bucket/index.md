@@ -6,5 +6,5 @@ permalink: /bucket/
 
 Unpublished stuff
 
-!["Wiltshire path"](/assets/images/faves/WiltshirePath.jpg "Wiltshire path")
+!["Wiltshire path"]({{ site.baseurl }}/assets/images/faves/WiltshirePath.jpg "Wiltshire path")
 

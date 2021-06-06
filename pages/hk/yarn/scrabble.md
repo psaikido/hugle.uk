@@ -53,4 +53,4 @@ it couldn't
 be helped
 </div>
 
-![Grandma Burke & Carrolls](/assets/images/bucket/carrolls_grandmab.jpg "Grandma Burke & Carrolls")
+![Grandma Burke & Carrolls]({{ site.baseurl }}/assets/images/bucket/carrolls_grandmab.jpg "Grandma Burke & Carrolls")

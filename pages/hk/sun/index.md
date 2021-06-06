@@ -14,7 +14,7 @@ permalink: /sun/
 
 - buy on [blurb.co.uk](https://www.blurb.co.uk/b/10258007-sunshine-and-shadow)
 
-![Sunshine & Shadow cover](/assets/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")
+![Sunshine & Shadow cover]({{ site.baseurl }}/assets/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")
 
 
 Poems on circus, zen, love, longing, loss and darkness.  

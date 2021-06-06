@@ -35,7 +35,7 @@ we are voyagers
 everyday its own destination
 </div>
 
-!["Giant's Grave"](/assets/images/faves/giantsGrave.jpg "Giant's Grave")
+!["Giant's Grave"]({{ site.baseurl }}/assets/images/faves/giantsGrave.jpg "Giant's Grave")
 
 
 [The Sailing Stars](http://www.reverbnation.com/open_graph/song/6375552 "The Sailing Stars")

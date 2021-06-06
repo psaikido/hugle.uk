@@ -98,6 +98,9 @@ menu:
 
     - title: stuff
       sub:
+        - title: blog 
+          url: /pages/blog.html
+
         - title: IT portfolio
           url: /pages/pix/portfolio.html
 

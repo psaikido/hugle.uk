@@ -5,7 +5,7 @@ title: Samyutta Nikaya
 
 The Connected Discourses
 
-![The Connected Length Discourses](/assets/images/chan/samyutta.jpg)
+![The Connected Length Discourses]({{ site.baseurl }}/assets/images/chan/samyutta.jpg)
 
 This is my selection and a few notes on the Suttas I found interesting with links to the full text.
 

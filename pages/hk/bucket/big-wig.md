@@ -75,4 +75,4 @@ friendless?
 </div>
 
 
-!["Darth Vader"](/assets/images/bucket/darth-vader.jpg "Darth Vader")  
+!["Darth Vader"]({{ site.baseurl }}/assets/images/bucket/darth-vader.jpg "Darth Vader")  

@@ -33,4 +33,4 @@ its ancient presence
 pristine
 </div>
 
-!["Kushinagar"](/assets/images/pilg1/kushinagar.jpg "Kushinagar")
+!["Kushinagar"]({{ site.baseurl }}/assets/images/pilg1/kushinagar.jpg "Kushinagar")

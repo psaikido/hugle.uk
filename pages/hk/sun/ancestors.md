@@ -49,4 +49,4 @@ each other
 </div>
 
 
-!["5 balls East Oxford Community Centre"](/assets/images/circus/5balls_oxford.jpg "5 balls East Oxford Community Centre")
+!["5 balls East Oxford Community Centre"]({{ site.baseurl }}/assets/images/circus/5balls_oxford.jpg "5 balls East Oxford Community Centre")

@@ -16,4 +16,4 @@ the murmuring street
 the patter of rain
 </div>
 
-!["Leh, Ladakh"](/assets/images/pilg1/walltree.jpg "Leh, Ladakh")
+!["Leh, Ladakh"]({{ site.baseurl }}/assets/images/pilg1/walltree.jpg "Leh, Ladakh")

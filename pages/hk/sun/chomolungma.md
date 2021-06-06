@@ -24,4 +24,4 @@ but this time
 it's joy
 </div>
 
-!["Chomolungma"](/assets/images/pilg1/chomolungma.jpg "Chomolungma")
+!["Chomolungma"]({{ site.baseurl }}/assets/images/pilg1/chomolungma.jpg "Chomolungma")

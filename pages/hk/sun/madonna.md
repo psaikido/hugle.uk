@@ -14,4 +14,4 @@ your acceptance
 so radiant
 </div>
 
-!["Hush"](/assets/images/bucket/Hush.gif "Hush")
+!["Hush"]({{ site.baseurl }}/assets/images/bucket/Hush.gif "Hush")

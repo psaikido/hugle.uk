@@ -26,7 +26,7 @@ then there it was
 Mantrasphere  
 
 
-![Mantrasphere cover](/assets/images/shop/mantrasphere.gif "Mantrasphere"){:class="half"}
+![Mantrasphere cover]({{ site.baseurl }}/assets/images/shop/mantrasphere.gif "Mantrasphere"){:class="half"}
 
 
 the printing looked ok  
@@ -71,7 +71,7 @@ but I aint
 no monk
 </div>
 
-![Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun](/assets/images/bucket/models2.jpg "Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun")
+![Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun]({{ site.baseurl }}/assets/images/bucket/models2.jpg "Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun")
 
 
 [Mantrasphere](https://mantrasphere.co.uk) album  

@@ -23,4 +23,4 @@ knowing I'm just visiting?
 gliding by?
 </div>
 
-!["the Test at Overton"](/assets/images/bucket/testAtOverton.jpg "the Test at Overton")  
+!["the Test at Overton"]({{ site.baseurl }}/assets/images/bucket/testAtOverton.jpg "the Test at Overton")  

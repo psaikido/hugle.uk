@@ -23,4 +23,4 @@ older
 than grass  
 </div>
 
-!["Corinne and Hughie"](/assets/images/bio/CorinneHHalo.jpg "Corinne and Hughie")
+!["Corinne and Hughie"]({{ site.baseurl }}/assets/images/bio/CorinneHHalo.jpg "Corinne and Hughie")

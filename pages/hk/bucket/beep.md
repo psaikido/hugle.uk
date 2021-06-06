@@ -64,4 +64,4 @@ to earn a living
 </div>
 
 
-!["row of monitors"](/assets/images/bucket/monitors.jpg "row of monitors")  
+!["row of monitors"]({{ site.baseurl }}/assets/images/bucket/monitors.jpg "row of monitors")  

@@ -18,4 +18,4 @@ that never
 arrives  
 </div>
 
-!["Thai jungle"](/assets/images/pilg1/hughieJungle.jpg "Thai jungle")
+!["Thai jungle"]({{ site.baseurl }}/assets/images/pilg1/hughieJungle.jpg "Thai jungle")

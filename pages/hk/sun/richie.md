@@ -32,4 +32,4 @@ for some reason
 it's ok  
 </div>
 
-!["Richie"](/assets/images/bio/richie_cat.jpg "Richie")  
+!["Richie"]({{ site.baseurl }}/assets/images/bio/richie_cat.jpg "Richie")  

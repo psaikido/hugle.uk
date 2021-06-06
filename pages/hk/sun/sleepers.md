@@ -31,4 +31,4 @@ human cargo
 of dreams
 </div>
 
-!["train to Bangkok"](/assets/images/pilg1/sleepers.jpg "train to Bangkok")
+!["train to Bangkok"]({{ site.baseurl }}/assets/images/pilg1/sleepers.jpg "train to Bangkok")

@@ -19,4 +19,4 @@ except John who said
 "it was fine"
 </div>
 
-![John's 70th birthday party](/assets/images/chan/h-jc-birthday-party.jpg "John's 70th birthday party")
+![John's 70th birthday party]({{ site.baseurl }}/assets/images/chan/h-jc-birthday-party.jpg "John's 70th birthday party")

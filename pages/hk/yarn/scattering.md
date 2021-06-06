@@ -65,5 +65,5 @@ of the world
 embracing everything
 </div>
 
-![beach scattering](/assets/images/pilg1/pilg129a.jpg "beach scattering")
+![beach scattering]({{ site.baseurl }}/assets/images/pilg1/pilg129a.jpg "beach scattering")
 

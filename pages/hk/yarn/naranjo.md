@@ -80,6 +80,6 @@ they simply will not
 come off  
 </div>
 
-![El Naranjo de Bulnes 1989](/assets/images/faves/h_naranjodebulnes89.jpg "on top 1989")  
+![El Naranjo de Bulnes 1989]({{ site.baseurl }}/assets/images/faves/h_naranjodebulnes89.jpg "on top 1989")  
 
-![El Naranjo de Bulnes 2001](/assets/images/faves/h_s_naranjo_sumit.jpg "on top 2001")
+![El Naranjo de Bulnes 2001]({{ site.baseurl }}/assets/images/faves/h_s_naranjo_sumit.jpg "on top 2001")

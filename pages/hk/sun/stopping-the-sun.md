@@ -31,7 +31,7 @@ the sun stopped
 in its track
 </div>
 
-![Sally & Hughie](/assets/images/chan/sally_catch_feather_fan.jpg "Sally catches a feather on a fan")
+![Sally & Hughie]({{ site.baseurl }}/assets/images/chan/sally_catch_feather_fan.jpg "Sally catches a feather on a fan")
 
 Sally Masheder catches a feather on a fan at 
 Tientong Si where Hung Chih was abbot and where Dogen got enlightened

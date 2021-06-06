@@ -48,5 +48,5 @@ of accidental
 perfection
 </div>
 
-![Los Rubios](/assets/images/faves/losrubios_h&d_pembroke98.jpg "Los Rubios")
+![Los Rubios]({{ site.baseurl }}/assets/images/faves/losrubios_h&d_pembroke98.jpg "Los Rubios")
 

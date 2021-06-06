@@ -22,4 +22,4 @@ you should consider
 the alternative"
 </div>
 
-![hall of Buddhas](/assets/images/chan/hall-of-buddhas.jpg "hall of Buddhas")
+![hall of Buddhas]({{ site.baseurl }}/assets/images/chan/hall-of-buddhas.jpg "hall of Buddhas")

@@ -20,7 +20,7 @@ permalink: /shop/
 <div class="shop-item">
 ##### [Yarn](/yarn) and [Sunshine & Shadow](/sun)
 <div class="graphic">
-![covers](/assets/images/shop/y-sas.png "Yarn and Sunshine & Shadow covers")
+![covers]({{ site.baseurl }}/assets/images/shop/y-sas.png "Yarn and Sunshine & Shadow covers")
 </div>
 
 <div class="info">
@@ -39,7 +39,7 @@ permalink: /shop/
 <div class="shop-item">
 ##### [Sunshine & Shadow](/sun)
 <div class="graphic">
-![Sunshine & Shadow cover](/assets/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")
+![Sunshine & Shadow cover]({{ site.baseurl }}/assets/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")
 </div>
 
 <div class="info">
@@ -59,7 +59,7 @@ permalink: /shop/
 <div class="shop-item">
 ##### [Yarn](/yarn)
 <div class="graphic">
-![Yarn cover](/assets/images/shop/yarn-cover.jpg "Yarn cover")  
+![Yarn cover]({{ site.baseurl }}/assets/images/shop/yarn-cover.jpg "Yarn cover")  
 </div>
 
 <div class="info">
@@ -79,7 +79,7 @@ permalink: /shop/
 <div class="shop-item">
 ##### [Mantrasphere](https://mantrasphere.co.uk)
 <div class="graphic">
-![Mantrasphere cover](/assets/images/shop/mantrasphere.gif "Mantrasphere cover")  
+![Mantrasphere cover]({{ site.baseurl }}/assets/images/shop/mantrasphere.gif "Mantrasphere cover")  
 </div>
 
 <div class="info">
@@ -98,7 +98,7 @@ permalink: /shop/
 ##### Mindfulness CD
 <div class="graphic">
 <a name="sati-cd" />
-![Mindfulness cover](/assets/images/shop/mindfulness-cd.gif "Mindfulness cover")  
+![Mindfulness cover]({{ site.baseurl }}/assets/images/shop/mindfulness-cd.gif "Mindfulness cover")  
 </div>
 
 <div class="info">

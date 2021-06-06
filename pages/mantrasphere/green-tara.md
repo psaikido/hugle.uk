@@ -5,7 +5,7 @@ layout: mantrasphere
 
 OM TARE TUTARRE TURE SOHA
 
-![Green Tara](/assets/images/mantrasphere/green_tara.jpg)
+![Green Tara]({{ site.baseurl }}/assets/images/mantrasphere/green_tara.jpg)
 
 Green Tara is related to Chenrezig in the last song.
 

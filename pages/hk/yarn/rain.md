@@ -38,7 +38,7 @@ a hollow laugh
 at the cliche  
 </div>
 
-![rainy street](/assets/images/bucket/rain.jpg "rainy street")  
+![rainy street]({{ site.baseurl }}/assets/images/bucket/rain.jpg "rainy street")  
 
 Pic by [Mike Barr](https://www.pinterest.co.uk/theartofbarr/)
 

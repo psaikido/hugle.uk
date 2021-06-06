@@ -21,4 +21,4 @@ my heart
 one day lighter
 </div>
 
-!["Leh"](/assets/images/pilg1/cow.jpg "Leh")
+!["Leh"]({{ site.baseurl }}/assets/images/pilg1/cow.jpg "Leh")

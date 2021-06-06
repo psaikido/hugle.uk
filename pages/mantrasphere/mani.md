@@ -5,12 +5,12 @@ layout: mantrasphere
         
 OM MANI PADME HUM  
 
-![mani](/assets/images/mani/mani.svg)
+![mani]({{ site.baseurl }}/assets/images/mani/mani.svg)
 
 the mantra of
 ### Chenrezig
 
-![Chenrezig](/assets/images/mantrasphere/chenrezig.jpg)
+![Chenrezig]({{ site.baseurl }}/assets/images/mantrasphere/chenrezig.jpg)
 
 The story goes that just as the one who was to become the wisdom being (Bodhisattva) of compassion, just as he was about to step over the threshold of enlightenment, he heard the cries of the world.
 

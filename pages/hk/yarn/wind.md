@@ -56,5 +56,5 @@ was it an act of faith
 or tempting fate?
 </div>
 
-![Stanage Edge](/assets/images/bucket/Stanage-Edge-1.jpg "Stanage Edge")
+![Stanage Edge]({{ site.baseurl }}/assets/images/bucket/Stanage-Edge-1.jpg "Stanage Edge")
 

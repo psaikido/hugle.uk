@@ -55,5 +55,5 @@ the author remains
 undiscovered  
 </div>
 
-!["book"](/assets/images/bucket/book.jpg "book")  
+!["book"]({{ site.baseurl }}/assets/images/bucket/book.jpg "book")  
 [image source](https://www.misskopykat.com/)

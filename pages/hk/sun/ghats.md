@@ -28,4 +28,4 @@ from whom
 they never really left
 </div>
 
-!["The Burning Ghats at Varanasi"](/assets/images/pilg1/ghats.jpg "The Burning Ghats at Varanasi")
+!["The Burning Ghats at Varanasi"]({{ site.baseurl }}/assets/images/pilg1/ghats.jpg "The Burning Ghats at Varanasi")

@@ -55,6 +55,6 @@ not to be
 evaluated
 </div>
 
-![Bing Nan Li-Ashmolean](/assets/images/chan/BingNanLi-Ashmolean.jpg "BingNanLi-Ashmolean")  
-![Heart Sutra scroll](/assets/images/chan/HeartSutraGift.jpg "Heart Sutra scroll")  
+![Bing Nan Li-Ashmolean]({{ site.baseurl }}/assets/images/chan/BingNanLi-Ashmolean.jpg "BingNanLi-Ashmolean")  
+![Heart Sutra scroll]({{ site.baseurl }}/assets/images/chan/HeartSutraGift.jpg "Heart Sutra scroll")  
 [Heart Sutra wikipedia](https://en.wikipedia.org/wiki/Heart_Sutra)

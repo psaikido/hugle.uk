@@ -49,7 +49,7 @@ function getRndInteger(minimum, maximum) {
 var rnd = getRndInteger(1, hk.length)
 
 $(document).ready(function() {
-  var link = '<a href="' + hk[rnd].path + '">' + hk[rnd].title + '</a>'
+  var link = '<a href="/hugle' + hk[rnd].path + '">' + hk[rnd].title + '</a>'
   $('<div id="rand">')
     .html("hughku de jour: " + link)
     .appendTo('.random-hughku');

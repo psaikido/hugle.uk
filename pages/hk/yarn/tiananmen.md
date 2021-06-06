@@ -30,4 +30,4 @@ zen master clowning
 that's what I salute  
 </div>
 
-![Tiananmen Square](/assets/images/chan/johnCrookTiananmen.jpg "Tiananmen Square")  
+![Tiananmen Square]({{ site.baseurl }}/assets/images/chan/johnCrookTiananmen.jpg "Tiananmen Square")  

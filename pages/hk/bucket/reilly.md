@@ -47,5 +47,5 @@ and disappears
 scuttling back upstairs
 </div>
 
-![Noel Reilly](/assets/images/bucket/noel-reilly.jpg "Noel Reilly")
+![Noel Reilly]({{ site.baseurl }}/assets/images/bucket/noel-reilly.jpg "Noel Reilly")
 [Philosopher](https://www.swindonadvertiser.co.uk/news/11136446.the-time-an-outrageous-pub-landlord-managed-to-get-swindon-into-the-new-york-times/)

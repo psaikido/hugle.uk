@@ -83,5 +83,5 @@ of that sun
 </div>
 
 
-!["dawn approaching"](/assets/images/bucket/dawn-approaching.jpg "dawn approaching")  
+!["dawn approaching"]({{ site.baseurl }}/assets/images/bucket/dawn-approaching.jpg "dawn approaching")  
 credit [sunrise.maplogs.com](https://sunrise.maplogs.com/)

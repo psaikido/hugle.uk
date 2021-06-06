@@ -42,4 +42,4 @@ of that apocalyptic
 silence  
 </div>
 
-!["Silbury Hill"](/assets/images/bucket/silburyhill.jpg "Silbury Hill")
+!["Silbury Hill"]({{ site.baseurl }}/assets/images/bucket/silburyhill.jpg "Silbury Hill")

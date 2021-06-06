@@ -63,6 +63,6 @@ taking his queen
 another cut
 </div>
 
-![chess](/assets/images/faves/Chess.jpg "chess")
+![chess]({{ site.baseurl }}/assets/images/faves/Chess.jpg "chess")
 
 

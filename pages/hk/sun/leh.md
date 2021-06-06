@@ -23,4 +23,4 @@ knowing everyone
 is me
 </div>
 
-!["Leh dogs"](/assets/images/pilg1/lehdogs.jpg "Leh dogs")
+!["Leh dogs"]({{ site.baseurl }}/assets/images/pilg1/lehdogs.jpg "Leh dogs")

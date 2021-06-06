@@ -63,4 +63,4 @@ the meaning of the words
 is in the manner of their handling  
 </div>
 
-![broken guitar](/assets/images/bucket/brokenGuitar.jpg "broken guitar") 
+![broken guitar]({{ site.baseurl }}/assets/images/bucket/brokenGuitar.jpg "broken guitar") 

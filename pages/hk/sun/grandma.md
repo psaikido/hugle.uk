@@ -103,4 +103,4 @@ but still I really wish
 I'd offered to walk her
 </div>
 
-!["Grandma Carroll"](/assets/images/bucket/aug75_grandma_carroll.jpg "Grandma Carroll Aug 1975")
+!["Grandma Carroll"]({{ site.baseurl }}/assets/images/bucket/aug75_grandma_carroll.jpg "Grandma Carroll Aug 1975")

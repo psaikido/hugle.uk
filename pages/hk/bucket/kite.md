@@ -16,4 +16,4 @@ of my head
 </div>
 
 
-!["kite"](/assets/images/bucket/kite.jpg "kite")  
+!["kite"]({{ site.baseurl }}/assets/images/bucket/kite.jpg "kite")  

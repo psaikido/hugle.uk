@@ -49,4 +49,4 @@ and so I looked at the flowers
 </div>
 
 
-!["Sarah and Hughie"](/assets/images/bucket/hs_sillysofa.jpg "Sarah and Hughie")
+!["Sarah and Hughie"]({{ site.baseurl }}/assets/images/bucket/hs_sillysofa.jpg "Sarah and Hughie")

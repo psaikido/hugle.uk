@@ -21,4 +21,4 @@ yet living
 through ages  
 </div>
 
-!["sea"](/assets/images/bucket/deepSea.jpg "sea")
+!["sea"]({{ site.baseurl }}/assets/images/bucket/deepSea.jpg "sea")

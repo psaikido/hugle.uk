@@ -112,5 +112,5 @@ I thought it would last
 forever
 
 </div>
-![Eilat, Timna Park](/assets/images/circus/snapdragonnegev.jpg "Timna Park")
+![Eilat, Timna Park]({{ site.baseurl }}/assets/images/circus/snapdragonnegev.jpg "Timna Park")
 

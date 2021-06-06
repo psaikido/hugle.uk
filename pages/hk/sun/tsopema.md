@@ -26,4 +26,4 @@ asking the world
 to make me happy?
 </div>
 
-!["Tsopema"](/assets/images/pilg1/tsopema.jpg "Tsopema")
+!["Tsopema"]({{ site.baseurl }}/assets/images/pilg1/tsopema.jpg "Tsopema")

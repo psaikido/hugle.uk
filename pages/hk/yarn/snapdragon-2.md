@@ -116,4 +116,4 @@ the single most painful moment
 of my life  
 </div>
 
-![Mr Gasket](/assets/images/circus/gasket_balloon_mime.jpg "Mr Gasket")
+![Mr Gasket]({{ site.baseurl }}/assets/images/circus/gasket_balloon_mime.jpg "Mr Gasket")

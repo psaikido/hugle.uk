@@ -41,4 +41,4 @@ awkward miracles
 </div>
 
 
-!["skin colours"](/assets/images/pilg1/pilg125.jpg "skin colours")
+!["skin colours"]({{ site.baseurl }}/assets/images/pilg1/pilg125.jpg "skin colours")

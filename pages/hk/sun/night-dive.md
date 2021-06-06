@@ -33,4 +33,4 @@ looping above
 looming below
 </div>
 
-!["Thailand Andaman Sea night dive"](/assets/images/pilg1/night-dive.jpg "Thailand Andaman Sea night dive")
+!["Thailand Andaman Sea night dive"]({{ site.baseurl }}/assets/images/pilg1/night-dive.jpg "Thailand Andaman Sea night dive")

@@ -34,4 +34,4 @@ having already drowned
 in her eyes
 </div>
 
-![Joanne Whalley](/assets/images/bucket/JoanneWhalley.jpg "Joanne Whalley")
+![Joanne Whalley]({{ site.baseurl }}/assets/images/bucket/JoanneWhalley.jpg "Joanne Whalley")

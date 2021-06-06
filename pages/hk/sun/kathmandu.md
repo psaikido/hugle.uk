@@ -19,4 +19,4 @@ all but this shop
 shining
 </div>
 
-!["Kathmandu"](/assets/images/pilg1/kathmandu.jpg "Kathmandu")
+!["Kathmandu"]({{ site.baseurl }}/assets/images/pilg1/kathmandu.jpg "Kathmandu")

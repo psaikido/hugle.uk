@@ -29,4 +29,4 @@ it was the biggest laugh
 I ever got
 </div>
 
-!['Phil' at Snapdragon 91](/assets/images/circus/h_as_phil91.jpg "'Phil' at Snapdragon 91") 
+!['Phil' at Snapdragon 91]({{ site.baseurl }}/assets/images/circus/h_as_phil91.jpg "'Phil' at Snapdragon 91") 

@@ -41,4 +41,4 @@ hoping they wouldn't
 see my feet
 </div>
 
-![Hughie, Inevitable Split 1984](/assets/images/bio/inevitablesplit.jpg "Hughie, Inevitable Split 1984")
+![Hughie, Inevitable Split 1984]({{ site.baseurl }}/assets/images/bio/inevitablesplit.jpg "Hughie, Inevitable Split 1984")

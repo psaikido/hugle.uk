@@ -15,4 +15,4 @@ much better
 than the other
 </div>
 
-!["monk and dog"](/assets/images/pilg1/monkanddog.jpg "monk and dog")
+!["monk and dog"]({{ site.baseurl }}/assets/images/pilg1/monkanddog.jpg "monk and dog")

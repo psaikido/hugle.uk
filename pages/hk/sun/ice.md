@@ -18,4 +18,4 @@ the frozen dreams
 of ice
 </div>
 
-![Mountain lake](/assets/images/bucket/melting-ice.jpg "Mountain lake")
+![Mountain lake]({{ site.baseurl }}/assets/images/bucket/melting-ice.jpg "Mountain lake")

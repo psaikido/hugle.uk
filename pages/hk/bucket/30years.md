@@ -21,4 +21,4 @@ still struggling
 to be born
 </div>
 
-![the fateful stunt](/assets/images/circus/suitcase.jpg "the fateful stunt")
+![the fateful stunt]({{ site.baseurl }}/assets/images/circus/suitcase.jpg "the fateful stunt")

@@ -3,7 +3,7 @@ title: Tonglen
 layout: mantrasphere            
 ---            
     
-![Om Ah Hung](/assets/images/mantrasphere/om_ah_hum_large.jpg)  
+![Om Ah Hung]({{ site.baseurl }}/assets/images/mantrasphere/om_ah_hum_large.jpg)  
 
 OM AH HUM  
 <em>The practice of Tonglen is one of 'giving and receiving'.</em>  

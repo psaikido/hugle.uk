@@ -158,4 +158,4 @@ to give it a go
 had never returned  
 </div>
 
-![Hughie, Dobra Valley, 1989](/assets/images/bio/h_dobra.jpg "Hughie, Dobra Valley 1989")
+![Hughie, Dobra Valley, 1989]({{ site.baseurl }}/assets/images/bio/h_dobra.jpg "Hughie, Dobra Valley 1989")

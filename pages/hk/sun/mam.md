@@ -15,4 +15,4 @@ I thought only existed
 in sermons
 </div>
 
-!["Margaret & Hughie"](/assets/images/faves/HughieMam2008.jpg "Margaret & Hughie")
+!["Margaret & Hughie"]({{ site.baseurl }}/assets/images/faves/HughieMam2008.jpg "Margaret & Hughie")

@@ -38,4 +38,4 @@ and somehow lost his address
 
 </div>
 
-![Ios amphitheatre](/assets/images/bucket/ios_amphitheater.jpg "Ios amphitheatre")
+![Ios amphitheatre]({{ site.baseurl }}/assets/images/bucket/ios_amphitheater.jpg "Ios amphitheatre")

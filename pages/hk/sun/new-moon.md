@@ -12,5 +12,5 @@ abruptly scything
 through our stories
 </div>
 
-!["new moon - Bill King"](/assets/images/bucket/newMoon.jpg "new moon by Bill King")  
+!["new moon - Bill King"]({{ site.baseurl }}/assets/images/bucket/newMoon.jpg "new moon by Bill King")  
 photo - Bill King

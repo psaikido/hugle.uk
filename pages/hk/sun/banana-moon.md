@@ -14,5 +14,5 @@ thanks for reminding me
 of sweetness
 </div>
 
-!["Waning moon"](/assets/images/bucket/oldmoon.jpg "old moon")  
+!["Waning moon"]({{ site.baseurl }}/assets/images/bucket/oldmoon.jpg "old moon")  
 &copy; 2012 Alan Dyer

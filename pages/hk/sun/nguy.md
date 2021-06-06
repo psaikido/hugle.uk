@@ -62,4 +62,4 @@ those ancient tunes
 reborn
 </div>
 
-![Church door](/assets/images/bucket/churchDoor.jpg "Church door") 
+![Church door]({{ site.baseurl }}/assets/images/bucket/churchDoor.jpg "Church door") 

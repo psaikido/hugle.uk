@@ -81,4 +81,4 @@ eventually away
 into legend
 </div>
 
-![bottenator](/assets/images/bucket/bottenator.jpg "bottenator") 
+![bottenator]({{ site.baseurl }}/assets/images/bucket/bottenator.jpg "bottenator") 
