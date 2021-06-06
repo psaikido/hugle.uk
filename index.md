@@ -6,7 +6,7 @@ title: hugle
 
 <div class="home-page">
 
-![Hughie, wall, door](/assets/images/bio/h-wall-door.jpg "this wall, this door"){: .center-img }
+![Hughie, wall, door]({{ site.baseurl }}/assets/images/bio/h-wall-door.jpg "this wall, this door"){: .center-img }
 
 <div class="random-hughku">
 </div>
