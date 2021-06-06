@@ -1,3 +1,3 @@
 #! /bin/bash
 
-bundle exec jekyll s -l --livereload-min-delay 1
+bundle exec jekyll s -l --livereload-min-delay 1 --baseurl ''
