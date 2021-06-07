@@ -16,16 +16,14 @@ menu:
         - title: Bucket
           url: /bucket/
 
-
-    - title: stories
-      sub:
         - title: Mahabodhi Moonlight
           url: /pages/prose/mahabodhi-moonlight.html
 
         - title: First Burn
           url: /pages/prose/firstBurn/01-fb.html
 
-    - title: Sutta Anthology
+
+    - title: sutta anthology
       sub:
         - title: Majjhima Nikaya 
           url: /pages/suttas/mn/index.html
@@ -34,7 +32,7 @@ menu:
           url: /pages/suttas/sn/index.html
 
 
-    - title: Mantrasphere
+    - title: mantrasphere
       sub:
         - title: listen
           url: /pages/mantrasphere/listen.html
