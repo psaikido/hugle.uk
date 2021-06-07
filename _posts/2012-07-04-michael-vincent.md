@@ -1,6 +1,7 @@
 ---
 title: Michael Vincent Lecture
 layout: post
+category: magic
 permalink: /blog/2012-07-04.html
 ---
 

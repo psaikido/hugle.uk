@@ -98,8 +98,8 @@ menu:
 
     - title: stuff
       sub:
-        - title: blog 
-          url: /pages/blog.html
+        - title: blogs
+          url: /pages/blogs.html
 
         - title: IT portfolio
           url: /pages/pix/portfolio.html

@@ -1,5 +1,5 @@
 ---
 title: blog
-layout: posts
+layout: posts-magic
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Paul Daniels
 layout: post
+category: magic
 permalink: /blog/2013-05-01.html
 ---
 

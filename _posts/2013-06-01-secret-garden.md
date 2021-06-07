@@ -1,6 +1,7 @@
 ---
 title: Secret Garden Party 
 layout: post
+category: magic
 permalink: /blog/2013-06.html
 ---
 
