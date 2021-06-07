@@ -1,10 +1,6 @@
 description: main menu
 
 menu:
-
-    - title: home
-      url: /
-
     - title: hughku
       sub: 
         - title: Yarn

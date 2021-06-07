@@ -64,6 +64,14 @@ html {
             }
         }
     }
+
+    #home-link {
+        margin-left: 10px;
+
+        a, a:visited {
+            color: $text-link;
+        }
+    }
 }
 
 nav.poem-menu {
