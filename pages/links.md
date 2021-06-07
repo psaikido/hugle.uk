@@ -8,7 +8,7 @@ permalink: /links/
 - [Carroll Family Archive](http://family.carrollonline.uk)
 - [Soundcloud](https://soundcloud.com/mantrasphere/)  
 - [Mad World](https://youtu.be/sSgvBhZ2-Us) Tears For Fears piano cover  
-- [Code](https://bitbucket.org/psaikido) projects on bitbucket
+- Code on [bitbucket](https://bitbucket.org/psaikido) and [github](https://github.com/psaikido) 
 - [Western Chan Fellowship](https://westernchanfellowship.org)
 - [Swindon Chan Group](https://swindonchan.org)
 - [Gear Mill](https://gearmill.org)
