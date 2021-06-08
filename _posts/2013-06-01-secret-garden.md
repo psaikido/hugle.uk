@@ -2,7 +2,7 @@
 title: Secret Garden Party 
 layout: post
 category: magic
-permalink: /blog/2013-06.html
+permalink: 2013-06.html
 ---
 
 #### June 2013

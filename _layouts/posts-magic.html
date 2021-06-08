@@ -12,8 +12,12 @@
 
                 <div class="main-content">
                     {% for post in site.categories.magic %}
+                        <a name="{{ post.permalink }}"></a>
                         <h2>{{ post.title }}</h2>
+
                         {{ post }}
+
+                        <a href="{{ site.baseurl }}/blog/magic/#{{ post.permalink }}">[link]</a>
                         <hr />
                     {% endfor %}
                 </div>

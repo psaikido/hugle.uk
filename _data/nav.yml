@@ -93,7 +93,7 @@ menu:
     - title: stuff
       sub:
         - title: blogs
-          url: /pages/blogs.html
+          url: /blog
 
         - title: IT portfolio
           url: /pages/pix/portfolio.html

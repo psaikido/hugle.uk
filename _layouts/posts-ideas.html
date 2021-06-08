@@ -11,13 +11,13 @@
                 {% include search.html %}
 
                 <div class="main-content">
-                    {% for post in site.categories.personal %}
+                    {% for post in site.categories.ideas %}
                         <a name="{{ post.permalink }}"></a>
                         <h2>{{ post.title }}</h2>
 
                         {{ post }}
 
-                        <a href="{{ site.baseurl }}/blog/personal/#{{ post.permalink }}">[link]</a>
+                        <a href="{{ site.baseurl }}/blog/ideas/#{{ post.permalink }}">[link]</a>
                         <hr />
                     {% endfor %}
                 </div>

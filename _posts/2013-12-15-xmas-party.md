@@ -2,7 +2,7 @@
 title: Eastcott Christmas Party 
 layout: post
 category: magic
-permalink: /blog/2013-12.html
+permalink: 2013-12.html
 ---
 
 #### Dec 2013
