@@ -21,10 +21,13 @@ menu:
 
     - title: sutta anthology
       sub:
-        - title: Majjhima Nikaya 
+        - title: intro 
+          url: /pages/suttas/index.html
+
+        - title: Middle Length Discourses 
           url: /pages/suttas/mn/index.html
 
-        - title: Samyutta Nikaya 
+        - title: Connected Discourses 
           url: /pages/suttas/sn/index.html
 
 
