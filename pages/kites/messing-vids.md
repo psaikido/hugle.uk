@@ -28,6 +28,12 @@ title: messing about vids
 </a>
 <hr />
 
+#### doberman 
+<a href="https://youtu.be/ix6FfVbualM">
+    <img src="https://img.youtube.com/vi/ix6FfVbualM/0.jpg" alt="youtube thumbnail" />
+</a>
+<hr />
+
 #### practice practice practice
 <a href="https://youtu.be/f4CYjmk7IZ8">
     <img src="https://img.youtube.com/vi/f4CYjmk7IZ8/0.jpg" alt="youtube thumbnail" />
