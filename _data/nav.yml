@@ -62,6 +62,9 @@ menu:
         - title: youtubes 
           url: /pages/kites/kite-youtubes.html
 
+        - title: messing about vids 
+          url: /pages/kites/messing-vids.html
+
 
     - title: magic
       sub:
