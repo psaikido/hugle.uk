@@ -14,6 +14,7 @@ Next off was the double set of books of the Connected Discourses, and so on. Aft
 
 In the Connected Discourses each entry starts with a title 'SN 1.1.1 Pali name, English name'. The numbering system is based on Bhikku Bodhi's translations. They come in two volumes each of which contains 'books'. The first three books are in the first volume. The first number given is the book, the second the chapter, the third the verse. So, for example, the first one is 'SN 1.1.1 Ogha-tarana Sutta: Crossing the Flood' meaning Samyutta Nikaya book 1, chapter 1, verse 1'. It is more normal to see references without the initial book number. The above is rendered 'SN 1.1'.  
 
+The terms 'sutta' and 'sutra' are used inter-changeably. 'Sutta' is the Pali spelling and 'sutra' the sanskrit.
 
 [The Middle Length Discourses](/pages/suttas/mn/index.html)  
 [The Connected Discourses](/pages/suttas/sn/index.html)  
