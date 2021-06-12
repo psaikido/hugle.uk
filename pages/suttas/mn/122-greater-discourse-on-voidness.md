@@ -3,18 +3,18 @@ layout: suttas-mn
 title: "MN 122 Maha-sunnyata: Greater Discourse on Voidness"
 ---
 
-The Buddha finds Ananda living with a lot of monks. 'Ananada, 
+The Buddha finds Ānanda living with a lot of monks. 'Ānanda, 
 a bikkhu does not shine by taking delight in company'. One who 
 does so can't attain the bliss of renunciation, seclusion, peace 
 or enlightenment.  
 
 
-'I do not see even a single form, Ananda, from the change 
+'I do not see even a single form, Ānanda, from the change 
 and alteration of which there would not arise sorrow [...] 
 and despair in one who lusts for it and takes delight in it.'
 
 
-'However, Ananda, there is this abiding discovered by the 
+'However, Ānanda, there is this abiding discovered by the 
 Tathagata: to enter and abide in voidness internally by giving 
 no attention to all signs'.
 
