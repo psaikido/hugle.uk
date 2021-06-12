@@ -24,6 +24,9 @@ menu:
         - title: intro 
           url: /pages/suttas/index.html
 
+        - title: Core Sutras 
+          url: /pages/suttas/core-suttas.html
+
         - title: Middle Length Discourses 
           url: /pages/suttas/mn/index.html
 
