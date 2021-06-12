@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: Majjhima Nikaya
+title: Majjhima Nikāya
 ---
 
 The Middle Length Discourses

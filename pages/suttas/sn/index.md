@@ -1,6 +1,6 @@
 ---
 layout: suttas-sn
-title: Samyutta Nikaya
+title: Saṁyutta Nikāya
 ---
 
 The Connected Discourses
