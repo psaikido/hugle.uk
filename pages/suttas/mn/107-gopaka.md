@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 107 Ganakamoggallana: The whole path"
+title: "MN 107 Ganakamoggallana Sutta: The whole path"
 ---
 
 A discourse to Ganaka-Moggallana on a gradual training of a monk.

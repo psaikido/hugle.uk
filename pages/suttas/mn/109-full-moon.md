@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 109 Maha-punnama: The Greater Discourse on the Full Moon Night"
+title: "MN 109 Mahā Puṇṇama Sutta: The Greater Discourse on the Full Moon Night"
 ---
 
 
@@ -13,4 +13,4 @@ Any kind of [form, feeling, perception, volition, consciousness] whatever, wheth
 60 monks attained enlightenment while listening to this discourse.
 
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.109.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN109.html)

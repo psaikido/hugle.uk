@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 63 Cula-Malunkyovada: The Shorter Instructions to Malunkya"
+title: "MN 63 Cūḷa Māluṅkyovāda: The Shorter Instructions to Malunkya"
 ---
 
 "These speculative views are undeclared by the Tathagata -  
@@ -19,4 +19,4 @@ B: "Suppose a man were wounded with an arrow and a surgeon came to treat him. Th
 Set aside speculative view and concentrate on what HAS been declared - ie. the 4 Noble Truths, [Satipatthana](/pages/suttas/mn/010-10-sati.html). 
 
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.063.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN63.html)

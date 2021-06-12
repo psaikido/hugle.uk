@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 106 Anenja-sappaya: Imperturbable"
+title: "MN 106 Āneñja-sappāya: Imperturbable"
 ---
 
 Not clinging to an identity, or anything at all, is the way.
@@ -13,4 +13,4 @@ or
 "There is nothing of me belonging to anyone anywhere,  
 there is nothing of anyone anywhere belonging to me."
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.106.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN106.html)

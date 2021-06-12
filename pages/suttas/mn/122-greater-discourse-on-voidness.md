@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 122 Maha-sunnyata: Greater Discourse on Voidness"
+title: "MN 122 Mahā Suññyata Sutta: Greater Discourse on Voidness"
 ---
 
 The Buddha finds Ānanda living with a lot of monks. 'Ānanda, 
@@ -24,4 +24,4 @@ be undone by taking delight in company. They revert to luxury and
 succumb to craving.
 
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.122.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN122.html)

@@ -1,11 +1,9 @@
 ---
 layout: suttas-mn
-title: "MN 61 Ambalatthika-rahulovada: Advice to Rahula at Ambalatthika"
+title: "MN 61 Ambalaṭṭhika Rāhulovāda: Advice to Rahula at Mango Stone"
 ---
 
-
 The Buddha talks to his son, Rahula, on the occasion of his ordination at seven years old.
-
 
 "Rahula, do you see this little water left in the water vessel?"  
 "Yes"  
@@ -18,4 +16,4 @@ An action of body, speech and mind should be reflected on before, during and aft
 If the answer is 'yes' before then you don't do it, if during you suspend it, if after you confess it.
 
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.061.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN61.html)

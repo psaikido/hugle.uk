@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 22 Alagaddupama: Similes of the Snake & Raft"
+title: "MN 22 Alagaddūpama: Similes of the Snake & Raft"
 ---
 
 The Dhamma should be apprehended intelligently like picking up a snake. If you pick up the wrong end you will be hurt or even killed. Skill is needed in pinning a snake's head and picking it up correctly, just so the Buddha's teachings.

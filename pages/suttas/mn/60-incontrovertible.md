@@ -1,6 +1,6 @@
 ---
 layout: suttas-mn
-title: "MN 60 Apannaka: The Incontrovertible Teaching"
+title: "MN 60 Apaṇṇaka: The Incontrovertible Teaching"
 ---
 
 The Buddha sets out the opposing philosophical views of eternalism and nihilism. Those who hold that there is an afterlife and such a thing as karma are the 'eternalists'. Nihilists hold that there are no such things.  
@@ -9,4 +9,4 @@ The eternalists assume an afterlife and karma and so tend to wholesome actions, 
 It is therefore sensible to assume an afterlife and karma are both true.
 
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.060.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN60.html)
