@@ -1,6 +1,7 @@
 ---
 title: kite vids 
-layout: kite-youtubes
+layout: youtubes
+yml-data: kite-youtubes
 ---
 
 [Club38](https://revkites.com/club-38/)  
