@@ -36,6 +36,9 @@ menu:
         - title: Connected Discourses 2
           url: /pages/suttas/sn2/index.html
 
+        - title: Full List 
+          url: /pages/suttas/list-of-suttas.html
+
 
     - title: mantrasphere
       sub:

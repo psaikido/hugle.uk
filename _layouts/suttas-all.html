@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+
+        <div class="body-inner">
+            <div class="wrap">
+                <div class="header">{{ page.title }}</div>
+
+                {% include navs/main.html %}
+                {% include search.html %}
+
+                <div class="main-content">
+
+                    <div class="header">Majjhima Nikāya</div>
+                    <ul class="">
+                        {% for item in site.data.suttas-mn.menu %}
+                            <li {% if page.url  == item.url %}class="current"{% endif %}>
+                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+
+                    <div class="header">Saṁyutta Nikāya I</div>
+                    <ul class="">
+                        {% for item in site.data.suttas-sn1.menu %}
+                            <li {% if page.url  == item.url %}class="current"{% endif %}>
+                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+
+                    <div class="header">Saṁyutta Nikāya II</div>
+                    <ul class="">
+                        {% for item in site.data.suttas-sn2.menu %}
+                            <li {% if page.url  == item.url %}class="current"{% endif %}>
+                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>
