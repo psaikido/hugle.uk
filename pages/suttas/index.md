@@ -17,4 +17,5 @@ In the Connected Discourses each entry starts with a title 'SN 1.1.1 Pali name, 
 The terms 'sutta' and 'sutra' are used inter-changeably. 'Sutta' is the Pali spelling and 'sutra' the sanskrit.
 
 [The Middle Length Discourses](/pages/suttas/mn/index.html)  
-[The Connected Discourses](/pages/suttas/sn/index.html)  
+[The Connected Discourses Volume 1](/pages/suttas/sn1/index.html)  
+[The Connected Discourses Volume 2](/pages/suttas/sn2/index.html)  
