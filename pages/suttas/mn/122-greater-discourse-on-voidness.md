@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 122 Mahā Suññyata Sutta: Greater Discourse on Voidness"
 ---
 

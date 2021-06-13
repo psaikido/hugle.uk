@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 10 Satipatthana Sutta: The Foundations of Mindfulness"
 ---
 

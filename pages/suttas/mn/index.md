@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: Majjhima Nikāya
 ---
 

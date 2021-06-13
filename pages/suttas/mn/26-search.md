@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 26 Ariyapariyesana: The Noble Search"
 ---
 

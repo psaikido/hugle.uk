@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 79 Culasakuladayin: The Shorter Discourse to Sakuludayin"
 ---
 

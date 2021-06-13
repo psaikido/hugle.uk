@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 58 Abhaya Rāja Kumāra: To Prince Abhaya"
 ---
 

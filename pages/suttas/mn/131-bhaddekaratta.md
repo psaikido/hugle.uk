@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 131 Bhaddekaratta Sutta: On the Better Way to Live Alone"
 ---
 

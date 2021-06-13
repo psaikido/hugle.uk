@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 87 Piyajātika: Born from those who are dear"
 ---
 

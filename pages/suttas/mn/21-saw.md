@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 21 Kakacupama: Simile of the Saw"
 ---
 

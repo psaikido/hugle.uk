@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 22 Alagaddūpama: Similes of the Snake & Raft"
 ---
 
@@ -15,4 +16,4 @@ This is not my self.
 This is not what I am."
 
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.022.than.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN22.html)

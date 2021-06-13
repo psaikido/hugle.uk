@@ -1,9 +1,10 @@
 ---
-layout: suttas-mn
-title: "MN 107 Ganakamoggallana Sutta: The whole path"
+layout: suttas
+nikaya: MN
+title: "MN 107 Gaṇaka Moggallāna Sutta: The whole path"
 ---
 
-A discourse to Ganaka-Moggallana on a gradual training of a monk.
+A discourse to Gaṇaka Moggallāna on a gradual training of a monk.
 
 
 The steps laid out:
@@ -16,4 +17,4 @@ The steps laid out:
 - Overcoming of the five hindrances
 - Jhana
 
-[Full text](https://accesstoinsight.org/tipitaka/mn/mn.107.horn.html)
+[Full text](https://www.dhammatalks.org/suttas/MN/MN107.html)

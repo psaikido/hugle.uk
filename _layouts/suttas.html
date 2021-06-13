@@ -1,0 +1,21 @@
+{% include hughku-top.html %}
+
+    {% if page.nikaya == 'MN' %}
+        <div class="header">Majjhima Nikāya</div>
+        {% include navs/suttas-mn.html %}
+        {% assign menu = site.data.suttas-mn.menu %}
+    {% endif %}
+
+    {% if page.nikaya == 'SN1' %}
+        <div class="header">Saṁyutta Nikāya I</div>
+        {% include navs/suttas-sn1.html %}
+        {% assign menu = site.data.suttas-sn1.menu %}
+    {% endif %}
+
+    {% if page.nikaya == 'SN2' %}
+        <div class="header">Saṁyutta Nikāya II</div>
+        {% include navs/suttas-sn2.html %}
+        {% assign menu = site.data.suttas-sn2.menu %}
+    {% endif %}
+
+{% include hughku-tail.html %}

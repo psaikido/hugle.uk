@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 74 To Dīghanakha: To LongNails"
 ---
 

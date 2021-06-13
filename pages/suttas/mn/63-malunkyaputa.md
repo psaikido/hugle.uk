@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 63 Cūḷa Māluṅkyovāda: The Shorter Instructions to Malunkya"
 ---
 

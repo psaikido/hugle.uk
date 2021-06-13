@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 147 Cūḷa Rāhulovāda Sutta: Shorter Advice to Rāhula"
 ---
 

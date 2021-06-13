@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 60 Apaṇṇaka: The Incontrovertible Teaching"
 ---
 

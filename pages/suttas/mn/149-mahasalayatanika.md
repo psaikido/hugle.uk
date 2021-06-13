@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 149 Mahā Saḷāyatanika Sutta: The Great Sixfold Base"
 ---
 

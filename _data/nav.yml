@@ -30,8 +30,11 @@ menu:
         - title: Middle Length Discourses 
           url: /pages/suttas/mn/index.html
 
-        - title: Connected Discourses 
-          url: /pages/suttas/sn/index.html
+        - title: Connected Discourses 1
+          url: /pages/suttas/sn1/index.html
+
+        - title: Connected Discourses 2
+          url: /pages/suttas/sn2/index.html
 
 
     - title: mantrasphere

@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 144 Channovada Sutta: Advice to Channa"
 ---
 

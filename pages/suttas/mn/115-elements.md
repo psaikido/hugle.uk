@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 115 Bahudhatuka: The Many Kinds of Elements "
 ---
 

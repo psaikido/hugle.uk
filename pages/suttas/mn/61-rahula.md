@@ -1,5 +1,6 @@
 ---
-layout: suttas-mn
+layout: suttas
+nikaya: MN
 title: "MN 61 Ambalaṭṭhika Rāhulovāda: Advice to Rahula at Mango Stone"
 ---
 
