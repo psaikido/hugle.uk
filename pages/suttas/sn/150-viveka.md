@@ -11,8 +11,8 @@ A bhikkhu has many unwholesome thoughts that 'gush outwardly'. A devata comes to
 
 - "Just as a  bird littered with soil  
 with a shake flicks off the sticky dust,  
-so a bhikkhu, stenuous and mindful,  
+so a bhikkhu, strenuous and mindful,  
 with a shake flicks off the sticky dust"
 
 
-[Full text](https://accesstoinsight.org/tipitaka/sn/sn09/sn09.001.than.html)
+[Full text](https://www.dhammatalks.org/suttas/SN/SN9_1.html)

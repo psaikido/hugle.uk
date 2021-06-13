@@ -1,9 +1,9 @@
 ---
 layout: suttas-sn
-title: "SN 1.7.6 Jata Sutta: The Tangle"
+title: "SN 1.7.6 Jaṭā Sutta: The Tangle"
 ---
 
-A brahmin called Jata Bharadvaja says to the Buddha:  
+A brahmin called Jaṭā Bharadvaja says to the Buddha:  
 
 "A tangle within,  
 a tangle without,  
@@ -22,6 +22,6 @@ that's where the tangle
 is cut."
 
 
-Incidentally, 'Jata' means 'tangle'! He asks to ordain and thereafter becomes one of the arahants.
+Incidentally, 'Jaṭā' means 'tangle'! He asks to ordain and thereafter becomes one of the arahants.
 
-[Full text](https://accesstoinsight.org/tipitaka/sn/sn07/sn07.006.than.html)
+[Full text](https://www.dhammatalks.org/suttas/SN/SN7_6.html)

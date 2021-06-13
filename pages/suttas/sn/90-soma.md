@@ -1,9 +1,9 @@
 ---
 layout: suttas-sn
-title: "SN 1.5.2 Soma Sutta: Sister Soma"
+title: "SN 1.5.2 Somā Sutta: Sister Somā"
 ---
 
-While the Bikkhuni Soma meditates, Mara appears and says to her that women can't get enlightened.  
+While the Bikkhuni Somā meditates, Mara appears and says to her that women can't get enlightened.  
 
 She replies:  
 
@@ -11,4 +11,4 @@ She replies:
 
 Mara realises she recognises him and sad and dejected, he departs.
 
-[Full text](https://accesstoinsight.org/tipitaka/sn/sn05/sn05.002.than.html)
+[Full text](https://www.dhammatalks.org/suttas/SN/SN5_2.html)

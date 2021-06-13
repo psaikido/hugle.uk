@@ -8,4 +8,4 @@ Mara, the 'evil one', says "One who has children delights in children. One with 
 The Buddha replies "One who has children sorrows over children. One with cattle sorrows over cattle. Acquisitions truly are a person's sorrow. Without acquisitions one does not sorrow."  
 
 
-[Full text](https://accesstoinsight.org/tipitaka/sn/sn04/sn04.008.than.html)
+[Full text](https://www.dhammatalks.org/suttas/SN/SN4_8.html)

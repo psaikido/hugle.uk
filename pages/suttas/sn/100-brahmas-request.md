@@ -1,6 +1,6 @@
 ---
 layout: suttas-sn
-title: "SN 1.6.1 Ayacana Sutta: The Request"
+title: "SN 1.6.1 Āyācana Sutta: The Request"
 ---
 
 The Buddha decides not to teach after his final enlightenment under the Bodhi tree.  
@@ -9,4 +9,4 @@ The Buddha decides not to teach after his final enlightenment under the Bodhi tr
 
 Brahma Sahampati appears and begs him to reconsider. "Some will understand!" The Buddha changes his mind and decides to teach.
 
-[Full text](https://accesstoinsight.org/tipitaka/sn/sn06/sn06.001.than.html)
+[Full text](https://www.dhammatalks.org/suttas/SN/SN6_1.html)

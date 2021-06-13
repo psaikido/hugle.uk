@@ -12,4 +12,4 @@ Akkosaka Bharadvaja hears that someone from his clan has gone off to ordain with
 
 Bharadvaja is delighted by this response, he ordains and eventually becomes one of the Arahats.
 
-[Full text](https://accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)
+[Full text](https://www.dhammatalks.org/suttas/SN/SN7_2.html)
