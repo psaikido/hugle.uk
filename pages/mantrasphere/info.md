@@ -11,7 +11,7 @@ The CD can be bought from the [shop](/shop/).
 
 ### youtube:
 <a title="Padmasambhava video" href="http://www.youtube.com/watch?v=CfmXj1XuYxQ" target="_blank"> 
-    <img src="/{{ site.baseurl }}/assets/images/mantrasphere/gallery/promo/padmasambhava-video.jpg" alt="video" width="200" height="94" />
+    <img src="{{ site.baseurl }}/assets/images/mantrasphere/gallery/promo/padmasambhava-video.jpg" alt="video" width="200" height="94" />
 </a>
 
 <a title="The Three Refuges" href="http://youtu.be/LKj1byuQp3c">Three Refuges</a>
@@ -21,7 +21,7 @@ Interview on [Swindon105.5](http://www.swindon1055.com/) with Lisa Coleman
 [two](https://soundcloud.com/mantrasphere/art2art-20110121-2)
 [three](https://soundcloud.com/mantrasphere/art2art-20110121-3)
 
-Produced by Barry Andrews of <a href="http://shriekback.com"><img style="border: none;" src="/{{ site.baseurl }}/assets/images/mantrasphere/title2.gif" alt="shriekback" width="150" /></a>
+Produced by Barry Andrews of <a href="http://shriekback.com"><img style="border: none;" src="{{ site.baseurl }}/assets/images/mantrasphere/title2.gif" alt="shriekback" width="150" /></a>
 
 "These mantras, beautifully rendered in a contemporary fashion that retains the spirit of the originals, provide  a profound, musical introduction to the basics of Tibetan tantra and to heartfelt Buddhism in general. The singer-composer is to be warmly congratulated on this innovation."
 <em>John Crook , Chuan deng Jing Di. Teacher: Western Chan Fellowship.</em>
