@@ -6,16 +6,6 @@ function reset() {
     y: 0,
     rotation: 0,
   });
-
-  stopDude();
-}
-
-function startDude() {
-  dudeTimeline.resume();
-}
-
-function stopDude() {
-  dudeTimeline.pause();
 }
 
 function showCombos() {

@@ -16,10 +16,6 @@
                         <div id="kite"></div>
                     </div>
 
-                    <div id="dude-wrap">
-                        <div id="dude"></div>
-                    </div>
-
                     <svg viewBox="0 0 800 400">
                         <g>
                             <path id="spiralIn"
@@ -51,26 +47,12 @@
                     gsap.registerPlugin(MotionPathPlugin);
                     var k = document.getElementById('kite-wrap');
                     var kImg = document.getElementById('kite');
-                    var dude = document.getElementById('dude');
-                    var dudeTimeline = gsap.timeline({
-                        repeat:-1,
-                        paused: true
-                    });
-
-                    dudeTimeline.to(dude, {
-                        backgroundPosition: "-1022px 0",
-                        ease: "steps(14)",
-                        repeat: -1, 
-                        duration: 6,
-                    });
 
                     var timeline = gsap.timeline({
                         defaults: {
                             duration: 1,
                             ease: 'sine.inOut',
                             delay: .5,
-                            onStart: startDude,
-                            onComplete: stopDude,
                         }
                     });
                 </script>

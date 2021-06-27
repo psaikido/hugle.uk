@@ -8,7 +8,7 @@
     right: 0;
     margin: 0 auto;
     border: 1px solid $border-light;
-    background-image: url("/assets/images/kites/kilkennySkyBg.png");
+    background-image: url("/assets/images/kites/theDowns.png");
     background-size: 800px 400px;
 }
 
@@ -30,24 +30,6 @@
     background-image: url("/assets/images/kites/kite.png");
     top: 0;
     left: 0;
-}
-
-#dude-wrap {
-    position: absolute;
-    top: 282px;
-    left: 32px;
-    width: 73px;
-    height: 113px;
-    opacity: .7;
-    overflow: hidden;
-}
-
-#dude {
-    background-image: url("/assets/images/kites/spriteWind.png");
-    background-repeat: no-repeat;
-    background-position: 0 0;
-    width: 1095px;
-    height: 113px;
 }
 
 #msg {
