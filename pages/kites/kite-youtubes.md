@@ -2,6 +2,7 @@
 title: kite vids 
 layout: youtubes
 yml-data: kite-youtubes
+permalink: /kites/kite-youtubes.html 
 ---
 
 [Club38](https://revkites.com/club-38/)  
