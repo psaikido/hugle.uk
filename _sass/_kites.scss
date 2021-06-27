@@ -1,0 +1,126 @@
+#wind-window, 
+#wind-window-with-menu {
+    position: relative;
+    height: 400px;
+    max-width: 800px;
+    width: 90%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    border: 1px solid $border-light;
+    background-image: url("/assets/images/kites/kilkennySkyBg.png");
+    background-size: 800px 400px;
+}
+
+#wind-window-with-menu {
+    top: 0px;
+}
+
+#kite-wrap, #kite { 
+    position: absolute;
+    top: 365px;
+    left: 48%;
+    width: 45px; 
+    height: 25px; 
+    background-size: 45px 25px;
+    transform-origin: 50% 35%;
+} 
+
+#kite { 
+    background-image: url("/assets/images/kites/kite.png");
+    top: 0;
+    left: 0;
+}
+
+#dude-wrap {
+    position: absolute;
+    top: 282px;
+    left: 32px;
+    width: 73px;
+    height: 113px;
+    opacity: .7;
+    overflow: hidden;
+}
+
+#dude {
+    background-image: url("/assets/images/kites/spriteWind.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    width: 1095px;
+    height: 113px;
+}
+
+#msg {
+    position: relative;
+    left: 0;
+    right: 0;
+    height: 400px;
+    width: 800px;
+    margin: 0 auto;
+    font-size: .8em;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.wrap img {border: none;}
+
+.pathTestPoint {
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    background-color: #f00;
+}
+
+.button-bank {
+    position: fixed;
+    top: 92px;
+    left: 25px;
+    width: 78px;
+    z-index: 4;
+
+    input {
+        float: left;
+        width: 90%;
+        font-size: .7em;
+    }
+
+    &.combos {
+        left: 34px;
+
+        input {
+            width: 180%;
+        }
+    }
+}
+
+.individualPatternLinks {
+    width: 90%;
+    margin: 0 auto;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 10px;
+
+    th, td {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    th {
+        height: 28px;
+        margin-bottom: 0;
+    }
+
+    .col1, .col2, .col3 {
+        border: 1px solid $border-light;
+    }
+}
+
+svg path {
+    /*
+    &#slideCircle {
+        stroke: #000;
+    }
+    */
+
+    fill: none;
+}
