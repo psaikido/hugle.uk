@@ -1,12 +1,11 @@
 /* Stepper class. Hugh Carroll - hughie@carrollonline.co.uk.
- * Used on https://carrollonline.uk/patterns.html.
  *
  * Green Sock Animation Platform, 'GSAP', is an object that 
  * handles the animation of dom objects.
  * Rather than code it directly, this Stepper class creates 
  * an array of values out of methods like 'fly' and 'spin'
  * to then feed into the creation of a 'timeline' that is then
- * 'tweened' by gsap to make a kite fly around the Kilkenny field.
+ * 'tweened' by gsap to make a kite fly around.
  * It's done like this so that there is a more human readable set
  * of flight patterns that can have elements that are reusable.
  *
@@ -20,9 +19,10 @@ let xMid = 380;
 let rtIsh = 135;
 let rt = 315;
 
-// y values are 0 at the top and 400 at the bottom.
-// The displacement values are negative because the kite's 
-// starting position is 365px.
+/* y values are 0 at the top and 400 at the bottom.
+ * The displacement values are negative because the kite's 
+ * starting position is 365px.
+ */
 let ground = -5;
 let low = -45;
 let lowIsh = -100;
