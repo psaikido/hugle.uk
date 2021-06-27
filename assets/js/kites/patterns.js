@@ -234,7 +234,7 @@ function team() {
 
   s.land(2)
   s.launch(mid, 2);
-  s.fly(centre - 40, mid, 2, .5, 1);
+  s.fly(centre - 40, mid, -2, .5, 1);
   s.land(2)
   s.launch(mid, 2);
   let tipLandings = s.ptn;
