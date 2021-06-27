@@ -2,7 +2,7 @@ function M14() {
   reset();
 
   let s = new Stepper();
-  s.setStart(k, kImg);
+  s.setStart(k, kImg, 2);
 
   let slideCircle = {
     path: '#slideCircle',
