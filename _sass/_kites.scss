@@ -19,15 +19,16 @@
 #kite-wrap, #kite { 
     position: absolute;
     top: 365px;
-    left: 48%;
-    width: 45px; 
-    height: 25px; 
-    background-size: 45px 25px;
-    transform-origin: 50% 35%;
+    left: 47%;
+    width: 65px; 
+    height: 20px; 
+    background-size: 65px 20px;
+    transform-origin: 47% 32%;
 } 
 
 #kite { 
-    background-image: url("/assets/images/kites/kite.png");
+    background-image: url("/assets/images/kites/blast.png");
+    transform: rotate(180deg);
     top: 0;
     left: 0;
 }
