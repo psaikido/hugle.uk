@@ -129,6 +129,7 @@ menu:
   date: 2021-02-18
   url: fHoS3oH-Ijc
   desc: 
+    - for the 'Master' title
     - launch from 0, top
     - sequence
         <ul>
@@ -244,6 +245,8 @@ menu:
   date: 2021-05-15
   url: lTYG84f8WTg
   desc: 
+    - for the 'Double Master' title
+    - the pattern must be created from the list of combos
     - combo3 walk
     - combo4 launch to low, 3, left, -7
     - combo8 don-fox-snap-box
@@ -315,6 +318,8 @@ menu:
 - title: Speed Series L8
   date: 2021-06-03
   url: GeVGbnK5CNE 
+  desc:
+    - for the 'Speed Master' title
   
 - title: Speed Series M9
   date: 2021-06-03
@@ -343,3 +348,13 @@ menu:
 - title: Speed Series M14
   date: 2021-06-22
   url: QlT1zjhTVGs
+  desc:
+    - for the 'Triple Master' title
+
+- title: Perfect Series L1
+  date: 2021-06-29
+  url: JpmXboujk3k
+
+- title: Perfect Series L2
+  date: 2021-07-01
+  url: Xj0iXzrwXMg 
