@@ -1,6 +1,7 @@
 ---    
 title: The Three Refuges  
 layout: mantrasphere    
+permalink: /mantrasphere/three-refuges.html
 ---    
     
 Buddham Buddham saranam gacharmin  

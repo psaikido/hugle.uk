@@ -1,6 +1,7 @@
 ---    
 title: Blue    
 layout: mantrasphere    
+permalink: /mantrasphere/blue.html
 ---    
     
 blue angel blue  

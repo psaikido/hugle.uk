@@ -1,6 +1,7 @@
 ---              
 title: Everyone's Gotta Die  
 layout: mantrasphere              
+permalink: /mantrasphere/gotta-die.html
 ---              
       
 cancer pneumonia HIV  

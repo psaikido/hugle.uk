@@ -1,6 +1,7 @@
 ---        
 title: Green Tara
 layout: mantrasphere        
+permalink: /mantrasphere/green-tara.html
 ---        
 
 OM TARE TUTARRE TURE SOHA

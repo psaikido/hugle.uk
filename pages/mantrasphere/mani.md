@@ -1,6 +1,7 @@
 ---        
 title: Mani
 layout: mantrasphere        
+permalink: /mantrasphere/mani.html
 ---        
         
 OM MANI PADME HUM  

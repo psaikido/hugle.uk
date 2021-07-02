@@ -1,6 +1,7 @@
 ---  
 title: Shine  
 layout: mantrasphere  
+permalink: /mantrasphere/shine.html
 ---  
   
   
@@ -8,7 +9,7 @@ Namo tassa bhagavato arahato samma sambuddhassa
 (Honour to the Blessed One, the Exalted One, the fully Enlightened One)  
 
 
-<img src="/{{ site.baseurl }}/assets/images/mantrasphere/happy_grandmacarroll_1977.jpg" alt="" width="429" height="551" />  
+<img src="{{ site.baseurl }}/assets/images/mantrasphere/happy_grandmacarroll_1977.jpg" alt="" width="429" height="551" />  
 
 
 "All you have to do is shine".  

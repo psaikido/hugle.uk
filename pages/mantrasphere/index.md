@@ -1,5 +1,6 @@
 ---
 layout: mantrasphere
+permalink: /mantrasphere/
 ---
 
 ![Mantrasphere album cover]({{ site.baseurl }}/assets/images/mantrasphere/gallery/promo/albumCover.gif)  

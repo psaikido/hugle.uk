@@ -1,6 +1,7 @@
 ---      
 title: Great Light  
 layout: mantrasphere      
+permalink: /mantrasphere/great-light.html
 ---      
       
 there's beings out there  

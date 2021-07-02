@@ -1,6 +1,7 @@
 ---
 title: Press Release
 layout: mantrasphere
+permalink: /mantrasphere/press.html
 ---
 
 Mantrasphere is a unique new music project distilled from zen meditation and yet accessible to all.  

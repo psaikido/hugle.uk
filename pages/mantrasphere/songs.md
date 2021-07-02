@@ -1,6 +1,7 @@
 ---
 layout: mantrasphere
 title: songs
+permalink: /mantrasphere/songs.html
 ---
 
 [01 Padmasambhava](padmasambhava.html)  
@@ -18,4 +19,4 @@ title: songs
 
 ### other songs
 [Everybody's Got To Die](gotta-die.html)  
-[Secret Sun](secret-sun/html)  
+[Secret Sun](secret-sun.html)  

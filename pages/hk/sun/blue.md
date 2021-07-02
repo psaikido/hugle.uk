@@ -16,3 +16,5 @@ in blue grace
 </div>
 
 !["manta ray"]({{ site.baseurl }}/assets/images/pilg1/mantaray.jpg "manta")
+
+[song on mantrasphere](/mantrasphere/blue.html)

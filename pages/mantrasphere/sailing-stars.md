@@ -1,6 +1,7 @@
 ---          
 title: The Sailing Stars  
 layout: mantrasphere          
+permalink: /mantrasphere/sailing-stars.html
 ---          
   
 lay your head on me  

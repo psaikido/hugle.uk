@@ -1,6 +1,7 @@
 ---            
 title: Tonglen  
 layout: mantrasphere            
+permalink: /mantrasphere/tonglen.html
 ---            
     
 ![Om Ah Hung]({{ site.baseurl }}/assets/images/mantrasphere/om_ah_hum_large.jpg)  
