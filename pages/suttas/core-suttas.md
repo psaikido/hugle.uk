@@ -27,8 +27,9 @@ This is the second teaching given by the Buddha chronologically. During the firs
 He goes on to point out that not only are they not self but they are impermanent and ultimately unsatisying too. The three characteristics of all phenomena.
 
 
+<a name="ananda"></a>
 #### The Ānanda Sutra
-[SN 44.10](https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.010.than.html)  
+[SN 44.10](/pages/suttas/sn2/130-ananda.html)  
 
 Before we whizz of thinking that the Buddha is teaching that there is no self, something often heard in zen circles, there is an important caveat at this point. A guy named Vacchagotta asks the Buddha "Is there a self?" to which question the Buddha remains silent. Vacchagotta then asks him "Then is there no self?" and again the Buddha remains silent. The guy then walks away, understandably, and Ānanda, the Buddha's attendant and cousin asks him why he didn't answer the man. He replies that if he had said yes then Vacchagotta would have sided with those who hold that things have an eternal essence, the 'eternalists' and if he had said no then the man would have veered to the opposite and thought that things have no essence and sided with the 'nihilists'. These two extremes of view are seen popping up throughout history and are currently being championed by the religious fundamentalists on the one hand and by the radical atheists on the other. In the struggle of these two opposing views we have the 'eternalists' who feel they must maintain that position or else there will be no meaning to life. The 'nihilists' feel that phenomena are linked in complex but logical inter-relations and are processes that do not have supernatural forces acting on them. As in the Kalama Sutra there are those who maintain that there is rebirth and karma and those who do not.  
 
