@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN2
-title: "SN 4.36.22 Aṭṭhasata Sutta: The 108 Feelings"
+title: "SN 36.22 Aṭṭhasata Sutta: The 108 Feelings"
 ---
 
 2 feelings - bodily and mental.  

@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.21.7 Visakha Sutta: Well Spoken Words"
+title: "SN 21.7 Visakha Sutta: Well Spoken Words"
 ---
 
 Venerable Visakha gives a great Dhamma talk. He was instructing, exhorting, inspiring and gladdening the monks with words polished, clear, articulate, expressing well the meaning, comprehensive and unattached.  

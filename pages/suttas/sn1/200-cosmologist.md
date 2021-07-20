@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.12.48 Lokayatika Sutta: The Cosmologist"
+title: "SN 12.48 Lokayatika Sutta: The Cosmologist"
 ---
 
 A cosmologist (C) asks the Buddha (B) a series of questions:  

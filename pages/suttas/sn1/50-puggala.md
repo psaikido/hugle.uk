@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 1.3.21 Puggala Sutta: Persons"
+title: "SN 3.21 Puggala Sutta: Persons"
 ---
 
 The Buddha talks with King Pasenadi and tells him "There are four types of people in the world. What four?  

@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 1.6.1 Āyācana Sutta: The Request"
+title: "SN 6.1 Āyācana Sutta: The Request"
 ---
 
 The Buddha decides not to teach after his final enlightenment under the Bodhi tree.  

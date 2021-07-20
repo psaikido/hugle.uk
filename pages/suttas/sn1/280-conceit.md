@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.22.49 Soṇa Sutta: Conceit"
+title: "SN 22.49 Soṇa Sutta: Conceit"
 ---
 
 The Buddha talks to someone called Soṇa saying:  

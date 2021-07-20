@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.12.68 Kosambi Sutta: At Kosambi"
+title: "SN 12.68 Kosambi Sutta: At Kosambi"
 ---
 
 A monk is asked whether he has personal knowledge of all twelve nidanas (the links of [dependent origination](/pages/suttas/sn/165-ps.html)) and Nirvana. He says he does and the questioner concludes that it must mean that the monk is fully enlightened, an arahant. Another monk asks to be questioned in the same way but shows that it was a false conclusion. He says that even though he has personal knowledge: 

@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN2
-title: "SN 4.35.243 Avassutapariyaya Sutta: Exposition on the Corrupted"
+title: "SN 35.243 Avassutapariyaya Sutta: Exposition on the Corrupted"
 ---
 
 During a talk the Buddha asks for someone to take over for him so that he can rest his sore back.

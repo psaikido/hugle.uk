@@ -12,7 +12,7 @@ John Crook came back from a trip to China. A master 'Moonshine' had asked him wh
 Next off was the double set of books of the Connected Discourses, and so on. After finishing what I could get my hands on I wanted to refer to some of the suttas again but couldn't find them. This lead to going through the whole thing again, much quicker, and making notes of the ones that interested me. These webpages here are from those notes.
 
 
-In the Connected Discourses each entry starts with a title 'SN 1.1.1 Pali name, English name'. The numbering system is based on Bhikku Bodhi's translations. They come in two volumes each of which contains 'books'. The first three books are in the first volume. The first number given is the book, the second the chapter, the third the verse. So, for example, the first one is 'SN 1.1.1 Ogha-tarana Sutta: Crossing the Flood' meaning Samyutta Nikaya book 1, chapter 1, verse 1'. It is more normal to see references without the initial book number. The above is rendered 'SN 1.1'.  
+The Connected Discourses from Bhikku Bodhi's translations come in two volumes. I've split up the listing of suttas accordingly to make it easier to look up the hard-copy.
 
 The terms 'sutta' and 'sutra' are used inter-changeably. 'Sutta' is the Pali spelling and 'sutra' the sanskrit.
 

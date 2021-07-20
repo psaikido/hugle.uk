@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 1.4.9 Paṭhamaāyu Sutta: Life Span"
+title: "SN 4.9 Paṭhamaāyu Sutta: Life Span"
 ---
 
 Mara says "Long is the life span of human beings. The good man should not disdain it. One should live like a milk-sucking baby. Death has not made it's arrival."

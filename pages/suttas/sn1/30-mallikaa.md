@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 1.3.8 Mallikaa Sutta: Mallikaa"
+title: "SN 3.8 Mallikaa Sutta: Mallikaa"
 ---
 
 King Pasenadi talks with his Queen Mallikaa. They agree that they both hold themselves as most dear. The Buddha hears about it and comments:

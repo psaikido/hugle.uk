@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN2
-title: "SN 5.45.8 Magga-Vibhaṅga Sutta: Analysis of the Whole Path"
+title: "SN 45.8 Magga-Vibhaṅga Sutta: Analysis of the Whole Path"
 ---
 
 - Right View:  

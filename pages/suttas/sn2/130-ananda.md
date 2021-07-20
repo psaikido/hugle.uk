@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN2
-title: "SN 4.44.10 Ānanda Sutta: To Ānanda"
+title: "SN 44.10 Ānanda Sutta: To Ānanda"
 ---
 
 Vacchagotta the wanderer asks "Is there a self?" - the Buddha is silent.  

@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN2
-title: "SN 4.38.14 Dukkha Sutta: Suffering"
+title: "SN 38.14 Dukkha Sutta: Suffering"
 ---
 
 Three kinds of suffering - of pain, of fabrication & of change.

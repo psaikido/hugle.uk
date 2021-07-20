@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.12.15 Kaccānagotta Sutta: To Kaccāna Gotta"
+title: "SN 12.15 Kaccānagotta Sutta: To Kaccāna Gotta"
 ---
 
 "This world depends on the duality of existence and non-existence for the most part. For one who see dependent origination correctly there is no notion of non-existence. For one who sees cessation correctly there is no notion of existence. One with right view does not take a stand on 'my self'."

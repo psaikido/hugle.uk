@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN2
-title: "SN 4.35.69 Upasena Sutta: Upasena"
+title: "SN 35.69 Upasena Sutta: Upasena"
 ---
 
 "Once Ven. Sāriputta and Ven. Upasena were staying near Rājagaha in the Cool Forest, at Snakeshood Grotto. Then it so happened that a snake fell on Ven. Upasena's body (and bit him). Then Ven. Upasena said to the monks, “Quick, friends, lift this body of mine onto a couch and carry it outside before it's scattered like a fistful of chaff!"

@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.22.84 Tissa Sutta: Tissa"
+title: "SN 22.84 Tissa Sutta: Tissa"
 ---
 
 Tissa, the Buddha's cousin, says 'my body seems as if drugged, I have become disoriented, the teachings are no longer clear to me. Sloth and torpor persist obsessing my mind.'

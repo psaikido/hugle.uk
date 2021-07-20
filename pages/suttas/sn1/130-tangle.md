@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 1.7.6 Jaṭā Sutta: The Tangle"
+title: "SN 7.6 Jaṭā Sutta: The Tangle"
 ---
 
 A brahmin called Jaṭā Bharadvaja says to the Buddha:  

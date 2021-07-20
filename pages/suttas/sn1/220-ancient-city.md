@@ -1,7 +1,7 @@
 ---
 layout: suttas
 nikaya: SN1
-title: "SN 2.12.65 Nagara Sutta: The Ancient City"
+title: "SN 12.65 Nagara Sutta: The Ancient City"
 ---
 
 The Buddha gives an account of his discovery of [dependent origination](/pages/suttas/sn/165-ps.html) and gives this simile:
