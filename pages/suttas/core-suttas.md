@@ -42,8 +42,9 @@ The Buddha is not teaching that there is no self but rather pointing to a practi
 The detailed linkages of cause and effect that bring about suffering which is neither random nor supernatural.
 
 
+<a name="magga"></a>
 #### Magga-vibhanga Sutta: An Analysis of the Path
-[SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)
+[SN 45.8](/pages/suttas/sn2/140-magga.html)
 
 This is the explanation of the fourth of the 'enobling truths' ie. the path that leads to the cessation of suffering.  
 It's 'right everything!'
