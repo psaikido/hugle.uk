@@ -24,19 +24,10 @@ menu:
         - title: intro 
           url: /pages/suttas/index.html
 
-        - title: Core Sutras 
+        - title: core sutras 
           url: /pages/suttas/core-suttas.html
 
-        - title: Middle Length Discourses 
-          url: /pages/suttas/mn/index.html
-
-        - title: Connected Discourses 1
-          url: /pages/suttas/sn1/index.html
-
-        - title: Connected Discourses 2
-          url: /pages/suttas/sn2/index.html
-
-        - title: Full List 
+        - title: list 
           url: /pages/suttas/list-of-suttas.html
 
 
