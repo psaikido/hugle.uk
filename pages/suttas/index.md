@@ -11,8 +11,9 @@ John Crook came back from a trip to China. A master 'Moonshine' had asked him wh
 
 Next off was the double set of books of the Connected Discourses, and so on. After finishing what I could get my hands on I wanted to refer to some of the suttas again but couldn't find them. This lead to going through the whole thing again, much quicker, and making notes of the ones that interested me. These webpages here are from those notes.
 
+The Middle Length Discourses has 152 suttas. I've chosen 34.  
 
-The Connected Discourses from Bhikku Bodhi's translations come in two volumes. I've split up the listing of suttas accordingly to make it easier to look up the hard-copy.
+The Connected Discourses from Bhikku Bodhi's translations come in two volumes with 2,889 suttas. Currently there are 55 chosen. I've split up the listing of suttas accordingly to make it easier to look up the hard-copy.
 
 The terms 'sutta' and 'sutra' are used inter-changeably. 'Sutta' is the Pali spelling and 'sutra' the sanskrit.
 
