@@ -173,7 +173,7 @@ menu:
     - +2, divestop halfway, +4
     - divestop, -5, right tip landing
     - slight launch, slow +2, left tip landing
-    - slight launch, fake tip landing
+    - slight launch, slow -2, fake tip landing
     - slide up, centre
     - slide circle +4, slide down
     - -5, land
