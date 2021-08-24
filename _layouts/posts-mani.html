@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+
+        <div class="body-inner">
+            <div class="wrap">
+                <div class="header">{{ page.title }}</div>
+
+                {% include navs/main.html %}
+                {% include search.html %}
+
+                <div class="main-content">
+                    {% for post in site.categories.mani %}
+                        <a name="{{ post.permalink }}"></a>
+                        <h2>{{ post.title }}</h2>
+
+                        {{ post }}
+
+                        <a href="{{ site.baseurl }}/blog/personal/#{{ post.permalink }}">[link]</a>
+                        <hr />
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>
