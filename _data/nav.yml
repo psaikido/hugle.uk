@@ -98,12 +98,22 @@ menu:
         - title: faves
           url: /pages/pix/faves.html
 
+    - title: blogs
+      sub:
+        - title: bright ideas
+          url: /blog/ideas
+
+        - title: personal 
+          url: /blog/personal
+
+        - title: magic 
+          url: /blog/magic
+
+        - title: mani stone 
+          url: /blog/mani
 
     - title: stuff
       sub:
-        - title: blogs
-          url: /blog
-
         - title: IT portfolio
           url: /pages/pix/portfolio.html
 
