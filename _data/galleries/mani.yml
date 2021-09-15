@@ -65,7 +65,7 @@ images:
 
 - name: mani 10
   img: mani10/stone19.jpg
-  text: 2021 - a stone requested by Sophie
+  text: 2021 - a stone requested by Sophie. A <a href="/blog/mani#2021-09-03-mani">blog</a> of this stone
 
 - name: mani 11
   img: mani11.jpg
