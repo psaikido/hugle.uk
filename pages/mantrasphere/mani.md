@@ -6,7 +6,7 @@ permalink: /mantrasphere/mani.html
         
 OM MANI PADME HUM  
 
-![mani]({{ site.baseurl }}/assets/images/mani/mani.svg)
+![mani]({{ site.baseurl }}/assets/images/mani/mani.png)
 
 the mantra of
 ### Chenrezig
