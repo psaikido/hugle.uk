@@ -83,9 +83,6 @@ menu:
 
     - title: pix
       sub:
-        - title: mani stones
-          url: /pages/pix/mani.html
-
         - title: bio
           url: /pages/pix/bio.html
 
