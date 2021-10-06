@@ -1,7 +1,7 @@
 description: main menu
 
 menu:
-    - title: hughku
+    - title: writings
       sub: 
         - title: Yarn
           url: /yarn/
@@ -19,16 +19,37 @@ menu:
           url: /pages/prose/firstBurn/01-fb.html
 
 
-    - title: sutta anthology
+    - title: blogs
       sub:
-        - title: intro 
-          url: /pages/suttas/index.html
+        - title: mani stone 
+          url: /blog/mani
 
-        - title: core sutras 
-          url: /pages/suttas/core-suttas.html
+        - title: bright ideas
+          url: /blog/ideas
 
-        - title: list 
-          url: /pages/suttas/list-of-suttas.html
+        - title: personal 
+          url: /blog/personal
+
+        - title: magic 
+          url: /blog/magic
+
+
+    - title: kites
+      sub:
+        - title: fleet 
+          url: /pages/kites/fleet.html
+
+        - title: rotation codes
+          url: /pages/kites/rotation-codes.html
+
+        - title: youtubes 
+          url: /kites/kite-youtubes.html
+
+        - title: messing about vids 
+          url: /kites/kite-messing-youtubes.html
+
+        - title: sims
+          url: /kites/sims.html
 
 
     - title: mantrasphere
@@ -51,23 +72,6 @@ menu:
         - title: press release 
           url: /mantrasphere/press.html
 
-    - title: kites
-      sub:
-        - title: fleet 
-          url: /pages/kites/fleet.html
-
-        - title: rotation codes
-          url: /pages/kites/rotation-codes.html
-
-        - title: youtubes 
-          url: /kites/kite-youtubes.html
-
-        - title: messing about vids 
-          url: /kites/kite-messing-youtubes.html
-
-        - title: sims
-          url: /kites/sims.html
-
 
     - title: magic
       sub:
@@ -81,7 +85,19 @@ menu:
           url: /pages/magic/pix.html
 
 
-    - title: pix
+    - title: sutta anthology
+      sub:
+        - title: intro 
+          url: /pages/suttas/index.html
+
+        - title: core sutras 
+          url: /pages/suttas/core-suttas.html
+
+        - title: list 
+          url: /pages/suttas/list-of-suttas.html
+
+
+    - title: galleries
       sub:
         - title: bio
           url: /pages/pix/bio.html
@@ -95,19 +111,6 @@ menu:
         - title: faves
           url: /pages/pix/faves.html
 
-    - title: blogs
-      sub:
-        - title: bright ideas
-          url: /blog/ideas
-
-        - title: personal 
-          url: /blog/personal
-
-        - title: magic 
-          url: /blog/magic
-
-        - title: mani stone 
-          url: /blog/mani
 
     - title: stuff
       sub:
