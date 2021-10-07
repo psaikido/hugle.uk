@@ -19,9 +19,17 @@ title: hugle
 
 </div>
 
-&#x5E38; &#x514B; - Cháng Kè  
+<div class="dharma-names">
 
-&#x0f04;&#x0f05;&#x0f56;&#x0f66;&#x0f7c;&#x0f51;&#x0f0c;&#x0f53;&#x0f58;&#x0f66;&#x0f0c;&#x0f51;&#x0f56;&#x0f44;&#x0f0c;&#x0f55;&#x0fb1;&#x0f74;&#x0f42;&#x0f0d; - Sonam Wangchuk
+<div class="dharma-name">
+<span class="unichars">&#x5E38; &#x514B;</span> <span class="anglichars">Cháng Kè</span>
+</div>
+
+<div class="dharma-name">
+<span class="unichars">&#x0f04;&#x0f05;&#x0f56;&#x0f66;&#x0f7c;&#x0f51;&#x0f0c;&#x0f53;&#x0f58;&#x0f66;&#x0f0c;&#x0f51;&#x0f56;&#x0f44;&#x0f0c;&#x0f55;&#x0fb1;&#x0f74;&#x0f42;&#x0f0d;</span> <span class="anglichars">Sonam Wangchuk</span>
+</div>
+
+</div>
 
 &nbsp;
 </div>
