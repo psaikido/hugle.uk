@@ -22,7 +22,7 @@ title: hugle
 <div class="dharma-names">
 
 <div class="dharma-name">
-<span class="unichars">&#x5E38; &#x514B;</span> <span class="anglichars">Cháng Kè</span>
+<span class="unichars">&#x5E38;&#x514B;</span> <span class="anglichars">Cháng Kè</span>
 </div>
 
 <div class="dharma-name">
