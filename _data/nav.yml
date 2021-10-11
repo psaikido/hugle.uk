@@ -21,8 +21,8 @@ menu:
 
     - title: blogs
       sub:
-        - title: mani stone 
-          url: /blog/mani
+        - title: mantras
+          url: /blog/mantra
 
         - title: bright ideas
           url: /blog/ideas

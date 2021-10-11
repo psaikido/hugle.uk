@@ -1,7 +1,7 @@
 ---
 title: Green Tara 
 layout: post
-category: mani
+category: mantra
 permalink: 2021-10-11-green-tara.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Green Tara
 layout: post
-category: mani
+category: mantra
 permalink: 2007-06-01-green-tara.html
 ---
 
