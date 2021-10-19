@@ -1,5 +1,5 @@
 ---
-title: "Four stones together"
+title: "four stones together"
 layout: post
 category: mantra
 permalink: 2021-10-19-stones.html
