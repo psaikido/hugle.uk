@@ -5,7 +5,7 @@ category: mantra
 permalink: 2021-10-18-green-tara.html
 ---
 
-After I thought it was finished I took to trying to clean the uncarved face a bit, also to remove pencil marks etc, but what I thought were surface marks went way deeper. This took me to think about sealing the surface again. Got some advice from my stone mason cousin &#x0f3a;cheers Pete :)&#x0f3b; who tells me that putting milk on the surface causes a chemical reaction to the casein which seals up the pores in the rock surface.  
+After I thought it was finished I took to trying to clean the uncarved face a bit, also to remove pencil marks etc, but what I thought were surface marks went way deeper. This took me to think about sealing the surface again. Got some advice from my stone mason cousin (cheers Pete!) who tells me that putting milk on the surface causes a chemical reaction to the casein which seals up the pores in the rock surface.  
 
 He gave further tips that you can wipe the surface with potato before making any marks with say a pencil or something. It helps it to wash off later.  
 
