@@ -1,6 +1,9 @@
 description: main menu
 
 menu:
+    - title: home
+      url: /
+
     - title: writings
       sub: 
         - title: Yarn
