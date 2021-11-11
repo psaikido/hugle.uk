@@ -9,7 +9,7 @@ Took the Tara stone to the [Palpung centre](http://palpung.org.uk/) in Brynmawr,
 
 ![Palpung shrine](/assets/images/mani/green-tara-palpung-1.jpg)
 
-Here's the whole amazing shrine room with the table above seen on the left
+Here's the whole amazing shrine room with the table above seen on the right
 
 ![Palpung shrine main](/assets/images/mani/green-tara-palpung-2.jpg)
 
