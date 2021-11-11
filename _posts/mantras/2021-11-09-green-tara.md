@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Tara stone's new home"
 layout: post
 category: mantra
 permalink: 2021-11-09-stones.html
