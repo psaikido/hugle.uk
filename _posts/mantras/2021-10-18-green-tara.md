@@ -12,3 +12,5 @@ He gave further tips that you can wipe the surface with potato before making any
 Coal or a water colour can be wiped on too to make more of a contrast with the rock when you cut it. Makes for a clearer distinction so hopefully more accurate strokes.
 
 After 'finishing' this stone there have been another 2 sessions making a total of 11.
+
+NB: The stone has to be totally dry before using this milk idea. The experiment above went horribly wrong for a while as a few days after the milk went on the stones blossomed in algae, lichen or mould or something. They looked like they had rotted! Took quite a bit of removing.
