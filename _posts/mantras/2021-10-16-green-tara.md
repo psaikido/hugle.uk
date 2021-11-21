@@ -11,4 +11,4 @@ Om tare tuttare ture soha
     <img src="https://img.youtube.com/vi/tr14i87Evkk/0.jpg" alt="youtube thumbnail" />
 </a>
 
-This took 9 sessions! Bath stone is so easy to work with, a bit crumbly sometimes, very soft. I love the honey colour.
+This took around 10 sessions in the end! Bath stone is so easy to work with, a bit crumbly sometimes, very soft. I love the honey colour.
