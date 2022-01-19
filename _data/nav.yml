@@ -24,8 +24,11 @@ menu:
 
     - title: blogs
       sub:
-        - title: mantras
+        - title: mantra carving
           url: /blog/mantra
+
+        - title: mantra archive
+          url: /blog/mantra-archive
 
         - title: bright ideas
           url: /blog/ideas
