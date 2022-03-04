@@ -13,9 +13,9 @@ title: hugle
 
 <div class="home-text-box">
 
-| [Yarn](/yarn) | [Family](http://family.carrollonline.uk) | 
-| [Sunshine & Shadow](/sun) | [Shop](/shop/) | 
-| [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll) | [Latest](/bucket/reilly.html) |
+| [Yarn](/yarn)                                                              | [Family](http://family.carrollonline.uk) |
+| [Sunshine & Shadow](/sun)                                                  | [Shop](/shop/)                           |
+| [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll) | [Mantras](/blog/mantra)
 
 </div>
 
