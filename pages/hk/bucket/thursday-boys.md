@@ -29,4 +29,4 @@ bicycles
 
 !["Thursday boys 1"]({{ site.baseurl }}/assets/images/bio/thursdayboys.jpg)  
 
-!["Thursday boys 2"]({{ site.baseurl }}/assets/images/gallery/Thursday-boys-2021-steves-wedding.jpg)  
+!["Thursday boys at Steve's wedding 2021"]({{ site.baseurl }}/assets/images/gallery/Thursday-boys-2021-steves-wedding.jpg)  
