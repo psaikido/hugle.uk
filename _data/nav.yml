@@ -22,7 +22,7 @@ menu:
           url: /pages/prose/firstBurn/01-fb.html
 
 
-    - title: blogs
+    - title: mantra
       sub:
         - title: mantra carving
           url: /blog/mantra
@@ -30,7 +30,10 @@ menu:
         - title: mantra archive
           url: /blog/mantra-archive
 
-        - title: bright ideas
+
+    - title: blogs
+      sub:
+        - title: ideas
           url: /blog/ideas
 
         - title: personal 
@@ -38,6 +41,9 @@ menu:
 
         - title: magic 
           url: /blog/magic
+
+        - title: essays
+          url: /blog/essays
 
 
     - title: kites
