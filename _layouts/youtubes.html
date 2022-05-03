@@ -11,6 +11,8 @@
                 {% include search.html %}
 
                 <div class="main-content">
+                    {{ content }}
+
                     {% if page.yml-data == 'kite-youtubes' %}
                         {% assign menu = site.data.kite-youtubes.menu %}
                     {% endif %}
