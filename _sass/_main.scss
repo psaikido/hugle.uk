@@ -232,7 +232,8 @@ ul {
     list-style-type: square;
 }
 
-.poem {
+.poem, 
+.center-quote {
     img {
         width: 100%;
         margin-bottom: 20px;
@@ -247,6 +248,10 @@ ul {
     animation-name: reveal;
     animation-duration: 4s;
     animation-iteration-count: 1;
+}
+
+.center-quote {
+    text-align: center;
 }
 
 @keyframes reveal {

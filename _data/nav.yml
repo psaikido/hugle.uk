@@ -63,6 +63,9 @@ menu:
         - title: sims
           url: /kites/sims.html
 
+        - title: kaitodo
+          url: /kites/kaitodo.html
+
 
     - title: mantrasphere
       sub:
