@@ -16,3 +16,5 @@ Levels 9-14 with a speed series kite leads to the 'Triple Master' title.
 Levels 1-8 with a 10/10 score leads to the 'Perfect Master' title.  
 Levels 9-14 with a 10/10 score leads to the 'Perfect Double Master' title.  
 
+If you get through all that you get the 'Double Triple Master' title.
+
