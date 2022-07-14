@@ -10,6 +10,7 @@ github_username: psaikido
 markdown: kramdown
 kramdown:
   parse_block_html: true
+  auto_ids: true
 
 plugins:
     - jekyll-bootstrap-sass

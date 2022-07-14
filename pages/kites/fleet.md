@@ -30,6 +30,6 @@ I got this lovely kite for low wind days, below 10mph. It seems to do best on sh
 This is the monster! Really fast and pulls hard. It is from the 'speed series' of revolution kites. The [club38](https://revkites.com/club-38/) levels done with one of the speed series is for the 'Triple Master' title.
 
 
-<h4>group shot</h4>
-![group]({{ site.baseurl }}/assets/images/kites/fleet/group.jpg)
-
+<h4>XX</h4>
+![XX]({{ site.baseurl }}/assets/images/kites/fleet/usain-1.png)
+The Reflex XX is like the Tarantula but unvented.

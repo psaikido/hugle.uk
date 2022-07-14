@@ -66,6 +66,9 @@ menu:
         - title: kaitodo
           url: /kites/kaitodo.html
 
+        - title: kite thoughts
+          url: /kites/kite-thoughts.html
+
 
     - title: mantrasphere
       sub:
