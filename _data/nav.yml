@@ -30,6 +30,9 @@ menu:
         - title: mantra archive
           url: /blog/mantra-archive
 
+        - title: gallery
+          url: /pages/pix/stones.html
+
 
     - title: blogs
       sub:
