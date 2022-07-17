@@ -30,6 +30,23 @@ var store = [];
     })
 {% endfor %}
 
+{% for item in site.posts %}
+    index.add({
+        title: {{ item.title | jsonify }},
+        path: "{{ item.url }}",
+        content: {{ item.content | strip_html | jsonify }},
+        id: {{ count }}
+    })
+
+    {% assign count = count | plus: 1 %}
+
+    store.push({
+      'title': {{item.title | jsonify}},
+      'path': "/blog/{{ item.category }}#{{ item.url | replace: '/', ''}}",
+      'excerpt': {{ item.content | strip_html | truncatewords: 20 | jsonify }}
+    })
+{% endfor %}
+
 $(document).ready(function() {
   $('<div id="results">')
     .prependTo('.main-content');
