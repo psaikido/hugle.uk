@@ -12,13 +12,15 @@
 
                 <div class="main-content">
                     {% for post in site.categories.ideas %}
-                        <a name="{{ post.permalink }}"></a>
-                        <h2>{{ post.title }}</h2>
+                        <div class="post">
+                            <a name="{{ post.permalink }}"></a>
+                            <h2>{{ post.title }}</h2>
 
-                        {{ post }}
+                            {{ post }}
 
-                        <a href="{{ site.baseurl }}/blog/ideas#{{ post.permalink }}">[link this post]</a>
-                        <hr />
+                            <a href="{{ site.baseurl }}/blog/ideas#{{ post.permalink }}">[link this post]</a>
+                            <hr />
+                        </div>
                     {% endfor %}
                 </div>
             </div>
