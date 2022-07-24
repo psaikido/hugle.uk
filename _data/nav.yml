@@ -72,6 +72,9 @@ menu:
         - title: kite thoughts
           url: /kites/kite-thoughts.html
 
+        - title: ISKCB 
+          url: /kites/iskcb.html
+
 
     - title: mantrasphere
       sub:
