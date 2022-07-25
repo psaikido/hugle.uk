@@ -126,8 +126,7 @@ function MI_01() {
         offsetY: 56,
     }
 
-    s.launch(low, 0);
-    s.fly(lfIsh, low, 0, 0, .1);
+    s.fly(lfIsh, low, 0, 0, 0);
     s.fly(centre, low, 0, 0, 2);
     s.path(slideCircle, 6, 0);
     s.fly(rtIsh, low, 0, 0, 2);
@@ -141,8 +140,7 @@ function MI_02() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.launch(low, 0);
-    s.fly(lfIsh, low, 1, 0, .1);
+    s.fly(lfIsh, low, 1, 0, 0);
     s.fly(centre, low, 0, 0, 1);
     s.fly(centre, low - 45);
     s.spin(-2, 0, 1, '<');
@@ -163,8 +161,7 @@ function MI_03() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.launch(low, 0);
-    s.fly(lf, hi, 1, 0, .1);
+    s.fly(lf, hi, 1, 0, 0);
     s.fly(lfIsh, hi, 0, 1, 1.5);
     s.spin(1, .5, .5);
     s.fly(lfIsh, hiIsh + 30, 0, .5, 1);
@@ -178,5 +175,40 @@ function MI_03() {
     s.fly(rtIsh, lowIsh, 0, .5, 1);
     s.spin(1, .5, .5);
     s.fly(rt, lowIsh, 0, .5, 1.5);
+    s.doTimeline();
+}
+
+// two down
+function MI_04() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lfIsh, hiIsh, 1, .5, 0);
+    s.fly(rtIsh, hiIsh, 0, .5, 2);
+    s.fly(rtIsh, mid, 0, .5, 1);
+    s.fly(lfIsh, mid, 0, .5, 2);
+    s.spin(1, .5, .5);
+    s.fly(lfIsh, lowIsh, 0, .5, 1);
+    s.fly(rtIsh, lowIsh, 0, .5, 2);
+    s.doTimeline();
+}
+
+// swing
+function MI_05() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.launch(hiIsh, 2, 0);
+    s.fly(centre - 50, hiIsh, 0, .5, 1);
+    s.spin(-2, 0, 1, '<');
+    s.fly(centre - 50, lowIsh, 0, .5, 1);
+    s.fly(centre - 130, lowIsh, 0, .5, 1);
+    s.spin(2, 0, 1, '<');
+    s.land()
+
     s.doTimeline();
 }

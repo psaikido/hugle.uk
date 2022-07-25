@@ -6,8 +6,10 @@ permalink: /kites/iskcb.html
 
 <div class="button-bank left">
 <input type="button" value="1 Circle" onclick="MI_01();" accesskey="l" />  
-<input type="button" value="2 Ladder Up" onclick="MI_02();" accesskey="l" />  
-<input type="button" value="3 Steps & Turns" onclick="MI_03();" accesskey="l" />  
+<input type="button" value="2 Ladder Up" onclick="MI_02();" accesskey="2" />  
+<input type="button" value="3 Steps & Turns" onclick="MI_03();" accesskey="3" />  
+<input type="button" value="4 Two Down" onclick="MI_04();" accesskey="4" />  
+<input type="button" value="5 Swing" onclick="MI_05();" accesskey="5" />  
 </div>
 
 
