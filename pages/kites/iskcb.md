@@ -1,8 +1,15 @@
 ---
-layout: default
+layout: kites
 title: ISKCB 
 permalink: /kites/iskcb.html
 ---
+
+<div class="button-bank left">
+<input type="button" value="1 Circle" onclick="MI_01();" accesskey="l" />  
+<input type="button" value="2 Ladder Up" onclick="MI_02();" accesskey="l" />  
+<input type="button" value="3 Steps & Turns" onclick="MI_03();" accesskey="l" />  
+</div>
+
 
 ### International Sports Kite Compulsories Book
 From [Roy Reed](https://reeddesign.co.uk/kites/iskcb/#MI) Multi-line Individual
