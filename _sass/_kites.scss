@@ -1,6 +1,6 @@
 #wind-window, 
 #wind-window-with-menu {
-    position: relative;
+    position: fixed;
     height: 400px;
     max-width: 800px;
     width: 90%;
@@ -105,4 +105,8 @@ svg path {
     */
 
     fill: none;
+}
+
+#iskcb-list {
+    margin-top: 430px;
 }

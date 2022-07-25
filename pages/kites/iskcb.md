@@ -13,7 +13,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="6 Peak" onclick="MI_06();" accesskey="6" />  
 </div>
 
-
+<div id="iskcb-list">
 ### International Sports Kite Compulsories Book
 From [Roy Reed](https://reeddesign.co.uk/kites/iskcb/#MI) Multi-line Individual
 
@@ -43,7 +43,7 @@ Fly up, -2 left wing tip turn, fly down, +2 right wing tip turn, reverse down.
 
 
 #### MI-06 - Peak
-Launch from 0 to low, slide diagonally up right with no rotation, +2 fly down halfway, -1 slide down, -1 land. 
+Launch from 0 to low, slide diagonally up right with no rotation, +2 fly down halfway, -1 slide down, -1 land.  
 [anim](https://reeddesign.co.uk/kites/iskcb/mi06.html)
 
 
@@ -125,3 +125,4 @@ Launch from 0 to low, -.5 fly diagonally up left, -3 fly diagonally up right, -3
 #### MI-22 - The Felix
 Left facing tip launch to 10% height, +2 arc half circle to stop at 40%, -2 arc half circle to 70%, +2 snap spin, +2 arc half circle down to 40%, -2 arc half circle down, right tip landing.  
 [anim](https://reeddesign.co.uk/kites/iskcb/mi22.html)
+</div>
