@@ -10,6 +10,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="3 Steps & Turns" onclick="MI_03();" accesskey="3" />  
 <input type="button" value="4 Two Down" onclick="MI_04();" accesskey="4" />  
 <input type="button" value="5 Swing" onclick="MI_05();" accesskey="5" />  
+<input type="button" value="6 Peak" onclick="MI_06();" accesskey="6" />  
 </div>
 
 

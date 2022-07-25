@@ -212,3 +212,23 @@ function MI_05() {
 
     s.doTimeline();
 }
+
+// peak
+function MI_06() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lfIsh, ground, 0, 0, 0);
+    s.fly(lfIsh, lowIsh, 0, 1, .75);
+    s.fly(rtIsh, hiIsh, 0, .5, 2.5);
+    s.spin(2, .5, .5); 
+    s.fly(rtIsh, mid, 0, .5, .75);
+    s.spin(-1, .5, .5);
+    s.fly(rtIsh, lowIsh, 0, .5, .75);
+    s.spin(-1, .5, .5);
+    s.land();
+
+    s.doTimeline();
+}
