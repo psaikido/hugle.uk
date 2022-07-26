@@ -420,3 +420,20 @@ function MI_13() {
 
     s.doTimeline();
 }
+
+// pass with upward slide
+function MI_14() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lf, mid, 1, 0, 0);
+    s.fly(lfIsh, mid, 0, .5, 1.5);
+    s.spin(-1, 0, .5);
+    s.fly(rtIsh, mid, 0, 0, 1.5);
+    s.spin(1, 0, .5);
+    s.fly(rt, mid, 0, 0, 1.5);
+
+    s.doTimeline();
+}
