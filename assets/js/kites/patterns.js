@@ -325,3 +325,41 @@ function MI_09() {
 
     s.doTimeline();
 }
+
+// crystal ball
+function MI_10() {
+    reset();
+
+    let circle3 = {
+        path: '#circle3',
+        align: '#circle3',
+        autoRotate: false,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: -38,
+        offsetY: 48,
+    }
+
+    let slideCircle = {
+        path: '#slideCircle',
+        align: '#slideCircle',
+        autoRotate: false,
+        alignOrigin: [0.5, 0.35],
+        start: 1.85,
+        end: .85,
+        offsetX: -71,
+        offsetY: .5,
+    }
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lfIsh - 100, ground, 2, 0, 0);
+    s.fly(lfIsh, lowIsh, 0, .5, 1.5);
+    s.path(circle3, 2, 0);
+    s.path(slideCircle, 5, 0);
+    s.fly(rtIsh, ground, 0, 0, 1.5);
+
+    s.doTimeline();
+}
