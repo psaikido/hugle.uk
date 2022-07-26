@@ -437,3 +437,26 @@ function MI_14() {
 
     s.doTimeline();
 }
+
+// pivots
+function MI_15() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lf, ground, 0, 0, 0);
+    s.fly(lf, lowIsh, 0, .5, 1);
+    s.spin(-2, 0, .5);
+    s.fly(lfIsh, lowIsh, 0, 0, 1.5);
+    s.spin(1, 0, .5);
+    s.fly(centre, lowIsh, 0, 0, 1.5);
+    s.spin(1, 0, .5);
+    s.fly(rtIsh, lowIsh, 0, 0, 1.5);
+    s.spin(1, 0, .5);
+    s.fly(rt, lowIsh, 0, 0, 1.5);
+    s.spin(1, 0, .5);
+    s.land();
+
+    s.doTimeline();
+}
