@@ -294,3 +294,34 @@ function MI_08() {
 
     s.doTimeline();
 }
+
+// clock tower
+function MI_09() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.launch(hiIsh, 0, 0);
+    s.fly(centre, mid, 0, .5, 1.5);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.spin('+=45_cw', .5, .3);
+    s.fly(centre, lowIsh, 0, .5, 1.5);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.spin('-=45_ccw', .5, .3);
+    s.land();
+
+    s.doTimeline();
+}

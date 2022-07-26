@@ -13,6 +13,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="6 Peak" onclick="MI_06();" accesskey="6" />  
 <input type="button" value="7 Arc Circle" onclick="MI_07();" accesskey="7" />  
 <input type="button" value="8 Camel Back" onclick="MI_08();" accesskey="8" />  
+<input type="button" value="9 Clock Tower" onclick="MI_09();" accesskey="9" />  
 </div>
 
 <div id="iskcb-list">
