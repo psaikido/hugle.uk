@@ -405,3 +405,18 @@ function MI_12() {
 
     s.doTimeline();
 }
+
+// z pass
+function MI_13() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lf, mid, 1, 0, 0);
+    s.fly(centre, mid, 0, .5, 2);
+    s.fly(lfIsh, low, 0, .5, 1.5);
+    s.fly(rtIsh, low, 0, .5, 1.5);
+
+    s.doTimeline();
+}
