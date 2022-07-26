@@ -237,7 +237,6 @@ function MI_06() {
 function MI_07() {
     reset();
 
-
     let arch = {
         path: '#slideCircle',
         align: '#slideCircle',
@@ -269,6 +268,29 @@ function MI_07() {
     s.fly(centre + 65, mid + 20, 0, 0, 1);
     s.path(slideCircleReverse, 4, -1);
     s.land();
+
+    s.doTimeline();
+}
+
+// camel back
+function MI_08() {
+    reset();
+
+    let camelPath = {
+        path: '#camel',
+        align: '#camel',
+        autoRotate: -90,
+        alignOrigin: [0.5, 0.35],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.path(camelPath, 8, 0);
 
     s.doTimeline();
 }
