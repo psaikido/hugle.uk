@@ -11,6 +11,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="4 Two Down" onclick="MI_04();" accesskey="4" />  
 <input type="button" value="5 Swing" onclick="MI_05();" accesskey="5" />  
 <input type="button" value="6 Peak" onclick="MI_06();" accesskey="6" />  
+<input type="button" value="7 Arc Circle" onclick="MI_07();" accesskey="7" />  
 </div>
 
 <div id="iskcb-list">

@@ -232,3 +232,43 @@ function MI_06() {
 
     s.doTimeline();
 }
+
+// arc circle
+function MI_07() {
+    reset();
+
+
+    let arch = {
+        path: '#slideCircle',
+        align: '#slideCircle',
+        autoRotate: false,
+        alignOrigin: [0.5, 0.35],
+        start: .25,
+        end: .75,
+        offsetX: -28,
+        offsetY: -74,
+    }
+
+    let slideCircleReverse = {
+        path: '#slideCircle2',
+        align: '#slideCircle2',
+        autoRotate: -90,
+        alignOrigin: [.5, .5],
+        start: .75,
+        end: 1.75,
+        offsetX: -28,
+        offsetY: -5,
+    }
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lfIsh, ground, 0, 0, 0);
+    s.fly(lfIsh, mid - 40, 0, 1, 1);
+    s.path(arch, 2, 0);
+    s.fly(centre + 65, mid + 20, 0, 0, 1);
+    s.path(slideCircleReverse, 4, -1);
+    s.land();
+
+    s.doTimeline();
+}
