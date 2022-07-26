@@ -387,3 +387,21 @@ function MI_11() {
 
     s.doTimeline();
 }
+
+// martini glass
+function MI_12() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.launch(low, .5);
+    s.fly(lfIsh, hiIsh, 0, .5, 1.5);
+    s.spin(-4, .5, .75);
+    s.fly(rtIsh, hiIsh, 0, .5, 1.5);
+    s.spin(4, .5, .75);
+    s.fly(centre, low, 0, .5, 1.5);
+    s.land();
+
+    s.doTimeline();
+}
