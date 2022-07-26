@@ -337,7 +337,7 @@ function MI_10() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: -38,
+        offsetX: -38.5,
         offsetY: 48,
     }
 
@@ -349,7 +349,7 @@ function MI_10() {
         start: 1.85,
         end: .85,
         offsetX: -71,
-        offsetY: .5,
+        offsetY: -1,
     }
 
     let s = new Stepper();
@@ -360,6 +360,30 @@ function MI_10() {
     s.path(circle3, 2, 0);
     s.path(slideCircle, 5, 0);
     s.fly(rtIsh, ground, 0, 0, 1.5);
+
+    s.doTimeline();
+}
+
+// tip pivots
+function MI_11() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lf, ground, 0, 0, 0);
+    s.fly(lf, mid, 0, .5, 1);
+    s.fly(lfIsh - 100, mid, 0, .5, 1);
+    s.fly(lfIsh - 20, mid, 0, .5, 1);
+    s.spin(2, 0, 1, '<'); 
+    s.fly(lfIsh + 50, mid, 0, .5, 1);
+    s.spin(2, 0, 1, '<'); 
+    s.fly(centre, mid, 0, .5, 1);
+    s.spin(2, 0, 1, '<'); 
+    s.fly(rtIsh - 30, mid, 0, .5, 1);
+    s.spin(2, 0, 1, '<'); 
+    s.fly(rt, mid, 0, .5, 1.5);
+    s.land();
 
     s.doTimeline();
 }
