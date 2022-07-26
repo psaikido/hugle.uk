@@ -122,8 +122,8 @@ function MI_01() {
         alignOrigin: [0.5, 0.35],
         start: 1,
         end: 0,
-        offsetX: 7,
-        offsetY: 56,
+        offsetX: 5,
+        offsetY: 25,
     }
 
     s.fly(lfIsh, low, 0, 0, 0);
