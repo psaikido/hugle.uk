@@ -25,6 +25,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="18 Roman Ten" onclick="MI_18();" accesskey="18" />  
 <input type="button" value="19 Bumps" onclick="MI_19();" accesskey="19" />  
 <input type="button" value="20 Lift" onclick="MI_20();" accesskey="20" />  
+<input type="button" value="21 Diamond" onclick="MI_21();" accesskey="21" />  
 </div>
 
 <div id="iskcb-list">

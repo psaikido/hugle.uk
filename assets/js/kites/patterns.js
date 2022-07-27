@@ -600,3 +600,25 @@ function MI_20() {
 
     s.doTimeline();
 }
+
+// diamond
+function MI_21() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.launch(low, .5);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(lfIsh, lowIsh - 50, 0, .5, 1);
+    s.spin('-=270_ccw', .5, .5);
+    s.fly(centre, hiIsh, 0, .5, 1);
+    s.spin('-=270_ccw', .5, .5);
+    s.fly(rtIsh, lowIsh - 50, 0, .5, 1);
+    s.spin('+=450_cw', .5, .75);
+    s.fly(centre, low, 0, .5, 1);
+    s.spin('+=135_cw', .5, .5);
+    s.land();
+
+    s.doTimeline();
+}
