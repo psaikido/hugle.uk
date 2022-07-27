@@ -585,3 +585,18 @@ function MI_19() {
 
     s.doTimeline();
 }
+
+// lift
+function MI_20() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(centre, ground, 2, 0, 0);
+    s.fly(centre, hi, 0, .5, 3);
+    s.fly(centre, low, 0, 1, 3);
+    s.fly(centre, ground, 0, 1, .75);
+
+    s.doTimeline();
+}

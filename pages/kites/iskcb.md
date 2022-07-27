@@ -24,6 +24,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="17 Reverse Octagon" onclick="MI_17();" accesskey="17" />  
 <input type="button" value="18 Roman Ten" onclick="MI_18();" accesskey="18" />  
 <input type="button" value="19 Bumps" onclick="MI_19();" accesskey="19" />  
+<input type="button" value="20 Lift" onclick="MI_20();" accesskey="20" />  
 </div>
 
 <div id="iskcb-list">
@@ -126,7 +127,7 @@ Launch from 0 immediately +2 arch to land, reverse launch +2 arch to land, launc
 
 
 #### MI-20 - Lift
-Launch from +2, reverse up to high, fly down to land.  
+Launch from +2, reverse up to high, fly down to low hover, land.  
 [anim](https://reeddesign.co.uk/kites/iskcb/mi20.html)
 
 
