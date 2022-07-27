@@ -516,3 +516,24 @@ function MI_17() {
 
     s.doTimeline();
 }
+
+// roman ten
+function MI_18() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lfIsh, low, 0, 0, 0);
+    s.fly(rtIsh, low, 0, .5, 2);
+    s.spin('+=45_cw', .5, .3);
+    s.fly(lfIsh, hiIsh, 0, .5, 2);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(rtIsh, hiIsh, 0, .5, 2);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(lfIsh, low, 0, .5, 2);
+    s.spin('+=45_cw', .5, .3);
+    s.fly(rtIsh, low, 0, .5, 2);
+
+    s.doTimeline();
+}

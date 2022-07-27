@@ -22,6 +22,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="15 Pivots" onclick="MI_15();" accesskey="15" />  
 <input type="button" value="16 Lollipop" onclick="MI_16();" accesskey="16" />  
 <input type="button" value="17 Reverse Octagon" onclick="MI_17();" accesskey="17" />  
+<input type="button" value="18 Roman Ten" onclick="MI_18();" accesskey="18" />  
 </div>
 
 <div id="iskcb-list">
