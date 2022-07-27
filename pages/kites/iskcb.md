@@ -16,6 +16,9 @@ permalink: /kites/iskcb.html
 <input type="button" value="9 Clock Tower" onclick="MI_09();" accesskey="9" />  
 <input type="button" value="10 Crystal Ball" onclick="MI_10();" accesskey="10" />  
 <input type="button" value="11 Tip Pivots" onclick="MI_11();" accesskey="11" />  
+</div>
+
+<div class="button-bank right">
 <input type="button" value="12 Martini Glass" onclick="MI_12();" accesskey="12" />  
 <input type="button" value="13 Z Pass" onclick="MI_13();" accesskey="13" />  
 <input type="button" value="14 Pass Upward Slide" onclick="MI_14();" accesskey="14" />  

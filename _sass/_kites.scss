@@ -56,7 +56,6 @@
 .button-bank {
     position: fixed;
     top: 92px;
-    left: 25px;
     width: 178px;
     z-index: 4;
 
@@ -74,6 +73,14 @@
             width: 180%;
         }
     }
+}
+
+.button-bank.left {
+    left: 25px;
+}
+
+.button-bank.right {
+    right: 25px;
 }
 
 .individualPatternLinks {
