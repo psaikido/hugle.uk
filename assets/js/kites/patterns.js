@@ -330,9 +330,9 @@ function MI_09() {
 function MI_10() {
     reset();
 
-    let circle3 = {
-        path: '#circle3',
-        align: '#circle3',
+    let arc1 = {
+        path: '#arc1',
+        align: '#arc1',
         autoRotate: false,
         alignOrigin: [.5, .5],
         start: 0,
@@ -357,7 +357,7 @@ function MI_10() {
 
     s.fly(lfIsh - 100, ground, 2, 0, 0);
     s.fly(lfIsh, lowIsh, 0, .5, 1.5);
-    s.path(circle3, 2, 0);
+    s.path(arc1, 2, 0);
     s.path(slideCircle, 5, 0);
     s.fly(rtIsh, ground, 0, 0, 1.5);
 
@@ -534,6 +534,54 @@ function MI_18() {
     s.fly(lfIsh, low, 0, .5, 2);
     s.spin('+=45_cw', .5, .3);
     s.fly(rtIsh, low, 0, .5, 2);
+
+    s.doTimeline();
+}
+
+// bumps
+function MI_19() {
+    reset();
+
+    let bump1 = {
+        path: '#bump1',
+        align: '#bump1',
+        autoRotate: 90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let bump2 = {
+        path: '#bump2',
+        align: '#bump2',
+        autoRotate: -90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let bump3 = {
+        path: '#bump3',
+        align: '#bump3',
+        autoRotate: 90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lf + 50, ground, 0, 0, 0);
+    s.path(bump1, 2);
+    s.path(bump2, 2);
+    s.path(bump3, 2);
 
     s.doTimeline();
 }
