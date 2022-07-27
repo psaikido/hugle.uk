@@ -622,3 +622,66 @@ function MI_21() {
 
     s.doTimeline();
 }
+
+// the felix
+function MI_22() {
+    reset();
+
+    let felix1 = {
+        path: '#felix1',
+        align: '#felix1',
+        autoRotate: 90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let felix2 = {
+        path: '#felix2',
+        align: '#felix2',
+        autoRotate: 90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let felix3 = {
+        path: '#felix3',
+        align: '#felix3',
+        autoRotate: 90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let felix4 = {
+        path: '#felix4',
+        align: '#felix4',
+        autoRotate: 90,
+        alignOrigin: [.5, .5],
+        start: 0,
+        end: 1,
+        offsetX: 0,
+        offsetY: 0,
+    }
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(centre, ground, -1, 0, 0);
+    s.fly(centre, low, 0, .5, .5);
+    s.path(felix1, 2);
+    s.path(felix2, 2);
+    s.spin(2, .5, .5);
+    s.path(felix3, 2);
+    s.path(felix4, 2);
+    s.land();
+
+    s.doTimeline();
+}
