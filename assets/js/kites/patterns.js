@@ -487,3 +487,32 @@ function MI_16() {
 
     s.doTimeline();
 }
+
+// reverse octagon
+function MI_17() {
+    reset();
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(lfIsh, low, -1, 0, 0);
+    s.fly(rtIsh - 90, low, 0, .5, 2);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(rtIsh, lowIsh, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(rtIsh, mid, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(rtIsh - 90, hiIsh, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(lfIsh + 30, hiIsh, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(lfIsh - 20, mid, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(lfIsh - 20, lowIsh, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(lfIsh + 30, low, 0, .5, 1);
+    s.spin('-=45_ccw', .5, .3);
+    s.fly(rtIsh, low, 0, .5, 1.5);
+
+    s.doTimeline();
+}
