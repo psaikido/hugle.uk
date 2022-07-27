@@ -460,3 +460,30 @@ function MI_15() {
 
     s.doTimeline();
 }
+
+
+// lollipop
+function MI_16() {
+    reset();
+
+    let slideCircle = {
+        path: '#slideCircle',
+        align: '#slideCircle',
+        autoRotate: false,
+        alignOrigin: [0.5, 0.35],
+        start: .3,
+        end: 1.3,
+        offsetX: -35.5,
+        offsetY: -4.5,
+    }
+
+    let s = new Stepper();
+    s.setStart(k, kImg, 0);
+
+    s.fly(rtIsh, ground, 2, 0, 0);
+    s.fly(lfIsh, mid, 0, 1, 2);
+    s.path(slideCircle, 5, 0);
+    s.fly(rtIsh, ground, 0, .5, 2);
+
+    s.doTimeline();
+}

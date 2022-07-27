@@ -20,6 +20,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="13 Z Pass" onclick="MI_13();" accesskey="13" />  
 <input type="button" value="14 Pass Upward Slide" onclick="MI_14();" accesskey="14" />  
 <input type="button" value="15 Pivots" onclick="MI_15();" accesskey="15" />  
+<input type="button" value="16 Lollipop" onclick="MI_16();" accesskey="16" />  
 </div>
 
 <div id="iskcb-list">
