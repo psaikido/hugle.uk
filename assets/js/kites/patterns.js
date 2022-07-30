@@ -4,17 +4,17 @@ function M94() {
         .setStart(k, kImg)
         .launch(low, .5)
         .spin(5, .5, 2)
-        .fly(lfIsh, low)
+        .fly(lf2, low)
         .spin(-9, .5, .8)
-        .fly(lfIsh, hi, 0, .3)
+        .fly(lf2, hi, 0, .3)
         .spin(10, .5, .5)
-        .fly(rt, hi, 0, .3, 1)
-        .fly(lf + 40, low, -22, 1.3)
-        .fly(rtIsh, mid, 0, .1, 2)
+        .fly(rt4, hi, 0, .3, 1)
+        .fly(lf4 + 40, low, -22, 1.3)
+        .fly(rt2, mid, 0, .1, 2)
         .spin(40)
         .fly(-500, mid, 0, .1, 2)
         .fly(centre, hi - 90, '+=130_cw', .1, .2)
-        .fly(lfIsh, hi - 60, '+=130_cw', .1, .2)
+        .fly(lf2, hi - 60, '+=130_cw', .1, .2)
         .fly(centre, ground - 60, '+=130_cw', .1, .2)
         .fly(rt + 150, lowIsh, '+=130_cw', .1, .2)
         .fly(centre, mid, '-=130_cw', .1, .2)
@@ -32,11 +32,11 @@ function team() {
 
     let mp2 = {
         path: [
-            {x: lf, y: mid},
-            {x: lf, y: lowIsh},
-            {x: rt, y: lowIsh},
-            {x: rt, y: mid},
-            {x: rtIsh, y: hi},
+            {x: lf4, y: mid},
+            {x: lf4, y: lowIsh},
+            {x: rt4, y: lowIsh},
+            {x: rt4, y: mid},
+            {x: rt2, y: hi},
             {x: 0, y: hi},
         ],
         start: 0,
@@ -49,13 +49,13 @@ function team() {
     s.ptn = [];
 
     s.spin(-3, .5, .5);
-    s.fly(lf, mid, 0, .5, 1.5);
+    s.fly(lf4, mid, 0, .5, 1.5);
     s.spin(2, 0, .5);
-    s.fly(rt, mid, 0, 0, 3);
+    s.fly(rt4, mid, 0, 0, 3);
     s.spin(-2, 0, .5);
     s.fly(centre, mid, 0, 0, 1.5);
     s.spin(4, 0, 1);
-    s.fly(lf, mid, 0, 0, 1.5);
+    s.fly(lf4, mid, 0, 0, 1.5);
     s.spin(2, 0, .5);
     s.fly(centre, mid, 0, 0, 1.5);
     s.spin(-3, 0, .7);
@@ -63,9 +63,9 @@ function team() {
     s.ptn = [];
 
     s.spin(-3, 1, .7);
-    s.fly(lfIsh, mid, 0, .5, .7);
+    s.fly(lf2, mid, 0, .5, .7);
     s.spin(4, .5, .8);
-    s.fly(rtIsh, mid, 0, .5, 2);
+    s.fly(rt2, mid, 0, .5, 2);
     s.spin(-1, .5, .3);
     s.spin(-1, .5, .3);
     s.spin(-1, .5, .3);
@@ -85,7 +85,7 @@ function team() {
     let tipLandings = s.ptn;
     s.ptn = [];
 
-    s.fly(lf, mid, 0, .5, 1.5);
+    s.fly(lf4, mid, 0, .5, 1.5);
     s.path(mp2, 8)
     s.innerSpin(-1, 0, 1, '<+1')
     s.innerSpin(-3, 0, 3, '<+2.6')
@@ -126,10 +126,10 @@ function MI_01() {
         offsetY: 25,
     }
 
-    s.fly(lfIsh, low, 0, 0, 0);
+    s.fly(lf2, low, 0, 0, 0);
     s.fly(centre, low, 0, 0, 2);
     s.path(slideCircle, 6, 0);
-    s.fly(rtIsh, low, 0, 0, 2);
+    s.fly(rt2, low, 0, 0, 2);
     s.doTimeline();
 }
 
@@ -140,7 +140,7 @@ function MI_02() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh, low, 1, 0, 0);
+    s.fly(lf2, low, 1, 0, 0);
     s.fly(centre, low, 0, 0, 1);
     s.fly(centre, low - 45);
     s.spin(-2, 0, 1, '<');
@@ -150,7 +150,7 @@ function MI_02() {
     s.spin(-2, 0, 1, '<');
     s.fly(centre, mid - 100);
     s.spin(2, 0, 1, '<');
-    s.fly(rtIsh, mid - 100, 0, .5, 1);
+    s.fly(rt2, mid - 100, 0, .5, 1);
     s.doTimeline();
 }
 
@@ -161,20 +161,20 @@ function MI_03() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf, hi, 1, 0, 0);
-    s.fly(lfIsh, hi, 0, 1, 1.5);
+    s.fly(lf4, hi, 1, 0, 0);
+    s.fly(lf2, hi, 0, 1, 1);
     s.spin(1, .5, .5);
-    s.fly(lfIsh, hiIsh + 30, 0, .5, 1);
+    s.fly(lf2, hiIsh, 0, .5, 1);
     s.spin(1, .5, .5);
-    s.fly(centre, hiIsh + 30, 0, .5, 1);
+    s.fly(lf1, hiIsh, 0, .5, 1);
+    s.spin(1, .5, .5);
+    s.fly(lf1, mid, 0, .5, 1);
     s.spin(1, .5, .5);
     s.fly(centre, mid, 0, .5, 1);
     s.spin(1, .5, .5);
-    s.fly(rtIsh, mid, 0, .5, 1);
+    s.fly(centre, low, 0, .5, 1);
     s.spin(1, .5, .5);
-    s.fly(rtIsh, lowIsh, 0, .5, 1);
-    s.spin(1, .5, .5);
-    s.fly(rt, lowIsh, 0, .5, 1.5);
+    s.fly(rt4, low, 0, .5, 2);
     s.doTimeline();
 }
 
@@ -185,13 +185,13 @@ function MI_04() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh, hiIsh, 1, .5, 0);
-    s.fly(rtIsh, hiIsh, 0, .5, 2);
-    s.fly(rtIsh, mid, 0, .5, 1);
-    s.fly(lfIsh, mid, 0, .5, 2);
+    s.fly(lf2, hiIsh, 1, .5, 0);
+    s.fly(rt2, hiIsh, 0, .5, 2);
+    s.fly(rt2, mid, 0, .5, 1);
+    s.fly(lf2, mid, 0, .5, 2);
     s.spin(1, .5, .5);
-    s.fly(lfIsh, lowIsh, 0, .5, 1);
-    s.fly(rtIsh, lowIsh, 0, .5, 2);
+    s.fly(lf2, low, 0, .5, 1);
+    s.fly(rt2, low, 0, .5, 2);
     s.doTimeline();
 }
 
@@ -220,13 +220,13 @@ function MI_06() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh, ground, 0, 0, 0);
-    s.fly(lfIsh, lowIsh, 0, 1, .75);
-    s.fly(rtIsh, hiIsh, 0, .5, 2.5);
+    s.fly(lf2, ground, 0, 0, 0);
+    s.fly(lf2, lowIsh, 0, 1, .75);
+    s.fly(rt2, hiIsh, 0, .5, 2.5);
     s.spin(2, .5, .5); 
-    s.fly(rtIsh, mid, 0, .5, .75);
+    s.fly(rt2, mid, 0, .5, .75);
     s.spin(-1, .5, .5);
-    s.fly(rtIsh, lowIsh, 0, .5, .75);
+    s.fly(rt2, lowIsh, 0, .5, .75);
     s.spin(-1, .5, .5);
     s.land();
 
@@ -262,8 +262,8 @@ function MI_07() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh, ground, 0, 0, 0);
-    s.fly(lfIsh, mid - 40, 0, 1, 1);
+    s.fly(lf2, ground, 0, 0, 0);
+    s.fly(lf2, mid - 40, 0, 1, 1);
     s.path(arch, 2, 0);
     s.fly(centre + 65, mid + 20, 0, 0, 1);
     s.path(slideCircleReverse, 4, -1);
@@ -355,11 +355,11 @@ function MI_10() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh - 100, ground, 2, 0, 0);
-    s.fly(lfIsh, lowIsh, 0, .5, 1.5);
+    s.fly(lf2 - 100, ground, 2, 0, 0);
+    s.fly(lf2, lowIsh, 0, .5, 1.5);
     s.path(arc1, 2, 0);
     s.path(slideCircle, 5, 0);
-    s.fly(rtIsh, ground, 0, 0, 1.5);
+    s.fly(rt2, ground, 0, 0, 1.5);
 
     s.doTimeline();
 }
@@ -371,19 +371,24 @@ function MI_11() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf, ground, 0, 0, 0);
-    s.fly(lf, mid, 0, .5, 1);
-    s.fly(lfIsh - 100, mid, 0, .5, 1);
-    s.fly(lfIsh - 20, mid, 0, .5, 1);
-    s.spin(2, 0, 1, '<'); 
-    s.fly(lfIsh + 50, mid, 0, .5, 1);
-    s.spin(2, 0, 1, '<'); 
+    s.fly(lf4, ground, 0, 0, 0);
+    s.fly(lf4, mid, 0, .5, 1);
+    s.fly(lf2 - 100, mid, 0, .5, 1);
+    //s.fly(lf2 - 85, mid, 0, .5, 1);
+    s.tipTurn('100% 0', lf2 - 65, mid, 2, .5, 1); 
+    s.tipTurn('0 100%', centre, mid, 2, .5, 1); 
+    //s.fly(centre, mid, 0, .5, 1);
+    //s.tipTurn('0 100%', 2, 0, 1, '<'); 
+    /*
+    s.fly(lf2 + 50, mid, 0, .5, 1);
+    s.tipTurn('0 80%', 2, 0, 1, '<'); 
     s.fly(centre, mid, 0, .5, 1);
     s.spin(2, 0, 1, '<'); 
-    s.fly(rtIsh - 30, mid, 0, .5, 1);
+    s.fly(rt2 - 30, mid, 0, .5, 1);
     s.spin(2, 0, 1, '<'); 
-    s.fly(rt, mid, 0, .5, 1.5);
+    s.fly(rt4, mid, 0, .5, 1.5);
     s.land();
+    */
 
     s.doTimeline();
 }
@@ -396,9 +401,9 @@ function MI_12() {
     s.setStart(k, kImg, 0);
 
     s.launch(low, .5);
-    s.fly(lfIsh, hiIsh, 0, .5, 1.5);
+    s.fly(lf2, hiIsh, 0, .5, 1.5);
     s.spin(-4, .5, .75);
-    s.fly(rtIsh, hiIsh, 0, .5, 1.5);
+    s.fly(rt2, hiIsh, 0, .5, 1.5);
     s.spin(4, .5, .75);
     s.fly(centre, low, 0, .5, 1.5);
     s.land();
@@ -413,10 +418,10 @@ function MI_13() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf, mid, 1, 0, 0);
+    s.fly(lf4, mid, 1, 0, 0);
     s.fly(centre, mid, 0, .5, 2);
-    s.fly(lfIsh, low, 0, .5, 1.5);
-    s.fly(rtIsh, low, 0, .5, 1.5);
+    s.fly(lf2, low, 0, .5, 1.5);
+    s.fly(rt2, low, 0, .5, 1.5);
 
     s.doTimeline();
 }
@@ -428,12 +433,12 @@ function MI_14() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf, mid, 1, 0, 0);
-    s.fly(lfIsh, mid, 0, .5, 1.5);
+    s.fly(lf4, mid, 1, 0, 0);
+    s.fly(lf2, mid, 0, .5, 1.5);
     s.spin(-1, 0, .5);
-    s.fly(rtIsh, mid, 0, 0, 1.5);
+    s.fly(rt2, mid, 0, 0, 1.5);
     s.spin(1, 0, .5);
-    s.fly(rt, mid, 0, 0, 1.5);
+    s.fly(rt4, mid, 0, 0, 1.5);
 
     s.doTimeline();
 }
@@ -445,16 +450,16 @@ function MI_15() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf, ground, 0, 0, 0);
-    s.fly(lf, lowIsh, 0, .5, 1);
+    s.fly(lf4, ground, 0, 0, 0);
+    s.fly(lf4, lowIsh, 0, .5, 1);
     s.spin(-2, 0, .5);
-    s.fly(lfIsh, lowIsh, 0, 0, 1.5);
+    s.fly(lf2, lowIsh, 0, 0, 1.5);
     s.spin(1, 0, .5);
     s.fly(centre, lowIsh, 0, 0, 1.5);
     s.spin(1, 0, .5);
-    s.fly(rtIsh, lowIsh, 0, 0, 1.5);
+    s.fly(rt2, lowIsh, 0, 0, 1.5);
     s.spin(1, 0, .5);
-    s.fly(rt, lowIsh, 0, 0, 1.5);
+    s.fly(rt4, lowIsh, 0, 0, 1.5);
     s.spin(1, 0, .5);
     s.land();
 
@@ -480,10 +485,10 @@ function MI_16() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(rtIsh, ground, 2, 0, 0);
-    s.fly(lfIsh, mid, 0, 1, 2);
+    s.fly(rt2, ground, 2, 0, 0);
+    s.fly(lf2, mid, 0, 1, 2);
     s.path(slideCircle, 5, 0);
-    s.fly(rtIsh, ground, 0, .5, 2);
+    s.fly(rt2, ground, 0, .5, 2);
 
     s.doTimeline();
 }
@@ -495,24 +500,24 @@ function MI_17() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh, low, -1, 0, 0);
-    s.fly(rtIsh - 90, low, 0, .5, 2);
+    s.fly(lf2, low, -1, 0, 0);
+    s.fly(rt2 - 90, low, 0, .5, 2);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rtIsh, lowIsh, 0, .5, 1);
+    s.fly(rt2, lowIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rtIsh, mid, 0, .5, 1);
+    s.fly(rt2, mid, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rtIsh - 90, hiIsh, 0, .5, 1);
+    s.fly(rt2 - 90, hiIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lfIsh + 30, hiIsh, 0, .5, 1);
+    s.fly(lf2 + 30, hiIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lfIsh - 20, mid, 0, .5, 1);
+    s.fly(lf2 - 20, mid, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lfIsh - 20, lowIsh, 0, .5, 1);
+    s.fly(lf2 - 20, lowIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lfIsh + 30, low, 0, .5, 1);
+    s.fly(lf2 + 30, low, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rtIsh, low, 0, .5, 1.5);
+    s.fly(rt2, low, 0, .5, 1.5);
 
     s.doTimeline();
 }
@@ -524,16 +529,16 @@ function MI_18() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lfIsh, low, 0, 0, 0);
-    s.fly(rtIsh, low, 0, .5, 2);
+    s.fly(lf2, low, 0, 0, 0);
+    s.fly(rt2, low, 0, .5, 2);
     s.spin('+=45_cw', .5, .3);
-    s.fly(lfIsh, hiIsh, 0, .5, 2);
+    s.fly(lf2, hiIsh, 0, .5, 2);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rtIsh, hiIsh, 0, .5, 2);
+    s.fly(rt2, hiIsh, 0, .5, 2);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lfIsh, low, 0, .5, 2);
+    s.fly(lf2, low, 0, .5, 2);
     s.spin('+=45_cw', .5, .3);
-    s.fly(rtIsh, low, 0, .5, 2);
+    s.fly(rt2, low, 0, .5, 2);
 
     s.doTimeline();
 }
@@ -578,7 +583,7 @@ function MI_19() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf + 50, ground, 0, 0, 0);
+    s.fly(lf4 + 50, ground, 0, 0, 0);
     s.path(bump1, 2);
     s.path(bump2, 2);
     s.path(bump3, 2);
@@ -610,11 +615,11 @@ function MI_21() {
 
     s.launch(low, .5);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lfIsh, lowIsh - 50, 0, .5, 1);
+    s.fly(lf2, lowIsh - 50, 0, .5, 1);
     s.spin('-=270_ccw', .5, .5);
     s.fly(centre, hiIsh, 0, .5, 1);
     s.spin('-=270_ccw', .5, .5);
-    s.fly(rtIsh, lowIsh - 50, 0, .5, 1);
+    s.fly(rt2, lowIsh - 50, 0, .5, 1);
     s.spin('+=450_cw', .5, .75);
     s.fly(centre, low, 0, .5, 1);
     s.spin('+=135_cw', .5, .5);
