@@ -32,7 +32,7 @@ permalink: /kites/iskcb.html
 <input type="button" value="22 The Felix" onclick="MI_22();" accesskey="22" />  
 </div>
 
-<div id="iskcb-list">
+<div class="msg iskcb-list">
 ### International Sports Kite Compulsories Book
 From [Roy Reed](https://reeddesign.co.uk/kites/iskcb/#MI) Multi-line Individual
 

@@ -41,7 +41,13 @@
     margin: 0 auto;
     font-size: .8em;
     text-align: left;
-    padding-top: 20px;
+    padding-top: 432px;
+}
+
+.msg {
+    margin-top: 430px;
+    height: 500px;
+    overflow-y: auto;
 }
 
 .wrap img {border: none;}
@@ -125,8 +131,3 @@ svg path {
     fill: none;
 }
 
-#iskcb-list {
-    margin-top: 430px;
-    height: 500px;
-    overflow-y: auto;
-}
