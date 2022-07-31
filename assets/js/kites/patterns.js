@@ -636,8 +636,8 @@ function MI_22() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: -10,
-        offsetY: 20,
+        offsetX: -9,
+        offsetY: 5.5,
     }
 
     let felix2 = {
@@ -647,8 +647,8 @@ function MI_22() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -9,
+        offsetY: 5.5,
     }
 
     let felix3 = {
@@ -658,8 +658,8 @@ function MI_22() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -10,
+        offsetY: 5.5,
     }
 
     let felix4 = {
@@ -669,8 +669,8 @@ function MI_22() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -9,
+        offsetY: 5,
     }
 
     let s = new Stepper();
