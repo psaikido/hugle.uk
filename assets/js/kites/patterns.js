@@ -371,24 +371,21 @@ function MI_11() {
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(lf4, ground, 0, 0, 0);
-    s.fly(lf4, mid, 0, .5, 1);
-    s.fly(lf2 - 100, mid, 0, .5, 1);
-    //s.fly(lf2 - 85, mid, 0, .5, 1);
-    s.tipTurn('100% 0', lf2 - 65, mid, 2, .5, 1); 
-    s.tipTurn('0 100%', centre, mid, 2, .5, 1); 
-    //s.fly(centre, mid, 0, .5, 1);
-    //s.tipTurn('0 100%', 2, 0, 1, '<'); 
-    /*
-    s.fly(lf2 + 50, mid, 0, .5, 1);
-    s.tipTurn('0 80%', 2, 0, 1, '<'); 
+    s.fly(lf3, ground, 0, 0, 0);
+    s.fly(lf3, mid, 0, .5, 1);
+    s.fly(lf2, mid, 0, .5, 1);
+    s.fly(lf1, mid, 0, .5, 1);
+    s.spin(2, 0, 1, '<'); 
     s.fly(centre, mid, 0, .5, 1);
     s.spin(2, 0, 1, '<'); 
-    s.fly(rt2 - 30, mid, 0, .5, 1);
+    s.fly(rt1, mid, 0, .5, 1);
     s.spin(2, 0, 1, '<'); 
-    s.fly(rt4, mid, 0, .5, 1.5);
+    s.fly(rt2, mid, 0, .5, 1);
+    s.spin(2, 0, 1, '<'); 
+    s.fly(rt3, mid, 0, .5, 1);
+    //s.tipTurn('100% 0', lf2 - 65, mid, 2, .5, 1); 
+    //s.tipTurn('0 100%', centre, mid, 2, .5, 1); 
     s.land();
-    */
 
     s.doTimeline();
 }
@@ -478,17 +475,17 @@ function MI_16() {
         alignOrigin: [0.5, 0.35],
         start: .3,
         end: 1.3,
-        offsetX: -35.5,
-        offsetY: -4.5,
+        offsetX: -84,
+        offsetY: 31,
     }
 
     let s = new Stepper();
     s.setStart(k, kImg, 0);
 
-    s.fly(rt2, ground, 2, 0, 0);
+    s.fly(centre, ground, 2, 0, 0);
     s.fly(lf2, mid, 0, 1, 2);
     s.path(slideCircle, 5, 0);
-    s.fly(rt2, ground, 0, .5, 2);
+    s.fly(centre, ground, 0, .5, 2);
 
     s.doTimeline();
 }
@@ -501,23 +498,23 @@ function MI_17() {
     s.setStart(k, kImg, 0);
 
     s.fly(lf2, low, -1, 0, 0);
-    s.fly(rt2 - 90, low, 0, .5, 2);
+    s.fly(rt1, low, 0, .5, 2);
     s.spin('-=45_ccw', .5, .3);
     s.fly(rt2, lowIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
     s.fly(rt2, mid, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rt2 - 90, hiIsh, 0, .5, 1);
+    s.fly(rt1, hiIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lf2 + 30, hiIsh, 0, .5, 1);
+    s.fly(lf1, hiIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lf2 - 20, mid, 0, .5, 1);
+    s.fly(lf2, mid, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lf2 - 20, lowIsh, 0, .5, 1);
+    s.fly(lf2, lowIsh, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lf2 + 30, low, 0, .5, 1);
+    s.fly(lf1, low, 0, .5, 1);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rt2, low, 0, .5, 1.5);
+    s.fly(rt3, low, 0, .5, 1.5);
 
     s.doTimeline();
 }
@@ -530,15 +527,15 @@ function MI_18() {
     s.setStart(k, kImg, 0);
 
     s.fly(lf2, low, 0, 0, 0);
-    s.fly(rt2, low, 0, .5, 2);
+    s.fly(rt2, low, 0, .5, 2.5);
     s.spin('+=45_cw', .5, .3);
-    s.fly(lf2, hiIsh, 0, .5, 2);
+    s.fly(lf2, hi, 0, .5, 2.5);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(rt2, hiIsh, 0, .5, 2);
+    s.fly(rt2, hi, 0, .5, 2.5);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lf2, low, 0, .5, 2);
+    s.fly(lf2, low, 0, .5, 2.5);
     s.spin('+=45_cw', .5, .3);
-    s.fly(rt2, low, 0, .5, 2);
+    s.fly(rt2, low, 0, .5, 2.5);
 
     s.doTimeline();
 }
@@ -554,8 +551,8 @@ function MI_19() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -7,
+        offsetY: 5,
     }
 
     let bump2 = {
@@ -565,8 +562,8 @@ function MI_19() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -7,
+        offsetY: 5,
     }
 
     let bump3 = {
@@ -576,8 +573,8 @@ function MI_19() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -7,
+        offsetY: 5,
     }
 
     let s = new Stepper();
@@ -615,11 +612,11 @@ function MI_21() {
 
     s.launch(low, .5);
     s.spin('-=45_ccw', .5, .3);
-    s.fly(lf2, lowIsh - 50, 0, .5, 1);
+    s.fly(lf2, mid, 0, .5, 1);
     s.spin('-=270_ccw', .5, .5);
-    s.fly(centre, hiIsh, 0, .5, 1);
+    s.fly(centre, hi, 0, .5, 1);
     s.spin('-=270_ccw', .5, .5);
-    s.fly(rt2, lowIsh - 50, 0, .5, 1);
+    s.fly(rt2, mid, 0, .5, 1);
     s.spin('+=450_cw', .5, .75);
     s.fly(centre, low, 0, .5, 1);
     s.spin('+=135_cw', .5, .5);
@@ -639,8 +636,8 @@ function MI_22() {
         alignOrigin: [.5, .5],
         start: 0,
         end: 1,
-        offsetX: 0,
-        offsetY: 0,
+        offsetX: -10,
+        offsetY: 20,
     }
 
     let felix2 = {
