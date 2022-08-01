@@ -4,32 +4,41 @@ title: ISKCB
 permalink: /kites/iskcb.html
 ---
 
-<div class="button-bank left">
-<input type="button" value="1 Circle" onclick="MI_01();" accesskey="l" />  
-<input type="button" value="2 Ladder Up" onclick="MI_02();" accesskey="2" />  
-<input type="button" value="3 Steps & Turns" onclick="MI_03();" accesskey="3" />  
-<input type="button" value="4 Two Down" onclick="MI_04();" accesskey="4" />  
-<input type="button" value="5 Swing" onclick="MI_05();" accesskey="5" />  
-<input type="button" value="6 Peak" onclick="MI_06();" accesskey="6" />  
-<input type="button" value="7 Arc Circle" onclick="MI_07();" accesskey="7" />  
-<input type="button" value="8 Camel Back" onclick="MI_08();" accesskey="8" />  
-<input type="button" value="9 Clock Tower" onclick="MI_09();" accesskey="9" />  
-<input type="button" value="10 Crystal Ball" onclick="MI_10();" accesskey="10" />  
-<input type="button" value="11 Tip Pivots" onclick="MI_11();" accesskey="11" />  
-</div>
+<script type="text/javascript">
+function go(i) {
+let ptn = document.getElementById("iskcb-patterns").options[i].value;
+window[ptn]();
+}
+</script>
 
-<div class="button-bank right">
-<input type="button" value="12 Martini Glass" onclick="MI_12();" accesskey="12" />  
-<input type="button" value="13 Z Pass" onclick="MI_13();" accesskey="13" />  
-<input type="button" value="14 Pass Upward Slide" onclick="MI_14();" accesskey="14" />  
-<input type="button" value="15 Pivots" onclick="MI_15();" accesskey="15" />  
-<input type="button" value="16 Lollipop" onclick="MI_16();" accesskey="16" />  
-<input type="button" value="17 Reverse Octagon" onclick="MI_17();" accesskey="17" />  
-<input type="button" value="18 Roman Ten" onclick="MI_18();" accesskey="18" />  
-<input type="button" value="19 Bumps" onclick="MI_19();" accesskey="19" />  
-<input type="button" value="20 Lift" onclick="MI_20();" accesskey="20" />  
-<input type="button" value="21 Diamond" onclick="MI_21();" accesskey="21" />  
-<input type="button" value="22 The Felix" onclick="MI_22();" accesskey="22" />  
+
+<div class="button-bank left">
+<select name="iskcb-patterns" id="iskcb-patterns" onchange="go(this.selectedIndex);">
+<option value=""> - choose a pattern - </option>
+<option value="MI_01">01 Circle</option>
+<option value="MI_02">02 Ladder Up</option>
+<option value="MI_03">03 Steps & Turns</option>
+<option value="MI_04">04 Two Down</option>
+<option value="MI_05">05 Swing</option>
+<option value="MI_06">06 Peak</option>
+<option value="MI_07">07 Arc Circle</option>
+<option value="MI_08">08 Camel Back</option>
+<option value="MI_09">09 Clock Tower</option>
+<option value="MI_10">10 Crystal Ball</option>
+<option value="MI_11">11 Tip Pivots</option>
+<option value="MI_12">12 Martini Glass</option>
+<option value="MI_13">13 Z Pass</option>
+<option value="MI_14">14 Pass Upward Slide</option>
+<option value="MI_15">15 Pivots</option>
+<option value="MI_16">16 Lollipop</option>
+<option value="MI_17">17 Reverse Octagon</option>
+<option value="MI_18">18 Roman Ten</option>
+<option value="MI_19">19 Bumps</option>
+<option value="MI_20">20 Lift</option>
+<option value="MI_21">21 Diamond</option>
+<option value="MI_22">22 The Felix</option>
+</select>
+
 </div>
 
 <div class="msg iskcb-list">
