@@ -8,14 +8,15 @@
 
 /* Most mobiles */
 @media only screen
-  and (min-device-width: 360px)
-  and (max-device-width: 740px) {
+and (min-device-width: 360px)
+and (max-device-width: 740px) {
     body {
         font-size: 1em;
     }
 
     .main-content {
-        left: 16px;
+        left: 0;
+        top: 41px;
         min-width: 91%;
 
         .home-page {
@@ -95,11 +96,14 @@
     .header {
         font-size: 1em;
         max-width: 300px;
+        max-height: 40px;
+        min-height: 40px;
     }
-    
+
     #search-form {
         position: absolute;
         right: 7px;
+        top: 6px;
 
         #search-term {
             width: 100px;
@@ -108,5 +112,17 @@
 
     .navbar {
         font-size: 1em;
+        top: -6px;
+        left: -14px;
+    }
+
+    #wind-window, 
+    #wind-window-with-menu {
+        width: 100%;
+    }
+
+    .button-bank.left {
+        top: 5px;
+        left: 83px;
     }
 }

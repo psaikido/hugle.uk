@@ -16,13 +16,10 @@
                         <div id="kite"></div>
                     </div>
 
-                    <svg viewBox="0 0 800 400">
+                    <svg>
                         <g>
                             <path id="slideCircle"
-                                d="M403.874 302.18c-26.307.895-52.817-9.194-71.873-27.352-19.057-18.158-30.413-44.15-30.79-70.47-.378-26.31 10.22-52.608 28.735-71.304 18.515-18.696 44.71-29.548 71.023-29.422 25.508.122 50.821 10.532 69.036 28.39 18.215 17.86 29.124 42.961 29.753 68.462.637 25.834-9.293 51.773-27.02 70.575s-43.038 30.24-68.864 31.12z" />
-
-                            <path id="slideCircle2"
-                                d="M403.874 302.18c-26.307.895-52.817-9.194-71.873-27.352-19.057-18.158-30.413-44.15-30.79-70.47-.378-26.31 10.22-52.608 28.735-71.304 18.515-18.696 44.71-29.548 71.023-29.422 25.508.122 50.821 10.532 69.036 28.39 18.215 17.86 29.124 42.961 29.753 68.462.637 25.834-9.293 51.773-27.02 70.575s-43.038 30.24-68.864 31.12z" />
+                                d="m403.874 302.18c-26.307.895-52.817-9.194-71.873-27.352-19.057-18.158-30.413-44.15-30.79-70.47-.378-26.31 10.22-52.608 28.735-71.304 18.515-18.696 44.71-29.548 71.023-29.422 25.508.122 50.821 10.532 69.036 28.39 18.215 17.86 29.124 42.961 29.753 68.462.637 25.834-9.293 51.773-27.02 70.575s-43.038 30.24-68.864 31.12z" />
 
                             <path id="camel" 
                                 d="M68 365 68 205 A 30 30 0 0 1 250 205 A 30 30 0 0 0 450 205 A 30 30 0 0 1 650 205 l 0 165" />
@@ -51,23 +48,9 @@
                             <path id="felix4"
                                 d="m 410 190 A 10 10 0 0 0 410 325" />
                         </g>
-                    </svg>
-                    <div class="gridTestV" id="gridTestLeft4"></div>
-                    <div class="gridTestV" id="gridTestLeft3"></div>
-                    <div class="gridTestV" id="gridTestLeft2"></div>
-                    <div class="gridTestV" id="gridTestLeft1"></div>
-                    <div class="gridTestV" id="gridTestCentre"></div>
-                    <div class="gridTestV" id="gridTestRight1"></div>
-                    <div class="gridTestV" id="gridTestRight2"></div>
-                    <div class="gridTestV" id="gridTestRight3"></div>
-                    <div class="gridTestV" id="gridTestRight4"></div>
 
-                    <div class="gridTestH" id="gridTestHi"></div>
-                    <div class="gridTestH" id="gridTestHiIsh"></div>
-                    <div class="gridTestH" id="gridTestMid"></div>
-                    <div class="gridTestH" id="gridTestLowIsh"></div>
-                    <div class="gridTestH" id="gridTestLow"></div>
-                    <div class="gridTestH" id="gridTestGround"></div>
+                        <circle id="circle3" cx="320" cy="210" r="80" fill="none" />
+                    </svg>
                 </div>
 
                 {{ content }}
@@ -84,24 +67,6 @@
                             delay: .5,
                         }
                     });
-
-                    document.getElementById('gridTestCentre').style.left = '400px';
-                    document.getElementById('gridTestLeft1').style.left = '310px';
-                    document.getElementById('gridTestLeft2').style.left = '220px';
-                    document.getElementById('gridTestLeft3').style.left = '130px';
-                    document.getElementById('gridTestLeft4').style.left = '40px';
-                    document.getElementById('gridTestRight1').style.left = '490px';
-                    document.getElementById('gridTestRight2').style.left = '580px';
-                    document.getElementById('gridTestRight3').style.left = '670px';
-                    document.getElementById('gridTestRight4').style.left = '760px';
-
-                    document.getElementById('gridTestHi').style.top = '40px';
-                    document.getElementById('gridTestHiIsh').style.top = '120px';
-                    document.getElementById('gridTestMid').style.top = '200px';
-                    document.getElementById('gridTestLowIsh').style.top = '260px';
-                    document.getElementById('gridTestLow').style.top = '320px';
-                    document.getElementById('gridTestGround').style.top = '370px';
-
                 </script>
 
             </div>

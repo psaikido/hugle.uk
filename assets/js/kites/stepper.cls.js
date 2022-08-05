@@ -8,33 +8,7 @@
  * 'tweened' by gsap to make a kite fly around.
  * It's done like this so that there is a more human readable set
  * of flight patterns that can have elements that are reusable.
- *
- * Gsap movements are measured from an object's starting position.
- * For left/right values we decrease/increase from the 'centre' of 368px.
  */
-let lf4 = -360;
-let lf3 = -270;
-let lf2 = -180;
-let lf1 = -90;
-let centre = 0;
-let xMid = 368;
-let rt1 = 90;
-let rt2 = 180;
-let rt3 = 270;
-let rt4 = 360;
-let rtIsh = 135;
-let rt = 315;
-
-/* y values are 0 at the top and 400 at the bottom.
- * The displacement values are negative because the kite's 
- * starting position is 365px.
- */
-let ground = 0;
-let low = -45;
-let lowIsh = -105;
-let mid = -165;
-let hiIsh = -245; 
-let hi = -325;
 
 class Stepper {
     constructor() {
@@ -53,6 +27,8 @@ class Stepper {
 
         this.rotationCount = 0;
         this.ptn = [];
+
+        this._setDimensions();
     }
 
     setStart(o, oInner, rotation = 0) {
@@ -62,12 +38,11 @@ class Stepper {
         this.delay = 0;
         this.duration = .1;
 
-        this._setDimensions();
         this._addStep();
         return this;
     }
 
-    launch(y, duration = 1, rot = 0) {
+    launch(y, duration = .75, rot = 0) {
         this.y = y;
         this.duration = duration;
         this.rotation = rot;
@@ -95,7 +70,7 @@ class Stepper {
         return this;
     }
 
-    spin(rot, delay = 0, duration = 1, label) {
+    spin(rot, delay = .5, duration = .5, label) {
         this.rotation = rot;
         this.delay = delay;
         this.duration = duration;
@@ -116,7 +91,7 @@ class Stepper {
         return this;
     }
 
-    fly(x, y, rot = 0, delay = .5, duration = 1) {
+    fly(x, y, rot = 0, delay = .5, duration = .75) {
         this.objCurrent = this.obj;
         this.x = x;
         this.y = y;
@@ -129,7 +104,7 @@ class Stepper {
     }
 
     land(duration = 1, delay = .5) {
-        this.fly(this.x, ground, 0, delay, duration);
+        this.fly(this.x, this.ground, 0, delay, duration);
         return this;
     }
 
@@ -155,7 +130,7 @@ class Stepper {
 
     testPath(path) {
         for (var i = 0; i < path.length; i++) {
-            var x = xMid + path[i].x;
+            var x = this.centre + path[i].x;
             var y = 400 - Math.abs(path[i].y);
 
             var dv = $('<div class="pathTestPoint"/>')
@@ -183,11 +158,39 @@ class Stepper {
     }
 
     _setDimensions() {
-        // Recalculate initial settings for responsiveness.
-        let skyWidth = this.obj.offsetParent.offsetWidth;
-        xMid = skyWidth / 2;
-        lf4 = xMid - skyWidth + 40;
-        rt = xMid - 50;
+        // Establish width & height of the wind-window.
+        this.ww = document.getElementById('wind-window');
+
+        // Gsap movements are measured from an object's starting position.
+        // For left/right values we decrease/increase from the 'centre'.
+        // This 'centre' has to first be calculated as the middle of the 
+        // wind-window div first though.
+        this.codeCentre = this.ww.offsetWidth / 2;
+        
+        // the minus 10 is to give a little margin at the edges
+        this.colWidth = (this.ww.offsetWidth / 6) - 10; 
+
+        this.lf3 = -(this.colWidth * 3);
+        this.lf2 = -(this.colWidth * 2);
+        this.lf1 = -this.colWidth;
+        this.centre = 0;
+        this.rt1 = this.colWidth;
+        this.rt2 = this.colWidth * 2;
+        this.rt3 = this.colWidth * 3;
+
+        /* y values are 0 at the top and 400 at the bottom.
+         * The displacement values are negative because the kite's 
+         * starting position is 365px.
+         */
+        this.codeHeight = this.ww.offsetHeight;
+        this.rowHeight = this.codeHeight / 6;
+
+        this.ground = 0;
+        this.low = -this.rowHeight;
+        this.lowIsh = -(this.rowHeight * 2);
+        this.mid = -(this.rowHeight * 3);
+        this.hiIsh = -(this.rowHeight * 4); 
+        this.hi = -(this.rowHeight * 5);
     }
 
     _makeTweenObj(step) {
@@ -246,6 +249,19 @@ class Stepper {
             this.transformOrigin,
             this.label,
         ];
+
+        const step2 = {
+            objCurrent: this.objCurrent,
+            x:          this.x,
+            y:          this.y,
+            rotation:   this.rotation,
+            delay:      this.delay,
+            duration:   this.duration,
+            motionPath: this.motionPath,
+            ease:       this.ease,
+            transformOrigin: this.transformOrigin,
+            label:      this.label,
+        };
 
         this.ptn.push(step);
         this._resetVars();
@@ -308,8 +324,10 @@ class Stepper {
             }
         }
 
+        /*
         if (code != '+=0_cw') {
             console.log(code, this.rotationCount);
         }
+        */
     }
 }

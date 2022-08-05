@@ -5,15 +5,18 @@ permalink: /kites/iskcb.html
 ---
 
 <script type="text/javascript">
-function go(i) {
-let ptn = document.getElementById("iskcb-patterns").options[i].value;
-window[ptn]();
+function go() {
+    let i = document.getElementById("iskcb-patterns").selectedIndex;
+    if (i > 0) {
+        let ptn = document.getElementById("iskcb-patterns").options[i].value;
+        window[ptn]();
+    }
 }
 </script>
 
 
 <div class="button-bank left">
-<select name="iskcb-patterns" id="iskcb-patterns" onchange="go(this.selectedIndex);">
+<select name="iskcb-patterns" id="iskcb-patterns">
 <option value=""> - choose a pattern - </option>
 <option value="MI_01">01 Circle</option>
 <option value="MI_02">02 Ladder Up</option>
@@ -38,6 +41,7 @@ window[ptn]();
 <option value="MI_21">21 Diamond</option>
 <option value="MI_22">22 The Felix</option>
 </select>
+<input type="button" onclick="go();" value="fly" />
 
 </div>
 
