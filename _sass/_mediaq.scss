@@ -40,7 +40,7 @@ and (max-device-width: 740px) {
             min-width: 210px;
 
             &.hide {
-                left: 24px;
+                left: 40px;
                 width: 340px;
             }
         }
@@ -89,23 +89,28 @@ and (max-device-width: 740px) {
         }
     }
 
+    .poem {
+        width: 90vw;
+    }
+
     .wrap img {
         max-width: 260px;
     }
 
     .header {
-        font-size: 1em;
-        max-width: 300px;
-        max-height: 40px;
-        min-height: 40px;
+        font-size: 50%;
+        padding: 0;
+        width: calc(100vw - 140);
+        min-height: 42px;
     }
 
     #search-form {
         position: absolute;
         right: 7px;
-        top: 6px;
+        top: 2px;
 
         #search-term {
+            font-size: 50%;
             width: 100px;
         }
     }
@@ -114,6 +119,10 @@ and (max-device-width: 740px) {
         font-size: 1em;
         top: -6px;
         left: -14px;
+
+        .navbar-toggler {
+            padding: 2px;
+        }
     }
 
     #wind-window, 
@@ -125,4 +134,38 @@ and (max-device-width: 740px) {
         top: 5px;
         left: 83px;
     }
+
+    h4.poem-title {
+        margin-top: 10px;
+    }
+}
+
+// Smaller mobiles in portrait
+@media only screen
+and (min-device-width: 360px)
+and (max-device-width: 400px) {
+    .header {
+        font-size: 65%;
+        padding: 0;
+        width: calc(100vw - 140);
+        text-align: left;
+        margin: 10px 0 0 45px;
+        min-height: 42px;
+    }
+
+    #search-form {
+        position: absolute;
+        right: 2px;
+        top: -4px;
+
+        #search-term {
+            font-size: 50%;
+            width: 100px;
+        }
+    }
+
+    .poem {
+        width: 90vw;
+    }
+
 }
