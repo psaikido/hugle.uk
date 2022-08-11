@@ -1,34 +1,34 @@
 // silly
 function M94() {
+    reset()
     let s = new Stepper()
-        .setStart(k, kImg)
-        .launch(s.low, .5)
-        .spin(5, .5, 2)
-        .fly(s.lf2, s.low)
-        .spin(-9, .5, .8)
-        .fly(s.lf2, s.hi, 0, .3)
-        .spin(10, .5, .5)
-        .fly(s.rt3, s.hi, 0, .3, 1)
-        .fly(s.lf3 + 40, s.low, -22, 1.3)
-        .fly(s.rt2, s.mid, 0, .1, 2)
-        .spin(40)
-        .fly(-500, s.mid, 0, .1, 2)
-        .fly(s.centre, s.hi - 90, '+=130_cw', .1, .2)
-        .fly(s.lf2, s.hi - 60, '+=130_cw', .1, .2)
-        .fly(s.centre, s.ground - 60, '+=130_cw', .1, .2)
-        .fly(rt + 150, s.lowIsh, '+=130_cw', .1, .2)
-        .fly(s.centre, s.mid, '-=130_cw', .1, .2)
-        .land()
+
+    s.launch(s.low, .5)
+    s.spin(5, .5, 2)
+    s.fly(s.lf1, s.low)
+    s.spin(-9, .5, .8)
+    s.fly(s.lf1, s.hi, 0, .3)
+    s.spin(10, .5, .5)
+    s.fly(s.rt3, s.hi, 0, .3, 1)
+    s.fly(s.lf3 + 40, s.low, -22, 1.3)
+    s.fly(s.rt1, s.mid, 0, .1, 2)
+    s.spin(40)
+    s.fly(-500, s.mid, 0, .1, 2)
+    s.fly(s.centre, s.hi - 90, '+=130_cw', .1, .2)
+    s.fly(s.lf1, s.hi - 60, '+=130_cw', .1, .2)
+    s.fly(s.centre, s.ground - 60, '+=130_cw', .1, .2)
+    s.fly(s.rt3 + 150, s.lowIsh, '+=130_cw', .1, .2)
+    s.fly(s.centre, s.mid, '-=130_cw', .1, .2)
+    s.land()
 
     s.doTimeline();
 }
 
 // paired flight
 function team() {
-    reset();
+    reset()
 
-    let s = new Stepper();
-    s.setStart(k, kImg, 2);
+    let s = new Stepper(2);
 
     let mp2 = {
         path: [
@@ -44,7 +44,7 @@ function team() {
         curviness: .7,
     };
 
-    s.launch(s.mid, 1.5);
+    s.launch(s.mid, 2);
     let launch = s.ptn;
     s.ptn = [];
 
@@ -63,7 +63,7 @@ function team() {
     s.ptn = [];
 
     s.spin(-3, 1, .7);
-    s.fly(s.lf2, s.mid, 0, .5, .7);
+    s.fly(s.lf2, s.mid, 0, .5, 1);
     s.spin(4, .5, .8);
     s.fly(s.rt2, s.mid, 0, .5, 2);
     s.spin(-1, .5, .3);
@@ -73,20 +73,20 @@ function team() {
     s.spin(-1, .5, .3);
     s.spin(-1, .5, .3);
     s.spin(4, .5, .8);
-    s.fly(s.centre, s.mid, 0, .5, 1);
+    s.fly(s.centre, s.mid, 0, .5, 1.5);
     let sorta4 = s.ptn;
     s.ptn = [];
 
-    s.land(2)
+    s.land(.5, 2)
     s.launch(s.mid, 2);
-    s.fly(s.centre - 40, s.mid, -2, .5, 1);
-    s.land(2)
+    s.fly(s.centre - 40, s.mid, -2, 0, 1);
+    s.land(.5, 2)
     s.launch(s.mid, 2);
     let tipLandings = s.ptn;
     s.ptn = [];
 
     s.fly(s.lf3, s.mid, 0, .5, 1.5);
-    s.path(mp2, 8)
+    s.path(mp2, 0, .5, 8)
     s.innerSpin(-1, 0, 1, '<+1')
     s.innerSpin(-3, 0, 3, '<+2.6')
     s.spin(3, 0, .7)
@@ -110,10 +110,9 @@ function team() {
 
 // circle
 function MI_01() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     let slideCircle = {
         path: '#slideCircle',
@@ -126,7 +125,7 @@ function MI_01() {
 
     s.fly(s.lf2, s.low, 0, 0, 0);
     s.fly(s.centre, s.low, 0, 0, 2);
-    s.path(slideCircle, 6, 0);
+    s.path(slideCircle, 0, 0, 6);
     s.fly(s.rt2, s.low, 0, 0, 2);
 
     s.doTimeline();
@@ -134,10 +133,9 @@ function MI_01() {
 
 // ladder up
 function MI_02() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf2, s.low, 1, 0, 0);
     s.fly(s.centre, s.low, 0, 0, 1);
@@ -155,10 +153,9 @@ function MI_02() {
 
 // steps & turns
 function MI_03() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf3, s.hiIsh, 1, 0, 0);
     s.fly(s.lf2, s.hiIsh, 0, 1, 1);
@@ -179,10 +176,9 @@ function MI_03() {
 
 // two down
 function MI_04() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf2, s.hi, 1, .5, 0);
     s.fly(s.rt2, s.hi, 0, .5, 2);
@@ -196,10 +192,9 @@ function MI_04() {
 
 // swing
 function MI_05() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.launch(s.hiIsh, 2, 0);
     s.fly(s.centre - 50, s.hiIsh, 0, .5, 1);
@@ -214,10 +209,9 @@ function MI_05() {
 
 // peak
 function MI_06() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf2, s.ground, 0, 0, 0);
     s.fly(s.lf2, s.low, 0, 1, .75);
@@ -234,10 +228,9 @@ function MI_06() {
 
 // arc circle
 function MI_07() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     let arch = {
         path: [
@@ -278,7 +271,7 @@ function MI_07() {
 
 // camel back
 function MI_08() {
-    reset();
+    reset()
 
     let camelPath = {
         path: '#camel',
@@ -292,19 +285,17 @@ function MI_08() {
     }
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
-    s.path(camelPath, 8, 0);
+    s.path(camelPath, 0, .5, 8);
 
     s.doTimeline();
 }
 
 // clock tower
 function MI_09() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.launch(s.hi, 1, 0);
     s.fly(s.centre, s.hiIsh, 0, .5, 1.5);
@@ -332,11 +323,10 @@ function MI_09() {
 
 // crystal ball
 function MI_10() {
-    reset();
+    reset()
 
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     let arch = {
         path: [
@@ -368,8 +358,8 @@ function MI_10() {
 
     s.fly(s.lf2, s.ground, 2, 0, 0);
     s.fly(s.lf1, s.lowIsh, 0, .5, 1.5);
-    s.path(arch, 2, 0);
-    s.path(circle3, 5, 0);
+    s.path(arch, 0, 0, 1.8);
+    s.path(circle3, 0, 0, 4);
     s.fly(s.rt1, s.ground, 0, 0, 1.5);
 
     s.doTimeline();
@@ -377,10 +367,9 @@ function MI_10() {
 
 // tip pivots
 function MI_11() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf3, s.ground, 0, 0, 0);
     s.fly(s.lf3, s.mid, 0, .5, 1);
@@ -403,17 +392,16 @@ function MI_11() {
 
 // martini glass
 function MI_12() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.launch(s.low, .5);
-    s.fly(s.lf2, s.hiIsh, 0, .5, 1.5);
+    s.fly(s.lf2, s.hiIsh, 0, .5, 2);
     s.spin(-4, .5, .75);
-    s.fly(s.rt2, s.hiIsh, 0, .5, 1.5);
+    s.fly(s.rt2, s.hiIsh, 0, .5, 2.5);
     s.spin(4, .5, .75);
-    s.fly(s.centre, s.low, 0, .5, 1.5);
+    s.fly(s.centre, s.low, 0, .5, 2);
     s.land();
 
     s.doTimeline();
@@ -421,25 +409,23 @@ function MI_12() {
 
 // z pass
 function MI_13() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf3, s.hiIsh, 1, 0, 0);
-    s.fly(s.rt1, s.hiIsh, 0, .5, 2);
-    s.fly(s.lf2, s.low, 0, .5, 1.5);
-    s.fly(s.rt3, s.low, 0, .5, 1.5);
+    s.fly(s.rt1, s.hiIsh, 0, .5, 2.5);
+    s.fly(s.lf2, s.low, 0, .5, 2.5);
+    s.fly(s.rt3, s.low, 0, .5, 2.5);
 
     s.doTimeline();
 }
 
 // pass with upward slide
 function MI_14() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf3, s.mid, 1, 0, 0);
     s.fly(s.lf1, s.mid, 0, .5, 1.5);
@@ -453,10 +439,9 @@ function MI_14() {
 
 // pivots
 function MI_15() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf2, s.ground, 0, 0, 0);
     s.fly(s.lf2, s.mid, 0, .5, 1);
@@ -477,10 +462,9 @@ function MI_15() {
 
 // lollipop
 function MI_16() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     MotionPathPlugin.convertToPath('#circle3');
 
@@ -497,7 +481,7 @@ function MI_16() {
 
     s.fly(s.rt1, s.ground, 2, 0, 0);
     s.fly(s.lf1, s.mid, 0, 1, 2);
-    s.path(circle3, 5, 0);
+    s.path(circle3, 0, .5, 5);
     s.fly(s.rt1, s.ground, 0, .5, 2);
 
     s.doTimeline();
@@ -505,10 +489,9 @@ function MI_16() {
 
 // reverse octagon
 function MI_17() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf2, s.low, -1, 0, 0);
     s.fly(s.rt1, s.low, 0, .5, 2);
@@ -534,10 +517,9 @@ function MI_17() {
 
 // roman ten
 function MI_18() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf2, s.low, 0, 0, 0);
     s.fly(s.rt2, s.low, 0, .5, 2.5);
@@ -555,7 +537,7 @@ function MI_18() {
 
 // bumps
 function MI_19() {
-    reset();
+    reset()
 
     let bump1 = {
         path: '#bump1',
@@ -591,7 +573,6 @@ function MI_19() {
     }
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.lf3, s.ground, 0, 0, 0);
     s.path(bump1, 2);
@@ -603,10 +584,9 @@ function MI_19() {
 
 // lift
 function MI_20() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.centre, s.ground, 2, 0, 0);
     s.fly(s.centre, s.hi, 0, .5, 3);
@@ -618,10 +598,9 @@ function MI_20() {
 
 // diamond
 function MI_21() {
-    reset();
+    reset()
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.launch(s.low, .5);
     s.spin('-=45_ccw', .5, .3);
@@ -640,7 +619,7 @@ function MI_21() {
 
 // the felix
 function MI_22() {
-    reset();
+    reset()
 
     let felix1 = {
         path: '#felix1',
@@ -679,15 +658,14 @@ function MI_22() {
     }
 
     let s = new Stepper();
-    s.setStart(k, kImg, 0);
 
     s.fly(s.centre, s.ground, -1, 0, 0);
-    s.fly(s.centre, s.low, 0, .5, .5);
-    s.path(felix1, 2);
-    s.path(felix2, 2);
+    s.fly(s.centre, s.low, 0, .5);
+    s.path(felix1, 0, .5, 2);
+    s.path(felix2, 0, .5, 2);
     s.spin(2, .5, .5);
-    s.path(felix3, 2);
-    s.path(felix4, 2);
+    s.path(felix3, 0, .5, 2);
+    s.path(felix4, 0, .5, 2);
     s.land();
 
     s.doTimeline();

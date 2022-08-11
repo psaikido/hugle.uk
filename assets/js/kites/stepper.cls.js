@@ -1,70 +1,45 @@
 /* Stepper class. Hugh Carroll - hughie@carrollonline.co.uk.
+ * Used on https://carrollonline.uk/patterns.html.
  *
  * Green Sock Animation Platform, 'GSAP', is an object that 
  * handles the animation of dom objects.
  * Rather than code it directly, this Stepper class creates 
  * an array of values out of methods like 'fly' and 'spin'
  * to then feed into the creation of a 'timeline' that is then
- * 'tweened' by gsap to make a kite fly around.
+ * 'tweened' by gsap to make a kite fly around the Kilkenny field.
  * It's done like this so that there is a more human readable set
  * of flight patterns that can have elements that are reusable.
+ *
+ * Gsap movements are measured from an object's starting position.
+ * For left/right values we decrease/increase from the 'centre' of 380px.
  */
 
 class Stepper {
-    constructor() {
+    constructor(rotation) {
         this.obj;
         this.objInner;
         this.objCurrent;
-
         this.x;
+        this.y;
         this.rotation;
         this.delay;
         this.duration;
         this.motionPath;
         this.ease;
         this.label;
-        this.transformOrigin = '50% 35%';
-
+        this.transformOrigin = '47% 35%';
         this.rotationCount = 0;
         this.ptn = [];
 
-        this._setDimensions();
+        this._setStart(rotation);
     }
 
-    setStart(o, oInner, rotation = 0) {
-        this.obj = this.objCurrent = o;
-        this.objInner = oInner;
-        this.rotation = rotation;
-        this.delay = 0;
-        this.duration = .1;
-
-        this._addStep();
-        return this;
-    }
-
-    launch(y, duration = .75, rot = 0) {
+    launch(y, duration = 1, rot = 0) {
+        this.x = this.centre;
         this.y = y;
         this.duration = duration;
         this.rotation = rot;
         this.delay = 1;
-
-        this._addStep();
-        return this;
-    }
-
-    tipTurn1(origin, rot, delay = 0, duration = 1, label) {
-        this.transformOrigin = origin;
-        this.spin(rot, delay, duration, label);
-    }
-
-    tipTurn(origin, x, y, rot = 0, delay = .5, duration = 1) {
-        this.objCurrent = this.obj;
-        this.transformOrigin = origin;
-        this.x = x;
-        this.y = y;
-        this.rotation = rot;
-        this.delay = delay;
-        this.duration = duration;
 
         this._addStep();
         return this;
@@ -80,7 +55,7 @@ class Stepper {
         return this;
     }
 
-    innerSpin(rot, delay = 0, duration = 1, label) {
+    innerSpin(rot, delay = 0, duration = .5, label) {
         this.objCurrent = this.objInner;
         this.rotation = rot;
         this.delay = delay;
@@ -91,7 +66,7 @@ class Stepper {
         return this;
     }
 
-    fly(x, y, rot = 0, delay = .5, duration = .75) {
+    fly(x, y, rot = 0, delay = .5, duration = 1) {
         this.objCurrent = this.obj;
         this.x = x;
         this.y = y;
@@ -103,44 +78,30 @@ class Stepper {
         return this;
     }
 
-    land(duration = 1, delay = .5) {
+    land(delay = .5, duration = 1) {
         this.fly(this.x, this.ground, 0, delay, duration);
         return this;
     }
 
-    diveStop(y, duration = 1) {
+    diveStop(y, duration = 1, delay = .5) {
         this.y = y;
         this.duration = duration;
+        this.delay = delay;
         this.ease = 'power1.in';
 
         this._addStep();
         return this;
     }
 
-    path(mp, dur, rotationCount = 0) {
-        this.x = undefined;
-        this.y = undefined;
+    path(mp, rotation, delay = .5, duration = 3, ease = 'sine.inOut') {
         this.motionPath = mp;
-        this.duration = dur;
-        this._convertRotCode(rotationCount);
+        this._convertRotCode(rotation);
+        this.delay = delay;
+        this.duration = duration;
+        this.ease = ease;
 
         this._addStep();
         return this;
-    }
-
-    testPath(path) {
-        for (var i = 0; i < path.length; i++) {
-            var x = this.centre + path[i].x;
-            var y = 400 - Math.abs(path[i].y);
-
-            var dv = $('<div class="pathTestPoint"/>')
-                .css({
-                    left: x,
-                    top: y
-                })
-                .attr('title', i)
-                .appendTo('#wind-window');
-        }
     }
 
     doTimeline() {
@@ -157,16 +118,32 @@ class Stepper {
         }
     }
 
+    _setStart(rotation = 0) {
+        this.obj = this.objCurrent = k;
+        this.objInner = kImg;
+        this.rotation = rotation;
+        this.delay = 0;
+        this.duration = .1;
+
+        this._setDimensions();
+        this._addStep();
+        return this;
+    }
+
     _setDimensions() {
         // Establish width & height of the wind-window.
         this.ww = document.getElementById('wind-window');
+
+        if (!this.ww) {
+            this.ww = document.getElementById('wind-window-with-menu');
+        }
 
         // Gsap movements are measured from an object's starting position.
         // For left/right values we decrease/increase from the 'centre'.
         // This 'centre' has to first be calculated as the middle of the 
         // wind-window div first though.
         this.codeCentre = this.ww.offsetWidth / 2;
-        
+
         // the minus 10 is to give a little margin at the edges
         this.colWidth = (this.ww.offsetWidth / 6) - 10; 
 
@@ -249,19 +226,6 @@ class Stepper {
             this.transformOrigin,
             this.label,
         ];
-
-        const step2 = {
-            objCurrent: this.objCurrent,
-            x:          this.x,
-            y:          this.y,
-            rotation:   this.rotation,
-            delay:      this.delay,
-            duration:   this.duration,
-            motionPath: this.motionPath,
-            ease:       this.ease,
-            transformOrigin: this.transformOrigin,
-            label:      this.label,
-        };
 
         this.ptn.push(step);
         this._resetVars();
