@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Thesium
+layout: thesium
+title: intro
 permalink: /thesium/index.html
 ---
 
