@@ -53,7 +53,7 @@ html {
 }
 
 body {
-    font-family: 'Paprika', cursive;
+    font-family: 'Ubuntu';
     font-size: 1.1em;
     letter-spacing: .1em;
     margin: 0;
@@ -221,7 +221,7 @@ body {
 a,
 a:link,
 a:visited {
-	color: $text-mute;
+	color: $text-link;
     text-decoration: underline;
 }
 
