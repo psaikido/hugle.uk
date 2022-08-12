@@ -18,6 +18,7 @@ and (max-device-width: 740px) {
         left: 0;
         top: 41px;
         min-width: 91%;
+        margin-top: 0;
 
         .home-page {
             .random-hughku {
@@ -35,12 +36,12 @@ and (max-device-width: 740px) {
         }
 
         &.subMenu {
-            left: 140px;
+            padding-left: 140px;
             width: 245px;
             min-width: 210px;
 
             &.hide {
-                left: 40px;
+                padding-left: 40px;
                 width: 340px;
             }
         }
@@ -57,7 +58,7 @@ and (max-device-width: 740px) {
     }
 
     nav.poem-menu {
-        top: 85px;
+        top: 53px;
         font-size: .8em;
         max-width: 140px;
         min-width: 114px;
@@ -91,6 +92,7 @@ and (max-device-width: 740px) {
 
     .poem {
         width: 90vw;
+        font-size: .8em;
     }
 
     .wrap img {
@@ -101,6 +103,7 @@ and (max-device-width: 740px) {
         font-size: 50%;
         padding: 0;
         width: calc(100vw - 140);
+        text-align: center;
         min-height: 42px;
     }
 
@@ -136,7 +139,9 @@ and (max-device-width: 740px) {
     }
 
     h4.poem-title {
+        width: 90vw;
         margin-top: 10px;
+        padding-left: 6px;
     }
 }
 
@@ -145,11 +150,9 @@ and (max-device-width: 740px) {
 and (min-device-width: 360px)
 and (max-device-width: 400px) {
     .header {
-        font-size: 65%;
+        font-size: 70%;
         padding: 0;
-        width: calc(100vw - 140);
-        text-align: left;
-        margin: 10px 0 0 45px;
+        margin: 10px 105px 0 45px;
         min-height: 42px;
     }
 
