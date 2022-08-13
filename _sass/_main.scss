@@ -59,19 +59,25 @@ body {
     margin: 0;
     padding: 0;
     line-height: 25px;
-}
 
-.wrap {
-    position: relative;
-    height: 100%;
-    min-height: 800px;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0;
+    .body-inner {
+        width: 100vw;
+        text-align: center;
+    }
 
-    img {
-        max-width: 100%;
-        border: 1px solid $border-light;
+    .wrap {
+        position: relative;
+        display: inline-block;
+        height: 100%;
+        min-height: 800px;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0;
+
+        img {
+            max-width: 100%;
+            border: 1px solid $border-light;
+        }
     }
 }
 
@@ -174,7 +180,6 @@ body {
     }
 
     .poem-footer {
-        width: 80vw;
         padding-top: 26px;
 
         .next {
@@ -263,6 +268,8 @@ ul {
 
 .center-quote {
     text-align: center;
+    font-style: italic;
+    font-size: 90%;
 }
 
 @keyframes reveal {
