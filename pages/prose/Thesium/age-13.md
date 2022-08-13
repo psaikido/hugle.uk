@@ -1,0 +1,72 @@
+---
+layout: thesium
+title: Age 13
+permalink: /thesium/age-13.html
+---
+
+Can you tell me more about when you stopped going to church?
+
+Oh yeah, that was amazing. See the whole family went on holiday, I think
+it was somewhere in Wales. Anyway, we had to go to church even during
+holiday see, and when we got somewhere there would always be this
+driving around to find the right kind of church and what the times were.
+What I remember is sitting in the back of the car, there's seven people
+crammed in there mind, and feeling really rotten about this finding a
+bloody church. All I wanted to do was play and explore and stuff right?!
+So the first thing I remember is the needle between my older brothers
+and my mam. I think the oldest must've objected, I don't remember, but it was mam's
+response that is the core of this. I remember she suddenly raised her
+voice and said "Well NONE of you HAVE to go if you REALLY don't want
+to!" She was absolutely furious.  
+
+That must've had quite an effect. What happened?  
+
+Well I remember turning to my nearest brother and we both had this look
+of insane glee. We just couldn't believe it! There was this suppressed
+silence until we got to the campsite and then there was just this
+explosion of joy. We ran off squeeling with elation.  
+
+When I was much younger I was really into it. I remember having this
+intense feeling of oneness with Jesus and this sense of universal love
+for everything. All the stuff that happened in school with that lot,
+nothing really terrible, it was just this sense of the dislocation
+between the words and the actions you know?  
+
+So a cognitive dissonance would you say?  
+
+That's right, exactly, yes, a cognitive dissonance. There was on the one
+hand the beauty of the rhetoric about love and forgiveness and eternal
+life and everything, and on the other was this constant coercion. You
+know, a 'rules are rules' attitude all the time. Getting a leather strap
+across your hand if the crime was bad enough. Stuff like wearing a shirt
+with patterns on when they had to be plain. Shit like that.  
+
+So was that the cause of the friction then, the rules?  
+
+No, not really, it went way deeper than that. There was this one time
+when one of our teachers, a nun, had said that evil wasn't created by
+God. That really bothered me. It was the one time I really studied the
+bible after that. Before the next lesson with the Sister I found a
+passage in Luke that supported my argument. My hand went up and I let
+her have it. That was my main way of rebelling you see, by apparently following
+the rules in such a way as to show them to be absurd. It made it harder
+for them to punish you if they couldn't put their finger on what was
+wrong. Anyway, I said "It says in Luke 6:43 'No good tree bears bad
+fruit, nor does a bad tree bear good fruit.' And in Genesis 1 it says
+'In the beginning God created the heavens and the earth. 2 Now the earth
+was formless and empty..' so God must've created everything here,
+including evil!  
+
+So what did she say?  
+
+Oh the usual bluster and "just have faith" and "you're too young to
+understand such things". I think it was her who didn't understand such
+things. Apparently there is a branch of Theology called Theodicy, that
+is all about this problem of evil. She was an Irish farm girl sent off
+to a nunnery and I don't think she had the slightest idea about what
+made us tick. Anyway, around about then I was realising that the story they
+had about everything just didn't hold water. I was very fired up to find
+my own way at that point, so I started researching everything I could find. The first
+stuff I found was from the Hindu tradition, so for a while I was reading
+all about far our, hippified versions of trippy, mystical stuff. It was
+really cool!
