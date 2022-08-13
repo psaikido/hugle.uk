@@ -1,0 +1,13 @@
+.main-content {
+    &.subMenu {
+
+        .quote-heading {
+            color: $blue;
+            font-style: italic;
+            font-size: 90%;
+            border-bottom: 1px solid $border-light;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+    }
+}

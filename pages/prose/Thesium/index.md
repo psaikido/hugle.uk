@@ -1,13 +1,14 @@
 ---
 layout: thesium
-title: Intro
+title: Seeds
 permalink: /thesium/index.html
 ---
 
-"The ship wherein Theseus and the youth of Athens returned from Crete had thirty oars, and was preserved by the Athenians down even to the time of Demetrius Phalereus, for they took away the old planks as they decayed, putting in new and stronger timber in their places, in so much that this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same, and the other contending that it was not the same."
-{:.center-quote}
+<div class="quote-heading">
+"The ship wherein Theseus and the youth of Athens returned from Crete had thirty oars, and was preserved by the Athenians down even to the time of Demetrius Phalereus, for they took away the old planks as they decayed, putting in new and stronger timber in their places, in so much that this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same, and the other contending that it was not the same."  
+
 — Plutarch, Theseus
-{:.center-quote}
+</div>
 
 
 The deep future. Gaia's son mourns her dying and casts many seeds onto the winds. His hope is to replant the earth and have it grow again. To conjure Gaia back to life. The people had thought of the wars as coming from over-consumption, but he saw it as a war between the Good and the True. It had killed everyone but this son and his helpers. He had fled to shelter with Luna and awaited any fruit that may return. Because he was Gaia's son and because his task would take many ages to fulfill, if ever, he had named himself 'Kronos'.

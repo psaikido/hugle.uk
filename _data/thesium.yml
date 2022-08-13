@@ -2,10 +2,10 @@ description: thesium
 
 menu:
 
-- title: Intro 
+- title: Seeds 
   url: /thesium/index.html
 
-- title: The Abystery Wakes 
+- title: Abystery Awoken 
   url: /thesium/abystery-wakes.html
 
 - title: Age 7
@@ -28,6 +28,9 @@ menu:
 
 - title: Year 1110 
   url: /thesium/year-1110.html
+
+- title: Age 17
+  url: /thesium/age-17.html
 
 - title: Year 1140 
   url: /thesium/year-1140.html

@@ -4,6 +4,10 @@ title: Age 7
 permalink: /thesium/age-7.html
 ---
 
+<div class="quote-heading">
+Archive fragment transcribed from ferrous tape media C 2011
+</div>
+
 You mentioned about that recurring dream. Please expand on that if you'd
 like to?
 

@@ -4,6 +4,10 @@ title: Age 13
 permalink: /thesium/age-13.html
 ---
 
+<div class="quote-heading">
+Archive fragment transcribed from ferrous tape media C 2011
+</div>
+
 Can you tell me more about when you stopped going to church?
 
 Oh yeah, that was amazing. See the whole family went on holiday, I think
