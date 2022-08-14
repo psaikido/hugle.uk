@@ -5,14 +5,17 @@ menu:
 - title: Seeds 
   url: /thesium/index.html
 
-- title: Abystery Awoken 
+- title: Abystery Wakes 
   url: /thesium/abystery-wakes.html
 
 - title: Age 7
   url: /thesium/age-7.html
 
-- title: Year 1 
-  url: /thesium/year-1.html
+- title: Reader 
+  url: /thesium/reader.html
+
+- title: Terraformers 
+  url: /thesium/terraformers.html
 
 - title: Year 85 
   url: /thesium/year-85.html

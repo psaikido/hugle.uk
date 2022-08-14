@@ -5,7 +5,7 @@ permalink: /thesium/age-13.html
 ---
 
 <div class="quote-heading">
-Archive fragment transcribed from ferrous tape media C 2011
+Archive fragment transcribed from ferrous tape media C 2011. Earth.
 </div>
 
 Can you tell me more about when you stopped going to church?
@@ -66,11 +66,14 @@ So what did she say?
 Oh the usual bluster and "just have faith" and "you're too young to
 understand such things". I think it was her who didn't understand such
 things. Apparently there is a branch of Theology called Theodicy, that
-is all about this problem of evil. She was an Irish farm girl sent off
+is all about this problem of evil. She was an Irish country girl sent off
 to a nunnery and I don't think she had the slightest idea about what
-made us tick. Anyway, around about then I was realising that the story they
-had about everything just didn't hold water. I was very fired up to find
+made us tick, there in a foreign country, England, during the first
+flush of punk rock. Anyway, around about then I was realising that the story they
+had about things just didn't hold water. I was very fired up to find
 my own way at that point, so I started researching everything I could find. The first
 stuff I found was from the Hindu tradition, so for a while I was reading
 all about far our, hippified versions of trippy, mystical stuff. It was
-really cool!
+really cool! Somewhere deep down I was trying to resolve this conflict
+between religion and science, between the Good and the True, between my
+parents and my brothers.

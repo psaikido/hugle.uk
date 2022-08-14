@@ -1,6 +1,6 @@
 ---
 layout: thesium
-title: The Abystery Awoken
+title: The Abystery Wakes
 permalink: /thesium/abystery-wakes.html
 ---
 
