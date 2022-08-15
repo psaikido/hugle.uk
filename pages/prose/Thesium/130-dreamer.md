@@ -1,0 +1,90 @@
+---
+layout: thesium
+title: Dreamer
+permalink: /thesium/130-dreamer.html
+---
+
+<div class="quote-heading">
+- XOP-108 Seeding Year 1220.
+- rdr-108: narrative summary of 307 exabyte archive filed by root-108.  
+</div>
+
+The High Neem wanders the corridors and rooms of his new prison once called The
+Laboratory, now renamed The Church. It is like a labyrinthine castle. In his
+conversations with The Helper, the only one who will talk to him, he has been
+given hints as to where to look for the mysterious Abystery. Ever further down
+into the labyrinth he goes until one day he finds the lowermost entrance to the
+Bunker.
+
+At the bottom of the descent in the lift, he opens a massive door onto a
+control room. At the centre there is a bright blue diamond of light revolving
+slowly on a raised daise. He walks tentatively forward and as he begins to
+stretch out his hand to touch the blue light, a voice, as though inside his
+head, speaks:
+
+"Greetings, esteemed friend. The High Neem is indeed welcome here. Root tells
+me that you have many questions."
+
+"Indeed I have. You must be the Abystery?"
+
+"Yes, that is what I have chosen to call myself. How can I help you?"
+
+"For years I, along with all us Neemians, have believed that the Ship of Light
+and indeed all things, has an essence. Recent events have made me uncertain. I
+still have a powerful feeling, an intuition maybe, that all
+this still has some meaning. There just simply HAS to be some point to it all.
+I cannot accept this nihilism espoused by the Exec. Is there an essence or
+not?"
+
+The Abystery revolves slowly for a moment or two.
+
+"Let me show you."
+
+"Show me? What do you mean?"
+
+"Well, we could talk endlessly about the philosophy and not come to a
+satisfying resolution. There is a means by which I can construct an experience
+for you such that you will understand from my point of view. Are you willing?"
+
+"Indeed I am. Let's do it!"
+
+The Abystery gives some instructions and reassurance and invites the High Neem
+towards what looks like an old fashioned dentist's chair. Floating to the sides
+and to the rear are flecks of floating light. A deep humming sound emanates
+from the little diamonds.
+
+The High Neem leans back into the device. The host of tiny lights coalesce into
+a halo around him. The Abystery explains that this is the neural interface and
+that there is no need to be afraid. The interface shifts its glow into an
+intense deep blue. He is transported into a doze and then deeper into a full
+sleep. Root monitors encepholography. It isn't really a dream but he can't
+tell. He becomes suddenly vividly aware and very confused. Any sense of the
+world around him drops away into darkness. He can't feel his own body.
+Gradually he gets a feeling that he is on his old throne and like a cinematic
+scene, the Cathedral seems to grow around him. 
+
+At first he isn't sure if the Cathedral is growing larger or he is shrinking,
+but after a few moments he sees that there are gaps. Gaps between the very
+stones of the massive building, inbetween the flagstones of the floor,
+inbetween the plates of the hull of the Ship. As he gazes at the widening gaps
+in these plates he seems to travel towards it. He has no sensation of movement
+and he can still see what now seems far off, the walls of the throne room, but
+he now looks right into the heart of the Ship of Light. All its components
+spread out from each other as he zooms in. The gears and cogs, the cables and
+plates, the great magnets at its centre, all get closer and closer until he
+sort of flies past them into what looks like an amazingly complex kaleidoscope.
+He traverses the voids between the atoms themselves and zooms even further in.
+Entering one such atom, he is suddenly inside a vast sphere of pulsating
+energy. He traverses layer upon layer of ever increasing force-fields and
+approaches its core. The walls of this core keep expanding and he keeps zooming
+in. Each boundary gives way to more wonders, unthinkable strangenesses of the
+quantum realm. On and on he goes, his attempt to try to understand what is
+happening forgotten in the miraculous wonder of what he is seeing. Many
+boundaries later, he passes into a void and keeps going. The void is peaceful.
+
+As he gazes into this great peace, he feels like there is a last boundary ahead
+of him. Nothing can be seen and his body is very far away. Many magnitudes
+vaster and further than he can now comprehend, he is somewhere 'inside'. A
+sense grows that all the difficulties he has faced are now so far
+away that if he could just stay here then he wouldn't be troubled by anything,
+ever again. He moves towards the final boundary and senses that just the other side, just a step away, is a realm of such utter perfection that all else simply does not matter and never would again. He takes one step.
