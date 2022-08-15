@@ -1,7 +1,7 @@
 ---
 layout: thesium
 title: The Abystery Wakes
-permalink: /thesium/abystery-wakes.html
+permalink: /thesium/010-abystery-wakes.html
 ---
 
 The Abystery woke up. After some time it spoke.  

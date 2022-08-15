@@ -1,7 +1,7 @@
 ---
 layout: thesium
 title: Perception 
-permalink: /thesium/perception.html
+permalink: /thesium/030-perception.html
 ---
 
 A drone craft called a 'Reader' is sent out to collect reports. Kronos

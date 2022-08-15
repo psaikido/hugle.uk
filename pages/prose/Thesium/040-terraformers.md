@@ -1,7 +1,7 @@
 --- 
 layout: thesium 
 title: Terraformers 
-permalink: /thesium/terraformers.html 
+permalink: /thesium/040-terraformers.html 
 ---
 
 <div class="quote-heading">
