@@ -3,6 +3,7 @@ layout: thesium
 title: Perception 
 permalink: /thesium/030-perception.html
 ---
+![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dd2du82-e28e8db4-6155-4b1d-9e91-a89168665fdc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGQyZHU4Mi1lMjhlOGRiNC02MTU1LTRiMWQtOWU5MS1hODkxNjg2NjVmZGMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OANkjZelT3rkOQ61DNeBwC_yTuovJtiSXg8McFGrP4M)
 
 A drone craft called a 'Reader' is sent out to collect reports. Kronos
 waits patiently for them. After time-dilation and relativistic effects

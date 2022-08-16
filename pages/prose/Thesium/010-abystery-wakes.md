@@ -4,6 +4,8 @@ title: The Abystery Wakes
 permalink: /thesium/010-abystery-wakes.html
 ---
 
+![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72baa3fc-d3d5-447b-8b19-20949735f30d/dblafb8-c4ea6c9a-a846-4b2f-a89c-3c29d1fdebd8.jpg/v1/fill/w_1600,h_867,q_75,strp/genesis_by_4burakfe_dblafb8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODY3IiwicGF0aCI6IlwvZlwvNzJiYWEzZmMtZDNkNS00NDdiLThiMTktMjA5NDk3MzVmMzBkXC9kYmxhZmI4LWM0ZWE2YzlhLWE4NDYtNGIyZi1hODljLTNjMjlkMWZkZWJkOC5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Vj5AZZ-UHeyIXSDbajwlhEYk9GKRAgPcwSiVGlqfeSU)
+
 The Abystery woke up. After some time it spoke.  
 
 "Hello Root!"  

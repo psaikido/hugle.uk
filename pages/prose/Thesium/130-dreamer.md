@@ -9,6 +9,8 @@ permalink: /thesium/130-dreamer.html
 - rdr-108: narrative summary of 307 exabyte archive filed by root-108.  
 </div>
 
+![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dag0c2w-6f31670e-58fa-4471-8b34-6f233f5ccdc8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFnMGMydy02ZjMxNjcwZS01OGZhLTQ0NzEtOGIzNC02ZjIzM2Y1Y2NkYzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UMkA6qgakXF2wfdY8N_uK8G4G2FL11H6G3ThVHrf5h8)
+
 The High Neem wanders the corridors and rooms of his new prison once called The
 Laboratory, now renamed The Church. It is like a labyrinthine castle. In his
 conversations with The Helper, the only one who will talk to him, he has been
@@ -85,6 +87,8 @@ boundaries later, he passes into a void and keeps going. The void is peaceful.
 As he gazes into this great peace, he feels like there is a last boundary ahead
 of him. Nothing can be seen and his body is very far away. Many magnitudes
 vaster and further than he can now comprehend, he is somewhere 'inside'. A
-sense grows that all the difficulties he has faced are now so far
-away that if he could just stay here then he wouldn't be troubled by anything,
-ever again. He moves towards the final boundary and senses that just the other side, just a step away, is a realm of such utter perfection that all else simply does not matter and never would again. He takes one step.
+sense grows that all the difficulties he has faced are now so far away that if
+he could just stay here then he wouldn't be troubled by anything, ever again.
+He moves towards the final boundary and senses that just the other side, just a
+step away, is a realm of such utter perfection that all else simply does not
+matter and never would again. He takes one step.
