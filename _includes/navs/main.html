@@ -20,17 +20,33 @@
 
                         <ul class="dropdown-menu">
                             {% for subitem in item.sub %}
-                                <li>
-                                    <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}">
-                                        {{ subitem.title }}
-                                    </a>
-                                </li>
+                                {% if subitem.subsub %}
+                                    <li class="">
+                                        <h6>{{ subitem.title }}</h6>
+
+                                        <ul class="dropdown-submenu">
+                                            {% for subsubitem in subitem.subsub %}
+                                                <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" class="btn">
+                                                    {{ subsubitem.title }}
+                                                </a>
+                                            {% endfor %}
+                                        </ul>
+                                    </li>
+                                {% else %}
+                                    <li>
+                                        <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}">
+                                            {{ subitem.title }}
+                                        </a>
+                                    </li>
+                                {% endif %}
                             {% endfor %}
                         </ul>
                     </li>
                 {% else %}
                     <li class="">
-                        <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}" class="btn btn-primary">{{ item.title }}</a>
+                        <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}" class="btn btn-primary">
+                            {{ item.title }}
+                        </a>
                     </li>
                 {% endif %}
             {% endfor %}

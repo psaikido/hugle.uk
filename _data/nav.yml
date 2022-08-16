@@ -6,6 +6,8 @@ menu:
 
     - title: writings
       sub: 
+      - title: poetry
+        subsub: 
         - title: Yarn
           url: /yarn/
 
@@ -15,69 +17,33 @@ menu:
         - title: Bucket
           url: /bucket/
 
+      - title: prose
+        subsub:
         - title: Mahabodhi Moonlight
           url: /pages/prose/mahabodhi-moonlight.html
 
         - title: First Burn
           url: /pages/prose/firstBurn/01-fb.html
 
+      - title: blogs
+        subsub:
+          - title: ideas
+            url: /blog/ideas
 
-    - title: mantra
+          - title: personal 
+            url: /blog/personal
+
+          - title: magic 
+            url: /blog/magic
+
+          - title: essays
+            url: /blog/essays
+
+
+    - title: Dharma
       sub:
-        - title: mantra carving
-          url: /blog/mantra
-
-        - title: mantra archive
-          url: /blog/mantra-archive
-
-        - title: gallery
-          url: /pages/pix/stones.html
-
-
-    - title: blogs
-      sub:
-        - title: ideas
-          url: /blog/ideas
-
-        - title: personal 
-          url: /blog/personal
-
-        - title: magic 
-          url: /blog/magic
-
-        - title: essays
-          url: /blog/essays
-
-
-    - title: kites
-      sub:
-        - title: fleet 
-          url: /pages/kites/fleet.html
-
-        - title: rotation codes
-          url: /pages/kites/rotation-codes.html
-
-        - title: youtubes 
-          url: /kites/kite-youtubes.html
-
-        - title: messing about vids 
-          url: /kites/kite-messing-youtubes.html
-
-        - title: sims
-          url: /kites/sims.html
-
-        - title: kaitodo
-          url: /kites/kaitodo.html
-
-        - title: kite thoughts
-          url: /kites/kite-thoughts.html
-
-        - title: ISKCB 
-          url: /kites/iskcb.html
-
-
-    - title: mantrasphere
-      sub:
+      - title: mantrasphere
+        subsub:
         - title: info
           url: /mantrasphere/
 
@@ -96,21 +62,19 @@ menu:
         - title: press release 
           url: /mantrasphere/press.html
 
+      - title: mantra
+        subsub:
+        - title: mantra carving
+          url: /blog/mantra
 
-    - title: magic
-      sub:
-        - title: info 
-          url: /pages/magic/main.html
+        - title: mantra archive
+          url: /blog/mantra-archive
 
-        - title: testimonials 
-          url: /pages/magic/testimonials.html
+        - title: gallery
+          url: /pages/pix/stones.html
 
-        - title: pix from gigs 
-          url: /pages/magic/pix.html
-
-
-    - title: sutta anthology
-      sub:
+      - title: sutta anthology
+        subsub:
         - title: intro 
           url: /pages/suttas/index.html
 
@@ -119,6 +83,47 @@ menu:
 
         - title: list 
           url: /pages/suttas/list-of-suttas.html
+
+
+    - title: play
+      sub:
+      - title: kites
+        subsub:
+          - title: fleet 
+            url: /pages/kites/fleet.html
+
+          - title: rotation codes
+            url: /pages/kites/rotation-codes.html
+
+          - title: youtubes 
+            url: /kites/kite-youtubes.html
+
+          - title: messing about vids 
+            url: /kites/kite-messing-youtubes.html
+
+          - title: sims
+            url: /kites/sims.html
+
+          - title: kaitodo
+            url: /kites/kaitodo.html
+
+          - title: kite thoughts
+            url: /kites/kite-thoughts.html
+
+          - title: ISKCB 
+            url: /kites/iskcb.html
+
+
+      - title: magic
+        subsub:
+          - title: info 
+            url: /pages/magic/main.html
+
+          - title: testimonials 
+            url: /pages/magic/testimonials.html
+
+          - title: pix from gigs 
+            url: /pages/magic/pix.html
 
 
     - title: galleries

@@ -45,6 +45,11 @@ html {
             width: 100%;
         }
 
+        .dropdown-submenu .btn,
+        .btn-secondary {
+            line-height: 14px;
+        }
+
         .show > .btn-primary.dropdown-toggle:focus,
         .btn-primary:focus,
         .btn:focus {
