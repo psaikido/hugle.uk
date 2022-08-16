@@ -250,6 +250,11 @@ a:hover {
 
 ul {
     list-style-type: square;
+    margin-left: -38px;
+
+    li {
+        margin-bottom: 8px;
+    }
 }
 
 .poem, 

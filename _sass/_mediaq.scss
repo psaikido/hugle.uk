@@ -37,12 +37,16 @@ and (max-device-width: 740px) {
 
         &.subMenu {
             padding-left: 140px;
-            width: 245px;
+            width: calc(100vh - 140px);
             min-width: 210px;
 
             &.hide {
                 padding-left: 40px;
                 width: 340px;
+            }
+
+            ul {
+                font-size: 80%;
             }
         }
 
