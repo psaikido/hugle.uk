@@ -6,7 +6,7 @@ permalink: /thesium/150-dread.html
 
 <div class="quote-heading">
 - XOP-108 Seeding Year 1220.
-- rdr-108: narrative summary of 12 petabyte archive filed by root-108.  
+- rdr-108: narrative summary of 2 petabyte archive filed by root-108.  
 - root-108: anomalous entity 'Abystery' report.
 </div>
 
