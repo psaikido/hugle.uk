@@ -5,7 +5,7 @@ menu:
 - title: Seeds 
   url: /thesium/index.html
 
-- title: Abystery Wakes 
+- title: Abystery
   url: /thesium/010-abystery-wakes.html
 
 - title: Age 7
@@ -43,3 +43,9 @@ menu:
 
 - title: Dreamer
   url: /thesium/130-dreamer.html
+
+- title: Self
+  url: /thesium/140-self.html
+
+- title: Dread
+  url: /thesium/150-dread.html

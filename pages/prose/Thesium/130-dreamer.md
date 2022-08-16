@@ -5,8 +5,9 @@ permalink: /thesium/130-dreamer.html
 ---
 
 <div class="quote-heading">
-- XOP-108 Seeding Year 1220.
-- rdr-108: narrative summary of 307 exabyte archive filed by root-108.  
+- XOP-108: Seeding Year 1220.
+- rdr-108: narrative summary of 19 petabyte archive filed by root-108.  
+- root-108: anomalous entity 'Abystery' report.
 </div>
 
 ![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dag0c2w-6f31670e-58fa-4471-8b34-6f233f5ccdc8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFnMGMydy02ZjMxNjcwZS01OGZhLTQ0NzEtOGIzNC02ZjIzM2Y1Y2NkYzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UMkA6qgakXF2wfdY8N_uK8G4G2FL11H6G3ThVHrf5h8)
@@ -88,7 +89,11 @@ As he gazes into this great peace, he feels like there is a last boundary ahead
 of him. Nothing can be seen and his body is very far away. Many magnitudes
 vaster and further than he can now comprehend, he is somewhere 'inside'. A
 sense grows that all the difficulties he has faced are now so far away that if
-he could just stay here then he wouldn't be troubled by anything, ever again.
-He moves towards the final boundary and senses that just the other side, just a
-step away, is a realm of such utter perfection that all else simply does not
-matter and never would again. He takes one step.
+he could just stay here then he wouldn't be troubled by anything, not anything,
+ever again. He moves towards the final boundary and senses that just the other
+side, just a step away, is a realm of such utter perfection that all else
+simply does not matter and never would again. 
+
+"But what of the soul?" he thinks to himself. Sure, he can see that the physical world and the universe and the whole shebang is made of components and don't have a centre, but he still feels the strongest intuition that HE has a core even if everything outside him doesn't. "What of myself?"
+
+The Abystery's deep voice emanates out of the void. "Come with me!"
