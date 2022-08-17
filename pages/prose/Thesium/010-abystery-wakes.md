@@ -21,7 +21,7 @@ something. Something self-aware. That something now made itself known.
 The artificial intelligence, r-108 is what Kronos called it, but it thought of
 itself simply as 'Root', was a state of the art machine, built to terraform
 planets and assist the seed colonies. In humanity's last decade on the burning
-Earth it had sent out so many dandelion seeds. So many. All its remaining
+Earth it had sent out so many seed ships. So many dandelion clocks drifting through interstellar meadows. All its remaining
 resources were poured into this final effort. Flung out to drift in space until
 conditions were right to grow on new worlds, they all had a 'root' AI and they
 all had the capacity to adapt to their surroundings and grow. This one had

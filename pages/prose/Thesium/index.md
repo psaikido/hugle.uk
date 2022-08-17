@@ -15,12 +15,17 @@ permalink: /thesium/index.html
 
 The deep future. Gaia's son mourns her dying and casts many seeds onto the
 winds. His hope is to replant the earth and have it grow again. To conjure Gaia
-back to life. The people had thought of the wars as coming from
-over-consumption, but he saw it as a war between the Good and the True. It had
-killed everyone but this son and his helpers. He had fled to shelter with Luna
-and awaited any fruit that may return. Because he was Gaia's son and because
-his task would take many ages to fulfill, if ever, he had named himself
-'Kronos'.
+back to life. He looked for a story that could hold a world together. He needed a mythos.
+
+The people had thought of the wars as coming from
+over-consumption, but he saw it as a war between the Good and the True. A war
+between religion and science. The world had lost a central mythos to hold it
+together and in the vacuum that followed, rampant profiteering had dominated.
+Wearing the mask of Truth, it used science to facilitate its rush over the
+edge of the cliff. It had killed everyone but this son and his helpers. He had
+fled to shelter with Luna and awaited any fruit that may return. Because he was
+Gaia's son and because his task would take many ages to fulfill, if ever, he
+had named himself 'Kronos'.
 
 Humanity's central Artificial Intelligence, this Kronos, has sent out a myriad
 of colonising 'seed' ships. Essentially von Neumann machines, they were sent
@@ -52,7 +57,7 @@ upheavals, of mass migrations and water wars, a group of the top people in
 their fields gathered and started work. Somehow they co-opted military funding
 streams. It took several generations before they were self-sufficient and by
 the time the first seeds were launched the Moon had become their base. The last
-few fascist regimes were still eating themselves and each other while the
+few fascist regimes were still eating themselves, and each other, while the
 wormhole gates were constructed. Rats and dogs had become the apex predators
 when the greatest artificial intelligence ever known, Kronos, had come online.
 

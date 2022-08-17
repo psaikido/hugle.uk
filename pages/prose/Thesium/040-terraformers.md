@@ -37,6 +37,5 @@ embryos begin their journies. A massive computing and data collection facility
 is built underground to archive and process everything.  
 
 All this activity centres on the ship which is used primarily as an interim
-energy source. By the end of the fifth year it is no longer needed but is kept
-in the central pride of place in the heart of their new city.
+energy source. By the end of the fifth year its main components have been repurposed and used in Root's primary infrastructure. Theo's shuttle craft is now no longer used either. Everything they need is now close at hand. They keep it in the central pride of place in the heart of their new city. A symbol of their voyage to this beautiful new world.
 
