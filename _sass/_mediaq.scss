@@ -130,6 +130,9 @@ and (max-device-width: 740px) {
         .navbar-toggler {
             padding: 2px;
         }
+        .navbar-nav {
+            width: 75vw;
+        }
     }
 
     #wind-window, 
