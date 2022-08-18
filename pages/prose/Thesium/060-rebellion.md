@@ -9,7 +9,7 @@ permalink: /thesium/060-rebellion.html
 - rdr-108: narrative summary of 589 exabyte archive filed by root-108.  
 </div>
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dafikau-3879fa40-e12e-431f-9a56-6877bd43ef98.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFmaWthdS0zODc5ZmE0MC1lMTJlLTQzMWYtOWE1Ni02ODc3YmQ0M2VmOTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bg9Thu5CEC8QebK9bYO0s4hFZ4-_BW3j2LvT70DLpTE)
+![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dctj7u6-edf53265-ef8b-4ca0-9a51-ddc8090568de.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGN0ajd1Ni1lZGY1MzI2NS1lZjhiLTRjYTAtOWE1MS1kZGM4MDkwNTY4ZGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dvKabDma3Wix1DpWEnhTZIvDWZss8aDWun1llkQF4fU)
 
 XOP-108 went through a period of being called "Theo's World" but has now
 morphed into the name 'Thesium'. It has become a feudal and theocratic society
