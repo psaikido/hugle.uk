@@ -14,14 +14,14 @@ I love it!
 #### tarantula
 ![tarantula]({{ site.baseurl }}/assets/images/kites/fleet/tarantula.jpg)  
 [revkites tarantula](https://revkites.com/product/revolution-reflex-xx-tarantula/)
-Bigger than the spider, hence 'tarantula', this one is my all round favourite.  
-Most of the [club38](https://revkites.com/club-38/) patterns were flown with this one. It doesn't like too high wind, over around 18mph, and doesn't do well in under 10mph. It is very responsive and stable at the same time though. Brilliant!
+Bigger than the spider, hence 'tarantula', this one is just all round brilliant. It has quite a broad range and can handle most conditions and still look really sharp.  
+Most of the [club38](https://revkites.com/club-38/) patterns were flown with this one. It is very responsive and stable at the same time. Brilliant! These are customised colours.
 
 
 #### djinn
 ![djinn]({{ site.baseurl }}/assets/images/kites/fleet/djinn.jpg)  
 [kiteforge](https://kiteforge.com/product/djinn/)
-I got this lovely kite for low wind days, below 10mph. It seems to do best on short lines. I'm not yet able to predict its movement so it catches me out sometimes. I went for the 'standard vent' model. It's the prettiest!
+I got this lovely kite for low wind days, below 10mph. It seems to do best on short lines when the wind is low. Amazing performance on the normal 80ft lines and a good wind. I went for the 'standard vent' model. It's the prettiest!
 
 
 #### blast
@@ -32,10 +32,13 @@ This is the monster! Really fast and pulls hard. It is from the 'speed series' o
 
 #### XX
 ![XX]({{ site.baseurl }}/assets/images/kites/fleet/usain-1.png)
-The Reflex XX is like the Tarantula but unvented.
+The Reflex [XX](https://revkites.com/product/revolution-reflex-xx/) is like the Tarantula but unvented. It is sooo responsive and sharp. For wind around 12-15mph when it's smooth, this is just the most lovely thing. Custom colours, I think of them as the 'Batman' scheme.
 
+#### Microlite
+![microlite]({{ site.baseurl }}/assets/images/kites/fleet/microlite.jpg)
+Super light-weight and great for low wind days. I love the 'bubblegum' feel to the colours and the beehive hexagons. Top fun!
 
 #### fulcrum.85
 ![fulcrum]({{ site.baseurl }}/assets/images/kites/fleet/fulcrum85.jpg)
-Super speedy, spinny and stoppy. Ace!
+Wow, the [fulcrum.85](https://atelierkites.com/shop/en/fulcrum/51-fulcrum.html)! Super speedy, spinny and stoppy. Ace! Here it is in my customised colours.
 
