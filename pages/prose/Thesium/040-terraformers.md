@@ -11,7 +11,8 @@ permalink: /thesium/040-terraformers.html
 
 ![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/daijwvl-fbe16bbf-48a4-43ee-9e01-95a218bd6450.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFpand2bC1mYmUxNmJiZi00OGE0LTQzZWUtOWUwMS05NWEyMThiZDY0NTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6Qf4NErvtzMN0xDgr4WcUSDBWJNhvMh21VJco7b5TCQ)
 
-Captain Theo Nimes and his crew are awoken from cryogenesis by Root. They are
+Captain Theo Nimes and his crew are awoken from cryogenesis by Root. A local
+year count is started. Root decides to name them 'Seeding Years'. They are
 already in orbit around the exoplanet dubbed XOP-108. They employ the
 rehabilition protocols they have trained for. Cryogenic suspension is rough on
 anyone.  
@@ -37,5 +38,9 @@ embryos begin their journies. A massive computing and data collection facility
 is built underground to archive and process everything.  
 
 All this activity centres on the ship which is used primarily as an interim
-energy source. By the end of the fifth year its main components have been repurposed and used in Root's primary infrastructure. Theo's shuttle craft is now no longer used either. Everything they need is now close at hand. They keep it in the central pride of place in the heart of their new city. A symbol of their voyage to this beautiful new world.
+energy source. By the end of the fifth year its main components have been
+repurposed and used in Root's primary infrastructure. Theo's shuttle craft is
+now no longer used either. Everything they need is now close at hand. They keep
+it in the central pride of place in the heart of their new city. A symbol of
+their voyage to this beautiful new world.
 
