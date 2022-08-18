@@ -275,10 +275,31 @@ ul {
     animation-iteration-count: 1;
 }
 
-.center-quote {
-    text-align: center;
-    font-style: italic;
-    font-size: 90%;
+.thesium {
+    ul {
+        margin-left: 0;
+    }
+
+    .data {
+        text-align: justify;
+        font-style: italic;
+        font-size: 90%;
+        color: $hilight;
+        border-bottom: 1px solid $border-light;
+    }
+
+    .quote {
+        color: $hilight;
+        font-style: italic;
+        border-bottom: 1px solid $border-light;
+    }
+
+    .speech {
+        text-align: justify;
+        font-style: italic;
+        font-family: Lucida;
+        font-size: 1.3em;
+    }
 }
 
 @keyframes reveal {

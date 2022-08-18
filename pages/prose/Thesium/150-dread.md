@@ -4,7 +4,15 @@ title: Dread
 permalink: /thesium/150-dread.html
 ---
 
-<div class="quote-heading">
+<div class="quote">
+"He who learns must suffer. And even in our sleep pain that
+cannot forget falls drop by drop upon the heart, and in our own despair,
+against our will, comes wisdom to us by the awful grace of God."
+
+-- Aeschylus
+</div>
+
+<div class="data">
 - XOP-108 Seeding Year 1220.
 - rdr-108: narrative summary of 2 petabyte archive filed by root-108.  
 - root-108: anomalous entity 'Abystery' report.
