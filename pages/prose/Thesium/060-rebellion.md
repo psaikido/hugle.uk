@@ -1,7 +1,7 @@
 ---
 layout: thesium
-title: Year 1085
-permalink: /thesium/060-year-1085.html
+title: Rebellion 
+permalink: /thesium/060-rebellion.html
 ---
 
 <div class="data">

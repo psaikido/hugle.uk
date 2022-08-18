@@ -1,7 +1,7 @@
 ---
 layout: thesium
-title: Year 85
-permalink: /thesium/050-year-185.html
+title: Theocracy
+permalink: /thesium/050-theocracy.html
 ---
 
 <div class="data">
