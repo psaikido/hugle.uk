@@ -4,7 +4,7 @@ title: Dreamer
 permalink: /thesium/130-dreamer.html
 ---
 
-<div class="quote-heading">
+<div class="data">
 - XOP-108: Seeding Year 1220.
 - rdr-108: narrative summary of 19 petabyte archive filed by root-108.  
 - root-108: anomalous entity 'Abystery' report.

@@ -49,10 +49,6 @@ html {
                 color: $white;
             }
         }
-
-        .main-content.subMenu .quote-heading {
-            color: $blue;
-        }
     }
 }
 
@@ -275,10 +271,21 @@ ul {
     animation-iteration-count: 1;
 }
 
-.center-quote {
-    text-align: center;
-    font-style: italic;
-    font-size: 90%;
+.thesium {
+    .data {
+        font-family: Monospace;
+        font-style: italic;
+        font-size: 110%;
+        color: $hilight;
+        line-height: 14px;
+        border-bottom: 1px solid $border-light;
+        margin-bottom: 10px;
+    }
+
+    .quote {
+        font-style: italic;
+        color: $hilight;
+    }
 }
 
 @keyframes reveal {

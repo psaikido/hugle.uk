@@ -4,7 +4,7 @@ title: Terraformers
 permalink: /thesium/040-terraformers.html 
 ---
 
-<div class="quote-heading">
+<div class="data">
 - XOP-108 Seeding Years 1 - 5.
 - rdr-108: narrative summary of 422 exabyte archive filed by root-108.  
 </div>
