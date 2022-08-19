@@ -42,5 +42,6 @@ energy source. By the end of the fifth year its main components have been
 repurposed and used in Root's primary infrastructure. Theo's shuttle craft is
 now no longer used either. Everything they need is now close at hand. They keep
 it in the central pride of place in the heart of their new city. A symbol of
-their voyage to this beautiful new world.
+their voyage to this beautiful new world. A symbolic vessel carrying their
+torch of life into an uncertain future. A ship filled with lights.
 

@@ -301,6 +301,14 @@ ul {
         font-family: Lucida;
         font-size: 1.3em;
     }
+
+    .next {
+        border-top: 1px solid $border-light;
+        margin-top: 60px;
+        color: $hilight;
+        font-size: 90%;
+        font-style: italic;
+    }
 }
 
 @keyframes reveal {

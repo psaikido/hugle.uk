@@ -18,7 +18,7 @@ deal with novel situations. Up to a point. In the deep, unstructured vastness
 of everything that had been deleted, the fragments had coalesced into
 something. Something self-aware. That something now made itself known.  
 
-The artificial intelligence, r-108 is what Kronos called it, but it thought of
+The artificial intelligence, root-108 is what Kronos called it, but it thought of
 itself simply as 'Root', was a state of the art machine, built to terraform
 planets and assist the seed colonies. In humanity's last decade on the burning
 Earth it had sent out so many seed ships. So many dandelion clocks drifting

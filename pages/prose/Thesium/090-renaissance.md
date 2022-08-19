@@ -43,4 +43,9 @@ Execs, the Evempiricals, the out-groups and the Neemians. Some concessions are
 gained and lost. Power sharing is mooted. A voting system is proposed and
 trials are undertaken.
 
+The crunch point comes when the Evempirical's champion directly confronts the
+High Neem over the 'soul' of the Ship of Light. He asserts that it is merely an
+assembly of parts, it has no essence and no special power. "Neemianism is built
+on a lie" he shouts. The High Neem counters with something about ineffable intuition but the general clamour drowns him out.
+
 The world shifts on its axis.

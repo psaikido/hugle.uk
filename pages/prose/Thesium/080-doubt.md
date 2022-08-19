@@ -22,15 +22,14 @@ everything done in the factories, nurseries and farms. The infrastructure is
 maintained from here.
 
 Closer in again are the administration zones, the schools and gyms and
-entertainments. The police have most of their centres here. The inner suburbs
-are interspersed throughout and house the more wealthy. The infrastructure is
-controlled from here.
+entertainments. The police centres try to keep control based in this zone. The
+inner suburbs are interspersed throughout and house the more wealthy. 
 
 Around the central Cathedral are the grand halls of government. Heavily policed
 and guarded, these bastions keep the outer hoards out. These are the corridors
 of power. One half of this inner circle is the Laboratory. Here Root keeps and
 trains the White Coats. They facilitate the technical aspects of the great AI
-and have special dispensation to live beyond the dictate of The High Neem. The
+and have special dispensation to live beyond the dictat of The High Neem. The
 entrance to the Bunker is kept safe at its base.
 
 The Cathedral itself, towering over all, houses The High Neem and his couterie

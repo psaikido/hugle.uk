@@ -15,7 +15,7 @@ Theo Nimes has long since died along with the rest of the crew. Their
 offspring, of which there were many, along with seven tranches of births from
 the nursery, remember him as 'Neems'. They are eight, perhaps nine generations
 away from the culture that spawned them. Theo is worshipped as a creator God by
-this new techno-tribal population. The ship at the heart of the city has become
+this new techno-tribe. The ship at the heart of the city has become
 a place of deep devotion. This proto-religion holds that a divine spirit
 animates them all and is most highly present in what they have come to call The
 Ship of Light. It is a vessel that will take them to an after-life. Their souls
@@ -25,7 +25,7 @@ their womb, and the source of the bounty all around them as the new biosphere
 together with Root work to provide for them.  
 
 Their Chieftan is called The Neem and it is primarily him who consults with
-Root. They now call their AI The Helper. The enculturation protocols had
+Root. They now call their AI 'The Helper'. The enculturation protocols had
 dropped off somewhat and Root had stood back to allow them to develop in their
 own way. It still collected all the data it could and kept watch over things.
 The anthropology sub AIs were very diligent in their observations, but they did
