@@ -49,7 +49,7 @@ var store = [];
 
 $(document).ready(function() {
   $('<div id="results">')
-    .prependTo('.main-content');
+    .prependTo('.main');
 
   $('input#search-term').click(function () {
     $(this).val('');
