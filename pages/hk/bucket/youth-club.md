@@ -1,7 +1,9 @@
 ---
 title: youth club
 written: 2020
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/youth-club.html
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: the golden fleece
 written: 2020
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/golden-fleece.html
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: silly walks 
 written: 2019
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/silly-walks.html
 ---
 

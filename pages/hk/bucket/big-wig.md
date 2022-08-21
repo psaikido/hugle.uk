@@ -1,7 +1,9 @@
 ---
 title: big wig
 written: 2020
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/big-wig.html
 ---
 

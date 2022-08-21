@@ -1,7 +1,9 @@
 ---
 title: ice
 written: 2003
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/ice.html
 ---
 

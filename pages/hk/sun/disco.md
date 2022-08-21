@@ -1,7 +1,9 @@
 ---
 title: behind the disco
 written: 1996
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/disco.html
 ---
 

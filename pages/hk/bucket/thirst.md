@@ -1,7 +1,9 @@
 ---
 title: thirst
 written: 2022 (for Cathy)
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/thirst.html
 ---
 

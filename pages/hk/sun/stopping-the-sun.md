@@ -1,7 +1,9 @@
 ---
 title: stopping the sun
 written: 2019
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/stopping-the-sun.html
 ---
 

@@ -1,3 +1,4 @@
+/* Themes */
 html {
     .navbar-nav, 
     .btn-primary,
@@ -23,9 +24,6 @@ html {
 }
 
 .navbar {
-    position: fixed;
-    top: 9px;
-    left: 0;
     z-index: 5;
 
     .navbar-nav {
@@ -81,9 +79,6 @@ html {
 }
 
 nav.poem-menu {
-    position: absolute;
-    top: 80px;
-    left: -300px;
     text-align: right;
     padding-bottom: 30px;
 

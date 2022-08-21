@@ -1,7 +1,9 @@
 ---
 title: bottom feeder
 written: 2003 & 2020
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/bottom-feeder.html
 ---
 

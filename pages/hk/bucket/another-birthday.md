@@ -1,7 +1,9 @@
 ---
 title: another birthday 
 written: 2021
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/another-birthday.html
 ---
 

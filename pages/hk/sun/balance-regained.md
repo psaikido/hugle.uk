@@ -1,7 +1,9 @@
 ---
 title: balance regained
 written: 2008
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/balance-regained.html
 ---
 

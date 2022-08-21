@@ -1,7 +1,9 @@
 ---
 title: solstice
 written: 2020
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/solstice.html
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Thursday boys
 written: 2005
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/thursday-boys.html
 ---
 

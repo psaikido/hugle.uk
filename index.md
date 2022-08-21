@@ -1,6 +1,6 @@
 ---
-layout: home
-title: hugle
+layout: default
+title: 'hugle <a href="/pages/magic/main.html" title="why the name?">*</a>'
 ---
 
 

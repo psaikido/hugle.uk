@@ -1,7 +1,9 @@
 ---
 title: spy hole
 written: 2020
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/spyhole.html
 ---
 

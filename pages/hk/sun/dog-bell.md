@@ -1,7 +1,9 @@
 ---
 title: dog and bell
 written: 2006
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/dog-bell.html
 ---
 

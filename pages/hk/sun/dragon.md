@@ -1,7 +1,9 @@
 ---
 title: dragon
 written: 2001
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/dragon.html
 ---
 

@@ -20,21 +20,6 @@ and (max-device-width: 740px) {
         min-width: 91%;
         margin-top: 0;
 
-        .home-page {
-            .random-hughku {
-                top: 80px;
-                left: 18px;
-                width: 88%;
-            }
-
-            .home-text-box {
-                top: 155px;
-                left: 18px;
-                width: 88%;
-                font-size: 12px;
-            }
-        }
-
         &.subMenu {
             padding-left: 140px;
             width: calc(100vh - 140px);
@@ -145,11 +130,6 @@ and (max-device-width: 740px) {
         left: 83px;
     }
 
-    h4.poem-title {
-        width: 90vw;
-        margin-top: 10px;
-        padding-left: 6px;
-    }
 }
 
 // Smaller mobiles in portrait
@@ -157,7 +137,6 @@ and (max-device-width: 740px) {
 and (min-device-width: 360px)
 and (max-device-width: 400px) {
     .header {
-        font-size: 70%;
         padding: 0;
         margin: 10px 105px 0 45px;
         min-height: 42px;

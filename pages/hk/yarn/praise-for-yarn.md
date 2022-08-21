@@ -1,6 +1,8 @@
 ---
 title: praise for Yarn 
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/praise-for-yarn
 ---
 

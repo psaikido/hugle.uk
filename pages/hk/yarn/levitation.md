@@ -1,7 +1,9 @@
 ---
 title: levitation
 written: 2020
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/levitation.html
 ---
 

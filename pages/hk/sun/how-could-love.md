@@ -1,7 +1,9 @@
 ---
 title: how could love
 written: 2005
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/how-could-love.html
 ---
 

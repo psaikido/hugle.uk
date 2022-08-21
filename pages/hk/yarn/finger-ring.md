@@ -1,7 +1,9 @@
 ---
 title: finger ring 
 written: 2020
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/finger-ring.html
 ---
 

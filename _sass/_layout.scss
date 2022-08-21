@@ -1,0 +1,196 @@
+$borderSize: 10px;
+
+* {
+    box-sizing: border-box;
+}
+
+/* Layout */
+body {
+    width: 99vw;
+    margin: 0;
+    padding: 8px;
+    font-size: .9em;
+}
+
+.grid-wrap {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px auto 20px;
+    grid-template-areas: 
+        'banner'
+        'main'
+        'footer';
+
+    .navbar {
+        grid-area: banner;
+        padding: 0;
+    }
+
+    .subnavbar {
+        grid-area: banner;
+        text-align: right;
+        margin-top: 80px;
+        z-index: 10;
+
+        ul {
+            display: none;
+        }
+    }
+
+    .header {
+        grid-area: banner;
+    }
+
+    .main {
+        grid-area: main;
+        border-top: 1px solid $border-light;
+        padding-top: 20px;
+
+        h4.poem-title {
+            margin-top: 10px;
+            padding-left: 6px;
+            border-bottom: 1px solid $border-light;
+        }
+
+        .home-page {
+            position: relative;
+
+            table { 
+                width: 100%;
+                text-align: center;
+            }
+
+            .home-text-box,
+            .random-hughku {
+                position: absolute;
+                width: 60%;
+                border: 1px solid $dark-grey;
+                font-style: italic;
+                background-color: $bkg;
+                opacity: .8;
+
+                td {
+                    text-align: left;
+                }
+            }
+
+            .random-hughku {
+                top: 80px;
+                left: 18px;
+                width: 88%;
+                text-align: center;
+            }
+
+            .home-text-box {
+                top: 155px;
+                left: 18px;
+                width: 88%;
+                font-size: 12px;
+            }
+
+            .dharma-names {
+                .dharma-name .unichars {
+                    font-size: 1.5em;
+                }
+            }
+        }
+    }
+
+    .footer {
+        grid-area: footer;
+        grid-row-start: 3;
+        position: fixed;
+        margin-left: -8px;
+    }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    body {
+        font-size: 1.1em;
+
+        .header {
+            height: 40px;
+        }
+    }
+
+    .grid-wrap {
+        display: grid;
+        justify-content: center;
+        text-align: center;
+        grid-template-columns: 1fr 2fr 1fr;
+        grid-template-areas: 
+            "banner banner banner"
+            "subnav main ...."
+            "footer footer footer";
+
+        .navbar {
+            grid-area: 1 / 1;
+            position: fixed;
+        }
+
+        .header {
+            grid-area: 1 / 2;
+        }
+
+        #search {
+            grid-area: 1 / 3;
+        }
+
+        .main {
+            grid-area: 2 / 2;
+            padding: 0;
+
+            .home-page {
+                position: relative;
+
+                table { 
+                    width: 100%;
+
+                    text-align: center;
+                }
+
+                .home-text-box,
+                .random-hughku {
+                    top: 230px;
+                    left: 168px;
+                    width: 60%;
+                }
+                
+                .random-hughku {
+                    top: 161px;
+                    left: 168px;
+                    padding: 10px;
+                    text-align: center;
+                }
+
+                .dharma-names {
+                    .dharma-name .unichars {
+                        font-size: 1.5em;
+                    }
+                }
+            }
+        }
+
+        .footer {
+            grid-row-start: 3;
+            grid-column-start: 1;
+            grid-column-end: 4;
+            position: fixed;
+        }
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

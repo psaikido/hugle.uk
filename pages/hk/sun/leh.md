@@ -1,7 +1,9 @@
 ---
 title: Leh
 written: 2005
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/leh.html
 ---
 

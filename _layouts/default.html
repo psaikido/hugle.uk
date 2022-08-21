@@ -3,19 +3,15 @@
     {% include head.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
-                {% include search.html %}
+            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
 
-                <div class="main-content">
-                    {{ content }}
-                </div>
-            </div>
+            <div class="main"> {{ content }} </div>
+
+            {% include footer.html %}
         </div>
 
-        {% include footer.html %}
     </body>
 </html>

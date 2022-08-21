@@ -1,7 +1,9 @@
 ---
 title: Chris Evans
 written: 2022
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/chris-evans.html
 ---
 

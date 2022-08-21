@@ -1,7 +1,9 @@
 ---
 written: 2006
 title: Boudhanath stupa
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/boudhanath.html
 ---
 

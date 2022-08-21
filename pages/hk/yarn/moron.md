@@ -1,7 +1,9 @@
 ---
 title: moron
 written: 2019
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/moron.html
 ---
 

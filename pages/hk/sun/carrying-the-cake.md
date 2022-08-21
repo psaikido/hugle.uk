@@ -1,7 +1,9 @@
 ---
 title: carrying the cake
 written: 2020
-layout: sun 
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/carrying-the-cake.html
 ---
 

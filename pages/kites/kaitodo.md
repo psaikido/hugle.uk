@@ -5,7 +5,7 @@ permalink: /kites/kaitodo.html
 ---
 
 
-## Kaitodo - The Way of the Kite
+### Kaitodo - The Way of the Kite
 
 To bring the mind, the body and the universe into balance is an excellent goal. 
 To journey towards such a goal in the hope that it will alleviate the suffering of all beings makes it truly noble.

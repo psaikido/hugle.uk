@@ -1,7 +1,9 @@
 ---
 title: Tiananmen Square
 written: 2019
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/tiananmen.html
 ---
 

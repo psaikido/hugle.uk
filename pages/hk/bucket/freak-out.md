@@ -1,7 +1,9 @@
 ---
 title: don't freak out
 written: 2019
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/dont-freak-out.html
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: pretend
 written: 2021
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/pretend.html
 ---
 

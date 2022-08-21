@@ -1,7 +1,9 @@
 ---
 title: groupies
 written: 2020
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/groupies.html
 ---
 

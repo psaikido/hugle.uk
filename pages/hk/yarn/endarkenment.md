@@ -1,7 +1,9 @@
 ---
 title: endarkenment
 written: 2019
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/endarkenment.html
 ---
 

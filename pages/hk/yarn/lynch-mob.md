@@ -1,7 +1,9 @@
 ---
 title: lynch mob
 written: 2020
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/lynch-mob.html
 ---
 

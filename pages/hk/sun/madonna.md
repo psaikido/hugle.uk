@@ -1,7 +1,9 @@
 ---
 title: Madonna
 written: 2016
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/madonna.html
 ---
 

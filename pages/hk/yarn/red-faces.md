@@ -1,7 +1,9 @@
 ---
 title: red faces in the park
 written: 2019
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/red-faces.html
 ---
 

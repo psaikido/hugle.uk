@@ -1,6 +1,8 @@
 ---
 title: info 
-layout: yarn
+banner-title: yarn
+layout: subnav
+subnav: yarn
 permalink: /yarn/
 ---
 
@@ -52,3 +54,5 @@ compelling read. Magical, in fact._
 
 
 _– Brendan Hamley_
+
+[first poem - scrabble](/yarn/scrabble.html)

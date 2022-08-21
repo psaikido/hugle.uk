@@ -1,7 +1,9 @@
 ---
 title: 10,000 Buddhas
 written: 2019
-layout: sun
+banner-title: "Sunshine & Shadow" 
+layout: subnav
+subnav: sun
 permalink: /sun/buddhas.html
 ---
 

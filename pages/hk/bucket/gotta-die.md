@@ -1,7 +1,9 @@
 ---
 title: everybody's gotta die
 written: 2014/2021
-layout: bucket
+banner-title: "bucket" 
+layout: subnav
+subnav: bucket
 permalink: /bucket/gotta-die.html
 ---
 
