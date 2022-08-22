@@ -1,6 +1,8 @@
 ---
-title: Magic
+title: pix from gigs
+banner-title: hugle - magic
 layout: magic-gallery
-dataFile: magic-gigs 
+subnav: magic 
+dataFile: magic-gigs
 ---
 

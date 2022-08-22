@@ -3,21 +3,69 @@
     {% include head.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
+            <div class="header">&#x0f3a;{{ page.banner-title }}&#x0f3b;</div>
 
-                <div class="main-content">
-                    {% assign menu = site.data.magic-youtubes.menu %}
-                    {{ content }}
+            <nav class="subnavbar">
+                <a href="#" class="toggler hide">index show/hide</a>
 
-                    {% include youtubes.html %}
-                </div>
+                <ul class="">
+                    {% for item in site.data[page.subnav].menu %}
+                        {% if item.silent != true %}
+                            <li {% if page.url  == item.url %}class="current"{% endif %}>
+                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </nav>
+
+            <div class="main sub-menu">
+                {% assign menu = site.data.magic-youtubes.menu %}
+                {{ content }}
+                {% include youtubes.html %}
             </div>
+
+            <script type="text/javascript">
+                $('.subnavbar > .toggler').click(function () {
+                    if ($('.subnavbar ul').is(':visible')) {
+                        hide(this);
+                    } else {
+                        show(this);
+                    }
+
+                    return false;
+                })
+
+                function hide (elem) {
+                    $(elem).html('show index');
+
+                    $('.subnavbar')
+                        .attr('class', 'subnavbar toggler hide');
+
+                    $('.subnavbar').find('ul').hide();
+
+                    $(elem)
+                        .attr('class', 'subnavbar toggler hide');
+                }
+
+                function show (elem) {
+                    $(elem).html('hide index');
+
+                    $('.subnavbar')
+                        .attr('class', 'subnavbar toggler show');
+
+                    $('.subnavbar').find('ul').show();
+
+                    $(elem)
+                        .attr('class', 'subnavbar toggler show');
+                }
+            </script>
+
+            {% include footer.html %}
         </div>
 
-        {% include footer.html %}
     </body>
 </html>

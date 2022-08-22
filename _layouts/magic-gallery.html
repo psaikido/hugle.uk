@@ -4,54 +4,99 @@
 
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
-                {% include navs/magic.html %}
-                {% assign menu = site.data.magic.menu %}
+            <div class="header">&#x0f3a;{{ page.banner-title }}&#x0f3b;</div>
 
-                <div class="main-content subMenu">
-                    <h5>{{ site.data.galleries[page.dataFile].description }}</h5>
+            <nav class="subnavbar">
+                <a href="#" class="toggler hide">index show/hide</a>
 
-                    {% for image in site.data.galleries[page.dataFile].images %}
-
-                        {% capture src %}
-                            {{ site.baseurl }}/{{ site.data.galleries[page.dataFile].imageFolder }}{{ image.img }}
-                        {% endcapture %}
-
-
-                        {% if image.name %}
-                            <h6>{{ image.name }}</h6>
+                <ul class="">
+                    {% for item in site.data[page.subnav].menu %}
+                        {% if item.silent != true %}
+                            <li {% if page.url  == item.url %}class="current"{% endif %}>
+                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                            </li>
                         {% endif %}
-
-
-                        <img src="{{ src }}"
-                            alt="{{ image.name }}" 
-                            class="center-img" />
-
-                        <br />
-
-                        {% if image.text %}
-                            {{ image.text }}
-                            <br />
-                        {% endif %}
-
-                        {% if image.url %}
-                            <a href="{{ image.url }}">{{ image.urlText }}</a>
-                            <br />
-                        {% endif %}
-
-                        <hr />
-
                     {% endfor %}
+                </ul>
+            </nav>
+
+            <div class="main sub-menu">
+                <h5>{{ site.data.galleries[page.dataFile].description }}</h5>
+
+                {% for image in site.data.galleries[page.dataFile].images %}
+
+                    {% capture src %}
+                        {{ site.baseurl }}/{{ site.data.galleries[page.dataFile].imageFolder }}{{ image.img }}
+                    {% endcapture %}
 
 
-                </div>
+                    {% if image.name %}
+                        <h6>{{ image.name }}</h6>
+                    {% endif %}
+
+
+                    <img src="{{ src }}"
+                        alt="{{ image.name }}" 
+                        class="center-img" />
+
+                    <br />
+
+                    {% if image.text %}
+                        {{ image.text }}
+                        <br />
+                    {% endif %}
+
+                    {% if image.url %}
+                        <a href="{{ image.url }}">{{ image.urlText }}</a>
+                        <br />
+                    {% endif %}
+
+                    <hr />
+
+                {% endfor %}
             </div>
+
+            <script type="text/javascript">
+                $('.subnavbar > .toggler').click(function () {
+                    if ($('.subnavbar ul').is(':visible')) {
+                        hide(this);
+                    } else {
+                        show(this);
+                    }
+
+                    return false;
+                })
+
+                function hide (elem) {
+                    $(elem).html('show index');
+
+                    $('.subnavbar')
+                        .attr('class', 'subnavbar toggler hide');
+
+                    $('.subnavbar').find('ul').hide();
+
+                    $(elem)
+                        .attr('class', 'subnavbar toggler hide');
+                }
+
+                function show (elem) {
+                    $(elem).html('hide index');
+
+                    $('.subnavbar')
+                        .attr('class', 'subnavbar toggler show');
+
+                    $('.subnavbar').find('ul').show();
+
+                    $(elem)
+                        .attr('class', 'subnavbar toggler show');
+                }
+            </script>
+
+            {% include footer.html %}
         </div>
 
-        {% include footer.html %}
     </body>
 </html>
