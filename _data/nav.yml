@@ -159,10 +159,10 @@ menu:
           url: /pages/pix/portfolio.html
 
         - title: TV Lutòn
-          url: /pages/musings/tvluton.html
+          url: /pages/stuff/tvluton.html
 
-        - title: stripytoy 
-          url: /pages/musings/stripytoy.html
+        - title: tiab 
+          url: /pages/stuff/tiab.html
 
         - title: links
           url: /links/
