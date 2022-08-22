@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 67 At Catuma"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 There are these four fears of one who goes down to the water.  

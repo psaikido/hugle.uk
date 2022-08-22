@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 122 Mahā Suññyata Sutta: Greater Discourse on Voidness"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 The Buddha finds Ānanda living with a lot of monks. 'Ānanda, 

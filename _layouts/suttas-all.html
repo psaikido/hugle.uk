@@ -3,45 +3,43 @@
     {% include head.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
+            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
 
-                <div class="main-content">
+            <div class="main">
 
-                    <div class="header">Majjhima Nikāya</div>
-                    <ul class="">
-                        {% for item in site.data.suttas-mn.menu %}
-                            <li {% if page.url  == item.url %}class="current"{% endif %}>
-                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
+                <div class="header">Majjhima Nikāya</div>
+                <ul class="">
+                    {% for item in site.data.suttas-mn.menu %}
+                        <li {% if page.url  == item.url %}class="current"{% endif %}>
+                            <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
 
-                    <div class="header">Saṁyutta Nikāya I</div>
-                    <ul class="">
-                        {% for item in site.data.suttas-sn1.menu %}
-                            <li {% if page.url  == item.url %}class="current"{% endif %}>
-                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
+                <div class="header">Saṁyutta Nikāya I</div>
+                <ul class="">
+                    {% for item in site.data.suttas-sn1.menu %}
+                        <li {% if page.url  == item.url %}class="current"{% endif %}>
+                            <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
 
-                    <div class="header">Saṁyutta Nikāya II</div>
-                    <ul class="">
-                        {% for item in site.data.suttas-sn2.menu %}
-                            <li {% if page.url  == item.url %}class="current"{% endif %}>
-                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
+                <div class="header">Saṁyutta Nikāya II</div>
+                <ul class="">
+                    {% for item in site.data.suttas-sn2.menu %}
+                        <li {% if page.url  == item.url %}class="current"{% endif %}>
+                            <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
 
-                </div>
             </div>
-        </div>
 
-        {% include footer.html %}
+            {% include footer.html %}
+        </div>
     </body>
 </html>

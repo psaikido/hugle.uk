@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 79 Culasakuladayin: The Shorter Discourse to Sakuludayin"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 The Buddha asks Sakuludayin what his teacher's teaching is. He replies "this is the perfect splendour". The Buddha asks "what is that splendour?" but gets a repetition in reply.

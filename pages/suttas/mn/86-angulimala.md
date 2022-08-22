@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 86 Aṅgulimāla: Garland of Fingers"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 His name 'Aṅgulimāla' means 'Garland of Fingers'. He was a favourite student of a high priest. Other jealous students told the priest that he had committed adultery with the priest's wife. His original name was 'Ahimsaka' meaning 'Harmless'. The priest told him to make amends by bringing him 1000 human right hand little fingers. This was supposed to bring him to ruin.  

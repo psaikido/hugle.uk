@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 58 Abhaya Rāja Kumāra: To Prince Abhaya"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 "What if a tender infant had a stick or pebble in his mouth, what would you do to him?"  

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 61 Ambalaṭṭhika Rāhulovāda: Advice to Rahula at Mango Stone"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 The Buddha talks to his son, Rahula, on the occasion of his ordination at seven years old.

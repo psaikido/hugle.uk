@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 123 Acchariy'abbhutadhamma: Wonderful and Marvellous"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 "When the bodhisatta left his mother’s womb, a great, measureless radiance surpassing the effulgence of the devas appeared in the cosmos with its devas, Māras, & Brahmās, with its people with their contemplatives & brahmans, their royalty & commonfolk. Even in the inter-cosmic void of the unrestrained darkness, pitch-black darkness, where even the light of the sun & moon—so mighty, so powerful—doesn’t reach, even there the great, measureless radiance surpassing the effulgence of the devas appeared. And the beings reborn there perceived one another by that radiance: “So other beings have been reborn here, too!” And so this ten-thousand-fold cosmos shivered & quivered & quaked, while the great, measureless radiance appeared in the cosmos, surpassing the effulgence of the devas."

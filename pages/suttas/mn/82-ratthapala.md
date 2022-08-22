@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 82 Raṭṭhapāla Sutta: About Raṭṭhapāla"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 After a struggle to get permission to ordain from his parents Raṭṭhapāla talks to a king and tells him of the four summaries of the Dharma:

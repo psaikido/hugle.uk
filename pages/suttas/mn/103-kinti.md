@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 103 Kinti: Dealing with Disputes"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 If someone commits some kind of offence or transgression you should not hurry to reprove them, but one should examine thus:  

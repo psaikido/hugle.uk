@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 87 Piyajātika: Born from those who are dear"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 "Sorrow, lamentation, pain, distress, & despair are born from one who is dear."

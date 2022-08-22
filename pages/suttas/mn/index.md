@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: Majjhima Nikāya
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 The Middle Length Discourses

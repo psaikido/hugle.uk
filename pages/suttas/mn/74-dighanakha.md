@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 74 To Dīghanakha: To LongNails"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 On Vulture Peak Sariputta's nephew Dīghanaka 'LongNails' upholds to the Buddha the view that 'nothing is acceptable to me'. 

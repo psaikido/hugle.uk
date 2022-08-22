@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 147 Cūḷa Rāhulovāda Sutta: Shorter Advice to Rāhula"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 At Anāthapiṇḍikovāda's monastery one morning the Buddha thinks to himself that his son is ready and ripe to become enlightened so he takes him off for a talk in the Grove of the Blind. He asks him:

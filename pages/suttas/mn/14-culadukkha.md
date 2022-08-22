@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 14 Cūḷa Dukkhakkhandha Sutta: The Lesser Mass of Suffering"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 A follower of a different sect tells the Buddha that the king experiences more pleasure than the Buddha does.  

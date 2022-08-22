@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 73 Mahavacchagotta"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 Vacchagotta, the one who asked 'is there a self' in the [Ānanda Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.010.than.html) here gets fully enlightened.

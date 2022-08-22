@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 105 Sunakkhatta"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 The Buddha teaches Sunakkhatta that 'aquisition is the root of stress'. If you want to avoid suffering one must practise restraint of the senses and not be attached to unwholesome things.

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 144 Channovada Sutta: Advice to Channa"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 The monk Channa is gravely ill and tells the other monks he is going to 'use the knife', ie. kill himself. Sariputra and Maha Cunda question him 'do you regard they eye, eye-consciousness and things cognizable by the mind through eye-consciousness thus "this is mine, this I am, this is myself?" (then the same with the ear, nose, tongue, body and mind).

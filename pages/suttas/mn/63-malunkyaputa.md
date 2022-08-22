@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 63 Cūḷa Māluṅkyovāda: The Shorter Instructions to Malunkya"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 "These speculative views are undeclared by the Tathagata -  

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 107 Gaṇaka Moggallāna Sutta: The whole path"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 A discourse to Gaṇaka Moggallāna on a gradual training of a monk.

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: MN
 title: "MN 44 Cūḷa Vedalla Sutta: The Shorter Series of Questions and Answers"
+banner-title: "Majjhima Nikāya" 
+layout: subnav 
+subnav: suttas-mn 
 ---
 
 Bhikkhuni Dhammadina, an arahant, talks with her former husband Visakha, a non-returner.  
