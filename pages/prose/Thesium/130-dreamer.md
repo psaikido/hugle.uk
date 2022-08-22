@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Dreamer
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/130-dreamer.html
 ---
 

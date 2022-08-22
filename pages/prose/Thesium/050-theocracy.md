@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Theocracy
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/050-theocracy.html
 ---
 

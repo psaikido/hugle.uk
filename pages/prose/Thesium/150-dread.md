@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Dread
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/150-dread.html
 ---
 

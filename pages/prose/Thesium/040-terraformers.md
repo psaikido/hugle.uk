@@ -1,6 +1,8 @@
 --- 
-layout: thesium 
 title: Terraformers 
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/040-terraformers.html 
 ---
 

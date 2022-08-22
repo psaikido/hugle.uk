@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Self
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/140-self.html
 ---
 

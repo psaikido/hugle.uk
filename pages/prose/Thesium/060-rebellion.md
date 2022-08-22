@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Rebellion 
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/060-rebellion.html
 ---
 

@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Perception 
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/030-perception.html
 ---
 ![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dal07yo-9a545fc8-cf61-45ba-9123-cade6501be49.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFsMDd5by05YTU0NWZjOC1jZjYxLTQ1YmEtOTEyMy1jYWRlNjUwMWJlNDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mrWGiAwDswHg2lFgCkqFcX58DAXmlFPJbGXylZ7I8mA)

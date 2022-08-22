@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Industry
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/110-industry.html
 ---
 

@@ -1,6 +1,8 @@
 ---
-layout: thesium
 title: Doubt
+banner-title: "Thesium" 
+layout: subnav 
+subnav: thesium 
 permalink: /thesium/080-doubt.html
 ---
 
