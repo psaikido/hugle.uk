@@ -1,6 +1,7 @@
 ---
-layout: suttas
-nikaya: SN2
+banner-title: "Saṁyutta Nikāya II" 
+layout: subnav 
+subnav: suttas-sn2
 ---
 
 The Connected Discourses Volume 2

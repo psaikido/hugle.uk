@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 15.3 Assu Sutta: Tears"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 "From an inconceivable beginning comes the wandering-on. A beginning point is not discernible, though beings hindered by ignorance and fettered by craving are transmigrating & wandering on. What do you think, monks? Which is greater, the tears you have shed while transmigrating & wandering this long, long time—crying & weeping from being joined with what is displeasing, being separated from what is pleasing—or the water in the four great oceans?"

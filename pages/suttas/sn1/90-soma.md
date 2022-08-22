@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 5.2 Somā Sutta: Sister Somā"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 While the Bikkhuni Somā meditates, Mara appears and says to her that women can't get enlightened.  

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 22.85 Yamaka Sutta: To Yamaka"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 The bhikkhu Yamaka holds a pernicious view that a fully enlightened person ceases to exist after death. The other monks try to argue him around but cannot. Sariputra is called and he asks him:  

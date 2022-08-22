@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN2
 title: "SN 35.28 Āditta-pariyāya Sutta: The Fire Sermon"
+banner-title: "Saṁyutta Nikāya II" 
+layout: subnav 
+subnav: suttas-sn2
 ---
 
 The Buddha's third sermon to one thousand monks, former fire worshippers, lead by the three Kassappa brothers.  

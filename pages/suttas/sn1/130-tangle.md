@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 7.6 Jaṭā Sutta: The Tangle"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 A brahmin called Jaṭā Bharadvaja says to the Buddha:  

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN2
 title: "SN 42.2 Tālapuṭa Sutta: To Tālapuṭa the Actor"
+banner-title: "Saṁyutta Nikāya II" 
+layout: subnav 
+subnav: suttas-sn2
 ---
 
 The head of a troupe of actors asks the Buddha "If an actor entertains people with truth and lies, he goes, after death, to the laughing heaven".  

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 9.1 Viveka Sutta: Seclusion"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 A bhikkhu has many unwholesome thoughts that 'gush outwardly'. A devata comes to him and says:

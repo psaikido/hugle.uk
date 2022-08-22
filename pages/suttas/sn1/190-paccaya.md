@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 12.20 Paccaya Sutta: Requisite Conditions"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 The Buddha teaches [Dependent Origination](/pages/suttas/sn/165-ps.html) and adds that someone who has understood it would not run back into the past thinking:  

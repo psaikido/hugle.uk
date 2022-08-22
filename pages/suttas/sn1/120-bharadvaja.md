@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 7.2 Akkosa Sutta: Insult"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 Akkosaka Bharadvaja hears that someone from his clan has gone off to ordain with the Buddha. He goes up to him and insults him repeatedly. The Buddha asks him:  

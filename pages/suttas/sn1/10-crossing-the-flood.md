@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 1.1 Ogha-taraṇa Sutta: Crossing the Flood"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 A devata, a very beautiful, female 'demi-God', asks the Buddha "How did you cross the flood?". She means the 'flood' of cyclic existence in samsara.  

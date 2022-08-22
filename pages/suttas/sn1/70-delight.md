@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 4.8 Nandana Sutta: Delight"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 Mara, the 'evil one', says "One who has children delights in children. One with cattle delights in cattle. Acquisitions truly are a person's delight. Without acquisitions one does not delight."

@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN2
 title: "SN 46.16 Gillana Sutta: Illness and the Factors of Enlightenment"
+banner-title: "Saṁyutta Nikāya II" 
+layout: subnav 
+subnav: suttas-sn2
 ---
 
 A severe illness besets the Buddha who asks Mahacunda to recite the seven factors of enlightenment to him whereupon he gets better!  

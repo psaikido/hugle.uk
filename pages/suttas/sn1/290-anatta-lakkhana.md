@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 22.59 Anatta-lakkhana Sutta: The Characteristics of Non-Self"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 After the very first Sutta ([SN 56.11](https://www.dhammatalks.org/suttas/SN/SN56_11.html)) the group of five the Buddha used to practice with are still confused. He tells them:  

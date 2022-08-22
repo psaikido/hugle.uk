@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN1
 title: "SN 6.1 Āyācana Sutta: The Request"
+banner-title: "Saṁyutta Nikāya I" 
+layout: subnav 
+subnav: suttas-sn1
 ---
 
 The Buddha decides not to teach after his final enlightenment under the Bodhi tree.  

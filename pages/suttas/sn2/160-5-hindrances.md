@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN2
 title: "SN 46.55 Sangaravo Sutta: The Hindrances"
+banner-title: "Saṁyutta Nikāya II" 
+layout: subnav 
+subnav: suttas-sn2
 ---
 
 Imagine a bowl of water and a person tries to see the reflection of their face. They would be hindered from doing so if the bowl is:

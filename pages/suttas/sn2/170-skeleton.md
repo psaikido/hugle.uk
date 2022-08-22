@@ -1,7 +1,8 @@
 ---
-layout: suttas
-nikaya: SN2
 title: "SN 46.57 Meditate on a Skeleton" 
+banner-title: "Saṁyutta Nikāya II" 
+layout: subnav 
+subnav: suttas-sn2
 ---
 
 The Buddha explains how it is of great fruit and benefit to meditate on a skeleton.  
