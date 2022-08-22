@@ -1,6 +1,8 @@
 ---      
 title: Great Light  
-layout: mantrasphere      
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/great-light.html
 ---      
       

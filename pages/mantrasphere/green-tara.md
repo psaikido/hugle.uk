@@ -1,6 +1,8 @@
 ---        
 title: Green Tara
-layout: mantrasphere        
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/green-tara.html
 ---        
 

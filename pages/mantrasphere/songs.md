@@ -1,6 +1,8 @@
 ---
-layout: mantrasphere
 title: songs
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/songs.html
 ---
 

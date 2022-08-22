@@ -1,6 +1,8 @@
 ---
 title: Padmasambhava
-layout: mantrasphere
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/padmasambhava.html
 ---
 

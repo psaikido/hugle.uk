@@ -1,6 +1,8 @@
 ---    
 title: The Three Refuges  
-layout: mantrasphere    
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/three-refuges.html
 ---    
     

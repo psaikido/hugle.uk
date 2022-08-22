@@ -1,6 +1,8 @@
 ---            
 title: Tonglen  
-layout: mantrasphere            
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/tonglen.html
 ---            
     

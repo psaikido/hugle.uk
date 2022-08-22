@@ -1,6 +1,8 @@
 ---        
 title: White Tara (D)  
-layout: mantrasphere        
+banner-title: "Mantrasphere" 
+layout: subnav
+subnav: mantrasphere
 permalink: /mantrasphere/white-tara-d.html
 ---        
         
