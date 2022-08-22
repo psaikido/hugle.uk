@@ -16,12 +16,13 @@ body {
     display: grid;
     justify-content: center;
     text-align: center;
-    grid-template-columns: 1fr;
+    grid-gap: 15px;
+    grid-template-columns: 2fr 1fr;
     grid-template-rows: 50px auto 20px;
     grid-template-areas: 
-        'banner'
-        'main'
-        'footer';
+        'banner banner'
+        'main subnav'
+        'footer footer';
 
     .navbar {
         grid-area: banner;
@@ -29,13 +30,16 @@ body {
     }
 
     .subnavbar {
-        grid-area: banner;
-        text-align: right;
+        grid-area: subnav;
+        text-align: left;
         margin-top: 80px;
         z-index: 10;
+        font-size: .7rem;
 
         ul {
             display: none;
+            list-style-type: none;
+            border-left: 1px solid $green;
         }
     }
 
@@ -129,7 +133,7 @@ body {
         grid-template-columns: 1fr 2fr 1fr;
         grid-template-areas: 
             "banner banner banner"
-            "subnav main ...."
+            "main .... subnav"
             "footer footer footer";
 
         .navbar {
@@ -139,10 +143,31 @@ body {
 
         .header {
             grid-area: 1 / 2;
+            font-size: 2rem;
+            padding-top: 14px;
         }
 
-        #search {
-            grid-area: 1 / 3;
+        .subnavbar {
+            grid-area: subnav;
+            margin: 0;
+            padding-left: 10px;
+            font-size: .9rem;
+
+            ul {
+                display: block;
+
+                li.current a {
+                    color: $hilight;
+                }
+            }
+
+            a.toggler {
+                display: block;
+                margin-bottom: 37px;
+                border: none;
+                font-style: italic;
+                color: $green;
+            }
         }
 
         .main {
