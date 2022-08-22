@@ -11,6 +11,9 @@ menu:
         - title: Yarn
           url: /yarn/
 
+        - title: Mahabodhi Moonlight
+          url: /mbm/
+
         - title: Sunshine & Shadow
           url: /sun/
 
@@ -20,7 +23,7 @@ menu:
       - title: prose
         subsub:
         - title: Mahabodhi Moonlight
-          url: /pages/prose/mahabodhi-moonlight.html
+          url: /pages/prose/pilgrimage.html
 
         - title: First Burn
           url: /pages/prose/firstBurn/01-fb.html

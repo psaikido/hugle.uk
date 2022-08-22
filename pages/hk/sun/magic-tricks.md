@@ -8,6 +8,7 @@ permalink: /sun/magic-tricks.html
 ---
 
 <div class="poem">
+
 sometimes  
 doing magic tricks for folks  
 I get to see  
@@ -21,5 +22,6 @@ the charade of adulthood
 and triumphantly declares  
 "see, I knew it was real,  
 I KNEW it!"
+
 </div>
 

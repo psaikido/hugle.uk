@@ -17,6 +17,7 @@ body {
     justify-content: center;
     text-align: center;
     grid-gap: 15px;
+    grid-template-columns: 1fr;
     grid-template-rows: 50px auto auto 20px;
     grid-template-areas: 
         'banner'
@@ -62,6 +63,8 @@ body {
 
     .main {
         grid-area: main;
+        width: 80vw;
+        margin: auto;
 
         .home-page {
             position: relative;
