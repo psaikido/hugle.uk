@@ -1,7 +1,7 @@
 ---
 title: 2 Hot 4 July
 written: 2019
-banner-title: yarn
+banner-title: Yarn
 layout: subnav
 subnav: yarn
 permalink: /yarn/2hot4july.html

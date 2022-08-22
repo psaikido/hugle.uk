@@ -1,7 +1,7 @@
 ---
 title: sapphire
 written: 2020
-banner-title: yarn
+banner-title: Yarn
 layout: subnav
 subnav: yarn
 permalink: /yarn/sapphire.html

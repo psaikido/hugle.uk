@@ -1,7 +1,7 @@
 ---
 title: snapdragon after
 written: 2019
-banner-title: yarn
+banner-title: Yarn
 layout: subnav
 subnav: yarn
 permalink: /yarn/snapdragon-3.html

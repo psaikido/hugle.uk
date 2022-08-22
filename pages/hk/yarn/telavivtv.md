@@ -1,7 +1,7 @@
 ---
 title: Tel Aviv TV
 written: 2019
-banner-title: yarn
+banner-title: Yarn
 layout: subnav
 subnav: yarn
 permalink: /yarn/telavivtv.html
