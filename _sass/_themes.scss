@@ -1,0 +1,56 @@
+/* Themes */
+html {
+    body {
+        color: $text-light;
+        background-color: $dark-grey;
+
+        .header,
+        h1, h2, h3, h4, h5, h6 {
+            color: $hilight;
+        }
+    }
+
+    #search-term {
+        color: $text-light;
+        background-color: $dark-grey;
+    }
+
+    .home-text-box,
+    .random-hughku {
+        color: $text-light;
+
+        a {
+            color: $hilight;
+        }
+    }
+
+    &.light {
+        body {
+            background-color: $light-grey;
+            color: $text-dark;
+        }
+
+        .header,
+        h1, h2, h3, h4, h5, h6 {
+            color: $hilight-dark;
+        }
+
+        #search-term {
+            color: $text-dark;
+            background-color: $light-grey;
+        }
+
+        .home-text-box,
+        .random-hughku {
+            color: $white;
+
+            a {
+                color: $white;
+            }
+        }
+
+        .main-content.subMenu .quote-heading {
+            color: $blue;
+        }
+    }
+}

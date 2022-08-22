@@ -1,160 +1,98 @@
-/* Most desktops */
-@media only screen and (min-device-width: 991px) {
-}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
 
-/* Most tablets */
-@media only screen and (max-device-width: 990px) {
-}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
 
-/* Most mobiles */
-@media only screen
-and (min-device-width: 360px)
-and (max-device-width: 740px) {
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
     body {
-        font-size: 1em;
+        font-size: 1.1em;
+
+        .header {
+            height: 40px;
+        }
     }
 
-    .main-content {
-        left: 0;
-        top: 41px;
-        min-width: 91%;
-        margin-top: 0;
+    .grid-wrap {
+        display: grid;
+        justify-content: center;
+        text-align: center;
+        grid-template-columns: 1fr 2fr 1fr;
+        grid-template-areas: 
+            "banner banner banner"
+            "main .... subnav"
+            "footer footer footer";
 
-        &.subMenu {
-            padding-left: 140px;
-            width: calc(100vh - 140px);
-            min-width: 210px;
+        .navbar {
+            grid-area: 1 / 1;
+            position: fixed;
+        }
 
-            &.hide {
-                padding-left: 40px;
-                width: 340px;
-            }
+        .header {
+            grid-area: 1 / 2;
+            font-size: 2rem;
+            padding-top: 14px;
+        }
+
+        .subnavbar {
+            grid-area: subnav;
+            margin: 0;
+            padding-left: 10px;
+            font-size: .9rem;
 
             ul {
-                font-size: 80%;
+                display: block;
+                border-left: 1px solid $blue;
+
+                li.current a {
+                    color: $hilight;
+                }
+            }
+
+            a.toggler {
             }
         }
 
-        .three-cols {
-            .col-left, 
-            .col-mid, 
-            .col-right {
-                width: 100%;
-                float: left;
-                clear: left;
+        .main {
+            grid-area: 2 / 2;
+            padding: 0;
+
+            .home-page {
+                position: relative;
+
+                table { 
+                    width: 100%;
+
+                    text-align: center;
+                }
+
+                .home-text-box,
+                .random-hughku {
+                    top: 230px;
+                    left: 168px;
+                    width: 60%;
+                }
+                
+                .random-hughku {
+                    top: 161px;
+                    left: 168px;
+                    padding: 10px;
+                    text-align: center;
+                }
+
+                .dharma-names {
+                    .dharma-name .unichars {
+                        font-size: 1.5em;
+                    }
+                }
             }
         }
     }
-
-    nav.poem-menu {
-        top: 53px;
-        font-size: .8em;
-        max-width: 140px;
-        min-width: 114px;
-        left: 0;
-
-        .toggler {
-            display: block;
-            height: 20px;
-            line-height: 20px;
-            width: 100%;
-            background: $hilight;
-            text-align: left;
-            text-indent: 2px;
-        }
-
-        ul li {
-            font-size: 1.1em;
-        }
-
-        &.hide, 
-        .toggler.hide {
-            width: 22px;
-        }
-
-        &.show, 
-        .toggler.show {
-            max-width: 140px;
-            min-width: 114px;
-        }
-    }
-
-    .poem {
-        width: 90vw;
-        font-size: .8em;
-    }
-
-    .wrap img {
-        max-width: 260px;
-    }
-
-    .header {
-        font-size: 50%;
-        padding: 0;
-        width: calc(100vw - 140);
-        text-align: center;
-        min-height: 42px;
-    }
-
-    #search-form {
-        position: absolute;
-        right: 7px;
-        top: 2px;
-
-        #search-term {
-            font-size: 50%;
-            width: 100px;
-        }
-    }
-
-    .navbar {
-        font-size: 1em;
-        top: -6px;
-        left: -14px;
-
-        .navbar-toggler {
-            padding: 2px;
-        }
-        .navbar-nav {
-            width: 75vw;
-        }
-    }
-
-    #wind-window, 
-    #wind-window-with-menu {
-        width: 100%;
-    }
-
-    .button-bank.left {
-        top: 5px;
-        left: 83px;
-    }
-
 }
 
-// Smaller mobiles in portrait
-@media only screen
-and (min-device-width: 360px)
-and (max-device-width: 400px) {
-    .header {
-        padding: 0;
-        margin: 10px 105px 0 45px;
-        min-height: 42px;
-    }
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
 
-    #search-form {
-        position: absolute;
-        right: 2px;
-        top: -4px;
-
-        #search-term {
-            font-size: 50%;
-            width: 100px;
-        }
-    }
-
-    .poem {
-        width: 90vw;
-    }
-
-}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

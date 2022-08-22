@@ -1,0 +1,151 @@
+body {
+    font-family: 'Ubuntu';
+    letter-spacing: .1em;
+    margin: 0;
+    line-height: 25px;
+}
+
+.header {
+    font-size: 1.2rem;
+    padding-top: 8px;
+}
+
+.main {
+    border-top: 1px solid $border-light;
+    padding-top: 20px;
+    text-align: left;
+
+    img {
+        width: 100%;
+    }
+
+    h4.poem-title {
+        padding-left: 6px;
+        border-bottom: 1px solid $border-light;
+    }
+
+    .center-img {
+        display: block;
+        max-width: 99%;
+        min-width: 99%;
+        max-height: auto;
+    }
+
+    a,
+    a:link,
+    a:visited {
+        color: $text-link;
+        text-decoration: underline;
+    }
+
+    a:hover {
+        color: $hilight;
+        text-decoration: underline;
+    }
+
+    ul {
+        list-style-type: square;
+
+        li {
+            margin-bottom: 8px;
+        }
+    }
+
+    .poem, 
+    .center-quote {
+        img {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        img.half {
+            width: 50%;
+        }
+
+        padding: 19px 0 0 0;
+
+        animation-name: reveal;
+        animation-duration: 4s;
+        animation-iteration-count: 1;
+    }
+}
+
+.thesium {
+    ul {
+        margin-left: 0;
+    }
+
+    .data {
+        text-align: justify;
+        font-style: italic;
+        font-size: 90%;
+        color: $hilight;
+        border-bottom: 1px solid $border-light;
+        margin-bottom: 13px;
+    }
+
+    .quote {
+        color: $hilight;
+        font-style: italic;
+        border-bottom: 1px solid $border-light;
+    }
+
+    .speech {
+        text-align: justify;
+        font-style: italic;
+        font-family: Lucida;
+        font-size: 1.3em;
+    }
+
+    .next {
+        border-top: 1px solid $border-light;
+        margin-top: 60px;
+        color: $hilight;
+        font-size: 90%;
+        font-style: italic;
+    }
+}
+
+@keyframes reveal {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.shop-item {
+    float: left;
+    clear: left;
+    width: 100%;
+    border-bottom: 1px solid $border-light;
+    margin-bottom: 40px;
+    padding: 20px;
+
+    .graphic {
+        float: left;
+        min-width: 252px;
+        text-align: center;
+
+        img {
+            max-width: 252px;
+        }
+    }
+
+    .info {
+        float: left;
+        margin-left: 30px;
+        max-width: 62%;
+
+        li {
+            margin-bottom: 20px;
+        }
+    }
+}
+
+.language-plaintext.highlighter-rouge pre {
+    color: $white;
+    margin-left: 20px;
+}
