@@ -1,7 +1,7 @@
 ---
 title: pix from gigs
 banner-title: hugle - magic
-layout: magic-gallery
+layout: subnav-gallery
 subnav: magic 
 dataFile: magic-gigs
 ---
