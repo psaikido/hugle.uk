@@ -5,9 +5,11 @@
     <body>
 
         <div class="grid-wrap">
+            {% include navs/main.html %}
+
             <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
 
-            {% include navs/main.html %}
+            <nav class="subnavbar empty"> &nbsp; </nav>
 
             <div class="main">
                 <h5>{{ site.data.galleries[page.dataFile].description }}</h5>

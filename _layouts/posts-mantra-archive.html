@@ -3,27 +3,27 @@
     {% include head.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
+            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
 
-                <div class="main-content">
-                    {% for post in site.categories.mantra-archive %}
-                        <a name="{{ post.permalink }}"></a>
-                        <h2>&#x0f04;{{ post.title }}</h2>
-                        <h6>{{ post.date | date_to_string }}</h6>
+            <nav class="subnavbar empty"> &nbsp; </nav>
 
-                        {{ post }}
+            <div class="main">
+                {% for post in site.categories.mantra-archive %}
+                    <a name="{{ post.permalink }}"></a>
+                    <h2>&#x0f04;{{ post.title }}</h2>
+                    <h6>{{ post.date | date_to_string }}</h6>
 
-                        <a href="{{ site.baseurl }}/blog/mantra-archive#{{ post.permalink }}">[link for this post]</a>
-                        <hr />
-                    {% endfor %}
-                </div>
+                    {{ post }}
+
+                    <a href="{{ site.baseurl }}/blog/mantra-archive#{{ post.permalink }}">[link for this post]</a>
+                    <hr />
+                {% endfor %}
             </div>
-        </div>
 
-        {% include footer.html %}
+            {% include footer.html %}
+        </div>
     </body>
 </html>

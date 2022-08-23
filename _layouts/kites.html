@@ -3,12 +3,14 @@
     {% include head-kites.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
-            <div class="main-content">
+            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+
+            <nav class="subnavbar empty"> &nbsp; </nav>
+
+            <div class="main">
 
                 <div id="wind-window">
                     <div id="kite-wrap">
@@ -69,9 +71,9 @@
                 </script>
 
             </div>
-            </div>
+
+            {% include footer.html %}
         </div>
 
-        {% include footer.html %}
     </body>
 </html>

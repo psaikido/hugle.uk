@@ -3,29 +3,29 @@
     {% include head.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
+            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
 
-                <div class="main-content">
-                    {{ content }}
+            <nav class="subnavbar empty"> &nbsp; </nav>
 
-                    {% if page.yml-data == 'kite-youtubes' %}
-                        {% assign menu = site.data.kite-youtubes.menu %}
-                    {% endif %}
+            <div class="main">
+                {{ content }}
 
-                    {% if page.yml-data == 'kite-messing-youtubes' %}
-                        {% assign menu = site.data.kite-messing-youtubes.menu %}
-                    {% endif %}
+                {% if page.yml-data == 'kite-youtubes' %}
+                    {% assign menu = site.data.kite-youtubes.menu %}
+                {% endif %}
+
+                {% if page.yml-data == 'kite-messing-youtubes' %}
+                    {% assign menu = site.data.kite-messing-youtubes.menu %}
+                {% endif %}
 
 
-                    {% include youtubes.html %}
-                </div>
+                {% include youtubes.html %}
             </div>
-        </div>
 
-        {% include footer.html %}
+            {% include footer.html %}
+        </div>
     </body>
 </html>

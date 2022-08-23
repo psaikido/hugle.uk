@@ -3,26 +3,26 @@
     {% include head.html %}
     <body>
 
-        <div class="body-inner">
-            <div class="wrap">
-                <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+        <div class="grid-wrap">
+            {% include navs/main.html %}
 
-                {% include navs/main.html %}
+            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
 
-                <div class="main-content">
-                    {% for post in site.categories.magic %}
-                        <a name="{{ post.permalink }}"></a>
-                        <h2>{{ post.title }}</h2>
+            <nav class="subnavbar empty"> &nbsp; </nav>
 
-                        {{ post }}
+            <div class="main"> 
+                {% for post in site.categories.magic %}
+                    <a name="{{ post.permalink }}"></a>
+                    <h2>{{ post.title }}</h2>
 
-                        <a href="{{ site.baseurl }}/blog/magic#{{ post.permalink }}">[link this post]</a>
-                        <hr />
-                    {% endfor %}
-                </div>
+                    {{ post }}
+
+                    <a href="{{ site.baseurl }}/blog/magic#{{ post.permalink }}">[link this post]</a>
+                    <hr />
+                {% endfor %}
             </div>
-        </div>
 
-        {% include footer.html %}
+            {% include footer.html %}
+        </div>
     </body>
 </html>

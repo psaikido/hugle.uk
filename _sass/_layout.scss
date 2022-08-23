@@ -75,9 +75,10 @@ body {
         .home-page {
             position: relative;
             background-image: url(/assets/images/bio/h-wall-door.jpg);
-            background-size: contain;
+            background-size: cover;
             background-repeat: no-repeat;
-            height: 860px;
+            height: 99%;
+            width: 100%;
             padding-top: 100px;
             font-size: .7rem;
 
