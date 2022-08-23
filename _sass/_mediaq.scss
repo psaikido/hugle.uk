@@ -59,32 +59,19 @@
             padding: 0;
 
             .home-page {
-                position: relative;
-
-                table { 
-                    width: 100%;
-
-                    text-align: center;
-                }
+                padding-top: 200px;
 
                 .home-text-box,
                 .random-hughku {
-                    top: 230px;
-                    left: 168px;
                     width: 60%;
+                    padding: 30px;
+                    font-size: 1rem;
                 }
-                
-                .random-hughku {
-                    top: 161px;
-                    left: 168px;
-                    padding: 10px;
-                    text-align: center;
-                }
+            }
 
-                .dharma-names {
-                    .dharma-name .unichars {
-                        font-size: 1.5em;
-                    }
+            .dharma-names {
+                .dharma-name .unichars {
+                    font-size: 1.5em;
                 }
             }
         }

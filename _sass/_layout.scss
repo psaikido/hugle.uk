@@ -68,6 +68,11 @@ body {
 
         .home-page {
             position: relative;
+            background-image: url(/assets/images/bio/h-wall-door.jpg);
+            background-size: contain;
+            height: 86vw;
+            padding-top: 100px;
+            font-size: .7rem;
 
             table { 
                 width: 100%;
@@ -76,12 +81,18 @@ body {
 
             .home-text-box,
             .random-hughku {
-                position: absolute;
-                width: 60%;
+                width: 80%;
+                margin: 0 auto;
                 border: 1px solid $dark-grey;
                 font-style: italic;
                 background-color: $bkg;
                 opacity: .8;
+                padding: 10px;
+
+                a, a:link, a:visited {
+                    color: $hilight;
+                    font-size: 1.1em;
+                }
 
                 td {
                     text-align: left;
@@ -89,23 +100,19 @@ body {
             }
 
             .random-hughku {
-                top: 80px;
-                left: 18px;
-                width: 88%;
                 text-align: center;
             }
 
             .home-text-box {
-                top: 155px;
-                left: 18px;
-                width: 88%;
-                font-size: 12px;
+                margin-top: 15px;
             }
+        }
 
-            .dharma-names {
-                .dharma-name .unichars {
-                    font-size: 1.5em;
-                }
+        .dharma-names {
+            margin-top: 20px;
+
+            .dharma-name .unichars {
+                font-size: .9em;
             }
         }
     }
