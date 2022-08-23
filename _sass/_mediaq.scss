@@ -1,11 +1,21 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .home-page {
+        height: 104vw;
+        width: 96vw;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
     body {
         margin-inline: auto;
+    }
+
+    .home-page {
+        background-size: cover;
+        height: 104vw;
+        width: 96vw;
     }
 }
 
@@ -70,6 +80,9 @@
 
             .home-page {
                 padding-top: 20%;
+                background-size: cover;
+                height: 167%;
+                width: 100%;
 
                 .home-text-box,
                 .random-hughku {
@@ -92,12 +105,10 @@
         grid-template-columns: 30px max(600px) 250px;
     }
 
-    .main {
-        .home-page {
-            .home-text-box,
-            .random-hughku {
-                font-size: 1.1rem;
-            }
+    .home-page {
+        .home-text-box,
+        .random-hughku {
+            font-size: 1.1rem;
         }
     }
 }
