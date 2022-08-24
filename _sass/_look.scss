@@ -5,8 +5,12 @@ body {
     line-height: 25px;
 }
 
+img {
+    border: 1px solid $border-light;
+}
+
 .header {
-    font-size: 1.2rem;
+    font-style: italic;
     padding-top: 8px;
 }
 
@@ -21,7 +25,6 @@ body {
     h4.poem-title {
         padding: 0 0 6px 6px;
         border-bottom: 1px solid $border-light;
-        font-size: 1.2rem;
     }
 
     .center-img {
@@ -69,10 +72,14 @@ body {
         animation-iteration-count: 1;
     }
 
+    .poem {
+        margin-left: 20px;
+    }
+
     .poem-footer {
         text-align: right;
         font-style: italic;
-        font-size: .7rem;
+        font-size: 75%;
     }
 }
 
@@ -84,7 +91,6 @@ body {
     .data {
         text-align: justify;
         font-style: italic;
-        font-size: 90%;
         color: $hilight;
         border-bottom: 1px solid $border-light;
         margin-bottom: 13px;
@@ -100,14 +106,12 @@ body {
         text-align: justify;
         font-style: italic;
         font-family: Lucida;
-        font-size: 1.3em;
     }
 
     .next {
         border-top: 1px solid $border-light;
         margin-top: 60px;
         color: $hilight;
-        font-size: 90%;
         font-style: italic;
     }
 }

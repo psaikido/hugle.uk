@@ -1,0 +1,71 @@
+.grid-wrap {
+    .main {
+        .home-page {
+            background-image: url(/assets/images/bio/h-wall-door.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            padding-top: 100px;
+
+            @include screen-width('xsmall') {
+                height: 104vw;
+                width: 96vw;
+            }
+
+            @include screen-width('small') {
+                background-size: cover;
+                height: 104vw;
+            }
+
+            @include screen-width('large') {
+                padding-top: 20%;
+                background-size: cover;
+                height: 167%;
+                width: 100%;
+
+                .home-text-box,
+                .random-hughku {
+                    width: 60%;
+                }
+            }
+
+            table { 
+                width: 100%;
+                text-align: center;
+            }
+
+            .home-text-box,
+            .random-hughku {
+                width: 80%;
+                margin: 0 auto;
+                border: 1px solid $dark-grey;
+                font-style: italic;
+                background-color: $bkg;
+                opacity: .8;
+                padding: 10px;
+
+                a, a:link, a:visited {
+                    color: $hilight;
+                }
+
+                td {
+                    text-align: left;
+                }
+            }
+
+            .random-hughku {
+                text-align: center;
+            }
+
+            .home-text-box {
+                margin-top: 15px;
+            }
+        }
+
+        .dharma-names {
+            margin-top: 20px;
+
+            .dharma-name .unichars {
+            }
+        }
+    }
+}

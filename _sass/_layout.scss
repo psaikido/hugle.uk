@@ -8,26 +8,15 @@ body {
     width: 100vw;
     margin-inline: auto;
     padding: $border-size;
-    font-size: .9em;
+    font-size: .8em;
     overflow-x: hidden;
 
-    @include screen-width('xsmall') {
-        background-color: $white;
-    }
-
     @include screen-width('small') {
-        background-color: $green;
-        margin-inline: auto;
+        font-size: 1em;
     }
 
     @include screen-width('medium') {
-        background-color: $blue;
-        width: max(100vw, 600px);
-        font-size: .9em;
-    }
-
-    @include screen-width('large') {
-        background-color: $pink;
+        font-size: 1.1em;
     }
 }
 
@@ -74,7 +63,7 @@ body {
     .subnavbar {
         grid-area: subnav;
         text-align: left;
-        font-size: .9rem;
+        font-size: 85%;
 
         ul {
             display: none;
@@ -85,6 +74,34 @@ body {
             }
         }
 
+        &.empty {
+            display: none;
+        }
+
+        @include screen-width('medium') {
+            grid-area: 2 / 3;
+            padding-top: 14px;
+            margin: 0;
+            padding-left: 10px;
+
+            ul {
+                display: block;
+                border-left: 1px solid $blue;
+
+                li.current a {
+                    color: $hilight;
+                }
+            }
+
+            &.empty {
+                display: block;
+                background-image: url(/assets/images/mushin.gif);
+                background-repeat: no-repeat;
+                background-position: top;
+                background-size: 80%;
+            }
+        }
+
         a.toggler {
             display: block;
             margin-bottom: 10px;
@@ -92,14 +109,11 @@ body {
             font-style: italic;
             color: $blue;
         }
-
-        &.empty {
-            display: none;
-        }
     }
 
     .header {
         grid-area: banner;
+        font-size: 140%;
         border-bottom: 1px solid $border-light;
     }
 
@@ -108,75 +122,13 @@ body {
         margin: 0 auto;
         width: 100%;
 
-        .home-page {
-            background-image: url(/assets/images/bio/h-wall-door.jpg);
-            background-size: cover;
-            background-repeat: no-repeat;
-            padding-top: 100px;
-            font-size: .7rem;
+        @include screen-width('medium') {
+            grid-area: 2 / 2;
+            padding: 0;
 
-            @include screen-width('xsmall') {
-                height: 104vw;
-                width: 96vw;
-            }
-
-            @include screen-width('small') {
-                background-size: cover;
-                height: 104vw;
-            }
-
-            @include screen-width('large') {
-                padding-top: 20%;
-                background-size: cover;
-                height: 167%;
-                width: 100%;
-
-                .home-text-box,
-                .random-hughku {
-                    width: 60%;
-                    font-size: 1.1rem;
+            .dharma-names {
+                .dharma-name .unichars {
                 }
-            }
-
-            table { 
-                width: 100%;
-                text-align: center;
-            }
-
-            .home-text-box,
-            .random-hughku {
-                width: 80%;
-                margin: 0 auto;
-                border: 1px solid $dark-grey;
-                font-style: italic;
-                background-color: $bkg;
-                opacity: .8;
-                padding: 10px;
-
-                a, a:link, a:visited {
-                    color: $hilight;
-                    font-size: 1.1em;
-                }
-
-                td {
-                    text-align: left;
-                }
-            }
-
-            .random-hughku {
-                text-align: center;
-            }
-
-            .home-text-box {
-                margin-top: 15px;
-            }
-        }
-
-        .dharma-names {
-            margin-top: 20px;
-
-            .dharma-name .unichars {
-                font-size: .9em;
             }
         }
     }
@@ -187,7 +139,6 @@ body {
         position: fixed;
         margin-left: -8px;
         font-style: italic;
-        font-size: .6em;
         bottom: 0;
         width: 100%;
         text-align: right;
