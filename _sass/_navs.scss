@@ -108,7 +108,7 @@ html {
     }
 
     @include screen-width('medium') {
-        grid-area: 2 / 3;
+        grid-area: subnav;
         padding-top: 14px;
         margin: 0;
         padding-left: 10px;
@@ -127,7 +127,8 @@ html {
             background-image: url(/assets/images/mushin.gif);
             background-repeat: no-repeat;
             background-position: top;
-            background-size: 80%;
+            background-size: 69%;
+            height: 310px;
         }
     }
 

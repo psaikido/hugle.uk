@@ -14,10 +14,6 @@ body {
     @include screen-width('small') {
         font-size: 1em;
     }
-
-    @include screen-width('medium') {
-        font-size: 1.1em;
-    }
 }
 
 .grid-wrap {
@@ -27,18 +23,19 @@ body {
     margin-inline: auto;
     grid-gap: 15px;
     grid-template-columns: 1fr;
-    grid-template-rows: 50px auto auto 20px;
+    grid-template-rows: 50px 30px auto auto 20px;
     grid-template-areas: 
         'banner'
+        'search'
         'subnav'
         'main'
         'footer';
 
     @include screen-width('medium') {
         margin: 0 auto;
-        grid-template-columns: 30px 5fr 250px;
+        grid-template-columns: 30px 620px 250px;
         grid-template-areas: 
-            "nav banner banner"
+            "nav banner search"
             ".... main subnav"
             "footer footer footer";
     }
@@ -66,13 +63,16 @@ body {
         border-bottom: 1px solid $border-light;
     }
 
+    .search {
+        grid-area: search;
+    }
+
     .main {
         grid-area: main;
         margin: 0 auto;
         width: 100%;
 
         @include screen-width('medium') {
-            grid-area: 2 / 2;
             padding: 0;
 
             .dharma-names {
@@ -88,6 +88,7 @@ body {
         position: fixed;
         margin-left: -8px;
         font-style: italic;
+        font-size: .8rem;
         bottom: 0;
         width: 100%;
         text-align: right;

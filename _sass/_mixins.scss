@@ -12,3 +12,21 @@ $breakpoints: (
         }
     }
 }
+
+/* For testing responsivity.
+/* Put into the body declaration in layouts.scss.
+
+@include screen-width('xsmall') {
+    background-color: $light-grey;
+}
+@include screen-width('small') {
+    background-color: $green;
+}
+@include screen-width('medium') {
+    font-size: 1.1em;
+    background-color: $blue;
+}
+@include screen-width('large') {
+    background-color: $pink;
+}
+*/

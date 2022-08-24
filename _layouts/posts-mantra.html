@@ -9,6 +9,8 @@
 
             <nav class="subnavbar empty"> &nbsp; </nav>
 
+            {% include search.html %}
+
             <div class="main">
                 {% for post in site.categories.mantra %}
                     <a name="{{ post.permalink }}"></a>

@@ -1,6 +1,7 @@
 ---
-layout: default 
 title: The Pali Canon 
+banner-title: The Pali Canon 
+layout: default 
 ---
 
 ![The Middle Length Discourses]({{ site.baseurl }}/assets/images/chan/majjhima.jpg)
