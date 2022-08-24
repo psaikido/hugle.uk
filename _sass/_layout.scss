@@ -10,6 +10,25 @@ body {
     padding: $border-size;
     font-size: .9em;
     overflow-x: hidden;
+
+    @include screen-width('xsmall') {
+        background-color: $white;
+    }
+
+    @include screen-width('small') {
+        background-color: $green;
+        margin-inline: auto;
+    }
+
+    @include screen-width('medium') {
+        background-color: $blue;
+        width: max(100vw, 600px);
+        font-size: .9em;
+    }
+
+    @include screen-width('large') {
+        background-color: $pink;
+    }
 }
 
 .grid-wrap {
@@ -26,9 +45,26 @@ body {
         'main'
         'footer';
 
+    @include screen-width('medium') {
+        margin: 0 auto;
+        grid-template-columns: 30px 5fr 250px;
+        grid-template-areas: 
+            "nav banner banner"
+            ".... main subnav"
+            "footer footer footer";
+    }
+
+    @include screen-width('large') {
+        grid-template-columns: 30px max(800px) 300px;
+    }
+
     .navbar {
         grid-area: banner;
         padding: 0;
+
+        @include screen-width('medium') {
+            grid-area: nav;
+        }
 
         .navbar-nav {
             width: calc(100vw - ($border-size * 2));
@@ -78,6 +114,29 @@ body {
             background-repeat: no-repeat;
             padding-top: 100px;
             font-size: .7rem;
+
+            @include screen-width('xsmall') {
+                height: 104vw;
+                width: 96vw;
+            }
+
+            @include screen-width('small') {
+                background-size: cover;
+                height: 104vw;
+            }
+
+            @include screen-width('large') {
+                padding-top: 20%;
+                background-size: cover;
+                height: 167%;
+                width: 100%;
+
+                .home-text-box,
+                .random-hughku {
+                    width: 60%;
+                    font-size: 1.1rem;
+                }
+            }
 
             table { 
                 width: 100%;
