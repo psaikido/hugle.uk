@@ -6,13 +6,15 @@
         <div class="grid-wrap">
             {% include navs/main.html %}
 
-            {% if page.banner-title == empty %}
+            {% if page.banner-title == nil %}
             {% assign pbt = 'hugle' %}
             {% else %}
             {% assign pbt = page.banner-title %}
             {% endif %}
 
             <div class="header">&#x0f3a;{{ pbt }}&#x0f3b;</div>
+
+            {% include search.html %}
 
             <nav class="subnavbar empty"> &nbsp; </nav>
             
