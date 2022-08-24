@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 'hugle <a href="/pages/magic/main.html" title="why the name?">*</a>'
+banner-title: 'hugle <a href="/pages/magic/main.html" title="why the name?">*</a>'
+title: hugle
 ---
 
 
