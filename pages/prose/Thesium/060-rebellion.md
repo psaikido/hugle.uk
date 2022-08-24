@@ -20,7 +20,7 @@ superior to women. Sexuality is strictly policed to maintain hetero-normative
 standards. All non-white skin coloured people are slaves. The Neem decides what
 is Good and what is Bad. Every Neemian is deemed to have a soul which is one
 with Neem. All must pay a kind of tythe to their Lords who in their turn must
-pay tribute to the Barons. The Barons support The Neem and do his bidding.   
+pay tribute to the Barons. The Barons support the High Neem and do his bidding.   
 
 Around the central Cathedral that houses the Ship of Light there is a sizeable
 city. The infrastructure is only just ok for most of them. Root has been
@@ -36,7 +36,7 @@ carefully examined and logged so that it can be replicated when it wears out.
 They are yet to discover that which the Neemians worship.
 
 A faction arises arguing that their experience should be the sole arbiter of what is
-true. They argue that The Neem declaring what is Good is not sufficient
+true. They argue that the High Neem declaring what is Good is not sufficient
 explanation for how things are and that it is their duty to think for
 themselves. They have been trained in empiricism after all. Their experience
 has demonstrated that the Neemian's supposed 'soul' is non-existent. The Ship

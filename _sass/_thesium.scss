@@ -1,13 +1,35 @@
-.main-content {
-    &.subMenu {
+.thesium {
+    ul {
+        margin-left: 0;
+    }
 
-        .quote-heading {
-            color: $hilight;
-            font-style: italic;
-            font-size: 90%;
-            border-bottom: 1px solid $border-light;
-            margin-top: 15px;
-            margin-bottom: 15px;
-        }
+    .data {
+        text-align: justify;
+        font-style: italic;
+        color: $hilight;
+        border-bottom: 1px solid $border-light;
+        margin-bottom: 13px;
+    }
+
+    .quote {
+        color: $hilight;
+        font-style: italic;
+        border-bottom: 1px solid $border-light;
+    }
+
+    .speech {
+        text-align: justify;
+        line-height: 1.6rem;
+        font-family: Lucida;
+        font-style: italic;
+        font-size: 110%;
+    }
+
+    .next {
+        border-top: 1px solid $border-light;
+        margin-top: 60px;
+        color: $hilight;
+        font-style: italic;
     }
 }
+

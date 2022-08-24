@@ -83,39 +83,6 @@ img {
     }
 }
 
-.thesium {
-    ul {
-        margin-left: 0;
-    }
-
-    .data {
-        text-align: justify;
-        font-style: italic;
-        color: $hilight;
-        border-bottom: 1px solid $border-light;
-        margin-bottom: 13px;
-    }
-
-    .quote {
-        color: $hilight;
-        font-style: italic;
-        border-bottom: 1px solid $border-light;
-    }
-
-    .speech {
-        text-align: justify;
-        font-style: italic;
-        font-family: Lucida;
-    }
-
-    .next {
-        border-top: 1px solid $border-light;
-        margin-top: 60px;
-        color: $hilight;
-        font-style: italic;
-    }
-}
-
 @keyframes reveal {
     0% {
         opacity: 0;

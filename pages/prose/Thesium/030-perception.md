@@ -19,7 +19,7 @@ system and creates summaries to return to Kronos along its network of
 nodes. An anthropology team of sub AIs collates the data into a human
 readable history.  
 
-Even with all the mitigating factors the essential difficulties of
+Even with all the mitigating factors, the essential difficulties of
 interstellar communications had meant that each colony was a one-shot
 kind of deal. Real-time communications were not possible. Their value in
 the big picture was that after the necessary centuries had passed and
