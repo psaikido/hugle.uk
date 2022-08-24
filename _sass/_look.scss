@@ -1,5 +1,5 @@
 body {
-    font-family: 'Ubuntu';
+    font-family: 'Oxygen';
     letter-spacing: .1em;
     margin: 0;
     line-height: 25px;
@@ -10,7 +10,8 @@ img {
 }
 
 .header {
-    font-style: italic;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
     padding-top: 8px;
 }
 
@@ -25,6 +26,8 @@ img {
     h4.poem-title {
         padding: 0 0 6px 6px;
         border-bottom: 1px solid $border-light;
+        font-style: italic;
+        font-size: 1.3rem;
     }
 
     .center-img {
