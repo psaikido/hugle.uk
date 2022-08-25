@@ -1,6 +1,6 @@
 .home-page {
     background-image: url(/assets/images/bio/h-wall-door.jpg);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     padding-top: 100px;
     height: 100%;
@@ -11,13 +11,11 @@
     }
 
     @include screen-width('small') {
-        background-size: cover;
         height: 104vw;
     }
 
     @include screen-width('large') {
         padding-top: 20%;
-        background-size: cover;
         width: 100%;
 
         .home-text-box,

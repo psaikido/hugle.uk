@@ -1,7 +1,5 @@
 /* Themes */
 html {
-    .navbar-nav, 
-    .btn-primary,
     .dropdown-menu {
         background-color: $dark-grey;
         color: $hilight;
@@ -9,94 +7,30 @@ html {
     }
 
     &.light {
-        .navbar-nav {
+        #hamburger-menu {
             background-color: $light-grey;
             color: $text-dark;
         }
 
-        .navbar-nav, 
-        .btn-primary,
-        .dropdown-menu {
+        #hamburger-menu {
             border: none;
             color: $hilight-dark;
         }
     }
 }
 
-/* hamburger */
-.navbar {
-    z-index: 5;
-
-    .navbar-toggler {
-        padding: 0;
-        font-size: .8rem;
-        line-height: 1;
-        border: none;
-    }
-
-    .navbar-toggler-icon {
-        width: 2em;
-        height: 2em;
-    }
-
-    .navbar-nav {
-        border-radius: .25rem;
-        padding: 8px;
-        font-size: .8rem;
-
-        .btn {
-            background-color: inherit;
-            border-color: $dark-grey;
-        }
-
-        .btn-primary {
-            line-height: 30px;
-            text-align: left;
-            width: 100%;
-        }
-
-        .dropdown-submenu .btn,
-        .btn-secondary {
-            line-height: 14px;
-        }
-
-        .show > .btn-primary.dropdown-toggle:focus,
-        .btn-primary:focus,
-        .btn:focus {
-            box-shadow: none!important;
-            background-color: inherit;
-            border-color: $dark-grey;
-            transition: none;
-        }
-
-        .dropdown-menu {
-            background-color: inherit;
-            margin-left: 30px;
-
-            &.show {
-                margin-top: -10px;
-                border: none;
-            }
-        }
-    }
-
-    #home-link {
-        margin-left: 10px;
-
-        a, a:visited {
-            color: $text-link;
-        }
-    }
-}
-
 .subnavbar {
-    grid-area: subnav;
     text-align: left;
     font-size: 85%;
 
     ul {
         display: none;
         list-style-type: none;
+
+        li a, 
+        li a:visited {
+            color: $blue;
+        }
 
         li.current a {
             color: $hilight;
@@ -108,7 +42,6 @@ html {
     }
 
     @include screen-width('medium') {
-        grid-area: subnav;
         padding-top: 14px;
         margin: 0;
         padding-left: 10px;
@@ -138,6 +71,117 @@ html {
         border: none;
         font-style: italic;
         color: $blue;
+    }
+}
+
+/* hamburger test */
+.burger-shower {
+  display: none;
+}
+
+#hamburger-input:checked + #hamburger-menu #sidebar-menu {
+    visibility: visible;
+    left: 0;
+    height: 90vh;
+    overflow: auto;
+}
+
+.burger-shower + .hamburger-dropdown {
+    display: none;
+}
+
+.burger-shower:checked + .hamburger-dropdown {
+    display: block;
+}
+
+#hamburger-menu {
+    position: relative;
+    top: 20px;
+    left: 7px;
+    width: 30px;
+    height: 20px;
+    display: inline;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Cabin', Sans-serif;
+    background: linear-gradient(
+      to bottom, 
+      $text-link, $text-link 20%, 
+      $bkg 20%, $bkg 40%, 
+      $text-link 40%, $text-link 60%, 
+      $bkg 60%, $bkg 80%, 
+      $text-link 80%, $text-link 100%
+    );
+}
+
+#sidebar-menu {
+    position: absolute;
+    top: 0;
+    left: -2000px;
+    width: 250px;
+    height: 80vh;
+    background-color: $bkg;
+    transition: 0.3s;
+    padding: 0px 10px;
+    z-index: 6;
+    border: 1px solid $border-light;
+
+    ul {
+        padding-left: 5px;
+
+        li {
+            text-align: left;
+            list-style-type: none;
+            line-height: 2rem;
+        }
+    }
+
+
+    li.level1-child a {
+        margin-left: 6px;
+    }
+
+    li.level1-child a, 
+    li.level1-parent a,
+    li.level1-parent .heading,
+    .hamburger-dropdown .sub-heading {
+        color: $hilight;
+        font-size: 1rem;
+    }
+
+    li.level1-parent {
+        margin-left: 8px;
+
+        .heading {
+            background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+            background-repeat: no-repeat;
+            background-position: right;
+            background-size: 7%;
+        }
+
+    }
+
+    li.level2-parent {
+        margin-left: 12px;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    .hamburger-dropdown a.subitem, 
+    .hamburger-dropdown .submenu li.subsubitem a {
+        color: $blue;
+        text-decoration: underline;
+        line-height: 1.2rem;
+    }
+
+    ul.submenu {
+        li.subsubitem a {
+            color: $blue;
+            font-size: .9rem;
+        }
     }
 }
 

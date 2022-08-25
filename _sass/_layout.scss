@@ -44,7 +44,7 @@ body {
         grid-template-columns: 30px max(800px) 300px;
     }
 
-    .navbar {
+    #hamburger-menu {
         grid-area: banner;
         padding: 0;
 
@@ -52,7 +52,7 @@ body {
             grid-area: nav;
         }
 
-        .navbar-nav {
+        #sidebar-menu {
             width: calc(100vw - ($border-size * 2));
         }
     }
@@ -66,6 +66,10 @@ body {
         grid-area: search;
     }
 
+    .subnavbar {
+        grid-area: subnav;
+    }
+
     .main {
         grid-area: main;
         margin: 0 auto;
@@ -73,11 +77,6 @@ body {
 
         @include screen-width('medium') {
             padding: 0;
-
-            .dharma-names {
-                .dharma-name .unichars {
-                }
-            }
         }
     }
 
