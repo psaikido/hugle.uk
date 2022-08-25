@@ -3,20 +3,19 @@
     background-size: contain;
     background-repeat: no-repeat;
     padding-top: 100px;
-    height: 100%;
+    height: 104vw;
 
     @include screen-width('xsmall') {
-        height: 104vw;
         width: 96vw;
     }
 
     @include screen-width('small') {
-        height: 104vw;
     }
 
     @include screen-width('large') {
         padding-top: 20%;
         width: 100%;
+        height: 1000px;
 
         .home-text-box,
         .random-hughku {
@@ -29,8 +28,9 @@
         text-align: center;
     }
 
+    .random-hughku, 
     .home-text-box,
-    .random-hughku {
+    .dharma-names {
         width: 80%;
         margin: 0 auto;
         border: 1px solid $dark-grey;

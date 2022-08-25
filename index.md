@@ -16,7 +16,6 @@ title: hugle
 | [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll) | [Mantras](/blog/mantra)
 
 </div>
-</div>
 
 <div class="dharma-names">
 
@@ -32,5 +31,5 @@ title: hugle
 <span class="unichars">&#x0f04;&#x0f05;&#x0f56;&#x0f66;&#x0f7c;&#x0f51;&#x0f0c;&#x0f53;&#x0f58;&#x0f66;&#x0f0c;&#x0f51;&#x0f56;&#x0f44;&#x0f0c;&#x0f55;&#x0fb1;&#x0f74;&#x0f42;&#x0f0d;</span> <span class="anglichars">Sonam Wangchuk</span>
 </div>
 
-&nbsp;
+</div>
 </div>
