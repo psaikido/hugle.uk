@@ -15,8 +15,9 @@ html {
         background-color: $dark-grey;
     }
 
+    .random-hughku, 
     .home-text-box,
-    .random-hughku {
+    .dharma-names {
         color: $text-light;
 
         a {
@@ -40,8 +41,9 @@ html {
             background-color: $light-grey;
         }
 
+        .random-hughku, 
         .home-text-box,
-        .random-hughku {
+        .dharma-names {
             color: $white;
 
             a {
@@ -51,6 +53,31 @@ html {
 
         .main-content.subMenu .quote-heading {
             color: $blue;
+        }
+
+        #hamburger-menu {
+            color: $text-dark;
+            background: linear-gradient(
+              to bottom, 
+              $dark-grey, $dark-grey 20%, 
+              $text-light 20%, $text-light 40%, 
+              $dark-grey 40%, $dark-grey 60%, 
+              $text-light 60%, $text-light 80%, 
+              $dark-grey 80%, $dark-grey 100%
+            );
+        }
+
+        #sidebar-menu {
+            background-color: $light-grey;
+            border: 1px solid $dark-grey;
+            li.level1-child a, 
+            li.level1-parent a,
+            li.level1-parent .heading,
+            .hamburger-dropdown .sub-heading, 
+            .hamburger-dropdown a.subitem, 
+            .hamburger-dropdown .submenu li.subsubitem a {
+                color: $text-dark;
+            }
         }
     }
 }

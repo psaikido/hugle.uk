@@ -1,80 +1,4 @@
-/* Themes */
-html {
-    .dropdown-menu {
-        background-color: $dark-grey;
-        color: $hilight;
-        border: 1px solid $border-light;
-    }
-
-    &.light {
-        #hamburger-menu {
-            background-color: $light-grey;
-            color: $text-dark;
-        }
-
-        #hamburger-menu {
-            border: none;
-            color: $hilight-dark;
-        }
-    }
-}
-
-.subnavbar {
-    text-align: left;
-    font-size: 85%;
-
-    ul {
-        display: none;
-        list-style-type: none;
-
-        li a, 
-        li a:visited {
-            color: $blue;
-        }
-
-        li.current a {
-            color: $hilight;
-        }
-    }
-
-    &.empty {
-        display: none;
-    }
-
-    @include screen-width('medium') {
-        padding-top: 14px;
-        margin: 0;
-        padding-left: 10px;
-
-        ul {
-            display: block;
-            border-left: 1px solid $blue;
-
-            li.current a {
-                color: $hilight;
-            }
-        }
-
-        &.empty {
-            display: block;
-            background-image: url(/assets/images/mushin.gif);
-            background-repeat: no-repeat;
-            background-position: top;
-            background-size: 69%;
-            height: 310px;
-        }
-    }
-
-    a.toggler {
-        display: block;
-        margin-bottom: 10px;
-        border: none;
-        font-style: italic;
-        color: $blue;
-    }
-}
-
-/* hamburger test */
+/* hamburger */
 .burger-shower {
   display: none;
 }
@@ -180,8 +104,63 @@ html {
     ul.submenu {
         li.subsubitem a {
             color: $blue;
-            font-size: .9rem;
+            font-size: 1rem;
         }
     }
 }
 
+/* subnav */
+.subnavbar {
+    text-align: left;
+    font-size: 1rem;
+
+    ul {
+        display: none;
+        list-style-type: none;
+
+        li a, 
+        li a:visited {
+            color: $blue;
+        }
+
+        li.current a {
+            color: $hilight;
+        }
+    }
+
+    &.empty {
+        display: none;
+    }
+
+    @include screen-width('medium') {
+        padding-top: 14px;
+        margin: 0;
+        padding-left: 10px;
+
+        ul {
+            display: block;
+            border-left: 1px solid $blue;
+
+            li.current a {
+                color: $hilight;
+            }
+        }
+
+        &.empty {
+            display: block;
+            background-image: url(/assets/images/mushin.gif);
+            background-repeat: no-repeat;
+            background-position: top;
+            background-size: 69%;
+            height: 310px;
+        }
+    }
+
+    a.toggler {
+        display: block;
+        margin-bottom: 10px;
+        border: none;
+        font-style: italic;
+        color: $blue;
+    }
+}

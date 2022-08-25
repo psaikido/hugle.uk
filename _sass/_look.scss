@@ -13,6 +13,10 @@ img {
     font-size: 1.6rem;
     letter-spacing: .2em;
     padding-top: 8px;
+
+    a:visited {
+        color: $hilight;
+    }
 }
 
 .main {
