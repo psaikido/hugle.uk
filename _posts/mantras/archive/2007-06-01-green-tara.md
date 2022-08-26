@@ -2,7 +2,7 @@
 title: Green Tara
 layout: post
 category: mantra-archive
-permalink: 2007-06-01-green-tara.html
+bkp-permalink: 2007-06-01-green-tara.html
 ---
 
 

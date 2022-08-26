@@ -2,7 +2,7 @@
 title: "Science, Religion, Dharma"
 layout: post
 category: essays
-permalink: true-false.html
+bkp-permalink: true-false.html
 ---
 
 It seems to me that in the Western Enlightenment we gained a method for finding

@@ -2,10 +2,9 @@
 title: Eastcott Christmas Party 
 layout: post
 category: magic
-permalink: 2013-12.html
+bkp-permalink: 2013-12.html
 ---
 
-#### Dec 2013
 A flurry of activity as it gets on towards Christmas. [Revolutions](http://www.revolution-bars.co.uk/bath), a vodka bar in Bath, booked me. When I arrived I was nearly overwhelmed by the noise and the drunken squadies reeling around. I pretended to stay cool but inside I was thinking 'oh my God, I'm going to be torn apart by wild beasts'. Luckily the gig was upstairs at a private party where they were a bit more sober. A few people fell off chairs and there were a few goes at stealing my hat, but mainly I got that fantastic moment when the pupils dilate. Can't get enough of that moment when someone is truly astonished.  
 
 The Eastcott Community Centre's Christmas party was great fun.
