@@ -2,7 +2,7 @@
     background-image: url(/assets/images/bio/h-wall-door.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-    padding-top: 100px;
+    padding-top: 70px;
     height: 104vw;
 
     @include screen-width('xsmall') {
@@ -10,6 +10,11 @@
     }
 
     @include screen-width('small') {
+        padding-top: 195px;
+    }
+
+    @include screen-width('medium') {
+        padding-top: 160px;
     }
 
     @include screen-width('large') {
@@ -23,11 +28,6 @@
         }
     }
 
-    table { 
-        width: 100%;
-        text-align: center;
-    }
-
     .random-hughku, 
     .home-text-box,
     .dharma-names {
@@ -37,14 +37,28 @@
         font-style: italic;
         background-color: $bkg;
         opacity: .8;
-        padding: 10px;
+        line-height: .8rem;
+        padding: 2px;
+
+        @include screen-width('medium') {
+            line-height: 1rem;
+            padding: 10px;
+        }
+
+        @include screen-width('large') {
+        }
 
         a, a:link, a:visited {
             color: $hilight;
         }
 
-        td {
-            text-align: left;
+        table { 
+            width: 100%;
+            text-align: center;
+
+            td {
+                text-align: left;
+            }
         }
     }
 
@@ -55,11 +69,18 @@
     .home-text-box {
         margin-top: 15px;
     }
-}
 
-.dharma-names {
-    margin-top: 20px;
+    .dharma-names {
+        margin-top: 0;
+        font-size: .6rem;
 
-    .dharma-name .unichars {
+        @include screen-width('medium') {
+            margin-top: 20px;
+            font-size: 1rem;
+        }
+
+        .dharma-name .unichars {
+        }
     }
 }
+
