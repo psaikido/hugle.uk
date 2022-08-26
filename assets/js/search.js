@@ -42,7 +42,7 @@ var store = [];
 
     store.push({
       'title': {{item.title | jsonify}},
-      'path': "/blog/{{ item.category }}#{{ item.url | replace: '/', ''}}",
+      'path': "{{ item.url}}",
       'excerpt': {{ item.content | strip_html | truncatewords: 20 | jsonify }}
     })
 {% endfor %}
