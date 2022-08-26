@@ -2,7 +2,7 @@
 title: "Tara stone's new home"
 layout: post
 category: mantra-archive
-permalink: 2021-11-09-stones.html
+bkp-permalink: 2021-11-09-stones.html
 ---
 
 Took the Tara stone to the [Palpung centre](http://palpung.org.uk/) in Brynmawr, Wales, met Lama Rabsang and Sophie there so that the stones could be given to them. Lama seemed pleased with the stone and it has been added to the shrine

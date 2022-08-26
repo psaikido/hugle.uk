@@ -2,7 +2,7 @@
 title: "Green Tara #2 finished"
 layout: post
 category: mantra-archive
-permalink: 2021-10-16-green-tara.html
+bkp-permalink: 2021-10-16-green-tara.html
 ---
 
 Om tare tuttare ture soha  

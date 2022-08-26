@@ -2,7 +2,7 @@
 title: Green Tara 
 layout: post
 category: mantra-archive
-permalink: 2021-10-11-green-tara.html
+bkp-permalink: 2021-10-11-green-tara.html
 ---
 
 [wikipedia](https://en.wikipedia.org/wiki/Tara_%28Buddhism%29)  

@@ -2,7 +2,7 @@
 title: Passwords
 layout: post
 category: ideas
-permalink: 2022-07-22-passwords.html
+bkp-permalink: 2022-07-22-passwords.html
 ---
 
 A method that ticks many boxes for creating your own passwords. The main thing is to not be using a 'low hanging fruit' password, a really easy one, and have different ones for every login. Instead of relying on memory or a password service, combine two tricks:

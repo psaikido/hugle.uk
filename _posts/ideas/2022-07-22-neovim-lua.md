@@ -2,7 +2,7 @@
 title: neovim and lua
 layout: post
 category: ideas
-permalink: 2022-07-22-neovim-lua.html
+bkp-permalink: 2022-07-22-neovim-lua.html
 ---
 
 

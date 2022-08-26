@@ -33,6 +33,7 @@ body {
 
     @include screen-width('medium') {
         margin: 0 auto;
+        grid-template-rows: auto;
         grid-template-columns: 30px 620px 250px;
         grid-template-areas: 
             "nav banner search"
@@ -59,11 +60,18 @@ body {
 
     .header {
         grid-area: banner;
+        height: 40px;
         border-bottom: 1px solid $border-light;
     }
 
     .search {
         grid-area: search;
+
+        @include screen-width('medium') {
+            margin-top: 14px;
+            margin-left: 6px;
+            text-align: left;
+        }
     }
 
     .subnavbar {
@@ -74,10 +82,8 @@ body {
         grid-area: main;
         margin: 0 auto;
         width: 100%;
-
-        @include screen-width('medium') {
-            padding: 0;
-        }
+        height: auto;
+        padding-bottom: 80px;
     }
 
     .footer {

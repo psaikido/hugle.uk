@@ -2,10 +2,10 @@
 title: Outer Wilds 
 layout: post
 category: personal
-permalink: 2022-07-09-outerwilds.html
+bkp-permalink: 2022-07-09-outerwilds.html
 ---
 
-#### July 2022
+
 
 The amazing game Outer Wilds play through of the ending. Mega spoilers throughout.
 
