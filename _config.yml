@@ -4,7 +4,7 @@ baseurl: ""
 title: hugle
 description: Hughie's stuff
 favicon: assets/images/favicon.ico
-permalink: /:categories/:year/:title:output_ext
+permalink: /:categories/:year/:month/:day/:title:output_ext
 github_username: psaikido
 
 markdown: kramdown

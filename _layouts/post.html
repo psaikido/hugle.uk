@@ -16,7 +16,9 @@
                 <ul class="">
                     {% for post in site.categories[page.category] %}
                         <li {% if post.url == page.url %}class="current"{% endif %}>
-                            <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">{{ post.title }}</a>
+                            <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+                                {{ post.title }} 
+                            </a>
                         </li>
                     {% endfor %}
                 </ul>
