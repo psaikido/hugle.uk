@@ -1,77 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-    {% include head.html %}
-    <body>
+---
+layout: base
+---
 
-        <div class="grid-wrap">
-            {% include navs/main.html %}
+<div class="header">&#x0f3a; {{ page.category }} &#x0f3b;</div>
 
-            <div class="header">&#x0f3a;blog {{ page.category }}&#x0f3b;</div>
+<nav class="subnavbar">
+    <a href="#" class="toggler hide">index show/hide</a>
 
-            {% include search.html %}
+    <ul class="">
+        {% for post in site.categories[page.category] %}
+            <li {% if post.url == page.url %}class="current"{% endif %}>
+                <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+                    {{ post.title }} 
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
 
-            <nav class="subnavbar">
-                <a href="#" class="toggler hide">index show/hide</a>
+<div class="main">
+    <div class="post">
+        <h4>{{ page.title }}</h4>
+        <h5>{{ page.date | date_to_string }}</h5>
 
-                <ul class="">
-                    {% for post in site.categories[page.category] %}
-                        <li {% if post.url == page.url %}class="current"{% endif %}>
-                            <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
-                                {{ post.title }} 
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </nav>
+        {{ content }}
 
-            <div class="main">
-                <div class="post">
-                    <h4>{{ page.title }}</h4>
-                    <h5>{{ page.date | date_to_string }}</h5>
+        <hr />
+    </div>
+</div>
 
-                    {{ content }}
+<script type="text/javascript">
+    $('.subnavbar > .toggler').click(function () {
+        if ($('.subnavbar ul').is(':visible')) {
+            hide(this);
+        } else {
+            show(this);
+        }
 
-                    <hr />
-                </div>
-            </div>
+        return false;
+    })
 
-            <script type="text/javascript">
-                $('.subnavbar > .toggler').click(function () {
-                    if ($('.subnavbar ul').is(':visible')) {
-                        hide(this);
-                    } else {
-                        show(this);
-                    }
+    function hide (elem) {
+        $(elem).html('show index');
 
-                    return false;
-                })
+        $('.subnavbar')
+            .attr('class', 'subnavbar toggler hide');
 
-                function hide (elem) {
-                    $(elem).html('show index');
+        $('.subnavbar').find('ul').hide();
 
-                    $('.subnavbar')
-                        .attr('class', 'subnavbar toggler hide');
+        $(elem)
+            .attr('class', 'subnavbar toggler hide');
+    }
 
-                    $('.subnavbar').find('ul').hide();
+    function show (elem) {
+        $(elem).html('hide index');
 
-                    $(elem)
-                        .attr('class', 'subnavbar toggler hide');
-                }
+        $('.subnavbar')
+            .attr('class', 'subnavbar toggler show');
 
-                function show (elem) {
-                    $(elem).html('hide index');
+        $('.subnavbar').find('ul').show();
 
-                    $('.subnavbar')
-                        .attr('class', 'subnavbar toggler show');
-
-                    $('.subnavbar').find('ul').show();
-
-                    $(elem)
-                        .attr('class', 'subnavbar toggler show');
-                }
-            </script>
-
-            {% include footer.html %}
-        </div>
-    </body>
-</html>
+        $(elem)
+            .attr('class', 'subnavbar toggler show');
+    }
+</script>

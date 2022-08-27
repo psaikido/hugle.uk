@@ -1,27 +1,15 @@
-<!doctype html>
-<html lang="en">
-    {% include head.html %}
-    <body>
+---
+layout: base
+---
 
-        <div class="grid-wrap">
-            {% include navs/main.html %}
+{% if page.banner-title %}
+    {% assign bt = page.banner-title %}
+{% else %}
+    {% assign bt = 'hugle' %}
+{% endif %}
 
-            {% if page.banner-title == nil %}
-                {% assign pbt = 'hugle' %}
-            {% else %}
-                {% assign pbt = page.banner-title %}
-            {% endif %}
+<div class="header">&#x0f3a;{{ bt }}&#x0f3b;</div>
 
-            <div class="header">&#x0f3a;{{ pbt }}&#x0f3b;</div>
+<nav class="subnavbar empty"> &nbsp; </nav>
 
-            {% include search.html %}
-
-            <nav class="subnavbar empty"> &nbsp; </nav>
-            
-            <div class="main"> {{ content }} </div>
-
-            {% include footer.html %}
-        </div>
-
-    </body>
-</html>
+<div class="main"> {{ content }} </div>

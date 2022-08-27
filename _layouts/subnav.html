@@ -1,93 +1,82 @@
-<!DOCTYPE html>
-<html lang="en">
-    {% include head.html %}
-    <body>
+---
+layout: base
+---
 
-        <div class="grid-wrap">
-            {% include navs/main.html %}
+<div class="header">&#x0f3a;{{ page.banner-title }}&#x0f3b;</div>
 
-            <div class="header">&#x0f3a;{{ page.banner-title }}&#x0f3b;</div>
+<nav class="subnavbar">
+    <a href="#" class="toggler hide">index show/hide</a>
 
-            {% include search.html %}
+    <ul class="">
+        {% for item in site.data[page.subnav].menu %}
+            {% if item.silent != true %}
+                <li {% if page.url  == item.url %}class="current"{% endif %}>
+                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</nav>
 
-            <nav class="subnavbar">
-                <a href="#" class="toggler hide">index show/hide</a>
+<div class="main {{ page.subnav }}">
+    <h4 class="poem-title">{{ page.title }}</h4>
 
-                <ul class="">
-                    {% for item in site.data[page.subnav].menu %}
-                        {% if item.silent != true %}
-                            <li {% if page.url  == item.url %}class="current"{% endif %}>
-                                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
-                            </li>
-                        {% endif %}
-                    {% endfor %}
-                </ul>
-            </nav>
+    {{ content }}
 
-            <div class="main sub-menu {{ page.subnav }}">
-                <h4 class="poem-title">{{ page.title }}</h4>
-
-                {{ content }}
-
-                <div class="poem-footer"> 
-                    {% if page.written %}
-                        <div class="poem-written-date">
-                            HC: {{ page.written }}
-                        </div>
-                    {% endif %}
-
-                    {% for item in site.data[page.subnav].menu %}
-                        {% if currentItemFound %}
-                            <div class="next">
-                                next -> <a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
-                            </div>
-                            {% break %}
-                        {% endif %}
-
-                        {% if page.url == item.url %}
-                            {% assign currentItemFound = true %}
-                        {% endif %}
-                    {% endfor %}
-                </div>
+    <div class="poem-footer"> 
+        {% if page.written %}
+            <div class="poem-written-date">
+                HC: {{ page.written }}
             </div>
+        {% endif %}
 
-            <script type="text/javascript">
-                $('.subnavbar > .toggler').click(function () {
-                    if ($('.subnavbar ul').is(':visible')) {
-                        hide(this);
-                    } else {
-                        show(this);
-                    }
+        {% for item in site.data[page.subnav].menu %}
+            {% if currentItemFound %}
+                <div class="next">
+                    next -> <a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                </div>
+                {% break %}
+            {% endif %}
 
-                    return false;
-                })
+            {% if page.url == item.url %}
+                {% assign currentItemFound = true %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
 
-                function hide (elem) {
-                    $(elem).html('show index');
+<script type="text/javascript">
+    $('.subnavbar > .toggler').click(function () {
+        if ($('.subnavbar ul').is(':visible')) {
+            hide(this);
+        } else {
+            show(this);
+        }
 
-                    $('.subnavbar')
-                        .attr('class', 'subnavbar toggler hide');
+        return false;
+    })
 
-                    $('.subnavbar').find('ul').hide();
+    function hide (elem) {
+        $(elem).html('show index');
 
-                    $(elem)
-                        .attr('class', 'subnavbar toggler hide');
-                }
+        $('.subnavbar')
+            .attr('class', 'subnavbar toggler hide');
 
-                function show (elem) {
-                    $(elem).html('hide index');
+        $('.subnavbar').find('ul').hide();
 
-                    $('.subnavbar')
-                        .attr('class', 'subnavbar toggler show');
+        $(elem)
+            .attr('class', 'subnavbar toggler hide');
+    }
 
-                    $('.subnavbar').find('ul').show();
+    function show (elem) {
+        $(elem).html('hide index');
 
-                    $(elem)
-                        .attr('class', 'subnavbar toggler show');
-                }
-            </script>
+        $('.subnavbar')
+            .attr('class', 'subnavbar toggler show');
 
-            {% include footer.html %}
-        </div>
-    </body>
-</html>
+        $('.subnavbar').find('ul').show();
+
+        $(elem)
+            .attr('class', 'subnavbar toggler show');
+    }
+</script>
