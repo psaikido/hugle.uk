@@ -3,10 +3,20 @@
     {% include head.html %}
     <body>
 
+
         <div class="grid-wrap">
             {% include navs/main.html %}
 
+            {% if page.banner-title %}
+                {% assign bt = page.banner-title %}
+            {% else %}
+                {% assign bt = 'hugle' %}
+            {% endif %}
+
+            <div class="header">&#x0f3a;{{ bt }}&#x0f3b;</div>
+
             {% include search.html %}
+            {% include subnav.html %}
 
             {{ content }}
 
@@ -14,4 +24,6 @@
         </div>
 
     </body>
+
+    <script type="text/javascript" src="/assets/js/subnav-toggler.js"> </script>
 </html>

@@ -1,5 +1,6 @@
 ---
-title: kite vids 
+title: hugle
+banner-title: kite vids 
 layout: youtubes
 yml-data: kite-youtubes
 permalink: /kites/kite-youtubes.html 

@@ -85,7 +85,7 @@ weightless
 
 
 <hr />
-A [blog](/blog/mani) on the carving
+A [blog](/blogs/mantra-archive.html) on the carving
 
 <h3>Sorcerer</h3>
 At Fiang GompaMonks don’t get that much entertainment it turns out. During my six week stay at Lamayuru I was doing lots of little magic tricks for them and they couldn’t get enough of it. One day the abbot asked me to do some tricks for an old guy coming our way. He said, “he’s been on retreat and hasn’t seen any of your tricks yet”. When he gets over to us, all curious, I show him a trick and he takes a step back, puts up one hand and starts chanting. Everyone goes very quiet, I had no idea what was going on. Because I was a bit thrown by his chanting I didn’t really know what to do next except do another trick, so I get something else out of my pocket and show him a second trick. He suddenly stops chanting and the abbot makes some joke in Ladakhi. They all fall about laughing, hanging on to each other’s robes and actual monkly tears are falling in the dust. The abbot eventually tells me what’s going on. He says “he thought you were a sorcerer and so he did the quelling magic mantra. You did another trick so I said ‘his magic is stronger than your mantra’”.

@@ -2,69 +2,20 @@
 layout: base
 ---
 
-<div class="header">&#x0f3a;{{ page.category }}&#x0f3b;</div>
-
-<nav class="subnavbar">
-    <a href="#" class="toggler hide">categories show/hide</a>
-
-    {% assign sorted-cats = site.categories | sort %}
-
-    <ul>
-        {% for cat in sorted-cats %}
-            {% capture ct %}{{ cat[0] }}{% endcapture %}
-            
-            <li>
-                <a href="/blogs/{{ ct }}.html">{{ ct }}</a>
-            </li>
-        {% endfor %}
-    </ul>
-</nav>
 
 <div class="main {{ page.subnav }}">
     <h4 class="poem-title">{{ page.title }}</h4>
 
-    <ul class="">
+    <ul>
         {% for post in site.categories[page.category] %}
-            <li {% if post.url == page.url %}class="current"{% endif %}>
+            <li>
                 <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">{{ post.title }}</a>
             </li>
+            {{ post.excerpt }}
+            [<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">more</a>]
+
+            <hr />
         {% endfor %}
     </ul>
-
 </div>
 
-<script type="text/javascript">
-    $('.subnavbar > .toggler').click(function () {
-        if ($('.subnavbar ul').is(':visible')) {
-            hide(this);
-        } else {
-            show(this);
-        }
-
-        return false;
-    })
-
-    function hide (elem) {
-        $(elem).html('show categories');
-
-        $('.subnavbar')
-            .attr('class', 'subnavbar toggler hide');
-
-        $('.subnavbar').find('ul').hide();
-
-        $(elem)
-            .attr('class', 'subnavbar toggler hide');
-    }
-
-    function show (elem) {
-        $(elem).html('hide categories');
-
-        $('.subnavbar')
-            .attr('class', 'subnavbar toggler show');
-
-        $('.subnavbar').find('ul').show();
-
-        $(elem)
-            .attr('class', 'subnavbar toggler show');
-    }
-</script>
