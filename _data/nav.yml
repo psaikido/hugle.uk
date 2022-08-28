@@ -168,9 +168,9 @@ menu:
         - title: links
           url: /links/
 
-        - title: sitemap
-          url: /pages/sitemap.html
-
     - title: shop
       url: /shop/
+
+    - title: sitemap
+      url: /pages/sitemap.html
 
