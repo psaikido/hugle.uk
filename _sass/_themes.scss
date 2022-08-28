@@ -8,6 +8,10 @@ html {
             color: $hilight;
         }
 
+        h4::before {
+            content: '༄༅༎ ';
+        }
+
         #search-term {
             color: $text-light;
             background-color: $dark-grey;

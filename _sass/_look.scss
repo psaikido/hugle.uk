@@ -20,7 +20,7 @@ img {
         $pink
     );
     background-position: 50% 100%;
-    background-size: 50%;
+    background-size: 80%;
     background-repeat: no-repeat;
     background-clip: text;
     color: transparent;
@@ -111,6 +111,15 @@ img {
     }
 }
 
+.main::after {
+    content: 'ༀ མ ནི པ དྨེ ཧཱུྃ ༔';
+    display: block;
+    width: 100%;
+    margin: 40px auto 0 auto;
+    color: $text-mute;
+    text-align: center;
+    font-size: 2rem;
+}
 
 .shop-item {
     float: left;
