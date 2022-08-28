@@ -3,7 +3,7 @@ description: Pali Canon Anthology
 menu:
 
 - title: intro 
-  url: /pages/suttas/index.html
+  url: /pages/suttas/intro.html
 
 - title: core sutras 
   url: /pages/suttas/core-suttas.html
