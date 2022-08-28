@@ -40,12 +40,6 @@ menu:
         - title: magic 
           url: /blogs/magic.html
 
-        - title: mantra 
-          url: /blogs/mantra.html
-
-        - title: mantra-archive
-          url: /blogs/mantra-archive.html
-
         - title: personal 
           url: /blogs/personal
 
@@ -75,10 +69,10 @@ menu:
       - title: mantra
         subsub:
         - title: mantra carving
-          url: /blog/mantra
+          url: /blogs/mantra.html
 
         - title: mantra archive
-          url: /blog/mantra-archive
+          url: /blogs/mantra-archive.html
 
         - title: gallery
           url: /pages/pix/stones.html
@@ -86,7 +80,7 @@ menu:
       - title: sutta anthology
         subsub:
         - title: intro 
-          url: /pages/suttas/index.html
+          url: /pages/suttas/intro.html
 
         - title: core sutras 
           url: /pages/suttas/core-suttas.html

@@ -2,10 +2,8 @@
 title: The Pali Canon 
 banner-title: The Pali Canon 
 layout: default 
+subnav: suttas
 ---
-
-![The Middle Length Discourses]({{ site.baseurl }}/assets/images/chan/majjhima.jpg)
-![The Connected Discourses]({{ site.baseurl }}/assets/images/chan/samyutta.jpg)
 
 John Crook came back from a trip to China. A master 'Moonshine' had asked him what we study and John had said 'The Heart Sutra'. John told us that the master had commented that we should start off with the basic sutras. When I heard this story I realised that I hadn't read the Theravada 'Suttas' from the Pali Canon so I set about it and started with the Middle Length Discourses. It seemed it would take forever as I was reading a few suttas after morning zazen each day. It turns out that there are many pages given over to introductions and notes so one day I turned the page and that was it! I'd finished.  
 
@@ -21,3 +19,7 @@ The terms 'sutta' and 'sutra' are used inter-changeably. 'Sutta' is the Pali spe
 [The Middle Length Discourses](/pages/suttas/mn/index.html)  
 [The Connected Discourses Volume 1](/pages/suttas/sn1/index.html)  
 [The Connected Discourses Volume 2](/pages/suttas/sn2/index.html)  
+
+![The Middle Length Discourses]({{ site.baseurl }}/assets/images/chan/majjhima.jpg)
+![The Connected Discourses]({{ site.baseurl }}/assets/images/chan/samyutta.jpg)
+

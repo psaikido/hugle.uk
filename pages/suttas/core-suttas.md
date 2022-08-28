@@ -1,6 +1,8 @@
 ---
-layout: default 
 title: The Core Sutras 
+banner-title: The Core Sutras 
+layout: default 
+subnav: suttas
 ---
 
 The following Sutras are chosen and ordered for providing a framework for a course. This course ran over a dozen times at a further education college, and has been the basis for four or five weekend retreats.
