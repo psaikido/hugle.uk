@@ -23,7 +23,7 @@ reactions flashed through my mind and something happened that had never
 happened to me before. Something very basic and clear took over and
 everything became very simple. "Climb as perfectly and as correctly as
 you possibly can and NOTHING ELSE!" It was utterly exhilarating looking
-back on it, that time of clarity, but its relevence to our collective
+back on it, that time of clarity, but its relevance to our collective
 situation is why I bring it up.
 
 People's psychology, en-masse, when a crisis looms, has been seen over
