@@ -20,6 +20,12 @@ img {
     }
 }
 
+.grid-wrap {
+    animation-name: reveal;
+    animation-duration: 4s;
+    animation-iteration-count: 1;
+}
+
 .main {
     padding-top: 9px;
     text-align: left;
@@ -74,10 +80,6 @@ img {
         }
 
         padding: 19px 0 0 0;
-
-        animation-name: reveal;
-        animation-duration: 4s;
-        animation-iteration-count: 1;
     }
 
     .poem {
