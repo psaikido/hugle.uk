@@ -4,24 +4,23 @@ html {
         color: $text-light;
         background-color: $dark-grey;
 
-        .header,
         h1, h2, h3, h4, h5, h6 {
             color: $hilight;
         }
-    }
 
-    #search-term {
-        color: $text-light;
-        background-color: $dark-grey;
-    }
+        #search-term {
+            color: $text-light;
+            background-color: $dark-grey;
+        }
 
-    .random-hughku, 
-    .home-text-box,
-    .dharma-names {
-        color: $text-light;
+        .random-hughku, 
+        .home-text-box,
+        .dharma-names {
+            color: $text-light;
 
-        a {
-            color: $hilight;
+            a {
+                color: $hilight;
+            }
         }
     }
 
