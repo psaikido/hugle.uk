@@ -39,6 +39,18 @@
     );
 }
 
+#hamburger-menu:hover,
+#hamburger-menu:focus {
+    background: linear-gradient(
+      to bottom, 
+      $white, $white 20%, 
+      $bkg 20%, $bkg 40%, 
+      $white 40%, $white 60%, 
+      $bkg 60%, $bkg 80%, 
+      $white 80%, $white 100%
+    );
+}
+
 #sidebar-menu {
     position: absolute;
     top: 0;
@@ -150,7 +162,7 @@
             display: block;
             background-image: url(/assets/images/mushin.gif);
             background-repeat: no-repeat;
-            background-position: 18% 21%;
+            background-position: 18% 20%;
             background-size: 50%;
             height: 310px;
         }
