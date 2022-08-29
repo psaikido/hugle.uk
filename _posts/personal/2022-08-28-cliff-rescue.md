@@ -62,9 +62,9 @@ dangerous and cold. She really might be in trouble here.
 Some guys on a fishing boat had realised that there was trouble. They had
 sailed in close to the cliff to find out if they could help. Peewee ran around
 relaying messages. The fishermen said that if I could lower her down just a bit
-they could get her onto the boat. I tried to undoe the pulley system but the
+they could get her onto the boat. I tried to undo the pulley system but the
 little prusik knot wouldn't give up. Too much strain on it see. I looked for
-something to cut it with in my rucsack but couldn't find anything that would do
+something to cut it with in my rucksack but couldn't find anything that would do
 the job. Starting to feel a stronger pull towards freaking out by now, I ran
 around the grassy banks at the top of the cliffs looking for something to cut
 that bloody knot with. After a minute or two I found a fragment of broken glass
@@ -81,17 +81,17 @@ slumped back onto the grass. Maybe it's just my memory enhanced a bit, but I
 imagine I actually saw the scene, but of course, that can't really be true. I
 can still see it though!
 
-Right about then the coastguard showed up in a landrover. They told us what was
+Right about then the coastguard showed up in a Landrover. They told us what was
 going on as they had radio contact with the boat. They would take me and Peewee
 back to the dock and meet the fishermen with Katie there. Apparently, she was
 fine! We got what gear remained into our bags and got into the back. They
 haired off a quite a lick. Talking about this with Peewee recently, he reminded
 me not to forget the bit about us nearly getting chucked out of the back of the
-landy. I nearly forgot that bit, and it wouldn't be here without the reminder.
+Landy. I nearly forgot that bit, and it wouldn't be here without the reminder.
 Anyhow, the tyres they had on were not fit for normal roads. They went too fast
 around a corner and spun it. I mean, right when we were starting to relax and
 babbling our versions of the story to each other, high on adrenaline, the
-landrover violently spun a three quarter turn. The back was open and we hurtled
+Landrover violently spun a three quarter turn. The back was open and we hurtled
 towards it, grabbing on at the last moment to avoid being thrown onto the road.
 
 More sedately, and after some apologies, they delivered us to the dockside.
