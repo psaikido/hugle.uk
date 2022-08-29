@@ -5,8 +5,8 @@ layout: default
 permalink: /about/
 ---
 
-![selfie Hughie 2022 June](/assets/images/faves/selfie202207.jpg) {:
-class='half'}
+![selfie Hughie 2022 June](/assets/images/faves/selfie202207.jpg) 
+{: class='half'}
 
 Hughie is also-known-as:  Hugh, Cháng Kè, Sonam Wangchuk, Hugle, Spuge, Hugely,
 Ivor (Biggun), Shugi, Shugs, Jadu, Mr Irrelevant, Psaikido (there's more..)  
