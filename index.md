@@ -1,7 +1,6 @@
 ---
-layout: default
-banner-title: 'hugle <a href="/pages/magic/main.html" title="why the name?">*</a>'
 title: hugle
+layout: default
 ---
 
 
@@ -21,6 +20,7 @@ title: hugle
 
 <div class="dharma-name">
 <span class="anglichars">Hughie</span>
+<a href="/pages/magic/main.html" title="why the name?">(why the 'hugle' name?)</a>
 </div>
 
 <div class="dharma-name">

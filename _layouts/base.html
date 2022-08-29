@@ -6,9 +6,9 @@
         <div class="grid-wrap">
             {% include navs/main.html %}
 
-            {% if page.banner-title %}
-                {% assign bt = page.banner-title | prepend: 'hugle - ' %}
-            {% else if page.category %}
+            {% if page.banner-title != nill %}
+                {% assign bt = page.banner-title %}
+            {% elsif page.category != nill %}
                 {% assign bt = page.category | prepend: 'hugle - ' %}
             {% else %}
                 {% assign bt = 'hugle' %}

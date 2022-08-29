@@ -15,8 +15,20 @@ img {
     padding-top: 8px;
     color: $hilight;
 
-    a:visited {
-        color: $hilight;
+    @supports (background-clip: text) 
+        or (-webkit-background-clip: text) {
+        background: linear-gradient(
+            to right,
+            $blue,
+            $hilight,
+            $pink
+        );
+        background-position: 50% 100%;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
     }
 }
 
