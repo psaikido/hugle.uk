@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Links
-permalink: /links/
+banner-title: Links
+layout: default
 ---
 
 - [hughkupoems on facebook](https://www.facebook.com/hughkupoems)

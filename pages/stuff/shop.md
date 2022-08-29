@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Shop
+banner-title: Shop
+layout: default
 permalink: /shop/
 ---
 
