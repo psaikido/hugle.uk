@@ -20,8 +20,8 @@
 
 #hamburger-menu {
     position: relative;
-    top: 20px;
-    left: -4px;
+    top: 7px;
+    left: 25px;
     width: 30px;
     height: 20px;
     display: inline;
@@ -30,6 +30,7 @@
     margin: 0px;
     font-family: 'Cabin', Sans-serif;
     cursor: pointer;
+
     background: linear-gradient(
       to bottom, 
       $text-link, $text-link 20%, 
@@ -38,6 +39,11 @@
       $bkg 60%, $bkg 80%, 
       $text-link 80%, $text-link 100%
     );
+
+    @include screen-width('medium') {
+        top: 20px;
+        left: -4px;
+    }
 }
 
 #hamburger-menu:hover,
