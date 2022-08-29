@@ -1,4 +1,5 @@
 ---
+title: "an album of Buddhist inspired music" 
 banner-title: "Mantrasphere" 
 layout: subnav
 subnav: mantrasphere
@@ -16,6 +17,7 @@ The CD can be bought from the [shop](/shop/).
 <a title="Padmasambhava video" href="http://www.youtube.com/watch?v=CfmXj1XuYxQ" target="_blank"> 
     <img src="{{ site.baseurl }}/assets/images/mantrasphere/gallery/promo/padmasambhava-video.jpg" alt="video" width="200" height="94" />
 </a>
+{: class="half"}
 
 <a title="The Three Refuges" href="http://youtu.be/LKj1byuQp3c">Three Refuges</a>
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Pilgrimage - Mahabodhi Moonlight
+title: Pilgrimage
+banner-title: Pilgrimage - Mahabodhi Moonlight
 ---
 
 !["Hugh Carroll, Ladakh 2005"]({{ site.baseurl }}/assets/images/pilg1/pilg14a.jpg "Hugh Carroll, Ladakh 2005")

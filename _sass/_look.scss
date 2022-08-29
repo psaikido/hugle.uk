@@ -46,6 +46,15 @@ img {
         width: 100%;
     }
 
+    p.half {
+        text-align: center;
+
+        img {
+            width: 50%;
+            margin: 0 auto;
+        }
+    }
+
     h4 {
         padding: 0 0 6px 6px;
         border-bottom: 1px solid $border-light;

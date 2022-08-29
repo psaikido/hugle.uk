@@ -174,3 +174,6 @@ menu:
     - title: sitemap
       url: /pages/sitemap.html
 
+    - title: about
+      url: /about/
+
