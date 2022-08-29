@@ -17,7 +17,8 @@ family, Hughie writes and flies kites. In his youth he was a performer, playing
 in bands, doing juggling, acting, magic and stunts. He worked in New Circus as
 it was then called. He busked and performed in Europe and the UK for around ten
 years in the late 80s to early 90s. He taught guitar on and off, for many
-years, he started playing when he was nine.
+years, he started playing when he was nine. He has a distinction at Grade 7 in
+Classical Guitar.
 
 A serious fall while performing a stunt during a rehearsal for Snapdragon
 Circus in 1991, left him with PTSD. The illness gradually morphed into ME/CFS
