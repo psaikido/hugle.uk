@@ -161,11 +161,12 @@
 
         &.empty {
             display: block;
-            background-image: url(/assets/images/mushin.gif);
+            background-image: url(/assets/images/chanCharacter.png);
             background-repeat: no-repeat;
             background-position: 18% 20%;
             background-size: 50%;
             height: 310px;
+            opacity: .2;
         }
     }
 

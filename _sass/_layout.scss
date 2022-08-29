@@ -91,21 +91,21 @@ body {
         grid-row-start: 4;
         position: fixed;
         margin-left: -8px;
-        font-style: italic;
-        font-size: .8rem;
         bottom: 0;
         width: 100%;
+        background: rgba(220, 220, 220, .9);
         text-align: right;
-        background: rgba(220, 220, 220, 1);
+
+        .mantra {
+            color: $dark-grey;
+            font-size: .7rem;
+        }
 
         .footer-text {
+            font-style: italic;
+            font-size: .8rem;
             margin-right: 10px;
             color: $dark-grey;
-
-            .cookies {
-                float: left;
-                margin-left: 15px;
-            }
         }
 
         button.theme-toggle {
