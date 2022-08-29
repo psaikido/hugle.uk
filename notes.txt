@@ -1,7 +1,10 @@
-Moving dev machine to an archlinux install.
-Fresh installation of jekyll and ruby led to conflicts.
-This page explains:
-https://flyingcakes85.github.io/blog/jekyll/2021/05/24/jekyll-webricks-issue.html
-
-tl;dr
-Install ruby2.7 and make a symlink so that bundle calls /usr/bin/ruby which is a link to /usr/bin/ruby-2.7
+design sites:
+    images:
+        pexel.com
+        unsplash.com
+    colour schemes:
+        coolors.co
+        mycolor.space
+        color.adobe.com
+    icons:
+        thenounproject.com
