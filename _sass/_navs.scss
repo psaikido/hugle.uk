@@ -22,8 +22,8 @@
     position: relative;
     top: 7px;
     left: 25px;
-    width: 30px;
-    height: 20px;
+    width: 50px;
+    height: 60px;
     display: inline;
     border: none;
     padding: 0px;
@@ -31,31 +31,19 @@
     font-family: 'Cabin', Sans-serif;
     cursor: pointer;
 
-    background: linear-gradient(
-      to bottom, 
-      $text-link, $text-link 20%, 
-      $bkg 20%, $bkg 40%, 
-      $text-link 40%, $text-link 60%, 
-      $bkg 60%, $bkg 80%, 
-      $text-link 80%, $text-link 100%
-    );
+    background-image: url(/assets/images/kanji-three-hi.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
 
     @include screen-width('medium') {
-        top: 20px;
-        left: -4px;
+        top: -6px;
+        left: -21px;
     }
 }
 
 #hamburger-menu:hover,
 #hamburger-menu:focus {
-    background: linear-gradient(
-      to bottom, 
-      $white, $white 20%, 
-      $bkg 20%, $bkg 40%, 
-      $white 40%, $white 60%, 
-      $bkg 60%, $bkg 80%, 
-      $white 80%, $white 100%
-    );
+    box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
 }
 
 #sidebar-menu {
