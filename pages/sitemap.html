@@ -4,37 +4,54 @@ title: sitemap
 ---
 
 <ul>
-{% for item in site.data %}
-    <li>
-        {% if item[1].description %}
-            {% if item[1].description == 'main menu' %}
-                {% continue %}
+    {% for item in site.data %}
+        <li>
+            {% if item[1].description %}
+                {{ item[1].description }}
+            {% else %}
+                {{ item[0] }}
             {% endif %}
 
-            {{ item[1].description }}
-        {% else %}
-            {{ item[0] }}
-        {% endif %}
+            <ul>
+            {% for sub in item[1]%}
+                <li>
+                    <ul>
+                    {% if sub[0] == 'menu' %}
+                        {% for subitem in sub[1]%}
+                            <li>
+                                <a href="{{ subitem.url }}" alt="{{ subitem.title }}">
+                                    {{ subitem.title }}
+                                </a>
+                            </li>
+                        {% endfor %}
+                    {% else %}
+                        <a href="">{{ sub[1].name }}</a>
+                    {% endif %}
+                    </ul>
+                </li>
+            {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+</ul>
 
-        <ul>
-        {% for sub in item[1]%}
-            <li>
-                <ul>
-                {% if sub[0] == 'menu' %}
-                    {% for subitem in sub[1]%}
-                        <li>
-                            <a href="{{ subitem.url }}" alt="{{ subitem.title }}">
-                                {{ subitem.title }}
-                            </a>
-                        </li>
-                    {% endfor %}
-                {% else %}
-                    <a href="">{{ sub[1].name }}</a>
-                {% endif %}
-                </ul>
-            </li>
-        {% endfor %}
-        </ul>
-    </li>
-{% endfor %}
+<h4>posts</h4>
+<ul>
+    {% assign sorted-cats = site.categories | sort %}
+
+    {% for cat in sorted-cats %}
+        {% capture ct %}{{ cat[0] }}{% endcapture %}
+
+        <li><h5>{{ ct }}</h5></li>
+
+        <li>
+            <ul>
+                {% for post in site.categories[ct] %}
+                    <li>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
 </ul>
