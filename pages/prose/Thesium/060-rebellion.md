@@ -11,7 +11,7 @@ permalink: /thesium/060-rebellion.html
 - rdr-108: narrative summary of 589 exabyte archive filed by root-108.  
 </div>
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dctj7u6-edf53265-ef8b-4ca0-9a51-ddc8090568de.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGN0ajd1Ni1lZGY1MzI2NS1lZjhiLTRjYTAtOWE1MS1kZGM4MDkwNTY4ZGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dvKabDma3Wix1DpWEnhTZIvDWZss8aDWun1llkQF4fU)
+![main sequence has ended - capn-damo deviantart.com](/assets/images/Thesium/main-sequence-has-ended.jpg)
 
 XOP-108 went through a period of being called "Theo's World" but has now
 morphed into the name 'Thesium'. It has become a feudal and theocratic society

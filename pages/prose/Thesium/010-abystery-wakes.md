@@ -6,7 +6,7 @@ subnav: thesium
 permalink: /thesium/010-abystery-wakes.html
 ---
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dd2sx1g-9b8f9152-38c3-4390-9e0c-476363c9bae8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGQyc3gxZy05YjhmOTE1Mi0zOGMzLTQzOTAtOWUwYy00NzYzNjNjOWJhZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LspX6TxIFBF7X_Vofzzb2ynMQOGd_yp7mjfNNQiS3xI)
+![cobra - capn-damo deviantart.com](/assets/images/Thesium/cobra.jpg)
 
 The Abystery woke up. After some time it spoke.  
 

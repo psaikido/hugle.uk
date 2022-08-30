@@ -11,7 +11,7 @@ permalink: /thesium/090-renaissance.html
 - rdr-108: narrative summary of 223 exabyte archive filed by root-108.  
 </div>
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dag0c2w-6f31670e-58fa-4471-8b34-6f233f5ccdc8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFnMGMydy02ZjMxNjcwZS01OGZhLTQ0NzEtOGIzNC02ZjIzM2Y1Y2NkYzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UMkA6qgakXF2wfdY8N_uK8G4G2FL11H6G3ThVHrf5h8)
+![Jain tech - capn-damo deviantart.com](/assets/images/Thesium/jain-tech.jpg)
 
 Society is in turmoil with many millions leaving the Neemians. The
 Evempiricals, although still underground, have swollen in number many times.

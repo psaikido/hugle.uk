@@ -18,7 +18,7 @@ other contending that it was not the same."
 -- Plutarch, Theseus
 </div>
 
-![capn-damo on deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dcr377a-ba7a9126-353f-48c0-8f08-f7a5641e77df.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGNyMzc3YS1iYTdhOTEyNi0zNTNmLTQ4YzAtOGYwOC1mN2E1NjQxZTc3ZGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zPqX56ZFzKMCmnSeZyDiZJv4gpHd72r7vyUDH-h7oVo)
+![another sunset somewhere - capn-damo on deviantart.com](/assets/images/Thesium/another-sunset-somewhere.png)
 
 
 The deep future. Gaia's son mourns her dying and casts many seeds onto the

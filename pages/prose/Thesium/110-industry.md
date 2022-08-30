@@ -12,7 +12,7 @@ permalink: /thesium/110-industry.html
 </div>
 
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dajac5i-da4ac237-43b3-4316-bdf7-bd64f7cdca99.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFqYWM1aS1kYTRhYzIzNy00M2IzLTQzMTYtYmRmNy1iZDY0ZjdjZGNhOTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5Durwmji5kbxUs8PoqdD_PChRMYZeglD3H7fhmUpRfg)
+![Pinski's place - monument - capn-damo deviantart.com](/assets/images/Thesium/pinski-monument.jpg)
 
 An industrial revolution turns the society inside out at dizzying speed. The
 Execs sweep the feudal systems aside and install themselves in the corridors of

@@ -11,7 +11,7 @@ permalink: /thesium/080-doubt.html
 - rdr-108: narrative summary of 102 exabyte archive filed by root-108.  
 </div>
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dct62cw-9c7f5dfb-a56b-408f-933c-a60f3cbfab51.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGN0NjJjdy05YzdmNWRmYi1hNTZiLTQwOGYtOTMzYy1hNjBmM2NiZmFiNTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6QU4rUWAQJ0a8ZJEc5rkx90DeP3mXK55nsRPHCeDypQ)
+![the waiting city - capn-damo deviantart.com](/assets/images/Thesium/waiting-city.jpg)
 
 The society is structured like a walled garden. In the outer circles there are
 vast shanty towns of mostly unregulated space. Crime runs rife. Mob killings

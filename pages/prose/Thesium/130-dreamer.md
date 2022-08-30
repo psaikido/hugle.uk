@@ -12,7 +12,7 @@ permalink: /thesium/130-dreamer.html
 - root-108: anomalous entity 'Abystery' report.
 </div>
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dafikau-3879fa40-e12e-431f-9a56-6877bd43ef98.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFmaWthdS0zODc5ZmE0MC1lMTJlLTQzMWYtOWE1Ni02ODc3YmQ0M2VmOTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bg9Thu5CEC8QebK9bYO0s4hFZ4-_BW3j2LvT70DLpTE)
+![take it to the lab Igor - capn-damo deviantart.com](/assets/images/Thesium/take-it-to-the-lab-igor.jpg)
 
 The High Neem wanders the corridors and rooms of his new prison once called The
 Laboratory, now renamed The Church. It is like a labyrinthine castle. In his

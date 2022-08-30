@@ -12,8 +12,7 @@ permalink: /thesium/140-self.html
 - root-108: anomalous entity 'Abystery' report.
 </div>
 
-![capn-damo
-deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dd28gpf-8276ac78-7030-4f7d-8e09-c62cfbed6323.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGQyOGdwZi04Mjc2YWM3OC03MDMwLTRmN2QtOGUwOS1jNjJjZmJlZDYzMjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ulM5qWHofQjYnZMVOT8BRtRquOgS5Jd4zLk-qBltlLY)
+![splits elliptic moonlight - capn-damo deviantart.com](/assets/images/Thesium/splits-elliptic-moonlight.jpg)
 
 From the peace of the void, the Abystery lifted the High Neem's experience
 upwards. As he ascended he became aware of a great wailing cry. He accelerated

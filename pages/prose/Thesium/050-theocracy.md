@@ -11,7 +11,7 @@ permalink: /thesium/050-theocracy.html
 - rdr-108: narrative summary of 231 exabyte archive filed by root-108.  
 </div>
 
-![capn-damo deviantart.com](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87157177-c2fc-4877-91ea-2841f6f9bd16/dalpu2q-2d54116a-9b66-4a40-baf1-7586c801447d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3MTU3MTc3LWMyZmMtNDg3Ny05MWVhLTI4NDFmNmY5YmQxNlwvZGFscHUycS0yZDU0MTE2YS05YjY2LTRhNDAtYmFmMS03NTg2YzgwMTQ0N2QuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uyYUIlHemqRrft42c_IA6bGdtVMZBNpkx4LFNpiTAW8)
+![desert outpost - capn-damo deviantart.com](/assets/images/Thesium/desert-outpost.jpg)
 
 Theo Nimes has long since died along with the rest of the crew. Their
 offspring, of which there were many, along with seven tranches of births from
