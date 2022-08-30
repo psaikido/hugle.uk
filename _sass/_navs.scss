@@ -21,7 +21,7 @@
 #hamburger-menu {
     position: relative;
     top: 7px;
-    left: 25px;
+    left: 15px;
     width: 50px;
     height: 60px;
     display: inline;
@@ -36,6 +36,10 @@
     background-repeat: no-repeat;
 
     @include screen-width('medium') {
+        left: -10px;
+    }
+
+    @include screen-width('large') {
         top: -6px;
         left: -21px;
     }

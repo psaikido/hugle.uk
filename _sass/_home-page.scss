@@ -2,8 +2,9 @@
     background-image: url(/assets/images/bio/h-wall-door.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-    padding-top: 70px;
-    height: 104vw;
+    background-position-y: 37px;
+    padding-top: 127px;
+    height: 111vw;
 
     @include screen-width('xsmall') {
         width: 96vw;
@@ -18,7 +19,7 @@
     }
 
     @include screen-width('large') {
-        padding-top: 20%;
+        padding-top: 30%;
         width: 100%;
         height: 1000px;
 
