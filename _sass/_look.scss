@@ -1,12 +1,18 @@
 body {
     font-family: 'Oxygen';
+    font-size: 1.2em;
     letter-spacing: .1em;
     margin: 0;
-    line-height: 25px;
+    line-height: 1.8em;
+
+    @include screen-width('small') {
+        font-size: 1em;
+    }
 }
 
 .header {
     font-size: 1.6rem;
+    font-weight: bold;
     letter-spacing: .3em;
     padding-top: 8px;
     color: $hilight;
@@ -19,7 +25,12 @@ body {
 }
 
 .main {
-    padding: 20px;
+    padding: 3px;
+
+    @include screen-width('small') {
+        padding: 20px;
+    }
+
     background-color: $dark-grey;
     box-shadow: -4px 6px 5px 3px rgba(30, 30, 30, .3);
     text-align: left;
@@ -28,6 +39,20 @@ body {
         width: 100%;
         box-shadow: -4px 6px 5px 3px rgba(30, 30, 30, .3);
         border: 1px solid $border-light;
+    }
+
+    p.full-width {
+        padding: 0;
+        max-width: 800px;
+    }
+
+    p, h1, h2, h3, h4, h5, h6 {
+        padding: 0 1rem;
+    }
+
+    @include screen-width('small') {
+        padding: 0 3rem;
+        max-width: 75ch;
     }
 
     p.half {
@@ -39,16 +64,11 @@ body {
         }
     }
 
-    iframe {
-        display: block;
-        margin: 0 auto;
-    }
-
     h4 {
         padding: 0 0 6px 6px;
         border-bottom: 1px solid $border-light;
         font-style: italic;
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
 
     .center-img {

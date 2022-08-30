@@ -8,12 +8,7 @@ body {
     width: 100vw;
     margin-inline: auto;
     padding: $border-size;
-    font-size: .8em;
     overflow-x: hidden;
-
-    @include screen-width('small') {
-        font-size: 1em;
-    }
 }
 
 .grid-wrap {
@@ -84,16 +79,6 @@ body {
         width: 100%;
         height: auto;
         padding-bottom: 80px;
-
-        p.full-width {
-            padding: 0;
-            max-width: 800px;
-        }
-
-        p, h1, h2, h3, h4, h5, h6 {
-            padding: 0 3rem;
-            max-width: 75ch;
-        }
     }
 
     .footer {

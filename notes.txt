@@ -8,3 +8,5 @@ design sites:
         color.adobe.com
     icons:
         thenounproject.com
+    templates:
+        designmodo.com/slides
