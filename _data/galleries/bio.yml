@@ -1,4 +1,5 @@
 name: bio
+description: bio
 imageFolder: assets/images/bio/
 
 images:
