@@ -4,6 +4,11 @@ html {
         color: $text-light;
         background-color: $dark-grey-shift;
 
+        .main {
+            background-color: $dark-grey;
+            box-shadow: -4px 6px 5px 3px rgba(30, 30, 30, .3);
+        }
+
         h1, h2, h3, h4, h5, h6 {
             color: $hilight;
         }
@@ -29,7 +34,8 @@ html {
     }
 
     &.light {
-        body {
+        body,
+        .main {
             background-color: $light-grey;
             color: $text-dark;
         }
@@ -58,16 +64,9 @@ html {
             color: $blue;
         }
 
-        #hamburger-menu {
-            color: $text-dark;
-            background: linear-gradient(
-              to bottom, 
-              $dark-grey, $dark-grey 20%, 
-              $text-light 20%, $text-light 40%, 
-              $dark-grey 40%, $dark-grey 60%, 
-              $text-light 60%, $text-light 80%, 
-              $dark-grey 80%, $dark-grey 100%
-            );
+        #hamburger-menu:hover,
+        #hamburger-menu:focus {
+            box-shadow: 0 1px 5px 4px rgba(30, 30, 30, .5);
         }
 
         #sidebar-menu {
