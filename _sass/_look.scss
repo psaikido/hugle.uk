@@ -39,6 +39,11 @@ body {
         }
     }
 
+    iframe {
+        display: block;
+        margin: 0 auto;
+    }
+
     h4 {
         padding: 0 0 6px 6px;
         border-bottom: 1px solid $border-light;

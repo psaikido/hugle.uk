@@ -37,6 +37,9 @@ menu:
         - title: ideas
           url: /blogs/ideas.html
 
+        - title: kites
+          url: /blogs/kites.html
+
         - title: magic 
           url: /blogs/magic.html
 
@@ -102,6 +105,9 @@ menu:
       sub:
       - title: kites
         subsub:
+          - title: blog
+            url: /blogs/kites.html
+
           - title: fleet 
             url: /pages/kites/fleet.html
 
