@@ -84,6 +84,16 @@ body {
         width: 100%;
         height: auto;
         padding-bottom: 80px;
+
+        p.image {
+            padding: 0;
+            max-width: 800px;
+        }
+
+        p, h1, h2, h3, h4, h5, h6 {
+            padding: 0 3rem;
+            max-width: 75ch;
+        }
     }
 
     .footer {
@@ -110,11 +120,11 @@ body {
 
         button.theme-toggle {
             float: left;
-            height: 20px;
-            width: 20px;
+            height: 22px;
+            width: 42px;
             margin: 2px 0 0 20px;
-            background-image: url("../images/light-dark.png");
-            background-size: contain;
+            background-image: url("../images/theme-changer.png");
+            background-size: 98%;
             background-repeat: no-repeat;
             border: none;
         }
