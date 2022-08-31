@@ -24,7 +24,7 @@ of stone pinging painfully off my forehead every now and then. At
 last it was finished and he seemed really pleased.
 
 !["Hughie & Phunchok Namgyal, Lamayuru, 2005"]({{ site.baseurl }}/assets/images/mani/mani1Teacher.jpg "Hughie & Phunchok Namgyal, Lamayuru, 2005")
-<h6>Hughie & Phunchok Namgyal, Lamayuru, 2005.</h6>
+###### Hughie & Phunchok Namgyal, Lamayuru, 2005.
 
 After a few more goes I eventually came up with this one – my
 favourite. This one was made a bit later, back in Leh. I had
@@ -35,8 +35,8 @@ it over assessing it, there was a piercing cry above me. Looking up,
 a golden eagle soared just over head, amazingly close. It must have
 been checking me out. I was filled with a feeling hard to describe.
 Suddenly everything was so stupendously clear, bright and joyous.
-!["Mani 5"]({{ site.baseurl }}/assets/images/mani/mani5.jpg "Mani
-5")
+
+!["Mani 5"]({{ site.baseurl }}/assets/images/mani/mani5.jpg "Mani 5")
 
 <div class="poem">
 overhead  
