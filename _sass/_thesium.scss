@@ -5,10 +5,15 @@
 
     .data {
         text-align: justify;
-        font-style: italic;
-        color: $hilight;
+        font-size: .8em;
+        font-family: 'Lucida Console';
+        color: $text-mute;
         border-bottom: 1px solid $border-light;
         margin-bottom: 13px;
+
+        li {
+            margin: 0;
+        }
     }
 
     .quote {
