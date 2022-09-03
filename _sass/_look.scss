@@ -16,7 +16,7 @@ body {
     letter-spacing: .3em;
     padding-top: 8px;
     color: $hilight;
-    text-shadow: -2px 5px 3px $black;
+    text-shadow: -2px 3px 2px $black;
 }
 
 .grid-wrap {
@@ -33,12 +33,11 @@ body {
     }
 
     background-color: $dark-grey;
-    box-shadow: -4px 6px 5px 3px rgba(30, 30, 30, .3);
+    box-shadow: -4px 7px 5px 0px rgba(30, 30, 30, .6);
     text-align: left;
 
     img {
         width: 100%;
-        box-shadow: -4px 6px 5px 3px rgba(30, 30, 30, .3);
         border: 1px solid $border-light;
     }
 
