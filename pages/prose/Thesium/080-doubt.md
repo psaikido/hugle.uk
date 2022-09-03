@@ -41,10 +41,10 @@ rest of Thesium.
 At the very centre of the Cathedral is the Ship of Light itself.
 
 After the insurrection there is a terrible suppression of Evempirical thought.
-Only a few White Coats are allowed to continue working. The Ship of Light is
-rebuilt but people remain restive. Everyone had seen for themselves how the
-Ship lay in parts, all its components exposed and no soul could be seen by
-anyone. This troubled the High Neem most of all, because he couldn't see it
+Only the Top Prof and a small team is allowed to continue working. The Ship of
+Light is rebuilt but people remain restive. Everyone had seen for themselves
+how the Ship lay in parts, all its components exposed and no soul could be seen
+by anyone. This troubled the High Neem most of all, because he couldn't see it
 either. Groups of theologians were assembled to come up with ever cleverer
 arguments to sustain Neemianism.
 

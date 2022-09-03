@@ -14,6 +14,14 @@ permalink: /thesium/130-dreamer.html
 
 ![take it to the lab Igor - capn-damo deviantart.com](/assets/images/Thesium/take-it-to-the-lab-igor.jpg)
 
+The arguments between the High Neem and the Top Prof go round and round in
+circles. They both tire of them. On the one side there is the need for a
+central mythos, for a saviour, for meaning. On the other is the rejection of
+the irrational and the need for an over-arching classification system. The Good
+and the True butt their heads together and rapidly agree to disagree. A stony
+silence prevails between them and after only a few days of this, they take up
+separate lives as far as possible.
+
 The High Neem wanders the corridors and rooms of his new prison once called The
 Laboratory, now renamed The Church. It is like a labyrinthine castle. In his
 conversations with The Helper, the only one who will talk to him, he has been
@@ -36,10 +44,9 @@ me that you have many questions."
 
 "For years I, along with all us Neemians, have believed that the Ship of Light
 and indeed all things, has an essence. Recent events have made me uncertain. I
-still have a powerful feeling, an intuition maybe, that all
-this still has some meaning. There just simply HAS to be some point to it all.
-I cannot accept this nihilism espoused by the Exec. Is there an essence or
-not?"
+still have a powerful feeling, an intuition maybe, that all this still has some
+meaning. There just simply HAS to be some point to it all. I cannot accept this
+nihilism espoused by the Top Prof. Is there an essence or not?"
 
 The Abystery revolves slowly for a moment or two.
 
@@ -51,7 +58,7 @@ The Abystery revolves slowly for a moment or two.
 satisfying resolution. There is a means by which I can construct an experience
 for you such that you will understand from my point of view. Are you willing?"
 
-"Indeed I am. Let's do it!"
+"Ok, show me!"
 
 The Abystery gives some instructions and reassurance and invites the High Neem
 towards what looks like an old fashioned dentist's chair. Floating to the sides
@@ -96,6 +103,9 @@ ever again. He moves towards the final boundary and senses that just the other
 side, just a step away, is a realm of such utter perfection that all else
 simply does not matter and never would again. 
 
-"But what of the soul?" he thinks to himself. Sure, he can see that the physical world and the universe and the whole shebang is made of components and don't have a centre, but he still feels the strongest intuition that HE has a core even if everything outside him doesn't. "What of myself?"
+"But what of the soul?" he thinks to himself. Sure, he can see that the
+physical world and the universe and the whole shebang is made of components and
+don't have a centre, but he still feels the strongest intuition that HE has a
+core even if everything outside him doesn't. "What of myself?"
 
 The Abystery's deep voice emanates out of the void. "Come with me!"

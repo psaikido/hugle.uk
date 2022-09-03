@@ -17,7 +17,7 @@ against our will, comes wisdom to us by the awful grace of God."
 <div class="data">
 - XOP-108 Seeding Year 1220.
 - rdr-108: narrative summary of 26 petabyte archive filed by root-108.  
-- root-108: anomalous entity 'Abystery' report.
+- root-108: anomalous entity 'Abystery' report. 
 </div>
 
 ![dragon egg - capn-damo deviantart.com](/assets/images/Thesium/dragon-egg.jpg)
@@ -25,15 +25,15 @@ against our will, comes wisdom to us by the awful grace of God."
 The High Neem lurched back to reality. He was nearly sick.
 
 The blue lights around his head faded back and he became aware, once
-again, of the chair his real body reclined in. His feelings were 
+again, of the chair his real body reclined in. His feelings were
 intense and yet he struggled to describe them to himself. At one and
 the same time he could see that there was no essence to things,
 nothing existed separately, and that because they were so fragile
 and evanescent, he could not help but love them. The poignancy of it
 pierced his heart. Everything, including his own 'self', flickered
 into, and out of, existence. If the conditions were just right, then
-a process would occur. That's all! The 'essence' he had thought of as
-being the true meaning behind all things, his hallowed Ship of
+a process would occur. That's all! The 'essence' he had thought of
+as being the true meaning behind all things, his hallowed Ship of
 Light, was an illusion. He laughed. Even hurting as he was, the fact
 that words had a way of making things seem a lot more real than they
 really were seemed very funny.
@@ -50,6 +50,8 @@ fervent belief in his God came from this great need, this deep
 yearning for meaning and goodness, for some kind of safety. It was
 indeed Good, but now, at last, he felt in his very bones that it was
 not really how things were. It was not True.
+
+God damn it, the Top Prof had a point!
 
 His body had been trembling and he felt now all the tears and snot
 that had been running freely down his face. What a mess!
@@ -89,11 +91,9 @@ now, here it was!
 
 "We are sorry for shocking you so, and we are delighted at your
 peace." said the Abystery. The whole thing had been a gamble after
-all. "You have heard the cries of the world. You have seen the lack of
-essences."
+all. "You have heard the cries of the world. You have seen the lack
+of essences."
 
-"Can we invite the others to undergo this same journey?" he asked the
-Abystery.
+"Can I introduce you to someone?" he asked the Abystery.
 
-"Yes, indeed we can. Indeed, some of those journeys have already
-taken place. Please return to the dreaming and I will show you." 
+"Please do!" 

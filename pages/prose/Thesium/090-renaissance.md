@@ -30,7 +30,9 @@ status-quo is challenged on all sides.
 The Neemians react with increasing violence. They make a point of asserting
 their power. They make very public examples of the worst 'criminals' against
 their authority. These displays of cruelty ironically undermine their claim to
-be the champions of the Good.
+be the champions of the Good. They continually repeat that the mythos they
+embody must be maintained. That without this central mythos all will fall into
+chaos. 
 
 Large factories are built in the outer shanty towns and the labour out there is
 found to be willing and very cheap. The power of the Execs grows on the back of
@@ -45,9 +47,11 @@ Execs, the Evempiricals, the out-groups and the Neemians. Some concessions are
 gained and lost. Power sharing is mooted. A voting system is proposed and
 trials are undertaken.
 
-The crunch point comes when the Evempirical's champion directly confronts the
-High Neem over the 'soul' of the Ship of Light. He asserts that it is merely an
-assembly of parts, it has no essence and no special power. "Neemianism is built
-on a lie" he shouts. The High Neem counters with something about ineffable intuition but the general clamour drowns him out.
+The crunch point comes when the Evempirical's champion, the Top Prof directly
+confronts the High Neem over the 'soul' of the Ship of Light. He asserts that
+it is merely an assembly of parts, it has no essence and no special power.
+"Neemianism is built on a lie" he shouts. The High Neem counters with something
+about ineffable intuition and the need for a central mythos, but the general
+clamour drowns him out.
 
 The world shifts on its axis.

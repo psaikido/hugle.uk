@@ -29,19 +29,21 @@ chaos. There is much disease. Root tries to help without being too obtrusive.
 
 The White Coats continue to maintain the Ship of Light along with their other
 duties. There are many generations of them too by this time. This small group
-notice that every component of the Ship had been replaced multiple times.
-Debates start up concerning the supposed 'soul' that the Ship is supposed to
-house. Surely they would have found this 'soul' by now? Each component is
-carefully examined and logged so that it can be replicated when it wears out.
-They are yet to discover that which the Neemians worship.
+has a leader that is voted in every few years. They call him Top Prof. Each
+component is carefully examined and logged so that it can be replicated when it
+wears out. As he reviews all the parts that have been replaced, he notices that
+that every component of the Ship has been replaced multiple times. Debates
+start up concerning the supposed 'soul' that the Ship is supposed to house.
+Surely they would have found this 'soul' by now? They are yet to discover that
+which the Neemians worship.
 
-A faction arises arguing that their experience should be the sole arbiter of what is
-true. They argue that the High Neem declaring what is Good is not sufficient
-explanation for how things are and that it is their duty to think for
-themselves. They have been trained in empiricism after all. Their experience
-has demonstrated that the Neemian's supposed 'soul' is non-existent. The Ship
-of Light is simply a machine without mystical properties. They call their
-faction the 'Evempiricals'.
+A faction arises arguing that their experience should be the sole arbiter of
+what is true. They argue that the High Neem declaring what is Good is not
+sufficient explanation for how things are and that it is their duty to think
+for themselves. They have been trained in empiricism after all. Their
+experience has demonstrated that the Neemian's supposed 'soul' is non-existent.
+The Ship of Light is simply a machine without mystical properties. They call
+their faction the 'Evempiricals'.
 
 The Evempiricals heresy against the Neemians gains ground. The inequalities of
 the society begin to destabilise it. Riots and strikes provoke police
