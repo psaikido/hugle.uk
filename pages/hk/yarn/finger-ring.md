@@ -44,4 +44,4 @@ everyone jumped to their feet
 for a standing ovation
 </div>
 
-![wedding magic]({{ site.baseurl }}/assets/images/bucket/bellinger010.jpg "wedding magic")
+![wedding magic](/assets/images/magic/bellinger010.jpg "wedding magic")
