@@ -16,6 +16,9 @@
 
 .burger-shower:checked + .hamburger-dropdown {
     display: block;
+    animation-name: reveal;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
 }
 
 #hamburger-menu {
@@ -174,21 +177,29 @@
         margin-left: 36px;
         background-color: transparent;
         border: none;
-        background-image: url(/assets/images/kanji-three-shadow.png);
+        background-image: url(/assets/images/hide-sdebar-vert-svgrepo-com.svg);
         background-size: 100%;
         background-repeat: no-repeat;
     }
 
+    button.toggler.is-showing::after, 
+    button.toggler.not-showing::after {
+        margin-left: 35px;
+        color: $text-link;
+    }
+
+    button.toggler.is-showing::after {
+        content: 'hide';
+    }
+
     button.toggler.not-showing {
-        border: 3px solid $black;
-        background-color: $bkg;
-        background-position: 0 -5px;
+        background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+        background-size: 50%;
+        background-position: 7px 9px;
     }
 
     button.toggler.not-showing::after {
         content: 'show';
-        margin-left: 35px;
-        color: $hilight;
     }
 }
 
