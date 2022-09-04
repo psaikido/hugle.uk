@@ -3,7 +3,7 @@
 {% else %}
     {% if page.subnav %}
         <nav class="subnavbar">
-            <a href="#" class="toggler hide">index show/hide</a>
+            <button class="toggler is-showing">&nbsp;</button>
 
             <ul class="">
                 {% for item in site.data[page.subnav].menu %}
@@ -19,7 +19,7 @@
 
     {% if page.category %}
         <nav class="subnavbar">
-            <a href="#" class="toggler hide">index show/hide</a>
+            <button class="toggler is-showing">&nbsp;</button>
 
             <ul class="">
                 {% for post in site.categories[page.category] %}

@@ -47,10 +47,6 @@ body {
         @include screen-width('medium') {
             grid-area: nav;
         }
-
-        #sidebar-menu {
-            width: calc(100vw - ($border-size * 2));
-        }
     }
 
     .header {

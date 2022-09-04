@@ -13,25 +13,11 @@ $('.subnavbar > .toggler').click(function () {
 })
 
 function hide (elem) {
-    $(elem).html('show index');
-
-    $('.subnavbar')
-        .attr('class', 'subnavbar toggler hide');
-
-    $('.subnavbar').find('ul').hide();
-
-    $(elem)
-        .attr('class', 'subnavbar toggler hide');
+    $('.subnavbar').find('ul').fadeOut();
+    $(elem).attr('class', 'toggler not-showing');
 }
 
 function show (elem) {
-    $(elem).html('hide index');
-
-    $('.subnavbar')
-        .attr('class', 'subnavbar toggler show');
-
-    $('.subnavbar').find('ul').show();
-
-    $(elem)
-        .attr('class', 'subnavbar toggler show');
+    $('.subnavbar').find('ul').fadeIn();
+    $(elem).attr('class', 'toggler is-showing');
 }
