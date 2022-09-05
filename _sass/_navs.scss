@@ -129,7 +129,6 @@
     font-size: 1rem;
 
     ul {
-        display: none;
         list-style-type: none;
 
         li a, 
@@ -177,15 +176,18 @@
         margin-left: 36px;
         background-color: transparent;
         border: none;
-        background-image: url(/assets/images/hide-sdebar-vert-svgrepo-com.svg);
-        background-size: 100%;
-        background-repeat: no-repeat;
     }
 
     button.toggler.is-showing::after, 
     button.toggler.not-showing::after {
         margin-left: 35px;
         color: $text-link;
+    }
+
+    button.toggler.is-showing {
+        background-image: url(/assets/images/hide-sdebar-vert-svgrepo-com.svg);
+        background-size: 100%;
+        background-repeat: no-repeat;
     }
 
     button.toggler.is-showing::after {
@@ -196,6 +198,7 @@
         background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
         background-size: 50%;
         background-position: 7px 9px;
+        background-repeat: no-repeat;
     }
 
     button.toggler.not-showing::after {
