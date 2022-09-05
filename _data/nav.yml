@@ -4,7 +4,7 @@ menu:
     - title: home
       url: /
 
-    - title: poetry/prose 
+    - title: writing
       sub: 
       - title: poetry
         subsub: 
@@ -28,23 +28,22 @@ menu:
         - title: First Burn
           url: /pages/prose/firstBurn/01-fb.html
 
+      - title: blogs
+        subsub:
+          - title: essays
+            url: /blogs/essays.html
 
-    - title: blogs
-      sub:
-        - title: essays
-          url: /blogs/essays.html
+          - title: ideas
+            url: /blogs/ideas.html
 
-        - title: ideas
-          url: /blogs/ideas.html
+          - title: kites
+            url: /blogs/kites.html
 
-        - title: kites
-          url: /blogs/kites.html
+          - title: magic 
+            url: /blogs/magic.html
 
-        - title: magic 
-          url: /blogs/magic.html
-
-        - title: personal 
-          url: /blogs/personal
+          - title: personal 
+            url: /blogs/personal
 
 
     - title: Dharma
