@@ -1,4 +1,19 @@
 /* hamburger */
+.burger-shower {
+  display: none;
+}
+
+.burger-shower + .hamburger-dropdown {
+    display: none;
+}
+
+.burger-shower:checked + .hamburger-dropdown {
+    display: block;
+    animation-name: reveal;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
 #hamburger-input:checked + #hamburger-menu #sidebar-menu {
     visibility: visible;
     left: 0;
@@ -52,21 +67,6 @@
 
     @include screen-width('medium') {
         width: 830px;
-    }
-
-    .burger-shower {
-      display: none;
-    }
-
-    .burger-shower + .hamburger-dropdown {
-        display: none;
-    }
-
-    .burger-shower:checked + .hamburger-dropdown {
-        display: block;
-        animation-name: reveal;
-        animation-duration: 2s;
-        animation-iteration-count: 1;
     }
 
     ul {
