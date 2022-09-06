@@ -76,4 +76,5 @@ that sentience was in itself, a mystery, a miracle and a wonder.
 It was divine.
 
 
-# fin {: style="text-align: center;"}
+# fin 
+{: style="text-align: center;"}
