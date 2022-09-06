@@ -31,7 +31,7 @@ The White Coats continue to maintain the Ship of Light along with their other
 duties. There are many generations of them too by this time. This small group
 has a leader that is voted in every few years. They call him Top Prof. Each
 component is carefully examined and logged so that it can be replicated when it
-wears out. As he reviews all the parts that have been replaced, he notices that
+wears out. As he reviews all the parts that have been replaced, he notices 
 that every component of the Ship has been replaced multiple times. Debates
 start up concerning the supposed 'soul' that the Ship is supposed to house.
 Surely they would have found this 'soul' by now? They are yet to discover that
@@ -60,7 +60,7 @@ The High Neem sends his crack troops to deal with the rebellion and they are
 cruelly successful. A brutal crackdown throws the whole of Thesium into martial
 law. The renegade Evempiricals' ring leaders are rounded up. The High Neem
 tries to reassert total power by holding show trials. The Evempiricals
-arguments are to be show to be Bad and the faith of the masses is to be
+arguments are to be shown to be Bad and the faith of the masses is to be
 renewed.
 
 Root continues to facilitate Thesium, its fauna and flora, and collate

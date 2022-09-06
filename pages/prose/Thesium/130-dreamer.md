@@ -16,11 +16,13 @@ permalink: /thesium/130-dreamer.html
 
 The arguments between the High Neem and the Top Prof go round and round in
 circles. They both tire of them. On the one side there is the need for a
-central mythos, for a saviour, for meaning. On the other is the rejection of
-the irrational and the need for an over-arching classification system. The Good
-and the True butt their heads together and rapidly agree to disagree. A stony
-silence prevails between them and after only a few days of this, they take up
-separate lives as far as possible.
+central mythos, for a saviour, for meaning. The Ship of Light has an eternal
+essence that remains despite its components continually changing. On the other
+is the rejection of the irrational and the need for an over-arching
+classification system. The Ship of Light has no essence and is different every
+time it changes. The Good and the True butt their heads together and rapidly
+agree to disagree. A stony silence prevails between them and after only a few
+days of this, they take up separate lives as far as possible.
 
 The High Neem wanders the corridors and rooms of his new prison once called The
 Laboratory, now renamed The Church. It is like a labyrinthine castle. In his
@@ -58,7 +60,7 @@ The Abystery revolves slowly for a moment or two.
 satisfying resolution. There is a means by which I can construct an experience
 for you such that you will understand from my point of view. Are you willing?"
 
-"Ok, show me!"
+"Okay, show me!"
 
 The Abystery gives some instructions and reassurance and invites the High Neem
 towards what looks like an old fashioned dentist's chair. Floating to the sides
@@ -86,6 +88,7 @@ spread out from each other as he zooms in. The gears and cogs, the cables and
 plates, the great magnets at its centre, all get closer and closer until he
 sort of flies past them into what looks like an amazingly complex kaleidoscope.
 He traverses the voids between the atoms themselves and zooms even further in.
+
 Entering one such atom, he is suddenly inside a vast sphere of pulsating
 energy. He traverses layer upon layer of ever increasing force-fields and
 approaches its core. The walls of this core keep expanding and he keeps zooming

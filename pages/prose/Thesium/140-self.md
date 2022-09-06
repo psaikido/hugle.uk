@@ -23,7 +23,7 @@ lashed out at him with their claws and long teeth and he was afraid. The
 atmosphere was rancid and he felt a dread at the force of hatred he felt all
 around him.
 
-This awful realm was left behind but before he could really relax again he
+This awful realm was left behind but before he could really relax, again he
 found himself surrounded by more shadowy creatures. They had enormous bellys,
 huge pleading eyes and very small mouths. They muttered to themselves and
 seemed lost and searching in their darkness. Their long arms reached out to
@@ -45,14 +45,16 @@ its field. It spread out in a languid way until it met the eyes of the now
 practically motionless baby whose apparent size now seemed collosal. The light
 flipped over in the eye's lens and entered a viscous substance until it bounced
 against a forest of little tentacles. These protruberances quivered and sparked
-lightening along their roots. Following these little shocks into the tentacles,
-he found himself travelling along a tunnel, as though surfing on the electric
-pulses. The tunnel joined with many others, like tributaries feeding a river,
-an electrical river of information. This river emptied out into a vast, dark
-web of nodes. They flashed and sparked and chemical messages jumped along their
-networks. The redness of the ball was recreated in one cluster of nodes which
-joined with other entire edifices of nodal structures, all working in concert
-creating the baby's experience of the red ball.
+lightening along their roots. 
+
+Following these little shocks into the tentacles, he found himself travelling
+along a tunnel, as though surfing on the electric pulses. The tunnel joined
+with many others, like tributaries feeding a river, an electrical river of
+information. This river emptied out into a vast, dark web of nodes. They
+flashed and sparked and chemical messages jumped along their networks. The
+redness of the ball was recreated in one cluster of nodes which joined with
+other entire edifices of nodal structures, all working in concert creating the
+baby's experience of the red ball.
 
 A huge double-cluster of node complexes responded to this 'red ball' with
 stored memories of similar things encountered. Gateway areas began making
@@ -61,7 +63,7 @@ was allowed. The gateways let these recreations continue on to more areas
 again. Areas concerned with preferences and plans. The baby had enough previous
 experiences to come up with intentions and schemes and set into motion outgoing
 pulses of information. These pulses were instructions and they travelled much
-as he had arrived. He saw this huge network spreading throughout the baby and
+as they had arrived. He saw this huge network spreading throughout the baby and
 was awestruck by its complexity as it stretched out its hand, moving more
 rapidly now, and took hold of the ball. It lifted it to its mouth and put its
 tongue against the red surface. The waves of incoming and outgoing messages

@@ -50,8 +50,8 @@ It didn't like it and turned away.
 It didn't know what it was and dithered.  
 
 These three fundamentals were extrapolated out into whole memeplexes of
-behaviours. The second level up they became trying to get more, trying
-to get rid of and getting all confused. At the next level it was 'I must
+behaviours. The second level up they became 'trying to get more', 'trying
+to get rid of' and 'getting all confused'. At the next level it was 'I must
 have more of it', 'get rid of it' and 'ignore it'. Another layer up again, and we got
 societies with massive wealth imbalances, extremely brutal cultures with
 in-groups dominating out-groups and cultures of senseless waste and
