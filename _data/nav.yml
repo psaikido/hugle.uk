@@ -146,6 +146,14 @@ menu:
           - title: pix from gigs 
             url: /pages/magic/pix.html
 
+      - title: silly
+        subsub:
+          - title: TV Lutòn
+            url: /pages/stuff/tvluton.html
+
+          - title: tiab 
+            url: /pages/stuff/tiab.html
+
 
     - title: galleries
       sub:
@@ -162,22 +170,14 @@ menu:
           url: /pages/pix/faves.html
 
 
-    - title: stuff
-      sub:
-        - title: IT portfolio
-          url: /pages/pix/portfolio.html
-
-        - title: TV Lutòn
-          url: /pages/stuff/tvluton.html
-
-        - title: tiab 
-          url: /pages/stuff/tiab.html
-
-        - title: links
-          url: /pages/stuff/links.html
-
     - title: shop
       url: /shop/
+
+    - title: IT portfolio
+      url: /pages/pix/portfolio.html
+
+    - title: links
+      url: /pages/stuff/links.html
 
     - title: sitemap
       url: /pages/sitemap.html
