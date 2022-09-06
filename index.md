@@ -1,5 +1,5 @@
 ---
-title: hugle
+title: home
 layout: default
 ---
 
