@@ -8,6 +8,19 @@ body {
     @include screen-width('small') {
         font-size: 1em;
     }
+
+    a,
+    a:link,
+    a:visited {
+        color: $text-link;
+        text-decoration: underline;
+    }
+
+    a:hover, 
+    #sidebar-menu .hamburger-dropdown .submenu li.subsubitem a:hover,
+    .subnavbar ul li a:hover {
+        color: $hilight;
+    }
 }
 
 .header {
@@ -75,18 +88,6 @@ body {
         display: block;
         max-width: 100%;
         min-width: 50%;
-    }
-
-    a,
-    a:link,
-    a:visited {
-        color: $text-link;
-        text-decoration: underline;
-    }
-
-    a:hover {
-        color: $hilight;
-        text-decoration: underline;
     }
 
     ul {
