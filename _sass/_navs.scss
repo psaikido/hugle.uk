@@ -43,7 +43,7 @@
     }
 
     @include screen-width('large') {
-        top: -6px;
+        top: 1px;
         left: -21px;
     }
 }
@@ -60,6 +60,7 @@
     width: 278px;
     height: 80vh;
     background-color: $bkg;
+    opacity: .95;
     transition: 0.3s;
     padding: 0px 10px;
     z-index: 6;
@@ -67,6 +68,10 @@
 
     @include screen-width('medium') {
         width: 830px;
+    }
+
+    h3 {
+        border-bottom: 1px solid $border-light;
     }
 
     ul {
