@@ -81,6 +81,11 @@
             text-align: left;
             list-style-type: none;
             line-height: 2rem;
+            border-bottom: 1px solid $border-dark;
+        }
+
+        li:hover {
+            border-bottom: 1px solid $border-light;
         }
     }
 
@@ -99,7 +104,7 @@
 
     li.level1-parent {
         clear: both;
-        margin-left: 8px;
+        margin-left: 6px;
 
         .heading {
             background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
@@ -129,6 +134,11 @@
     }
 
     ul.submenu {
+        li:hover {
+            border-bottom: 1px solid $border-dark;
+            color: $hilight;
+        }
+
         li.subsubitem a {
             color: $blue;
             font-size: 1rem;
