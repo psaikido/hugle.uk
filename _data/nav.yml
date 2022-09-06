@@ -28,6 +28,9 @@ menu:
         - title: First Burn
           url: /pages/prose/firstBurn/01-fb.html
 
+        - title: Thesium 
+          url: /thesium/
+
       - title: blogs
         subsub:
           - title: essays
