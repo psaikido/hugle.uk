@@ -189,7 +189,7 @@ priority. What is Good is left behind and with it, all that is worth living
 for. Without a mythos, the True does not rule, it just leaves the way open for
 greed, hatred and delusion to take charge."
 
-The dream faded and slowly he felt the return of the recling chair and the
+The dream faded and slowly he felt the return of the reclining chair and the
 diamonds of blue lights. They retreated from around his head and he lurched
 forwards with his head in his hands, sobbing and sobbing uncontrollably.
 

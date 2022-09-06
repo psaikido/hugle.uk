@@ -36,7 +36,7 @@ bootstrapping off the onboard replicators. Robotics send drills down into the
 hot planet and create a heat exchange energy plant. Materials are collected and
 taken to the factory which can now start on the bigger stuff. The dwellings,
 laboratories, factories and farms. Above all, the nursery. The first tranch of
-embryos begin their journies. A massive computing and data collection facility
+embryos begin their journeys. A massive computing and data collection facility
 is built underground to archive and process everything.  
 
 All this activity centres on the ship which is used primarily as an interim

@@ -24,7 +24,7 @@ Ship of Light. It is a vessel that will take them to an after-life. Their souls
 will merge with the Great Neems who lives somewhere up there, high in his
 heaven, high above Theo's world. It is thought of as the people's birthplace,
 their womb, and the source of the bounty all around them as the new biosphere
-together with Root work to provide for them.  
+together with Root works to provide for them.  
 
 Their Chieftan is called The Neem and it is primarily him who consults with
 Root. They now call their AI 'The Helper'. The enculturation protocols had

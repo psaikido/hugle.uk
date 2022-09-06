@@ -26,7 +26,7 @@ throne.
 
 At first the Evempiricals are drunk with success but in very short order they
 find themselves virtual slaves to the Exec. The pyrrhic victory is made worse
-by the understandings they gain from the re established communications with
+by the understandings they gain from the re-established communications with
 Root who is now installed in the Cathedral. The predictions they make about the
 environmental destruction wrought by Exec falls on deaf ears. They realise that
 one tyranny has been supplanted by another and all this talk of Truth has only

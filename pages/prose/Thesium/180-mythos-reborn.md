@@ -58,7 +58,7 @@ the being of all things in the ongoing rush of life. This very fact meant that
 nothing was separate and therefore had meaning. A thing was always related to
 everything else. A person or process could not be somehow detached from the
 all. They could see how concepts and definitions, however useful, were never the
-whole truth of a thing. And so, with full hearts and clear eyes, the stood.
+whole truth of a thing. And so, with full hearts and clear eyes, they stood.
 
 When Kronos received this last report, he knew that what was needed was now in
 place. Long he had toiled to prepare the way. Terraforming had been going very
