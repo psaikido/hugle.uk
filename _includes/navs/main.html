@@ -1,10 +1,10 @@
 <input type="checkbox" id="hamburger-input" class="burger-shower" />
 
 <label id="hamburger-menu" for="hamburger-input">
-    <nav id="sidebar-menu">
-        <h3>menu</h3>
+    <nav class="sidebar-menu little">
+        <h3>menu little</h3>
 
-        <ul class="">
+        <ul class="little">
             {% for item in site.data.nav.menu %}
                 {% if item.sub %}
                     <li class="level1-parent">
@@ -50,6 +50,14 @@
                     </li>
                 {% endif %}
             {% endfor %}
+        </ul>
+    </nav>
+
+    <nav class="sidebar-menu big">
+        <h3>menu big</h3>
+
+        <ul class="big">
+            <li>big</li>
         </ul>
     </nav>
 </label>
