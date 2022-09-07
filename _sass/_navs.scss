@@ -14,11 +14,26 @@
     animation-iteration-count: 1;
 }
 
-#hamburger-input:checked + #hamburger-menu #sidebar-menu {
-    visibility: visible;
-    left: 0;
-    height: 90vh;
-    overflow: auto;
+#hamburger-input:checked + #hamburger-menu .sidebar-menu{
+    &.little {
+        visibility: visible;
+        left: 0;
+        height: 90vh;
+        overflow: auto;
+    }
+
+    @include screen-width('medium') {
+        &.little {
+            left: -2000px;
+        }
+
+        &.big {
+            visibility: visible;
+            left: 0;
+            height: 90vh;
+            overflow: auto;
+        }
+    }
 }
 
 #hamburger-menu {
@@ -53,7 +68,7 @@
     box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
 }
 
-#sidebar-menu {
+.sidebar-menu.little {
     position: absolute;
     top: 0;
     left: -2000px;
@@ -66,15 +81,11 @@
     z-index: 6;
     border: 1px solid $border-light;
 
-    @include screen-width('medium') {
-        width: 830px;
-    }
-
     h3 {
         border-bottom: 1px solid $border-light;
     }
 
-    ul {
+    ul.little {
         padding-left: 5px;
 
         li {
@@ -87,63 +98,81 @@
         li:hover {
             border-bottom: 1px solid $border-light;
         }
-    }
 
-
-    li.level1-child a {
-        margin-left: 6px;
-    }
-
-    li.level1-child a, 
-    li.level1-parent a,
-    li.level1-parent .heading,
-    .hamburger-dropdown .sub-heading {
-        color: $hilight;
-        font-size: 1rem;
-    }
-
-    li.level1-parent {
-        clear: both;
-        margin-left: 6px;
-
-        .heading {
-            background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
-            background-repeat: no-repeat;
-            background-position: right;
-            background-size: 20px;
+        li.level1-child a {
+            margin-left: 6px;
         }
 
-    }
-
-    li.level2-parent {
-        margin-left: 12px;
-    }
-
-    @include screen-width('medium') {
-        li.level2-parent {
-            float: left;
-            width: 30%;
-        }
-    }
-
-    .hamburger-dropdown a.subitem, 
-    .hamburger-dropdown .submenu li.subsubitem a {
-        color: $blue;
-        text-decoration: underline;
-        line-height: 1.2rem;
-    }
-
-    ul.submenu {
-        li:hover {
-            border-bottom: 1px solid $border-dark;
+        li.level1-child a, 
+        li.level1-parent a,
+        li.level1-parent .heading,
+        .hamburger-dropdown .sub-heading {
             color: $hilight;
-        }
-
-        li.subsubitem a {
-            color: $blue;
             font-size: 1rem;
         }
+
+        li.level1-parent {
+            clear: both;
+            margin-left: 6px;
+
+            .heading {
+                background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+                background-repeat: no-repeat;
+                background-position: right;
+                background-size: 20px;
+            }
+
+        }
+
+        li.level2-parent {
+            margin-left: 12px;
+        }
+
+        @include screen-width('medium') {
+            li.level2-parent {
+                float: left;
+                width: 30%;
+            }
+        }
+
+        .hamburger-dropdown a.subitem, 
+        .hamburger-dropdown .submenu li.subsubitem a {
+            color: $blue;
+            text-decoration: underline;
+            line-height: 1.2rem;
+        }
+
+        ul.submenu {
+            li:hover {
+                border-bottom: 1px solid $border-dark;
+                color: $hilight;
+            }
+
+            li.subsubitem a {
+                color: $blue;
+                font-size: 1rem;
+            }
+        }
     }
+}
+
+.sidebar-menu.big {
+    position: absolute;
+    top: 0;
+    left: -2000px;
+    width: 830px;
+    height: 80vh;
+    background-color: $bkg;
+    opacity: .95;
+    transition: 0.3s;
+    padding: 0px 10px;
+    z-index: 6;
+    border: 1px solid $border-light;
+
+    h3 {
+        border-bottom: 1px solid $border-light;
+    }
+
 }
 
 /* subnav */
