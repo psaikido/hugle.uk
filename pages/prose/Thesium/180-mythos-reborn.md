@@ -31,11 +31,18 @@ the Abystery received an experience tailored just for them so that they could
 understand the new mythos. Each one, without exception, embraced the new way
 with gusto and fervour.
 
+Their new mythos held that the goal of science was to strive for Goodness by
+means of the Truth, and so to help all beings towards happiness. Wellbeing was
+to be created out of each person's striving to understand things as they really
+were. Their main goal was to become a saviour personally, not to find such a
+one outside of themselves. Such a wisdom-being would understand completely and
+love fully. Their model for such a being was the Abystery.
+
 Even the Chief Exec was pursuaded to see for himself. After his dreaming the
 corporations were disbanded. Great assemblies were held throughout Thesium. All
 that did not align with what was both Good and True was discarded. They found
 the old tribal ways once again, they discovered ways to live that did not
-require vast energy supplies. Permaculture's sprang up everywhere. Local
+require vast energy supplies. Permacultures sprang up everywhere. Local
 initiatives became the norm. The changes were quick and not without pain, but
 the people soon realised that they were the same as those who, over many
 millenia on far distant planets, had held constant, had survived and had done
@@ -57,8 +64,9 @@ eternal essence, even so, they had continuity. Their very being was embedded in
 the being of all things in the ongoing rush of life. This very fact meant that
 nothing was separate and therefore had meaning. A thing was always related to
 everything else. A person or process could not be somehow detached from the
-all. They could see how concepts and definitions, however useful, were never the
-whole truth of a thing. And so, with full hearts and clear eyes, they stood.
+all. They could see how concepts and definitions, however useful, were never
+the whole truth of a thing. And so, with full hearts and clear eyes, they
+stood.
 
 When Kronos received this last report, he knew that what was needed was now in
 place. Long he had toiled to prepare the way. Terraforming had been going very

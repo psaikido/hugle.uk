@@ -40,7 +40,7 @@ this. They are seen by the Neemians as a direct challenge to their rule. They
 exist beyond the scope of their might which shrinks ever further back into the
 central Cathedral. The High Neem can count the cost each year as he sees the
 religion's wealth decrease. They seek a way to make an end to this descent.
-Many councils are held. Their theologists prove useless.
+Many councils are held. Their theologians prove useless.
 
 In attempts to avert all-out war, summit meetings are held with the leading
 Execs, the Evempiricals, the out-groups and the Neemians. Some concessions are

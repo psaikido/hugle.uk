@@ -108,7 +108,7 @@ simply does not matter and never would again.
 
 "But what of the soul?" he thinks to himself. Sure, he can see that the
 physical world and the universe and the whole shebang is made of components and
-don't have a centre, but he still feels the strongest intuition that HE has a
+doesn't have a centre, but he still feels the strongest intuition that HE has a
 core even if everything outside him doesn't. "What of myself?"
 
 The Abystery's deep voice emanates out of the void. "Come with me!"

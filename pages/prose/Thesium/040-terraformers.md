@@ -15,7 +15,7 @@ permalink: /thesium/040-terraformers.html
 
 Captain Theo Nimes and his crew are awoken from cryogenesis by Root. A local
 year count is started. Root decides to name them 'Seeding Years'. They are
-already in orbit around the exoplanet dubbed XOP-108. They employ the
+already in orbit around the exo-planet dubbed XOP-108. They employ the
 rehabilition protocols they have trained for. Cryogenic suspension is rough on
 anyone.  
 

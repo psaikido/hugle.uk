@@ -52,5 +52,5 @@ Where they lost most ground was over the diseases that were running rife. The
 declarations that generations of High Neem had given over these troubles were
 becoming harder and harder to sustain. When a really high up person got really
 ill they went to the White Coats who got the Helper to, well, help! Underground
-knowledge that the Neemian way was not entirely correct could not be entirely
+knowledge that the Neemian way was not entirely correct could not be completely
 suppressed.

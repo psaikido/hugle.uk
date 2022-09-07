@@ -22,7 +22,7 @@ other contending that it was not the same."
 
 
 The deep future. Gaia's son mourns her dying and casts many seeds onto the
-winds. His hope is to replant the earth and have it grow again. To conjure Gaia
+winds. His hope is to replant the earth and have it grow again, to conjure Gaia
 back to life. He looked for a story that could hold a world together. He needed
 a mythos.
 
@@ -33,9 +33,9 @@ weakened the myth to the point where there was no longer a shared story and in
 the vacuum that followed, rampant profiteering had dominated. Wearing the mask
 of Truth, it used science to facilitate its rush over the edge of the cliff. It
 had killed everyone but this son and his helpers. He had fled to shelter with
-Luna and awaited any fruit that may return. Because he was Gaia's son and
-because his task would take many ages to fulfill, if ever, he had named himself
-'Kronos'.
+Luna and awaited any fruit that may return as he cast his hopeful seeds into
+the void. Because he was Gaia's son and because his task would take many ages
+to fulfill, if ever, he had named himself 'Kronos'.
 
 Forever orbitting its dead mother, the moon kept Kronos safe. This is where he
 made his plans.
@@ -58,7 +58,7 @@ The culture had developed so much faster than individual minds could cope with.
 People were essentially still nomads, adapted to think in terms of 'next
 winter' and 'when the baby is old enough', to manipulate wood, stone, fire.
 Each group lasted millenia and always had a central story around which they
-configured their lives. Their myth was their frame. When science really got
+configured their lives. Their mythos was their frame. When science really got
 going there was a break with these myths. At one and the same time humanity was
 freed of them and thrown into confusion. The overshoot of consumption tipped
 the planet's coping mechanisms over the edge. During the Great Death, as it
@@ -69,7 +69,7 @@ Thus a future oriented plan was initiated. Amidst the wreckage of political
 upheavals, of mass migrations and water wars, a group of the top people in
 their fields gathered and started work. Somehow they co-opted military funding
 streams. It took several generations before they were self-sufficient and by
-the time the first seeds were launched, the Moon had become their base. The last
+the time the first seeds were launched, the moon had become their base. The last
 few fascist regimes were still eating themselves, and each other, while the
 wormhole gates were constructed. Rats and dogs had become the apex predators
 when the greatest artificial intelligence ever known, Kronos, had come online.

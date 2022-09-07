@@ -53,14 +53,14 @@ with many others, like tributaries feeding a river, an electrical river of
 information. This river emptied out into a vast, dark web of nodes. They
 flashed and sparked and chemical messages jumped along their networks. The
 redness of the ball was recreated in one cluster of nodes which joined with
-other entire edifices of nodal structures, all working in concert creating the
+other entire edifices of nodal structures, all working in concert, creating the
 baby's experience of the red ball.
 
 A huge double-cluster of node complexes responded to this 'red ball' with
 stored memories of similar things encountered. Gateway areas began making
 decisions about this particular phenomenon and decided that, on the whole, it
 was allowed. The gateways let these recreations continue on to more areas
-again. Areas concerned with preferences and plans. The baby had enough previous
+again, areas concerned with preferences and plans. The baby had enough previous
 experiences to come up with intentions and schemes and set into motion outgoing
 pulses of information. These pulses were instructions and they travelled much
 as they had arrived. He saw this huge network spreading throughout the baby and
@@ -69,7 +69,8 @@ rapidly now, and took hold of the ball. It lifted it to its mouth and put its
 tongue against the red surface. The waves of incoming and outgoing messages
 started all over again, in fact as time sped up, he saw that waves of incoming
 and outgoing messages were pulsating every which was as though in an immense
-sea. Not even the tiniest part of this enormous orchestra was still.
+sea. Not even the tiniest part of this enormous orchestra was silent. Not one
+iota was still.
 
 Time sped up some more and once again he saw the baby as though from outside.
 The baby's continuously changing sea of processing gathered pace and he watched
@@ -89,7 +90,7 @@ the boy, himself, were continuing here. Nothing was truly at rest.
 
 He understood that there was no special, internal 'boy', no essence or kernel
 that was in charge of all this. Just this heap of lightening fast processes all
-acting in concert to produce this.. Well, what could he say? To produce this
+acting in concert to produce this.. well, what could he say? To produce this
 part of what the universe was doing here? He saw that this was just as true for
 all the creatures and realms he had been shown. So, no self then!
 

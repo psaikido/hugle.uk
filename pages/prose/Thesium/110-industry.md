@@ -33,7 +33,7 @@ one tyranny has been supplanted by another and all this talk of Truth has only
 been a means to an end for unfettered greed.
 
 The main mass of the population are given votes every few years. A theatre of
-'democracy' is maintained but just about everyone works for the Exec whose
+'democracy' is maintained but just about everyone works for the Exec, whose
 rules are iron clad.
 
 All attempts to protect the natural world or have genuine justice are denounced
