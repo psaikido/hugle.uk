@@ -31,6 +31,19 @@ the Abystery received an experience tailored just for them so that they could
 understand the new mythos. Each one, without exception, embraced the new way
 with gusto and fervour.
 
+Their story about the Abystery went like this:
+
+"Just as he got to the gates of perfection, as he stepped one foot over into
+that realm of eternal peace, he heard a cry. He could not lift his other foot
+when he heard that cry. He turned around and then heard all the cries of the
+world. All the beings everywhere cried out in their anguish. He was so moved by
+their suffering he made a vow. He declared that instead of being the first one
+to enter the realm of eternal peace, he would be the last. He would stay and
+help every single one get there before him, even down the last blade of grass!"
+
+This was the kernel of the new mythos. To emulate a widom-being as noble as the
+Abystery.
+
 Their new mythos held that the goal of science was to strive for Goodness by
 means of the Truth, and so to help all beings towards happiness. Wellbeing was
 to be created out of each person's striving to understand things as they really
