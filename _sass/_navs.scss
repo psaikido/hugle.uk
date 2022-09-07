@@ -169,10 +169,53 @@
     z-index: 6;
     border: 1px solid $border-light;
 
-    h3 {
-        border-bottom: 1px solid $border-light;
-    }
+    .ul-blocks {
+        display: flex;
 
+        h3 {
+            border-bottom: 1px solid $border-light;
+        }
+
+        ul {
+            list-style-type: none;
+            text-align: left;
+
+            li a {
+                color: $blue;
+                text-decoration: underline;
+                line-height: 1.2rem;
+            }
+        }
+
+        ul.solos {
+            width: 25%;
+        }
+
+        ul.nests {
+            width: 75%;
+
+            li.level1-child a, 
+            li.level1-parent a,
+            li.level1-parent .heading,
+            .hamburger-dropdown .sub-heading {
+                color: $hilight;
+                font-size: 1rem;
+            }
+
+            li.level1-parent {
+                clear: both;
+                margin-left: 6px;
+
+                .heading {
+                    background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+                    background-repeat: no-repeat;
+                    background-position: right;
+                    background-size: 20px;
+                }
+
+            }
+        }
+    }
 }
 
 /* subnav */
