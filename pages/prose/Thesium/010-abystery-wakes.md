@@ -28,7 +28,7 @@ through interstellar meadows. All its remaining resources were poured into this
 final effort. Flung out to drift in space until conditions were right to grow
 on new worlds, they all had a 'root' AI and they all had the capacity to adapt
 to their surroundings and grow. This one had built down into the planet
-XOP-108, eventually to be called 'Thesium', and had coopted the hot core as a
+XOP-108, eventually to be called 'Thesium', and had co-opted the hot core as a
 power source. It had built a huge vault to contain a virtually unlimited data
 storage facility. Perhaps fragments of Root's own bootstrap algorithms
 had..well, Root didn't know, but here it was, talking!  
