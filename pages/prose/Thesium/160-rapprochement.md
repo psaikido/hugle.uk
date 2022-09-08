@@ -100,7 +100,7 @@ eyes. He followed the chief's thoughts even though they were in a language most
 strange.
 
 "This is good, the glade is open at this time of year. There must be enough
-game to graze it now that Spring has come. My eternal thanks to you, oh Great
+game to graze it, now that Spring has come. My eternal thanks to you, oh Great
 Spring. The people will have deer to hunt."
 
 He was moved at how deeply the chief felt the bounty of spring. How lovely it
@@ -108,18 +108,19 @@ was that he should honour it as another being, a great being. It bound his love
 of the people with his affection and gratitude to the seasons. As they walked
 on, his appreciation of the old man's view grew and grew. He belonged! He was
 needed! He knew his place in this world and was loved! These things made him
-want to cry as he realised that he had never before considered such things.
+want to cry as he realised that he had never before considered such things. Had
+he ever known such dignity? Such nobility?
 
-He was transported again, this time to a young woman. His step had vigour and
+He was transported again, this time to a young woman. Her step had vigour and
 grace. Oh, but the gentle lilting of her gait was the very fount of youth
-itself. Again, he could follow her thoughts. "He must not see me looking, not
-yet." Her glance fell on the grass at her beautiful feet as they stepped over
-the turf. After a few paces she furtively looked over at a young man. He was
-laughing with some of his friends a little way off and ahead. His limbs were
-strong and lithe, his hair long and black. He had an engaging laugh and his
-eyes were full of sparkle and mischief. "There is time enough to court and wed
-before the winter comes. Grandma is still strong. The young will come the next
-winter."
+itself. Had he ever known such beauty? Had he ever been so sexy? Again, he
+could follow her thoughts. "He must not see me looking, not yet." Her glance
+fell on the grass at her beautiful feet as they stepped over the turf. After a
+few paces she furtively looked over at a young man. He was laughing with some
+of his friends a little way off and ahead. His limbs were strong and lithe, his
+hair long and black. He had an engaging laugh and his eyes were full of sparkle
+and mischief. "There is time enough to court and wed before the winter comes.
+Grandma is still strong. She can help me. The young will come the next winter." 
 
 He was caught up in the magic of romance. The power of elemental forces he
 could feel shifting in his core. This was how life came into being.
@@ -142,7 +143,7 @@ drunk again! He better not have hurt my baby girl or I'll cut him this time."
 Her fury was all pent up and he winced at the agony of it. Her need to defend
 her daughter was a force of nature. He felt her sadness that their land had
 been taken. The injustice of it. The magnitude of the loss radiated out through
-what remained of the tribe.
+what remained of the tribe. Had he ever lost so much?
 
 Inside the caravan, a young man lay passed out. A girl crawled out from under
 some blankets and quietly stepped past him to the door. She undid its fastening
@@ -160,7 +161,7 @@ powerful fog of shame. The ignominy of failure. He felt defeated. He had no
 lands, no deer to hunt. Nothing to prove his manhood. The people that had put
 them on this reservation thought he was vermin. Under the shame, he sensed a
 great rage. A powerless rage and fury at the violence that had been done to his
-people. He wanted to destroy something.
+people. He wanted to destroy something. Had he ever suffered so?
 
 Now he was in a police car, cruising around the reservation. His skin was white
 and his body large and doughy. From behind sunglasses he looked out onto the
@@ -168,8 +169,10 @@ women hugging outside the caravan and the wild looking guy just emerging. "Look
 at these pathetic people, they are so stupid, how could they let themselves
 sink so low?" The Top Prof felt how this man detested these people. How he
 didn't really think of them as people at all. He thought their religion and way
-of life was primitive and backward. With a jolt he realised that that was his
-own attitude too.
+of life was primitive and backward. Had he ever felt so superior? With a jolt
+he realised that that was his own attitude too. He had spent his life
+intoxicated with the pride of his intelligence. Now he felt ashamed. How
+terrible and abject it was to count oneself superior to others.
 
 "Oh God, oh God, I'm so sorry!" he cried out. He was now floating above the
 scene, high above, amongst the clouds. The being of light appeared beside him
