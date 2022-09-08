@@ -41,7 +41,7 @@ their suffering he made a vow. He declared that instead of being the first one
 to enter the realm of eternal peace, he would be the last. He would stay and
 help every single one get there before him, even down the last blade of grass!"
 
-This was the kernel of the new mythos. To emulate a widom-being as noble as the
+This was the kernel of the new mythos. To emulate a wisdom-being as noble as the
 Abystery.
 
 Their new mythos held that the goal of science was to strive for Goodness by

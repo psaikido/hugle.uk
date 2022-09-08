@@ -42,7 +42,7 @@ nonsense. "When will they ever grow up and see that there are just atoms and
 forces and that's all?" was his repeated refrain.
 
 There was something about the High Neem's buoyant mood that was a definite
-change from the last time they met. His eyes brimmed and sparkled as he lead
+change from the last time they met. His eyes brimmed and sparkled as he led
 the Top Prof to the Abystery. "An AI has spontaneously formed in the Helper's
 basement" he explained.
 
@@ -75,7 +75,7 @@ willing?"
 
 "My, what an adventure! Okay, let's get to it then."
 
-The High Neem lead him over to the reclining chair with their attendent blue
+The High Neem lead him over to the reclining chair with their attendant blue
 diamonds of light. He laid himself back and noticed the deep, low-tone hum grew
 more powerful. He supposed it was charging up. He was definitely intrigued.  
 

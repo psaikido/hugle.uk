@@ -68,7 +68,7 @@ was awestruck by its complexity as it stretched out its hand, moving more
 rapidly now, and took hold of the ball. It lifted it to its mouth and put its
 tongue against the red surface. The waves of incoming and outgoing messages
 started all over again, in fact as time sped up, he saw that waves of incoming
-and outgoing messages were pulsating every which was as though in an immense
+and outgoing messages were pulsating every which way as though in an immense
 sea. Not even the tiniest part of this enormous orchestra was silent. Not one
 iota was still.
 
