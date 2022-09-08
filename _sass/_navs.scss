@@ -155,7 +155,6 @@
         .heading {
             background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
             background-repeat: no-repeat;
-            background-position: right;
             background-size: 20px;
         }
 
@@ -175,6 +174,12 @@
     width: 278px;
 
     ul.little {
+        li.level1-parent {
+            .heading {
+                background-position: right;
+            }
+        }
+
         li.level2-parent {
             margin-left: 12px;
         }
@@ -201,6 +206,10 @@
 
             li.level1-parent {
                 clear: both;
+
+                .heading {
+                    background-position: 16%;
+                }
             }
 
             li.level2-parent {
