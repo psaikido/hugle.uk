@@ -16,9 +16,7 @@ body {
         text-decoration: underline;
     }
 
-    a:hover, 
-    .sidebar-menu .hamburger-dropdown .submenu li.subsubitem a:hover,
-    .subnavbar ul li a:hover {
+    a:hover {
         color: $hilight;
     }
 }

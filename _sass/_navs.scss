@@ -41,6 +41,10 @@
 }
 
 @include screen-width('medium') {
+    #hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
+        display: none;
+    }
+
     .burger-shower:checked + .hamburger-dropdown-big {
         display: block;
         animation-name: reveal;
@@ -87,12 +91,10 @@
 #hamburger-menu:focus {
     box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
 }
-
-.sidebar-menu.little {
+.sidebar-menu {
     position: absolute;
     top: 0;
     left: -2000px;
-    width: 278px;
     height: 80vh;
     background-color: $bkg;
     opacity: .95;
@@ -105,104 +107,86 @@
         border-bottom: 1px solid $border-light;
     }
 
-    ul.little {
-        padding-left: 5px;
+    ul {
+        list-style-type: none;
+        text-align: left;
 
-        li {
-            text-align: left;
-            list-style-type: none;
-            line-height: 2rem;
-            border-bottom: 1px solid $border-dark;
-        }
-
-        li:hover {
-            border-bottom: 1px solid $border-light;
-        }
-
-        li.level1-child a {
-            margin-left: 6px;
-        }
-
-        li.level1-child a, 
-        li.level1-parent a,
-        li.level1-parent .heading,
-        .hamburger-dropdown .sub-heading {
-            color: $hilight;
-            font-size: 1rem;
-        }
-
-        li.level1-parent {
-            clear: both;
-            margin-left: 6px;
-
-            .heading {
-                background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
-                background-repeat: no-repeat;
-                background-position: right;
-                background-size: 20px;
-            }
-
-        }
-
-        li.level2-parent {
-            margin-left: 12px;
-        }
-
-        .hamburger-dropdown a.subitem, 
-        .hamburger-dropdown .submenu li.subsubitem a {
+        li a,
+        li a:visited {
             color: $blue;
             text-decoration: underline;
             line-height: 1.2rem;
         }
 
-        ul.submenu {
-            li:hover {
-                border-bottom: 1px solid $border-dark;
-                color: $hilight;
-            }
-
-            li.subsubitem a {
-                color: $blue;
-                font-size: 1rem;
-            }
+        li a:hover {
+            color: $hilight;
         }
     }
 }
 
+.sidebar-menu.little ul.little,
+.sidebar-menu.big ul.nests {
+    padding-left: 5px;
+
+    li {
+        text-align: left;
+        list-style-type: none;
+        line-height: 2rem;
+        border-bottom: 1px solid $border-dark;
+    }
+
+    li:hover {
+        border-bottom: 1px solid $border-light;
+    }
+
+    li.level1-child a {
+        margin-left: 6px;
+    }
+
+    li.level1-parent .heading,
+    .sub-heading {
+        color: $hilight;
+        font-size: 1rem;
+    }
+
+    li.level1-parent {
+        margin-left: 6px;
+
+        .heading {
+            background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+            background-repeat: no-repeat;
+            background-position: right;
+            background-size: 20px;
+        }
+
+    }
+
+    ul.submenu {
+        padding: 0;
+
+        li:hover {
+            border-bottom: 1px solid $border-dark;
+            color: $hilight;
+        }
+    }
+}
+
+.sidebar-menu.little {
+    width: 278px;
+
+    ul.little {
+        li.level2-parent {
+            margin-left: 12px;
+        }
+
+    }
+}
+
 .sidebar-menu.big {
-    position: absolute;
-    top: 0;
-    left: -2000px;
     width: 892px;
-    height: 80vh;
-    background-color: $bkg;
-    opacity: .95;
-    transition: 0.3s;
-    padding: 0px 10px;
-    z-index: 6;
-    border: 1px solid $border-light;
 
     .ul-blocks {
         display: flex;
-
-        a:hover {
-            color: $hilight;
-        }
-
-        h3 {
-            border-bottom: 1px solid $border-light;
-        }
-
-        ul {
-            list-style-type: none;
-            text-align: left;
-
-            li a {
-                color: $blue;
-                text-decoration: underline;
-                line-height: 1.2rem;
-            }
-        }
 
         ul.solos {
             width: 25%;
@@ -210,76 +194,18 @@
 
         ul.nests {
             width: 75%;
-            padding-left: 5px;
 
             .hamburger-dropdown-big {
                 padding: 0;
             }
 
-            li {
-                text-align: left;
-                list-style-type: none;
-                line-height: 2rem;
-                border-bottom: 1px solid $border-dark;
-            }
-
-            li:hover {
-                border-bottom: 1px solid $border-light;
-            }
-
-            li.level1-child a {
-                margin-left: 6px;
-            }
-
-            li.level1-child a, 
-            li.level1-parent a,
-            li.level1-parent .heading,
-            .hamburger-dropdown-big .sub-heading {
-                color: $hilight;
-                font-size: 1rem;
-            }
-
             li.level1-parent {
                 clear: both;
-                margin-left: 6px;
-
-                .heading {
-                    background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
-                    background-repeat: no-repeat;
-                    background-position: right;
-                    background-size: 20px;
-                }
-
             }
 
             li.level2-parent {
                 float: left;
                 width: 33%;
-            }
-
-            .hamburger-dropdown-big a.subitem, 
-            .hamburger-dropdown-big .submenu li.subsubitem a {
-                color: $blue;
-                text-decoration: underline;
-                line-height: 1.2rem;
-            }
-
-            ul.submenu {
-                padding: 0;
-
-                li:hover {
-                    border-bottom: 1px solid $border-dark;
-                    color: $hilight;
-                }
-
-                li.subsubitem a {
-                    color: $blue;
-                    font-size: 1rem;
-                }
-
-                li.subsubitem a:hover {
-                    color: $hilight;
-                }
             }
         }
     }
@@ -298,7 +224,8 @@
             color: $blue;
         }
 
-        li.current a {
+        li.current a, 
+        li.current a:hover {
             color: $hilight;
         }
     }
