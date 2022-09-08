@@ -170,7 +170,7 @@ at these pathetic people, they are so stupid, how could they let themselves
 sink so low?" The Top Prof felt how this man detested these people. How he
 didn't really think of them as people at all. He thought their religion and way
 of life was primitive and backward. Had he ever felt so superior? With a jolt
-he realised that that was his own attitude too. He had spent his life
+he realised that yes, this had been his own attitude too. He had spent his life
 intoxicated with the pride of his intelligence. Now he felt ashamed. How
 terrible and abject it was to count oneself superior to others.
 
