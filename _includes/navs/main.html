@@ -74,6 +74,12 @@
                     {% if item.sub %}
                         <li class="level1-parent">
                             <label id="ham-big-{{ forloop.index }}" for="ham-big-chk-{{ forloop.index }}">
+                                <div class="icon">
+                                    {% if item.icon %}
+                                        <img src="/assets/images/site/{{ item.icon }}" />
+                                    {% endif %}
+                                </div>
+
                                 <div class="heading">
                                     {{ item.title }}
                                 </div>

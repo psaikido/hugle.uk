@@ -215,6 +215,10 @@
             }
 
             li.level1-parent {
+                .icon img {
+                    width: 50px;
+                }
+
                 .heading {
                     background-position: 0px 8px;
                     padding-left: 27px;
@@ -225,7 +229,7 @@
             .hamburger-dropdown-big {
                 position: absolute;
                 width: 100%;
-                top: 48px;
+                top: 98px;
                 left: -30px;
             }
 

@@ -5,6 +5,7 @@ menu:
       url: /
 
     - title: writing
+      icon: writing.png
       sub: 
       - title: poetry
         subsub: 
@@ -50,6 +51,7 @@ menu:
 
 
     - title: Dharma
+      icon: buddha.png
       sub:
       - title: mantrasphere
         subsub:
@@ -104,6 +106,7 @@ menu:
 
 
     - title: play
+      icon: kite-runner.png
       sub:
       - title: kites
         subsub:
@@ -156,6 +159,7 @@ menu:
 
 
     - title: galleries
+      icon: galleries.png
       sub:
       - title: galleries
         subsub:
