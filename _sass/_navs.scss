@@ -215,13 +215,15 @@
             }
 
             li.level1-parent {
+                text-align: center;
+
                 .icon img {
                     width: 50px;
+                    margin: 0 auto;
                 }
 
                 .heading {
                     background-position: 0px 8px;
-                    padding-left: 27px;
                     font-size: 110%;
                 }
             }
