@@ -3,7 +3,7 @@ email: hughie@carrollonline.co.uk
 baseurl: ""
 title: hugle
 description: Hughie's stuff
-favicon: assets/images/favicon.ico
+favicon: assets/images/site/favicon.ico
 permalink: /:categories/:year/:month/:day/:title:output_ext
 github_username: psaikido
 

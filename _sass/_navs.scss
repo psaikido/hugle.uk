@@ -73,7 +73,7 @@
     font-family: 'Cabin', Sans-serif;
     cursor: pointer;
 
-    background-image: url(/assets/images/kanji-three-shadow.png);
+    background-image: url(/assets/images/site/kanji-three-shadow.png);
     background-size: 100%;
     background-repeat: no-repeat;
 
@@ -156,7 +156,7 @@
         margin-left: 6px;
 
         .heading {
-            background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+            background-image: url(/assets/images/site/down-arrow-svgrepo-com.svg);
             background-repeat: no-repeat;
             background-size: 20px;
         }
@@ -298,7 +298,7 @@
 
         &.empty {
             display: block;
-            background-image: url(/assets/images/chanCharacter.png);
+            background-image: url(/assets/images/site/chanCharacter.png);
             background-repeat: no-repeat;
             background-position: 18% 20%;
             background-size: 50%;
@@ -322,7 +322,7 @@
     }
 
     button.toggler.is-showing {
-        background-image: url(/assets/images/hide-sdebar-vert-svgrepo-com.svg);
+        background-image: url(/assets/images/site/hide-sdebar-vert-svgrepo-com.svg);
         background-size: 100%;
         background-repeat: no-repeat;
     }
@@ -332,7 +332,7 @@
     }
 
     button.toggler.not-showing {
-        background-image: url(/assets/images/down-arrow-svgrepo-com.svg);
+        background-image: url(/assets/images/site/down-arrow-svgrepo-com.svg);
         background-size: 50%;
         background-position: 7px 9px;
         background-repeat: no-repeat;
