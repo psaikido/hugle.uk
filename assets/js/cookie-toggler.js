@@ -1,28 +1,32 @@
-if (getCookie("theme") == "light"){
-    $('html').addClass("light");
-    toggleMenu('light');
+const cookieTheme = getCookie('theme');
+
+if (cookieTheme != ''){
+    $('html').addClass(cookieTheme);
 }
 
 
-function toggleMenu(state) {
-    if (state === 'light') {
-        $('nav').addClass("navbar-light");
-        $('nav').removeClass("navbar-dark");
-    } else {
-        $('nav').addClass("navbar-dark");
-        $('nav').removeClass("navbar-light");
-    }
-}
-
-$(".theme-toggle").click(function(e){
+$("button.theme-toggle").click(function(e){
     e.preventDefault();
-    $('html').toggleClass("light");
 
-    if ($('html').hasClass("light")){
-        document.cookie = "theme=light;path=/";
-        toggleMenu('light');
+    if ($('html').hasClass('light')){
+        $('html').removeClass('light');
+        $('html').removeClass('print');
+
+        eraseCookie('theme');
     } else {
-        document.cookie = "theme=dark;path=/";
-        toggleMenu('dark');
+        $('html').removeClass('print');
+        $('html').addClass('light');
+
+        createCookie('theme', 'light', 7);
     }
+})
+
+$("button.print").click(function(e){
+    e.preventDefault();
+
+    $('html').removeClass('dark');
+    $('html').removeClass('light');
+    $('html').addClass('print');
+
+    createCookie('theme', 'print', 7);
 })
