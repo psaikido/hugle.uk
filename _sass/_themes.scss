@@ -69,6 +69,7 @@ html {
         }
 
         .sidebar-menu {
+            background: none;
             background-color: $light-grey;
             border: 1px solid $dark-grey;
             li.level1-child a, 
@@ -131,6 +132,7 @@ html {
         .home-page .random-hughku,
         .home-page .home-text-box,
         .home-page .dharma-names {
+            background: none;
             background-color: $print-bkg;
             border: 1px solid $dark-grey;
             color: $print-text;
