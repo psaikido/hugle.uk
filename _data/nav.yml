@@ -157,17 +157,19 @@ menu:
 
     - title: galleries
       sub:
-        - title: bio
-          url: /pages/pix/bio.html
+      - title: galleries
+        subsub:
+          - title: bio
+            url: /pages/pix/bio.html
 
-        - title: circus
-          url: /pages/pix/circus.html
+          - title: circus
+            url: /pages/pix/circus.html
 
-        - title: Chan
-          url: /pages/pix/chan.html
+          - title: Chan
+            url: /pages/pix/chan.html
 
-        - title: faves
-          url: /pages/pix/faves.html
+          - title: faves
+            url: /pages/pix/faves.html
 
 
     - title: shop

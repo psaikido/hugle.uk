@@ -35,7 +35,7 @@
     #hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
         visibility: visible;
         left: 0;
-        height: 90vh;
+        height: 80vh;
         overflow: auto;
     }
 }
@@ -55,7 +55,7 @@
     #hamburger-input:checked + #hamburger-menu .sidebar-menu.big {
         visibility: visible;
         left: 0;
-        height: 90vh;
+        max-height: 500px;
         overflow: auto;
     }
 }
@@ -194,6 +194,7 @@
     border: 1px solid transparent;
     border-image: linear-gradient(to right, $blue, $black);
     border-image-slice: 1;
+    background: linear-gradient(to bottom, $black, $dark-grey-shift);
 
     .ul-blocks {
         display: flex;
@@ -204,22 +205,42 @@
 
         ul.nests {
             width: 75%;
+            display: grid;
+            grid-auto-flow: column;
+            grid-auto-columns: 1fr;
+            position: relative;
 
-            .hamburger-dropdown-big {
-                padding: 0;
+            li:hover {
+                border: none;
             }
 
             li.level1-parent {
-                clear: both;
-
                 .heading {
-                    background-position: 16%;
+                    background-position: 0px 8px;
+                    padding-left: 27px;
+                    font-size: 110%;
                 }
+            }
+
+            .hamburger-dropdown-big {
+                position: absolute;
+                width: 100%;
+                top: 48px;
+                left: -30px;
             }
 
             li.level2-parent {
                 float: left;
                 width: 33%;
+                border-left: 1px solid transparent; 
+                border-image: linear-gradient(to bottom, $dark-grey-shift, $blue, $dark-grey-shift);
+                border-image-slice: 1;
+                padding-left: 8px;
+
+                .sub-heading {
+                    color: $text-light;
+                    text-decoration: none;
+                }
             }
         }
     }

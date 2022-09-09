@@ -78,7 +78,7 @@
                                     {{ item.title }}
                                 </div>
 
-                                <input type="checkbox" id="ham-big-chk-{{ forloop.index }}" class="burger-shower" />
+                                <input type="radio" name="submenus" id="ham-big-chk-{{ forloop.index }}" class="burger-shower" />
 
                                 <ul class="hamburger-dropdown-big">
                                     {% for subitem in item.sub %}
