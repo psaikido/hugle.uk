@@ -1,9 +1,9 @@
 body {
     font-family: 'Oxygen';
     font-size: 1em;
-    letter-spacing: .1em;
+    letter-spacing: .15em;
     margin: 0;
-    line-height: 1.8em;
+    line-height: 1.9em;
 
     @include screen-width('small') {
         font-size: 1em;
@@ -28,6 +28,9 @@ body {
     padding-top: 8px;
     color: $hilight;
     text-shadow: -2px 3px 2px $black;
+    border-bottom: 1px solid transparent;
+    border-image: linear-gradient(to right, $dark-grey-shift, $blue, $dark-grey-shift);
+    border-image-slice: 1;
 }
 
 .grid-wrap {
@@ -77,9 +80,12 @@ body {
 
     h4 {
         padding: 0 0 6px 6px;
-        border-bottom: 1px solid $border-light;
         font-style: italic;
         font-size: 1.5rem;
+        max-width: fit-content;
+        border-bottom: 1px solid transparent;
+        border-image: linear-gradient(to right, $bkg, $blue, $bkg);
+        border-image-slice: 1;
     }
 
     .center-img {

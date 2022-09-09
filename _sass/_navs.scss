@@ -97,14 +97,16 @@
     left: -2000px;
     height: 80vh;
     background-color: $bkg;
-    opacity: .95;
+    opacity: .98;
     transition: 0.3s;
     padding: 0px 10px;
     z-index: 6;
     border: 1px solid $border-light;
 
     h3 {
-        border-bottom: 1px solid $border-light;
+        border-bottom: 1px solid transparent;
+        border-image: linear-gradient(to right, $bkg, $blue, $bkg);
+        border-image-slice: 1;
     }
 
     ul {
@@ -132,7 +134,7 @@
         text-align: left;
         list-style-type: none;
         line-height: 2rem;
-        border-bottom: 1px solid $border-dark;
+        border-bottom: 1px solid transparent;
     }
 
     li:hover {
@@ -184,12 +186,14 @@
         li.level2-parent {
             margin-left: 12px;
         }
-
     }
 }
 
 .sidebar-menu.big {
     width: 892px;
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, $blue, $pink);
+    border-image-slice: 1;
 
     .ul-blocks {
         display: flex;
@@ -225,6 +229,7 @@
 .subnavbar {
     text-align: left;
     font-size: 1rem;
+    font-weight: bold;
 
     ul {
         list-style-type: none;
@@ -251,7 +256,9 @@
 
         ul {
             display: block;
-            border-left: 1px solid $blue;
+            border-left: 1px solid transparent; 
+            border-image: linear-gradient(to bottom, $dark-grey-shift, $blue, $dark-grey-shift);
+            border-image-slice: 1;
 
             li.current a {
                 color: $hilight;
