@@ -41,6 +41,7 @@ body {
 
 .main {
     padding: 3px;
+    border: 1px solid $border-light;
 
     @include screen-width('small') {
         padding: 20px;
@@ -86,6 +87,10 @@ body {
         border-bottom: 1px solid transparent;
         border-image: linear-gradient(to right, $bkg, $blue, $bkg);
         border-image-slice: 1;
+    }
+
+    hr {
+        color: $border-light;
     }
 
     .center-img {
