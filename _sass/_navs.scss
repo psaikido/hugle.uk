@@ -200,11 +200,12 @@
         display: flex;
 
         ul.solos {
-            width: 25%;
+            width: 16%;
+            padding-left: 8px;
         }
 
         ul.nests {
-            width: 75%;
+            width: 84%;
             display: grid;
             grid-auto-flow: column;
             grid-auto-columns: 1fr;
@@ -241,11 +242,12 @@
 
             li.level2-parent {
                 float: left;
-                width: 33%;
+                max-width: 230px;
                 border-left: 1px solid transparent; 
                 border-image: linear-gradient(to bottom, $dark-grey-shift, $blue, $dark-grey-shift);
                 border-image-slice: 1;
                 padding-left: 8px;
+                margin-right: 40px;
 
                 .sub-heading {
                     color: $text-light;
