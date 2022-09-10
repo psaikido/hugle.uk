@@ -38,7 +38,7 @@ the late, great [John
 Crook](https://en.wikipedia.org/wiki/John_Crook_(ethologist)). He went on
 pilgrimage to Ladakh and the main Buddhist sites in India and Nepal. This trip
 is written up in [Pilgrimage - Mahabodhi
-Moonlight](/pages/prose/pilgrimage.html). He has also done two pilgrimages in
+Moonlight](/pages/prose/pilgrimage/010-leaving.html). He has also done two pilgrimages in
 China, visiting many of the original Chan temples and important locations. He
 ran a meditation group for twenty years and has undergone a three month silent
 retreat. He made an album of Buddhist inspired music, called

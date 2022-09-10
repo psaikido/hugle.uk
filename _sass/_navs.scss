@@ -265,12 +265,6 @@
     ul {
         list-style-type: none;
 
-        li a, 
-        li a:visited {
-            color: $blue;
-        }
-
-        li.current a, 
         li.current a:hover {
             color: $hilight;
         }
