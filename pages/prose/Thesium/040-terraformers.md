@@ -22,7 +22,7 @@ anyone.
 They have a look at how far the terraforming has got while they slept, circling
 their new home from above its clouds. All looks well. The planet had few
 life-forms when they arrived but now that Root has been so hard at work for so
-many years sending probes and autonomous machines, huge swarms of nanobots, it
+many years sending probes, autonomous machines and huge swarms of nanobots, it
 has soil and drinkable water. It has seasons and mountains and shores and
 forests. It has a balanced atmosphere and sparkling rivers run through the
 halcyon glades. A new Gaia stirs. A heaven in stark contrast to the hell left
@@ -34,8 +34,8 @@ all literalness, and now needs their help to further the building of
 infrastructure. A central 3d-printing facility and factory are created,
 bootstrapping off the onboard replicators. Robotics send drills down into the
 hot planet and create a heat exchange energy plant. Materials are collected and
-taken to the factory which can now start on the bigger stuff. The dwellings,
-laboratories, factories and farms. Above all, the nursery. The first tranch of
+taken to the factory which can now start on the bigger stuff - dwellings,
+laboratories, factories and farms. Above all, the nursery. A first tranch of
 embryos begin their journeys. A massive computing and data collection facility
 is built underground to archive and process everything.  
 

@@ -31,7 +31,7 @@ it might even become home again.
 Over and over, Kronos had seen similar scenarios unfold as it read through what
 had happened to s-108, the 108th seed ship sent out. The cultures were never
 sufficiently stable to last long enough to get wise, wise enough to last. To
-grow beyond the point that the mental poisons that seemed to be inbuilt in the
+grow beyond the point that the mental poisons, seemingly inbuilt in the
 human mind, didn't kill them off. His anthropology amounted to studies in the
 various mixtures of three things.
 
@@ -63,18 +63,19 @@ sentient was just one of those things that could not be measured. In Kronos
 birth they had taken the approach that all things had 'mind' to some degree.  
 
 The panpsychism school had gone from strength to strength and their resolution
-of the Hard Problem of the difference between 'mind' and 'matter' had been a
-fulcrum to new understanding. Developing machines that could mimick human
-behaviours had been the 'easy' problems, at least conceptually, but creating
-genuine subjectivity, what it was like to see 'red' for example, that was
-'hard'. Classical Newtonian physics had at last been unified with relativity
-and quantum mechanics in their space-time-mind theory. Yoking this together
-with panpsychism had cut the Gordian Knot of the Hard Problem by reversing the
-issue. 'Mind' was only a problem if you thought you were creating it as a
-second order 'thing' in a world of matter. As a first order phenomenon it was
-not a 'thing' at all. One had to create the substrata and potentialities and
-then 'mind' would expand into it! Intelligence was everywhere! It was part of
-the fabric of the universe. 
+of the Hard Problem had been a fulcrum to new understanding. The apparently
+intractable difference between 'mind' and 'matter' had been a major stumbling
+block. Developing machines that could mimick human behaviours had been the
+'easy' problems, at least conceptually, but creating genuine subjectivity, what
+it was like to see 'red' for example, that was 'hard'. Classical Newtonian
+physics had at last been unified with relativity and quantum mechanics in their
+space-time-mind theory. Yoking this together with panpsychism had cut the
+Gordian Knot of the Hard Problem by reversing the issue. 'Mind' was only a
+problem if you thought you were creating it as a second order 'thing' in a
+world of matter. As a first order phenomenon it was not a 'thing' at all. One
+had to create the substrata and potentialities and then 'mind' would expand
+into it! Intelligence was everywhere! It was part of the fabric of the
+universe. 
 
 And so it was that the Reader acted as one of Kronos' senses. Feeling its way
 out to Thesium and all the other colonies. These lifeboats acted in two ways.

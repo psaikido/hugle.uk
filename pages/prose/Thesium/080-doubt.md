@@ -23,7 +23,7 @@ with the outer suburbs. They house the workers who get the majority of
 everything done in the factories, nurseries and farms. The infrastructure is
 maintained from here.
 
-Closer in again are the administration zones, the schools and gyms and
+Closer in again are the administration zones, schools and gyms and
 entertainments. The police centres try to keep control based in this zone. The
 inner suburbs are interspersed throughout and house the more wealthy. 
 

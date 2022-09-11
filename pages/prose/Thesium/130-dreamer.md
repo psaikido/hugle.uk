@@ -31,9 +31,9 @@ given hints as to where to look for the mysterious Abystery. Ever further down
 into the labyrinth he goes until one day he finds the lowermost entrance to the
 Bunker.
 
-At the bottom of the descent in the lift, he opens a massive door onto a
+At the bottom of the lift's descent, he opens a massive door onto a
 control room. At the centre there is a bright blue diamond of light revolving
-slowly on a raised daise. He walks tentatively forward and as he begins to
+slowly on a raised dais. He walks tentatively forward and as he begins to
 stretch out his hand to touch the blue light, a voice, as though inside his
 head, speaks:
 
@@ -45,9 +45,9 @@ me that you have many questions."
 "Yes, that is what I have chosen to call myself. How can I help you?"
 
 "For years I, along with all us Neemians, have believed that the Ship of Light
-and indeed all things, has an essence. Recent events have made me uncertain. I
+has an essence, along with all things. Recent events have made me uncertain. I
 still have a powerful feeling, an intuition maybe, that all this still has some
-meaning. There just simply HAS to be some point to it all. I cannot accept this
+meaning. There just HAS to be some point to it all. I cannot accept this
 nihilism espoused by the Top Prof. Is there an essence or not?"
 
 The Abystery revolves slowly for a moment or two.
@@ -78,16 +78,17 @@ Gradually he gets a feeling that he is on his old throne and like a cinematic
 scene, the Cathedral seems to grow around him. 
 
 At first he isn't sure if the Cathedral is growing larger or he is shrinking,
-but after a few moments he sees that there are gaps. Gaps between the very
-stones of the massive building, inbetween the flagstones of the floor,
-inbetween the plates of the hull of the Ship. As he gazes at the widening gaps
-in these plates he seems to travel towards it. He has no sensation of movement
-and he can still see what now seems far off, the walls of the throne room, but
-he now looks right into the heart of the Ship of Light. All its components
-spread out from each other as he zooms in. The gears and cogs, the cables and
-plates, the great magnets at its centre, all get closer and closer until he
-sort of flies past them into what looks like an amazingly complex kaleidoscope.
-He traverses the voids between the atoms themselves and zooms even further in.
+but after a few moments he sees that there are spaces opening between the very
+stones of the massive building, between the flagstones of the floor and between
+the plates of the hull of the Ship. As he gazes at the widening gaps in these
+plates he seems to travel forwards as the scene expands. He has no sensation of
+movement and he can still see the walls of the throne room but they now seems
+far off. He now looks right into the heart of the Ship of Light, all its
+components spread out from each other as he zooms in. The gears and cogs, the
+cables and plates, the great magnets at its centre, all get closer and closer
+until he sort of flies past them into what looks like an amazingly complex
+kaleidoscope. He traverses the voids between the atoms themselves and zooms
+ever further in.
 
 Entering one such atom, he is suddenly inside a vast sphere of pulsating
 energy. He traverses layer upon layer of ever increasing force-fields and

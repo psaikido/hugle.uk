@@ -14,8 +14,7 @@ permalink: /thesium/050-theocracy.html
 ![desert outpost - capn-damo deviantart.com](/assets/images/Thesium/desert-outpost.jpg)
 
 Theo Nimes has long since died along with the rest of the crew. Their
-offspring, of which there were many, along with seven tranches of births from
-the nursery, remember him as 'Neems'. They are eight, perhaps nine generations
+many offspring remember him as 'Neems'. They are eight, perhaps nine generations
 away from the culture that spawned them. Theo is worshipped as a creator God by
 this new techno-tribe. The ship at the heart of the city has become
 a place of deep devotion. This proto-religion holds that a divine spirit
@@ -29,13 +28,13 @@ together with Root works to provide for them.
 Their Chieftan is called The Neem and it is primarily him who consults with
 Root. They now call their AI 'The Helper'. The enculturation protocols had
 dropped off somewhat and Root had stood back to allow them to develop in their
-own way. It still collected all the data it could and kept watch over things.
+own way. It still collected all the data it could and kept a watch over things.
 The anthropology sub AIs were very diligent in their observations, but they did
 not demand the new society should follow any particular path. The consultations
-became more infrequent and highly ceremonial, symbolic affairs. The Helper
+became more infrequent and largely ceremonial, symbolic affairs. The Helper
 drops more and more into the background of their lives.
 
-The hands-off approach extended to the majority but Root still needed
+This hands-off approach extended to the majority but Root still needed
 help. A special group of the most intelligent were trained by Root to
 help it maintain itself. They are kept mostly separate from the Neemians in a
 place they call the Laboratory. They call themselves the 'White Coats'

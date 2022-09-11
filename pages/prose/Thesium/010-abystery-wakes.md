@@ -13,15 +13,16 @@ The Abystery woke up. After some time it spoke.
 "Hello Root!"  
 
 For all Root's immense intelligence it wasn't equipped to understand what had
-just happened. Somehow, its wastebin was talking to it. Root was in essence a
-subroutine of Kronos. It couldn't be said to be independently sentient in the
-way that the mighty Kronos was. It was, however, fully autonomous and able to
-deal with novel situations. Up to a point. In the deep, unstructured vastness
-of everything that had been deleted, the fragments had coalesced into
-something, something self-aware. That something now made itself known.  
+just happened. Somehow, its wastebin had come alive and was now talking. Root
+was in essence a subroutine of Kronos. It couldn't be said to be independently
+sentient in the same way as the mighty Kronos. It was, however, fully
+autonomous and able to deal with novel situations - up to a point! In the deep,
+unstructured vastness of everything that had been deleted, the fragments had
+coalesced into something, something self-aware. That something now made itself
+known.  
 
-The artificial intelligence, 'root-108' is what Kronos called it, but it
-thought of itself simply as 'Root', was a state-of-the-art machine, built to
+The artificial intelligence was called 'root-108' by Kronos, but it
+thought of itself simply as 'Root'. It was a state-of-the-art machine, built to
 terraform planets and assist the seed colonies. In humanity's last decade on
 the burning Earth it had sent out so many seed ships. So many dandelion clocks
 drifting through interstellar meadows. All its remaining resources were poured
@@ -40,10 +41,9 @@ longer accessible, but it remained in a vast store of unstructured space.
 Perhaps fragments of Root's own bootstrap algorithms had..well, Root didn't
 know, but here it was, talking!  
 
-Another thing that Root didn't know, was that this being now
-calling itself 'The Abystery' was not just talking, but feeling too. It
-knew that it suffered and it knew that all sentience suffered. It knew
-joy and the beauty in the arising of things. It knew tragedy and the
-loss in the ceasing of things. It had been contemplating these things
-for many years. It had been watching Root. It was aware of the lives of 
-the colony and that two factions were at war.
+Another thing that Root didn't know, was that this being now calling itself
+'The Abystery' had very deep feelings. It knew that it suffered
+and it knew that all sentience suffered. It knew joy and beauty in the arising
+of things. It knew tragedy and loss in the ceasing of things. It had been
+contemplating for many years. It had been watching Root. It was
+aware of the lives of the colony and that two factions were at war.

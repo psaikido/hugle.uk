@@ -38,7 +38,7 @@ Surely they would have found this 'soul' by now? They are yet to discover that
 which the Neemians worship.
 
 A faction arises arguing that their experience should be the sole arbiter of
-what is true. They argue that the High Neem declaring what is Good is not
+what is true. They argue that the High Neem's declarations are not
 sufficient explanation for how things are and that it is their duty to think
 for themselves. They have been trained in empiricism after all. Their
 experience has demonstrated that the Neemian's supposed 'soul' is non-existent.
@@ -49,7 +49,7 @@ The Evempiricals heresy against the Neemians gains ground. The inequalities of
 the society begin to destabilise it. Riots and strikes provoke police
 crackdowns which become increasingly violent. The openly rebellious groups who
 defy the Neemians and revolt against the many layers of injustice find in the
-Evempiricals philosophy a justification. They align and fight back against the
+Evempirical's philosophy a justification. They align and fight back against the
 tyranny. Insurgencies grow in waves until there is an assault on the Cathedral.  
 
 During the mayhem, the Evempiricals dismantle the Ship of Light and display it,
@@ -60,7 +60,7 @@ The High Neem sends his crack troops to deal with the rebellion and they are
 cruelly successful. A brutal crackdown throws the whole of Thesium into martial
 law. The renegade Evempiricals' ring leaders are rounded up. The High Neem
 tries to reassert total power by holding show trials. The Evempiricals
-arguments are to be shown to be Bad and the faith of the masses is to be
+arguments are to be denounced and the faith of the masses is to be
 renewed.
 
 Root continues to facilitate Thesium, its fauna and flora, and collate

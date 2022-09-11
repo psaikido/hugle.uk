@@ -39,7 +39,7 @@ rules are iron clad.
 All attempts to protect the natural world or have genuine justice are denounced
 as mystical nonsense. Truth is all. Truth is financial.
 
-The Neemian mythos that held the society together as a whole is consigned to
+The Neemian mythos that held society together as a whole is consigned to
 history. Its loss destabilises the society which lurches from crisis to crisis.
 Each lurch is used by the Chief Exec to further his control. The anguish of the
 people drives an entertainment and consumption industry. Addictions become the
@@ -49,6 +49,6 @@ plenty that abounds, the vast majority of people just scrabble to survive.
 
 The Top Prof shows the Chief Exec scientific projections of the environmental
 collapse that will come if they keep following their current trajectory. The
-Chief Exec rejects them as 'bad for business'. The Evempiricals denounce the
-Exec as irrational. Chief Exec makes an example of the Top Prof by throwing him
-in jail along with the High Neem.
+warnings are rejected as 'bad for business'. The Evempiricals denounce the Exec
+as irrational but the world of finance proves itself more powerful than mere
+facts. The Top Prof gets thrown in jail along with the High Neem.

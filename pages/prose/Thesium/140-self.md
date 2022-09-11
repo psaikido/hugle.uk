@@ -64,7 +64,7 @@ again, areas concerned with preferences and plans. The baby had enough previous
 experiences to come up with intentions and schemes and set into motion outgoing
 pulses of information. These pulses were instructions and they travelled much
 as they had arrived. He saw this huge network spreading throughout the baby and
-was awestruck by its complexity as it stretched out its hand, moving more
+was awestruck by its complexity as the baby stretched out its hand, moving more
 rapidly now, and took hold of the ball. It lifted it to its mouth and put its
 tongue against the red surface. The waves of incoming and outgoing messages
 started all over again, in fact as time sped up, he saw that waves of incoming
@@ -79,19 +79,19 @@ as the baby became a child, a toddler, a boy.
 The boy was himself.
 
 As he was about to speak, the Abystery lifted him up once more and he
-approached a realm of Titans. They lived in gorgeous castles and mansions
+approached a realm of Titans. They lived in magnificent castles and mansions
 amongst wild mountains and vast plains. They were at war with each other. They
-were intensely jealous and sought power over their enemies.
+were intensely jealous and each sought power over their enemies.
 
-Next there was a realm of spleandour. Its beauty was beyond his powers to
-describe, ethereal and angelic creatures enjoyed every pleasure and all was
-just perfect. At the same time all the processes he had seen from the inside of
-the boy, himself, were continuing here. Nothing was truly at rest.
+Next there was a realm of splendour. Its beauty was beyond his powers of
+description. Ethereal angelic creatures enjoyed every pleasure and all was
+perfection. At the same time all the processes he had seen going on inside the
+boy, himself, were continuing here. Nothing was truly at rest.
 
 He understood that there was no special, internal 'boy', no essence or kernel
-that was in charge of all this. Just this heap of lightening fast processes all
+in charge of all this. Just this heap of lightening fast processes all
 acting in concert to produce this.. well, what could he say? To produce this
-part of what the universe was doing here? He saw that this was just as true for
+part of what the universe was doing here? He saw this was just as true for
 all the creatures and realms he had been shown. So, no self then!
 
 Although he had only thought this, he heard the Abystery's voice once again.
