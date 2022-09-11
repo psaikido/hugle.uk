@@ -70,7 +70,7 @@
     border: none;
     padding: 0px;
     margin: 0px;
-    font-family: 'Cabin', Sans-serif;
+    font-family: 'Cabin', sans-serif;
     cursor: pointer;
 
     background-image: url(/assets/images/site/kanji-three-shadow.png);
@@ -104,6 +104,7 @@
     border: 1px solid $border-light;
 
     h3 {
+        font-family: Grandstander, sans-serif;
         border-bottom: 1px solid transparent;
         border-image: linear-gradient(to right, $bkg, $blue, $bkg);
         border-image-slice: 1;
@@ -147,8 +148,9 @@
 
     li.level1-parent .heading,
     .sub-heading {
-        color: $hilight;
+        font-family: Grandstander;
         font-size: 1rem;
+        color: $hilight;
         text-decoration: underline;
     }
 
