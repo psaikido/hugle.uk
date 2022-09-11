@@ -100,8 +100,8 @@ eyes. He followed the chief's thoughts even though they were in a language most
 strange.
 
 "This is good, the glade is open at this time of year. There must be enough
-game to graze it, now that Spring has come. My eternal thanks to you, oh Great
-Spring. The people will have deer to hunt."
+deer to graze it, now that Spring has come. My eternal thanks to you, oh Great
+Spring. The people will have deer to hunt. Our bellies will be full."
 
 He was moved at how deeply the chief felt the bounty of spring. How lovely it
 was that he should honour it as another being, a great being. It bound his love
@@ -138,7 +138,7 @@ something about it that caught his heart. So simple, so intense, so perfect.
 
 Things grew dark and time sped up as they leapt over many years. He found
 himself in the body of an old woman. She banged on the door of a flimsy
-dwelling. It was the same young girl but now grown old. "I bet that bastard is
+dwelling. It was the same young girl's descendent. "I bet that bastard is
 drunk again! He better not have hurt my baby girl or I'll cut him this time."
 Her fury was all pent up and he winced at the agony of it. Her need to defend
 her daughter was a force of nature. He felt her sadness that their land had
