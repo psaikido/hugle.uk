@@ -69,10 +69,10 @@ Thus a future oriented plan was initiated. Amidst the wreckage of political
 upheavals, of mass migrations and water wars, a group of the best scientists
 gathered and started work. Somehow they co-opted military funding streams. It
 took several generations before they were self-sufficient and by the time the
-first seeds were launched, the moon had become their base. The last few fascist
-regimes were still eating themselves, and each other, while the wormhole gates
-were constructed. Rats and dogs had become the apex predators when the greatest
-artificial intelligence ever known, Kronos, had come online.
+first seed ships were launched, the moon had become their base. The last few
+fascist regimes were still eating themselves, and each other, while the
+wormhole gates were constructed. Rats and dogs had become the apex predators
+when the greatest artificial intelligence ever known, Kronos, had come online.
 
 It was hoped that by the time the Earth had cooled down again maybe Gaia could
 be reborn. Kronos was designed to try again no matter how long it took. He
