@@ -27,7 +27,7 @@ back to life. He looked for a story that could hold a world together. He needed
 a mythos.
 
 The people had thought of the wars as coming from over-consumption, but he saw
-it as a war between the Good and the True. A war between religion and science.
+them as a conflict between the Good and the True. A war between religion and science.
 The world had lost a central myth to hold it together. Secularisation had
 weakened the myth to the point where there was no longer a shared story and in
 the vacuum that followed, rampant profiteering had dominated. Wearing the mask
@@ -37,7 +37,7 @@ Luna and awaited any fruit that may return as he cast his hopeful seeds into
 the void. Because he was Gaia's son and because his task would take many ages
 to fulfill, if ever, he had named himself 'Kronos'.
 
-Forever orbitting its dead mother, the moon kept Kronos safe. This is where he
+Forever orbitting his dead mother, the moon kept Kronos safe. This is where he
 made his plans.
 
 Humanity's central Artificial Intelligence, this Kronos, had sent out a myriad
@@ -61,22 +61,22 @@ Each group lasted millenia and always had a central story around which they
 configured their lives. Their mythos was their frame. When science really got
 going there was a break with these myths. At one and the same time humanity was
 freed of them and thrown into confusion. The overshoot of consumption tipped
-the planet's coping mechanisms over the edge. During the Great Death, as it
+the planet's balance passed coping. During the Great Death, as it
 became known, most of the Earth's species became extinct. Life on the surface
 became mostly intolerable.
 
 Thus a future oriented plan was initiated. Amidst the wreckage of political
-upheavals, of mass migrations and water wars, a group of the top people in
-their fields gathered and started work. Somehow they co-opted military funding
-streams. It took several generations before they were self-sufficient and by
-the time the first seeds were launched, the moon had become their base. The last
-few fascist regimes were still eating themselves, and each other, while the
-wormhole gates were constructed. Rats and dogs had become the apex predators
-when the greatest artificial intelligence ever known, Kronos, had come online.
+upheavals, of mass migrations and water wars, a group of the best scientists
+gathered and started work. Somehow they co-opted military funding streams. It
+took several generations before they were self-sufficient and by the time the
+first seeds were launched, the moon had become their base. The last few fascist
+regimes were still eating themselves, and each other, while the wormhole gates
+were constructed. Rats and dogs had become the apex predators when the greatest
+artificial intelligence ever known, Kronos, had come online.
 
 It was hoped that by the time the Earth had cooled down again maybe Gaia could
-be reborn. Kronos was designed to try again no matter how long it took. It
-searched with infinite patience. Searched for the missing piece of the jigsaw,
+be reborn. Kronos was designed to try again no matter how long it took. He
+searched with infinite patience, searched for the missing piece of the jigsaw,
 the mythos that would unite the Good with the True. A story that could hold a
-humanity sustaining world. It waited for its Readers to report.
+humanity sustaining world. The great AI waited for its Readers to report.
 
