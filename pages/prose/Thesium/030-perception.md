@@ -10,7 +10,7 @@ permalink: /thesium/030-perception.html
 A drone craft called a 'Reader' is sent out to collect reports. Kronos
 waits patiently for them. After time-dilation and relativistic effects
 are taken into account, Kronos had waited about nearly 2000 years. We say 'about'
-because it depends how you look at the timeline. There are multiple
+because it depends how you look at timelines. There are multiple
 perspectives and each can be considered 'true' within its frame of
 reference.  
 

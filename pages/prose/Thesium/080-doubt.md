@@ -23,18 +23,18 @@ with the outer suburbs. They house the workers who get the majority of
 everything done in the factories, nurseries and farms. The infrastructure is
 maintained from here.
 
-Closer in again are the administration zones, schools and gyms and
-entertainments. The police centres try to keep control based in this zone. The
-inner suburbs are interspersed throughout and house the more wealthy. 
+Closer in again are the administration zones, schools, gyms and entertainments.
+Police centres based in this zone maintain control of the population. The inner
+suburbs are interspersed throughout and house the more wealthy. 
 
 Around the central Cathedral are the grand halls of government. Heavily policed
 and guarded, these bastions keep the outer hoards out. These are the corridors
 of power. One half of this inner circle is the Laboratory. Here Root keeps and
 trains the White Coats. They facilitate the technical aspects of the great AI
-and have special dispensation to live beyond the dictat of The High Neem. The
+and have special dispensation to live beyond the dictat of the High Neem. The
 entrance to the Bunker is kept safe at its base.
 
-The Cathedral itself, towering over all, houses The High Neem and his couterie
+The Cathedral itself, towering over all, houses the High Neem and his couterie
 of Cardinals. His word is law which emanates out through the circles to the
 rest of Thesium.
 
@@ -48,7 +48,7 @@ by anyone. This troubled the High Neem most of all, because he couldn't see it
 either. Groups of theologians were assembled to come up with ever cleverer
 arguments to sustain Neemianism.
 
-Where they lost most ground was over the diseases that were running rife. The
+Where they lost most ground was over diseases that were running rife. The
 declarations that generations of High Neem had given over these troubles were
 becoming harder and harder to sustain. When a really high up person got really
 ill they went to the White Coats who got the Helper to, well, help! Underground

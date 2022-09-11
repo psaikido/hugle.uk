@@ -76,7 +76,7 @@ willing?"
 "My, what an adventure! Okay, let's get to it then."
 
 The High Neem lead him over to the reclining chair with their attendant blue
-diamonds of light. He laid himself back and noticed the deep, low-tone hum grew
+diamonds of light. He laid himself back and noticed the deep, low-tone hum growing
 more powerful. He supposed it was charging up. He was definitely intrigued.  
 
 The blue diamonds came closer about his head and he began to feel drowsy. Soon
@@ -89,10 +89,10 @@ please follow."
 They rushed through an immense void at an incredible velocity. There was no
 resistance. They approached a planet that he recognised as Old Earth from
 Root's data banks. They came to rest in a forest glade. A tribe of people
-walked through the glade and he followed them. They wore animal skins and bird
-feathers adorned their hair. Their skin was deeply tanned and some had scars in
-elaborate patterns on their faces. Most had some kind of coloured paint on
-their faces too.
+walked through the glade and he followed them. They wore beautifully fashioned
+animal skins and bird feathers adorned their hair. He saw their deeply tanned
+skin and some had scars in elaborate patterns on their faces. Patterns of
+coloured dye artfully decorated their bodies.
 
 All of a sudden he found himself transported into one of these tribal people.
 He found that he WAS the chief. He walked in his skin and looked out of his
@@ -122,8 +122,9 @@ hair long and black. He had an engaging laugh and his eyes were full of sparkle
 and mischief. "There is time enough to court and wed before the winter comes.
 Grandma is still strong. She can help me. The young will come the next winter." 
 
-He was caught up in the magic of romance. The power of elemental forces he
-could feel shifting in his core. This was how life came into being.
+The dreaming scientist was caught up in the magic of romance. The power of
+elemental forces he could feel shifting in his core. This was how life came
+into being.
 
 The next transportation was into the young brave. All at once he felt the
 strength of his body. The hardness of his muscles was a wonder to him. Had he
@@ -157,11 +158,11 @@ of love, of compassion stronger than anything he had ever felt.
 Suddenly transported into the drunken young man in the caravan, he felt the
 enormous weight of his limbs as he tried to stand. His head spun and his
 stomach lurched. His thoughts he could not follow. They were drowned in a
-powerful fog of shame. The ignominy of failure. He felt defeated. He had no
-lands, no deer to hunt. Nothing to prove his manhood. The people that had put
-them on this reservation thought he was vermin. Under the shame, he sensed a
-great rage. A powerless rage and fury at the violence that had been done to his
-people. He wanted to destroy something. Had he ever suffered so?
+powerful fog of hang-over and shame. The ignominy of failure. He felt defeated.
+He had no lands, no deer to hunt. Nothing to prove his manhood. The people that
+had put them on this reservation thought he was vermin. Under the shame, he
+sensed a great rage. A powerless rage and fury at the violence that had been
+done to his people. He wanted to destroy something. Had he ever suffered so?
 
 Now he was in a police car, cruising around the reservation. His skin was white
 and his body large and doughy. From behind sunglasses he looked out onto the
@@ -180,8 +181,8 @@ and said "I too am sorry. If there was another way to show you what is lost
 when a mythos is lost, I would choose it. Alas, I could think of no other."
 
 They flew high above Old Earth where the Abystery showed the Top Prof tribe
-after tribe swallowed up by modernity. He was shown scene after scene of how
-people were split up from each other and from their connections to Mother
+after tribe swallowed up by modernity. He was shown scene after scene of 
+people being split up from each other and from their connections to Mother
 Earth. The malice at the heart of all this alienation was an abomination. He
 felt in his bones the wrongness of it. Many years sped by again and now they
 flew above a hot desert. It stretched to the horizons and as they flew over,
@@ -193,7 +194,7 @@ for. Without a mythos, the True does not rule, it just leaves the way open for
 greed, hatred and delusion to take charge."
 
 The dream faded and slowly he felt the return of the reclining chair and the
-diamonds of blue lights. They retreated from around his head and he lurched
+diamonds of blue lights. As they retreated from around his head he lurched
 forwards with his head in his hands, sobbing and sobbing uncontrollably.
 
 The High Neem put his hand gently on his shoulder.

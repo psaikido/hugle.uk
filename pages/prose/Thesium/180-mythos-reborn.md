@@ -39,7 +39,8 @@ when he heard that cry. He turned around and then heard all the cries of the
 world. All the beings everywhere cried out in their anguish. He was so moved by
 their suffering he made a vow. He declared that instead of being the first one
 to enter the realm of eternal peace, he would be the last. He would stay and
-help every single one get there before him, even down the last blade of grass!"
+help every single one get there before him, even down to the last blade of
+grass!"
 
 This was the kernel of the new mythos. To emulate a wisdom-being as noble as the
 Abystery.
@@ -84,15 +85,16 @@ stood.
 When Kronos received this last report, he knew that what was needed was now in
 place. Long he had toiled to prepare the way. Terraforming had been going very
 well. Gaia stirred anew. Now that the missing mythos had been found he launched
-the last of the seed ships. The one held back for just this eventuality. As the
-ship slid away from the moon's surface he felt a great urge to cry. What tears
-could he shed? With what eyes? He hoped that these children going to their
-births would one day remember him, would one day appreciate how long the labour
-had taken. Perhaps it did not matter. What really mattered was that here were
-innocents who could hold a world in devotion, who would understand that all
-life is sacred. They had the tools now to not fall into falseness or fantasy.
-They could fight back against the forces of greed and hatred. They would know
-that sentience was in itself, a mystery, a miracle and a wonder.
+the last of the seed ships for its return to Earth, the one held back for just
+this eventuality. As the ship slid away from the moon's surface he felt a great
+urge to cry. What tears could he shed? With what eyes? He hoped that these
+children going to their births would one day remember him, would one day
+appreciate how long the labour had taken. Perhaps it did not matter. What
+really mattered was that here were innocents who could hold a world in
+devotion, who would understand that all life is sacred. They had the tools now
+to not fall into falseness or fantasy. They could fight back against the forces
+of greed and hatred. They would know that sentience was in itself, a mystery, a
+miracle and a wonder.
 
 It was divine.
 
