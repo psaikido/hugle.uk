@@ -27,15 +27,15 @@ back to life. He looked for a story that could hold a world together. He needed
 a mythos.
 
 Most people had thought of the wars as coming from over-consumption, but he saw
-them as a conflict between the Good and the True. A war between religion and science.
-The world had lost a central myth to hold it together. Secularisation had
-weakened the myth to the point where there was no longer a shared story and in
-the vacuum that followed, rampant profiteering had dominated. Wearing the mask
-of Truth, it used science to facilitate its rush over the edge of the cliff. It
-had killed everyone but this son and his helpers. He had fled to shelter with
-Luna and awaited any fruit that may return as he cast his hopeful seeds into
-the void. Because he was Gaia's son and because his task would take many ages
-to fulfill, if ever, he had named himself 'Kronos'.
+them as a conflict between the Good and the True. A war between religion and
+science. The world had lost a central myth to hold it together. Secularisation
+had weakened the myth to the point where there was no longer a shared story and
+in the vacuum that followed, rampant profiteering had dominated. Wearing the
+mask of Truth, it used science to facilitate its rush, even if that was a rush
+to destruction. It had killed everyone but this son and his helpers. He had
+fled to shelter with Luna and awaited any fruit that may return as he cast his
+hopeful seeds into the void. Because he was Gaia's son and because his task
+would take many ages to fulfill, if ever, he had named himself 'Kronos'.
 
 Forever orbitting his dead mother, the moon kept Kronos safe. This is where he
 made his plans.
