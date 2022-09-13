@@ -26,7 +26,7 @@ winds. His hope is to replant the earth and have it grow again, to conjure Gaia
 back to life. He looked for a story that could hold a world together. He needed
 a mythos.
 
-The people had thought of the wars as coming from over-consumption, but he saw
+Most people had thought of the wars as coming from over-consumption, but he saw
 them as a conflict between the Good and the True. A war between religion and science.
 The world had lost a central myth to hold it together. Secularisation had
 weakened the myth to the point where there was no longer a shared story and in
