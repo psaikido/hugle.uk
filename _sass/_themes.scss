@@ -19,6 +19,9 @@ html {
         #search-term {
             color: $text-light;
             background-color: $dark-grey;
+            font: inherit;
+            width: auto;
+            height: 20px;
         }
 
         .random-hughku, 

@@ -1,14 +1,19 @@
 $border-size: 8px;
 
-* {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
 body {
     width: 100vw;
     margin-inline: auto;
-    padding: $border-size;
     overflow-x: hidden;
+}
+
+form {
+    font: inherit;
 }
 
 .grid-wrap {
@@ -29,7 +34,7 @@ body {
     @include screen-width('medium') {
         margin: 0 auto;
         grid-template-rows: auto;
-        grid-template-columns: 30px 620px 250px;
+        grid-template-columns: 140px 620px 140px;
         grid-template-areas: 
             "nav banner search"
             ".... main subnav"
@@ -37,7 +42,7 @@ body {
     }
 
     @include screen-width('large') {
-        grid-template-columns: 30px max(800px) 300px;
+        grid-template-columns: 200px max(800px) 200px;
     }
 
     #hamburger-menu {
@@ -61,6 +66,16 @@ body {
             margin-top: 14px;
             margin-left: 6px;
             text-align: left;
+        }
+
+        #search-term {
+            font: inherit;
+            width: 200px;
+            height: 25px;
+
+            @include screen-width('medium') {
+                width: 100%;
+            }
         }
     }
 

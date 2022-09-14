@@ -63,7 +63,7 @@
 #hamburger-menu {
     position: relative;
     top: 0px;
-    left: 15px;
+    /*left: 15px;*/
     width: 50px;
     height: 60px;
     display: inline;
@@ -78,12 +78,8 @@
     background-repeat: no-repeat;
 
     @include screen-width('medium') {
-        left: 6px;
-    }
-
-    @include screen-width('large') {
         top: 1px;
-        left: -21px;
+        justify-self: end;
     }
 }
 
@@ -298,7 +294,7 @@
             display: block;
             background-image: url(/assets/images/site/chanCharacter.png);
             background-repeat: no-repeat;
-            background-position: 18% 20%;
+            background-position: 50% 20%;
             background-size: 50%;
             height: 310px;
             opacity: .4;
