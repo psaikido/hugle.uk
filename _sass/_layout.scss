@@ -85,6 +85,7 @@ body {
         width: 100%;
         background: rgba(220, 220, 220, .9);
         text-align: right;
+        color: $dark-grey;
 
         .mantra {
             color: $dark-grey;
@@ -95,17 +96,13 @@ body {
             font-style: italic;
             font-size: .8rem;
             margin-right: 10px;
-            color: $dark-grey;
         }
 
-        button.theme-toggle {
+        form {
             float: left;
             height: 22px;
-            width: 42px;
+            width: 250px;
             margin: 2px 0 0 20px;
-            background-image: url('/assets/images/site/theme-changer.png');
-            background-size: 98%;
-            background-repeat: no-repeat;
             border: none;
         }
     }

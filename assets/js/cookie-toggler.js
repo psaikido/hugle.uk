@@ -2,31 +2,21 @@ const cookieTheme = getCookie('theme');
 
 if (cookieTheme != ''){
     $('html').addClass(cookieTheme);
+    $('#themeForm input[name=themeRadio][value="' + cookieTheme + '"]')
+        .prop('checked', true);
 }
 
+$("#themeForm input").on("change", function() {
+    const v = $('input[name=themeRadio]:checked', '#themeForm').val();
+    setTheme(v);
+});
 
-$("button.theme-toggle").click(function(e){
-    e.preventDefault();
-
-    if ($('html').hasClass('light')){
-        $('html').removeClass('light');
-        $('html').removeClass('print');
-
-        eraseCookie('theme');
-    } else {
-        $('html').removeClass('print');
-        $('html').addClass('light');
-
-        createCookie('theme', 'light', 7);
-    }
-})
-
-$("button.print").click(function(e){
-    e.preventDefault();
-
+function setTheme(theme) {
     $('html').removeClass('dark');
     $('html').removeClass('light');
-    $('html').addClass('print');
+    $('html').removeClass('print');
+    $('html').addClass(theme);
+    eraseCookie('theme');
+    createCookie('theme', theme, 7);
+}
 
-    createCookie('theme', 'print', 7);
-})
