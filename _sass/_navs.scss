@@ -289,16 +289,6 @@
                 color: $hilight;
             }
         }
-
-        &.empty {
-            display: block;
-            background-image: url(/assets/images/site/chanCharacter.png);
-            background-repeat: no-repeat;
-            background-position: 50% 20%;
-            background-size: 50%;
-            height: 310px;
-            opacity: .4;
-        }
     }
 
     button.toggler {

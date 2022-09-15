@@ -47,7 +47,7 @@ form {
 
     #hamburger-menu {
         grid-area: banner;
-        padding: 0;
+        margin-top: 8px;
 
         @include screen-width('medium') {
             grid-area: nav;
@@ -56,16 +56,42 @@ form {
 
     .header {
         grid-area: banner;
-        height: 40px;
+        padding-top: 11px;
+        height: 50px;
     }
 
     .search {
         grid-area: search;
 
+        #search-chk {
+            display: none;
+        }
+
         @include screen-width('medium') {
-            margin-top: 14px;
-            margin-left: 6px;
+            form#search-form {
+                display: none;
+            }
+
+            margin-top: 8px;
             text-align: left;
+
+            #search-chk:checked + #search-label  {
+                background: none;
+            }
+
+            #search-chk:checked + #search-label #search-form {
+                display: block;
+            }
+
+            #search-label {
+                display: block;
+                width: 190px;
+                height: 50px;
+                background-image: url(/assets/images/site/search.png);
+                background-size: 23%;
+                background-repeat: no-repeat;
+                background-position: 0 0;
+            }
         }
 
         #search-term {
