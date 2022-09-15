@@ -16,12 +16,33 @@ html {
             content: '༄༅༎ ';
         }
 
+        .email-form  input, 
+        .email-form  textarea, 
         #search-term {
             color: $text-light;
-            background-color: $dark-grey;
+            background-color: $dark-grey-shift;
             font: inherit;
-            width: auto;
+        }
+
+        .email-form  {
+            margin-top: 15px;
+
+            input, 
+            textarea {
+                width: 350px;
+            }
+
+            button {
+                background: $hilight;
+                color: $black;
+                font-weight: bold;
+            }
+        }
+
+        #search-term {
+            background-color: $dark-grey;
             height: 20px;
+            width: auto;
         }
 
         .random-hughku, 
