@@ -293,14 +293,14 @@
     button.toggler {
         height: 30px;
         width: 30px;
-        margin-right: 36px;
+        margin-right: 13px;
         background-color: transparent;
         border: none;
     }
 
-    button.toggler.is-showing::after, 
-    button.toggler.not-showing::after {
-        margin-left: 35px;
+    button.toggler.is-showing::before, 
+    button.toggler.not-showing::before {
+        margin-left: -76px;
         color: $text-link;
     }
 
@@ -310,7 +310,7 @@
         background-repeat: no-repeat;
     }
 
-    button.toggler.is-showing::after {
+    button.toggler.is-showing::before {
         content: 'hide';
     }
 
@@ -321,7 +321,7 @@
         background-repeat: no-repeat;
     }
 
-    button.toggler.not-showing::after {
+    button.toggler.not-showing::before {
         content: 'show';
     }
 }
