@@ -270,18 +270,17 @@
         }
     }
 
-    &.empty {
-        display: none;
-    }
-
     @include screen-width('medium') {
-        padding-top: 14px;
         margin: 0;
-        padding-left: 10px;
+        padding-top: 14px;
+        padding-right: 10px;
+        text-align: right;
 
         ul {
             display: block;
-            border-left: 1px solid transparent; 
+            margin: 0;
+            padding: 8px 8px 0 0;
+            border-right: 1px solid transparent; 
             border-image: linear-gradient(to bottom, $dark-grey-shift, $blue, $dark-grey-shift);
             border-image-slice: 1;
 
@@ -294,7 +293,7 @@
     button.toggler {
         height: 30px;
         width: 30px;
-        margin-left: 36px;
+        margin-right: 36px;
         background-color: transparent;
         border: none;
     }
