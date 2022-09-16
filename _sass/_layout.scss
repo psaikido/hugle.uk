@@ -68,10 +68,7 @@ form {
         }
 
         @include screen-width('medium') {
-            form#search-form {
-                display: none;
-            }
-
+            position: relative;
             margin-top: 8px;
             text-align: left;
 
@@ -79,11 +76,13 @@ form {
                 background: none;
             }
 
-            #search-chk:checked + #search-label #search-form {
-                display: block;
+            #search-chk:checked + #search-label ~ #search-form {
+                opacity: 1;
             }
 
             #search-label {
+                position: absolute;
+                z-index: 1;
                 display: block;
                 width: 190px;
                 height: 50px;
@@ -91,6 +90,18 @@ form {
                 background-size: 23%;
                 background-repeat: no-repeat;
                 background-position: 0 0;
+            }
+
+            #search-label:hover {
+                cursor: pointer;
+            }
+
+            form#search-form {
+                position: absolute;
+                z-index: -1;
+                top: 8px;
+                opacity: 0;
+                transition: opacity 350ms ease-in;
             }
         }
 

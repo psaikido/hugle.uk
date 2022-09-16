@@ -51,6 +51,10 @@ $(document).ready(function() {
   $('<div id="results">')
     .prependTo('.main');
 
+  $('input#search-chk').click(function () {
+    $('input#search-term').focus();
+  });
+
   $('input#search-term').click(function () {
     $(this).val('');
   });
