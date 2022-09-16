@@ -229,9 +229,8 @@
 
             .hamburger-dropdown-big {
                 position: absolute;
-                width: 100%;
                 top: 98px;
-                left: -30px;
+                left: 27px;
             }
 
             li.level2-parent {
@@ -247,6 +246,11 @@
                     color: $text-light;
                     text-decoration: none;
                 }
+            }
+
+            /* galleries sub items need to be further right */
+            li.level1-parent:nth-child(4) .hamburger-dropdown-big {
+                left: 550px;
             }
         }
     }
