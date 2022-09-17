@@ -1,43 +1,17 @@
-/* hamburger */
-.burger-shower {
-  display: none;
-}
-
-.burger-shower + .hamburger-dropdown, 
-.burger-shower + .hamburger-dropdown-big {
+/* show and hide toggling */
+.show-hide-toggler, 
+.show-hide-toggler + .level1-parent-dropdown, 
+.show-hide-toggler + .level1-parent-dropdown-big {
     display: none;
 }
 
-@include screen-width('xsmall') {
-    .burger-shower:checked + .hamburger-dropdown {
-        display: block;
-        animation-name: reveal;
-        animation-duration: 2s;
-        animation-iteration-count: 1;
-    }
-
-    #hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
-        visibility: visible;
-        left: 0;
-        height: 90vh;
-        overflow: auto;
-    }
+#hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
+    height: auto;
+    @include reveal(400ms);
 }
 
-@include screen-width('small') {
-    .burger-shower:checked + .hamburger-dropdown {
-        display: block;
-        animation-name: reveal;
-        animation-duration: 2s;
-        animation-iteration-count: 1;
-    }
-
-    #hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
-        visibility: visible;
-        left: 0;
-        height: 80vh;
-        overflow: auto;
-    }
+.show-hide-toggler:checked + .level1-parent-dropdown {
+    @include reveal(400ms);
 }
 
 @include screen-width('medium') {
@@ -45,25 +19,20 @@
         display: none;
     }
 
-    .burger-shower:checked + .hamburger-dropdown-big {
-        display: block;
-        animation-name: reveal;
-        animation-duration: 2s;
-        animation-iteration-count: 1;
-    }
-
     #hamburger-input:checked + #hamburger-menu .sidebar-menu.big {
-        visibility: visible;
-        left: 0;
         max-height: 550px;
         overflow: auto;
+        @include reveal(400ms);
+    }
+
+    .show-hide-toggler:checked + .level1-parent-dropdown-big {
+        @include reveal(400ms);
     }
 }
 
 #hamburger-menu {
     position: relative;
     top: 0px;
-    /*left: 15px;*/
     width: 50px;
     height: 60px;
     display: inline;
@@ -87,13 +56,14 @@
 #hamburger-menu:focus {
     box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
 }
+
 .sidebar-menu {
+    display: none;
     position: absolute;
     top: 0;
-    left: -2000px;
+    left: 0;
     height: 88vh;
     background-color: $bkg;
-    opacity: .98;
     transition: 0.3s;
     padding: 0px 10px;
     z-index: 6;
@@ -227,7 +197,7 @@
                 }
             }
 
-            .hamburger-dropdown-big {
+            .level1-parent-dropdown-big {
                 position: absolute;
                 top: 98px;
                 left: 27px;
@@ -249,7 +219,7 @@
             }
 
             /* galleries sub items need to be further right */
-            li.level1-parent:nth-child(4) .hamburger-dropdown-big {
+            li.level1-parent:nth-child(4) .level1-parent-dropdown-big {
                 left: 550px;
             }
         }

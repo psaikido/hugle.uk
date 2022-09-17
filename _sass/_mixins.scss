@@ -13,20 +13,18 @@ $breakpoints: (
     }
 }
 
-/* For testing responsivity.
-/* Put into the body declaration in layouts.scss.
+@mixin reveal($milisecs) {
+    display: block;
+    animation-name: reveal;
+    animation-duration: $milisecs;
+    animation-iteration-count: 1;
+}
 
-@include screen-width('xsmall') {
-    background-color: $light-grey;
+@keyframes reveal {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
-@include screen-width('small') {
-    background-color: $green;
-}
-@include screen-width('medium') {
-    font-size: 1.1em;
-    background-color: $blue;
-}
-@include screen-width('large') {
-    background-color: $pink;
-}
-*/

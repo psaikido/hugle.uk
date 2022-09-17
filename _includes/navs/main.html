@@ -1,4 +1,4 @@
-<input type="checkbox" id="hamburger-input" class="burger-shower" />
+<input type="checkbox" id="hamburger-input" class="show-hide-toggler" />
 
 <label id="hamburger-menu" for="hamburger-input">
     <nav class="sidebar-menu little">
@@ -13,9 +13,9 @@
                                 {{ item.title }}
                             </div>
 
-                            <input type="checkbox" id="ham-chk-{{ forloop.index }}" class="burger-shower" />
+                            <input type="checkbox" id="ham-chk-{{ forloop.index }}" class="show-hide-toggler" />
 
-                            <ul class="hamburger-dropdown">
+                            <ul class="level1-parent-dropdown">
                                 {% for subitem in item.sub %}
                                     {% if subitem.subsub %}
                                         <li class="level2-parent">
@@ -84,9 +84,9 @@
                                     {{ item.title }}
                                 </div>
 
-                                <input type="radio" name="submenus" id="ham-big-chk-{{ forloop.index }}" class="burger-shower" />
+                                <input type="radio" name="submenus" id="ham-big-chk-{{ forloop.index }}" class="show-hide-toggler" />
 
-                                <ul class="hamburger-dropdown-big">
+                                <ul class="level1-parent-dropdown-big">
                                     {% for subitem in item.sub %}
                                         {% if subitem.subsub %}
                                             <li class="level2-parent">
