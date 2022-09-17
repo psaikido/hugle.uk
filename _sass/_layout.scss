@@ -1,5 +1,3 @@
-$border-size: 8px;
-
 *,
 *::before,
 *::after {
@@ -23,7 +21,7 @@ form {
     margin-inline: auto;
     grid-gap: 15px;
     grid-template-columns: 1fr;
-    grid-template-rows: 50px 30px auto auto 20px;
+    grid-template-rows: auto 30px auto auto 20px;
     grid-template-areas: 
         'banner'
         'search'
@@ -57,63 +55,15 @@ form {
     .header {
         grid-area: banner;
         padding-top: 11px;
-        height: 50px;
+        height: auto;
+
+        @include screen-width('medium') {
+            height: 50px;
+        }
     }
 
     .search {
         grid-area: search;
-
-        #search-chk {
-            display: none;
-        }
-
-        @include screen-width('medium') {
-            position: relative;
-            margin-top: 8px;
-            text-align: left;
-
-            #search-chk:checked + #search-label  {
-                background: none;
-            }
-
-            #search-chk:checked + #search-label ~ #search-form {
-                opacity: 1;
-            }
-
-            #search-label {
-                position: absolute;
-                z-index: 1;
-                display: block;
-                width: 190px;
-                height: 50px;
-                background-image: url(/assets/images/site/search.png);
-                background-size: 23%;
-                background-repeat: no-repeat;
-                background-position: 0 0;
-            }
-
-            #search-label:hover {
-                cursor: pointer;
-            }
-
-            form#search-form {
-                position: absolute;
-                z-index: -1;
-                top: 8px;
-                opacity: 0;
-                transition: opacity 350ms ease-in;
-            }
-        }
-
-        #search-term {
-            font: inherit;
-            width: 200px;
-            height: 25px;
-
-            @include screen-width('medium') {
-                width: 100%;
-            }
-        }
     }
 
     .subnavbar {
@@ -126,17 +76,6 @@ form {
         width: 100%;
         height: auto;
         padding-bottom: 80px;
-
-        #results {
-            border-bottom: 1px solid transparent; 
-            border-image: linear-gradient(to right, $dark-grey-shift, $blue, $dark-grey-shift);
-            border-image-slice: 1;
-            padding-top: 10px;
-        }
-
-        #results:empty {
-            opacity: 0;
-        }
     }
 
     .footer {
@@ -145,20 +84,6 @@ form {
         position: fixed;
         bottom: 0;
         width: 100%;
-        background: rgba(220, 220, 220, .9);
-        text-align: right;
-        color: $dark-grey;
-
-        .mantra {
-            color: $dark-grey;
-            font-size: .7rem;
-        }
-
-        .footer-text {
-            font-style: italic;
-            font-size: .8rem;
-            margin-right: 10px;
-        }
 
         form {
             float: left;

@@ -1,0 +1,16 @@
+.footer {
+    background: rgba(220, 220, 220, .9);
+    text-align: right;
+    color: $dark-grey;
+
+    .mantra {
+        color: $dark-grey;
+        font-size: .7rem;
+    }
+
+    .footer-text {
+        font-style: italic;
+        font-size: .8rem;
+        margin-right: 10px;
+    }
+}

@@ -12,16 +12,16 @@ html {
             color: $hilight;
         }
 
-        h4::before {
-            content: '༄༅༎ ';
-        }
-
         .email-form  input, 
         .email-form  textarea, 
         #search-term {
             color: $text-light;
             background-color: $dark-grey-shift;
             font: inherit;
+        }
+
+        #search-term {
+            background-color: $dark-grey;
         }
 
         .email-form  {
@@ -37,12 +37,6 @@ html {
                 color: $black;
                 font-weight: bold;
             }
-        }
-
-        #search-term {
-            background-color: $dark-grey;
-            height: 20px;
-            width: auto;
         }
 
         .random-hughku, 
