@@ -53,3 +53,6 @@ group of fanatical quad-line kite fliers. He lives in the South West of the UK.
 Hughie can be contacted at hughie (at) hugle.co.uk.
 
 ![Kilkenny field](/assets/images/kites/kilkenny-hc-2022-07-m14.jpg)
+
+![w3c valid](/assets/images/site/vcss.gif)
+{: style="width: 88px;"}
