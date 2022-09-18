@@ -25,22 +25,18 @@ form {
     grid-template-areas: 
         'banner'
         'search'
-        'subnav'
         'main'
+        'subnav'
         'footer';
 
     @include screen-width('medium') {
         margin: 0 auto;
         grid-template-rows: auto;
-        grid-template-columns: 140px 620px 140px;
+        grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
         grid-template-areas: 
             "nav banner search"
             "subnav main ....."
             "footer footer footer";
-    }
-
-    @include screen-width('large') {
-        grid-template-columns: minmax(200px, auto) max(800px) minmax(200px, auto);
     }
 
     #hamburger-menu {
