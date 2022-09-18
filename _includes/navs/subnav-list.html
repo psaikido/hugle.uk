@@ -1,10 +1,10 @@
-{% if page.subnav == nil and page.category == nil %}
-    <nav class="subnavbar empty"> &nbsp; </nav>
-{% else %}
-    {% if page.subnav %}
-        <nav class="subnavbar">
-            <button class="toggler is-showing">&nbsp;</button>
+<div class="subnavbar">
+    <input type="checkbox" id="subnav-chk" class="show-hide-toggler" />
 
+    <label id="subnav-label" for="subnav-chk"> </label>
+    
+    {% if page.subnav %}
+        <nav>
             <ul class="">
                 {% for item in site.data[page.subnav].menu %}
                     {% if item.silent != true %}
@@ -18,9 +18,7 @@
     {% endif %}
 
     {% if page.category %}
-        <nav class="subnavbar">
-            <button class="toggler is-showing">&nbsp;</button>
-
+        <nav>
             <ul class="">
                 {% for post in site.categories[page.category] %}
                     <li {% if post.url == page.url %}class="current"{% endif %}>
@@ -32,6 +30,5 @@
             </ul>
         </nav>
     {% endif %}
-{% endif %}
+</div>
 
-<script type="text/javascript" src="/assets/js/subnav-toggler.js"> </script>

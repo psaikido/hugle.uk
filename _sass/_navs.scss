@@ -227,6 +227,7 @@
 }
 
 .subnavbar {
+    position: relative;
     text-align: left;
     font-size: 1rem;
     font-weight: bold;
@@ -259,39 +260,45 @@
         }
     }
 
-    button.toggler {
+    #subnav-label {
+        display: block;
+        position: absolute;
+        right: 0;
         height: 30px;
         width: 30px;
-        margin-right: 13px;
+        margin-right: 19px;
         background-color: transparent;
         border: none;
     }
 
-    button.toggler.is-showing::before, 
-    button.toggler.not-showing::before {
-        margin-left: -76px;
+    #subnav-label::before {
+        display: block;
+        position: absolute;
+        left: -69px;
+        width: 60px;
+        height: 30px;
         color: $text-link;
-    }
-
-    button.toggler.is-showing {
         background-image: url(/assets/images/site/hide-sdebar-vert-svgrepo-com.svg);
-        background-size: 100%;
+        background-size: 45%;
         background-repeat: no-repeat;
-    }
-
-    button.toggler.is-showing::before {
         content: 'hide';
     }
 
-    button.toggler.not-showing {
+    #subnav-chk:checked + label ~ nav {
+        opacity: 0;
+    }
+
+    #subnav-chk:checked + label::before {
         background-image: url(/assets/images/site/down-arrow-svgrepo-com.svg);
         background-size: 50%;
         background-position: 7px 9px;
         background-repeat: no-repeat;
+        content: 'show';
     }
 
-    button.toggler.not-showing::before {
-        content: 'show';
+    nav {
+        margin-top: 30px;
+        transition: opacity 400ms ease;
     }
 }
 
