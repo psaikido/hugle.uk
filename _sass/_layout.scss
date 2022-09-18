@@ -40,7 +40,7 @@ form {
     }
 
     @include screen-width('large') {
-        grid-template-columns: 200px max(800px) 200px;
+        grid-template-columns: minmax(200px, auto) max(800px) minmax(200px, auto);
     }
 
     #hamburger-menu {
