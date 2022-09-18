@@ -56,7 +56,7 @@ so young
 so sweet  
 your wit  
 and kindness  
-was needed  
+were needed  
   
   
 I hope we'll meet  
