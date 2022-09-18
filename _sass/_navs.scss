@@ -289,14 +289,25 @@
         content: 'hide';
     }
 
-    #subnav-chk:checked + label ~ nav {
-        opacity: 0;
-        display: none;
+    #subnav-chk + label ~ nav {
+        margin-top: 30px;
+        opacity: 1;
+        transition: opacity 400ms ease;
     }
 
-    @include screen-width('medium') {
+    #subnav-chk:checked + label ~ nav {
+        opacity: 0;
+    }
+
+    @include screen-width('xsmall') {
         #subnav-chk:checked + label ~ nav {
-            opacity: 0;
+            display: none;
+        }
+    }
+
+    @include screen-width('small') {
+        #subnav-chk:checked + label ~ nav {
+            height: 1px;
         }
     }
 
@@ -309,11 +320,6 @@
 
     #subnav-chk:checked + label::before {
         content: 'show';
-    }
-
-    nav {
-        margin-top: 30px;
-        transition: opacity 400ms ease;
     }
 }
 
