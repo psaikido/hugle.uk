@@ -1,7 +1,7 @@
 ---
 title: "SN 1.1 Ogha-taraṇa Sutta: Crossing the Flood"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

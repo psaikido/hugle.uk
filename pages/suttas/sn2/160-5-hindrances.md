@@ -1,7 +1,7 @@
 ---
 title: "SN 46.55 Sangaravo Sutta: The Hindrances"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

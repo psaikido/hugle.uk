@@ -1,7 +1,7 @@
 ---
 title: "SN 7.6 Jaṭā Sutta: The Tangle"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

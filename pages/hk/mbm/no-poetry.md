@@ -2,7 +2,7 @@
 title: no poetry
 written: 2005
 banner-title: "Mahabodhi Moonlight" 
-layout: subnav
+layout: default
 subnav: mbm
 permalink: /mbm/no-poetry.html
 ---

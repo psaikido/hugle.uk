@@ -1,7 +1,7 @@
 ---
 title: info 
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/
 ---

@@ -1,7 +1,7 @@
 ---
 title: Perception 
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/030-perception.html
 ---

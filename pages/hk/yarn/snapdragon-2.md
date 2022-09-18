@@ -2,7 +2,7 @@
 title: snapdragon during 
 written: 2019
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/snapdragon-2.html
 ---

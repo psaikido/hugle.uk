@@ -1,7 +1,7 @@
 ---
 title: "SN 12.61 Assutava Sutta: Uninstructed"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

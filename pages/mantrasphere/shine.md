@@ -1,7 +1,7 @@
 ---  
 title: Shine  
 banner-title: "Mantrasphere" 
-layout: subnav
+layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/shine.html
 ---  

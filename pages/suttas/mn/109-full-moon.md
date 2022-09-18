@@ -1,7 +1,7 @@
 ---
 title: "MN 109 Mahā Puṇṇama Sutta: The Greater Discourse on the Full Moon Night"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

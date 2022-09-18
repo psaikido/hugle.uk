@@ -2,7 +2,7 @@
 title: Gaumin Si
 written: 2019
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/gaumin-si.html
 ---

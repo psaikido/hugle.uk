@@ -1,7 +1,7 @@
 ---
 title: "MN 86 Aṅgulimāla: Garland of Fingers"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

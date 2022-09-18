@@ -2,7 +2,7 @@
 title: love is a dance
 written: 2002
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/love-dance.html
 ---

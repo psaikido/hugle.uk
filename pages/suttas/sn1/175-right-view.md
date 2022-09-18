@@ -1,7 +1,7 @@
 ---
 title: "SN 12.15 Kaccānagotta Sutta: To Kaccāna Gotta"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

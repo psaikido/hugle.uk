@@ -1,7 +1,7 @@
 ---
 title: "MN 123 Acchariy'abbhutadhamma: Wonderful and Marvellous"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

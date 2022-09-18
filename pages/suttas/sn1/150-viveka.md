@@ -1,7 +1,7 @@
 ---
 title: "SN 9.1 Viveka Sutta: Seclusion"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

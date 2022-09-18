@@ -1,7 +1,7 @@
 ---
 title: "MN 131 Bhaddekaratta Sutta: On the Better Way to Live Alone"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "MN 79 Culasakuladayin: The Shorter Discourse to Sakuludayin"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

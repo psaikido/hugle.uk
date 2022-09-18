@@ -1,7 +1,7 @@
 ---
 title: "SN 12.68 Kosambi Sutta: At Kosambi"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

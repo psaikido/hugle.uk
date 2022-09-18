@@ -1,7 +1,7 @@
 ---
 title: "SN 12.17 Acela Sutta: To the Clothless Ascetic"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

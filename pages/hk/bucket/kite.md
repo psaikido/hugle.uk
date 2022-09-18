@@ -2,7 +2,7 @@
 title: kite
 written: 2020
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/kite.html
 ---

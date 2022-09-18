@@ -1,7 +1,7 @@
 ---
 title: "SN 7.2 Akkosa Sutta: Insult"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

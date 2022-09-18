@@ -2,7 +2,7 @@
 title: tricks
 written: 2021
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/tricks.html
 ---

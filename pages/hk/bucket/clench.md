@@ -2,7 +2,7 @@
 title: clench
 written: 2020
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/clench.html
 ---

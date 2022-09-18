@@ -1,7 +1,7 @@
 ---
 title: "MN 21 Kakacupama: Simile of the Saw"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

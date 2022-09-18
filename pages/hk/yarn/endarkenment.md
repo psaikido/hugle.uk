@@ -2,7 +2,7 @@
 title: endarkenment
 written: 2019
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/endarkenment.html
 ---

@@ -2,7 +2,7 @@
 title: banana moon 
 written: 2020
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/banana-moon.html
 ---

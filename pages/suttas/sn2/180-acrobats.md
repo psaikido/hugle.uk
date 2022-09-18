@@ -1,7 +1,7 @@
 ---
 title: "SN 47.19 Sedaka Sutta: At Sedaka"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

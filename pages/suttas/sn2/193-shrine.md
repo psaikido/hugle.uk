@@ -1,7 +1,7 @@
 ---
 title: "SN 51.10 Cetiya Sutta: The Shrine"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

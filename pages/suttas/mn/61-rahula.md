@@ -1,7 +1,7 @@
 ---
 title: "MN 61 Ambalaṭṭhika Rāhulovāda: Advice to Rahula at Mango Stone"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

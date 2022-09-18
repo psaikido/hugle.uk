@@ -2,7 +2,7 @@
 title: Silbury
 written: 2017
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/silbury.html
 ---

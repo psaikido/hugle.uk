@@ -1,7 +1,7 @@
 ---  
 title: Vajrasattva  
 banner-title: "Mantrasphere" 
-layout: subnav
+layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/vajrasattva.html
 ---  

@@ -1,7 +1,7 @@
 ---
 title: Rapprochement
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/160-rapprochement.html
 ---

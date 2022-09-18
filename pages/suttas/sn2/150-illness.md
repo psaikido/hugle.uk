@@ -1,7 +1,7 @@
 ---
 title: "SN 46.16 Gillana Sutta: Illness and the Factors of Enlightenment"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

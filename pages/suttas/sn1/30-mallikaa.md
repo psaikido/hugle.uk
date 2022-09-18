@@ -1,7 +1,7 @@
 ---
 title: "SN 3.8 Mallikaa Sutta: Mallikaa"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

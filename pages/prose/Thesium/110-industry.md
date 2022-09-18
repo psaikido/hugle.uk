@@ -1,7 +1,7 @@
 ---
 title: Industry
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/110-industry.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SN 38.14 Dukkha Sutta: Suffering"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

@@ -2,7 +2,7 @@
 title: thistledown 
 written: 2005
 banner-title: "Mahabodhi Moonlight" 
-layout: subnav
+layout: default
 subnav: mbm
 permalink: /mbm/thistledown.html
 ---

@@ -1,7 +1,7 @@
 ---              
 title: Secret Sun
 banner-title: "Mantrasphere" 
-layout: subnav
+layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/secret-sun.html
 ---              

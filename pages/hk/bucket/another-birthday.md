@@ -2,7 +2,7 @@
 title: another birthday 
 written: 2021
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/another-birthday.html
 ---

@@ -2,7 +2,7 @@
 title: night dive
 written: 2006
 banner-title: "Mahabodhi Moonlight" 
-layout: subnav
+layout: default
 subnav: mbm
 permalink: /mbm/night-dive.html
 ---

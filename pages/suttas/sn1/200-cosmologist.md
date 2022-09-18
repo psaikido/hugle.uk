@@ -1,7 +1,7 @@
 ---
 title: "SN 12.48 Lokayatika Sutta: The Cosmologist"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

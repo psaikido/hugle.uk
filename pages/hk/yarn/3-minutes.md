@@ -2,7 +2,7 @@
 title: 3 minutes 
 written: 2020
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/3-minutes.html
 ---

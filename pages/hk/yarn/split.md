@@ -2,7 +2,7 @@
 title: The Inevitable Split
 written: 2020
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/split.html
 ---

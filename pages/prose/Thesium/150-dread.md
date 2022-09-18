@@ -1,7 +1,7 @@
 ---
 title: Dread
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/150-dread.html
 ---

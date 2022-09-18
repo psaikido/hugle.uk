@@ -1,7 +1,7 @@
 ---
 title: "MN 67 At Catuma"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

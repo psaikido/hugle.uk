@@ -1,7 +1,7 @@
 ---
 title: "SN 36.6 Sallattha Sutta: The Two Arrows"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

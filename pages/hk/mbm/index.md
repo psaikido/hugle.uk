@@ -1,7 +1,7 @@
 ---
 title: "Mahabodhi Moonlight" 
 banner-title: "Mahabodhi Moonlight" 
-layout: subnav
+layout: default
 subnav: mbm
 permalink: /mbm/
 ---

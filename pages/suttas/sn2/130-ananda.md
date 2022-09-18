@@ -1,7 +1,7 @@
 ---
 title: "SN 44.10 Ānanda Sutta: To Ānanda"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

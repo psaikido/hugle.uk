@@ -1,7 +1,7 @@
 ---
 title: "SN 5.2 Somā Sutta: Sister Somā"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

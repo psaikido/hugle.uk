@@ -2,7 +2,7 @@
 title: robin
 written: 2014
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/robin.html
 ---

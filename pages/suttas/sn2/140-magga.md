@@ -1,7 +1,7 @@
 ---
 title: "SN 45.8 Magga-Vibhaṅga Sutta: Analysis of the Whole Path"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

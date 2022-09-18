@@ -2,7 +2,7 @@
 title: snow ball
 written: 2022
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/snow-ball.html
 ---

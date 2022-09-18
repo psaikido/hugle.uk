@@ -1,7 +1,7 @@
 ---
 title: "SN 12.65 Nagara Sutta: The Ancient City"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

@@ -1,7 +1,7 @@
 ---        
 title: listen
 banner-title: "Mantrasphere" 
-layout: subnav
+layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/listen.html
 ---        

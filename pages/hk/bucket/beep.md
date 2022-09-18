@@ -2,7 +2,7 @@
 title: beep
 written: 2020
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/beep.html
 ---

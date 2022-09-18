@@ -1,7 +1,7 @@
 ---
 title: "SN 22.84 Tissa Sutta: Tissa"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

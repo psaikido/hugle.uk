@@ -2,7 +2,7 @@
 title: groupies
 written: 2020
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/groupies.html
 ---

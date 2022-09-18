@@ -2,7 +2,7 @@
 title: birthday bicycle
 written: 2003
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/birthday-bicycle.html
 ---

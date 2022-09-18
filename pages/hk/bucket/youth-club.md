@@ -2,7 +2,7 @@
 title: youth club
 written: 2020
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/youth-club.html
 ---

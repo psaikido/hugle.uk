@@ -2,7 +2,7 @@
 title: Joanne Whalley
 written: 2020
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/joanne-whalley.html
 ---

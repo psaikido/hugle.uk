@@ -1,7 +1,7 @@
 ---
 title: "MN 73 Mahavacchagotta"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

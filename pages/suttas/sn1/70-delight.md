@@ -1,7 +1,7 @@
 ---
 title: "SN 4.8 Nandana Sutta: Delight"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

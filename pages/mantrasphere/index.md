@@ -1,7 +1,7 @@
 ---
 title: "an album of Buddhist inspired music" 
 banner-title: "Mantrasphere" 
-layout: subnav
+layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/
 ---

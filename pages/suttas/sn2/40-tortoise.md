@@ -1,7 +1,7 @@
 ---
 title: "SN 35.240 Kummopama Sutta: The Simile of the Tortoise"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

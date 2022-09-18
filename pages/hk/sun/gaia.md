@@ -2,7 +2,7 @@
 title: Gaia
 written: 2006
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/gaia.html
 ---

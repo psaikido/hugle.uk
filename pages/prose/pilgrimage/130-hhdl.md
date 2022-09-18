@@ -1,7 +1,7 @@
 ---
 title: His Holiness the Dalai Lama
 banner-title: Pilgrimage - Mahabodhi Moonlight
-layout: subnav
+layout: default
 subnav: pilgrimage
 ---
 

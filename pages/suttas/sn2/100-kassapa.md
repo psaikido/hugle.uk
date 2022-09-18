@@ -1,7 +1,7 @@
 ---
 title: "SN 41.9 Acelakassapa Sutta: The Naked Ascetic Kassapa"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

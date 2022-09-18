@@ -1,7 +1,7 @@
 ---
 title: South
 banner-title: Pilgrimage - Mahabodhi Moonlight
-layout: subnav
+layout: default
 subnav: pilgrimage
 ---
 

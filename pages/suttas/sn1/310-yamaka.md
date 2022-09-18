@@ -1,7 +1,7 @@
 ---
 title: "SN 22.85 Yamaka Sutta: To Yamaka"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

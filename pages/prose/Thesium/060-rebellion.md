@@ -1,7 +1,7 @@
 ---
 title: Rebellion 
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/060-rebellion.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: "MN 105 Sunakkhatta"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

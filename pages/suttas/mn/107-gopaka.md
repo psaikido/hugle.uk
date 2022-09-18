@@ -1,7 +1,7 @@
 ---
 title: "MN 107 Gaṇaka Moggallāna Sutta: The whole path"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "SN 22.49 Soṇa Sutta: Conceit"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

@@ -2,7 +2,7 @@
 title: plankton
 written: 2019
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/plankton.html
 ---

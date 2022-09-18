@@ -1,7 +1,7 @@
 ---
 title: Doubt
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/080-doubt.html
 ---

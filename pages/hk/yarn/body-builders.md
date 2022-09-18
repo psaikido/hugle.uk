@@ -2,7 +2,7 @@
 title: body-builders 
 written: 2019
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/body-builders.html
 ---

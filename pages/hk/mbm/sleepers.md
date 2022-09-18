@@ -2,7 +2,7 @@
 title: sleepers
 written: 2006
 banner-title: "Mahabodhi Moonlight" 
-layout: subnav
+layout: default
 subnav: mbm
 permalink: /mbm/sleepers.html
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SN 6.1 Āyācana Sutta: The Request"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

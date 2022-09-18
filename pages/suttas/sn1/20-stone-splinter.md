@@ -1,7 +1,7 @@
 ---
 title: "SN 1.38 Sakalika Sutta: The Stone Sliver"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "MN 106 Āneñja-sappāya: Imperturbable"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

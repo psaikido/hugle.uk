@@ -1,7 +1,7 @@
 ---
 title: "SN 55.1 Rāja Sutta: The Emperor"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

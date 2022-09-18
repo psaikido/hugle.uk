@@ -2,7 +2,7 @@
 title: gulf
 written: 2020
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/gulf.html
 ---

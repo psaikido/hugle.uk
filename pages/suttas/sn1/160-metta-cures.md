@@ -1,7 +1,7 @@
 ---
 title: "SN 10.4 Manibhadda Sutta: With Manibhadda"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

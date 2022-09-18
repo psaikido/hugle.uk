@@ -2,7 +2,7 @@
 title: new moon 
 written: 2018
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/new-moon.html
 ---

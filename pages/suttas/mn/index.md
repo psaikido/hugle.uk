@@ -1,7 +1,7 @@
 ---
 title: Majjhima Nikāya
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

@@ -1,7 +1,7 @@
 ---          
 title: The Sailing Stars  
 banner-title: "Mantrasphere" 
-layout: subnav
+layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/sailing-stars.html
 ---          

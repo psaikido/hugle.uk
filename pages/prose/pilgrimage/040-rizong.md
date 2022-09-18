@@ -1,7 +1,7 @@
 ---
 title: Rizong
 banner-title: Pilgrimage - Mahabodhi Moonlight
-layout: subnav
+layout: default
 subnav: pilgrimage
 ---
 

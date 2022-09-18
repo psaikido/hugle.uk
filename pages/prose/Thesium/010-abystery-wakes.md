@@ -1,7 +1,7 @@
 ---
 title: Abystery
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/010-abystery-wakes.html
 ---

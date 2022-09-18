@@ -2,7 +2,7 @@
 title: bottom feeder
 written: 2003 & 2020
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/bottom-feeder.html
 ---

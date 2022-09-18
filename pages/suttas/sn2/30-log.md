@@ -1,7 +1,7 @@
 ---
 title: "SN 35.200 Dārukkhandha Sutta: The Log"
 banner-title: "Saṁyutta Nikāya II" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn2
 ---
 

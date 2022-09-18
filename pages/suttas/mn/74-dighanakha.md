@@ -1,7 +1,7 @@
 ---
 title: "MN 74 To Dīghanakha: To LongNails"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

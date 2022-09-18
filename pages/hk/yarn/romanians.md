@@ -2,7 +2,7 @@
 title: Romanians
 written: 2019
 banner-title: Yarn
-layout: subnav
+layout: default
 subnav: yarn
 permalink: /yarn/romanians.html
 ---

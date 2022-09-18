@@ -1,7 +1,7 @@
 ---
 title: "SN 3.18 Kalyanamitta Sutta: Spiritual Frienship"
 banner-title: "Saṁyutta Nikāya I" 
-layout: subnav 
+layout: default 
 subnav: suttas-sn1
 ---
 

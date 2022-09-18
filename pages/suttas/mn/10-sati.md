@@ -1,7 +1,7 @@
 ---
 title: "MN 10 Satipatthana Sutta: The Foundations of Mindfulness"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

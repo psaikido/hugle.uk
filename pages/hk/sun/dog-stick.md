@@ -2,7 +2,7 @@
 title: dog stick
 written: 2004
 banner-title: "Sunshine & Shadow" 
-layout: subnav
+layout: default
 subnav: sun
 permalink: /sun/dog-stick.html
 ---

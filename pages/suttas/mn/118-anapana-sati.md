@@ -1,7 +1,7 @@
 ---
 title: "MN 118 Ānāpāna Sati Sutta: Mindfulness of Breathing"
 banner-title: "Majjhima Nikāya" 
-layout: subnav 
+layout: default 
 subnav: suttas-mn 
 ---
 

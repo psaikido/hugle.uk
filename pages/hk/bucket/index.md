@@ -1,7 +1,7 @@
 ---
 title: bucket
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/
 ---

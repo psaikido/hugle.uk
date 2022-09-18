@@ -1,7 +1,7 @@
 ---
 title: Self
 banner-title: "Thesium" 
-layout: subnav 
+layout: default 
 subnav: thesium 
 permalink: /thesium/140-self.html
 ---

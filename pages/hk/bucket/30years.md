@@ -2,7 +2,7 @@
 title: 30 years
 written: 2021
 banner-title: "bucket" 
-layout: subnav
+layout: default
 subnav: bucket
 permalink: /bucket/30years.html
 ---
