@@ -289,11 +289,9 @@
         content: 'hide';
     }
 
-    @include screen-width('xsmall') {
-        #subnav-chk:checked + label ~ nav {
-            opacity: 0;
-            display: none;
-        }
+    #subnav-chk:checked + label ~ nav {
+        opacity: 0;
+        display: none;
     }
 
     @include screen-width('medium') {
