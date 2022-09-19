@@ -15,6 +15,26 @@ $('.sidebar-menu h3').click(function() {
     hide($('.sidebar-menu'));
 })
 
+$('ul.little .level1-parent .heading').click(function () {
+    $(this).siblings('ul.level1-parent-dropdown').fadeToggle();
+})
+
+$('ul.nests .level1-parent .icon').click(function () {
+    nestParent(this);
+})
+
+$('ul.nests .level1-parent .heading').click(function () {
+    nestParent(this);
+})
+
+function nestParent(elem) {
+    $('ul.level1-parent-dropdown-big').fadeOut();
+    $(elem).siblings('ul.level1-parent-dropdown-big').fadeToggle();
+
+    $('ul.nests > li').removeClass('active');
+    $(elem).parent().toggleClass('active');
+}
+
 $('.subnavbar > .toggler').click(function () {
     if ($('.subnavbar ul').is(':visible')) {
         hide($('.subnavbar ul'));

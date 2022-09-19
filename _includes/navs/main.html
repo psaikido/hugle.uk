@@ -8,39 +8,35 @@
             {% for item in site.data.nav.menu %}
                 {% if item.sub %}
                     <li class="level1-parent">
-                        <label id="ham-{{ forloop.index }}" for="ham-chk-{{ forloop.index }}">
-                            <div class="heading">
-                                {{ item.title }}
-                            </div>
+                        <div class="heading">
+                            {{ item.title }}
+                        </div>
 
-                            <input type="checkbox" id="ham-chk-{{ forloop.index }}" class="show-hide-toggler" />
+                        <ul class="level1-parent-dropdown">
+                            {% for subitem in item.sub %}
+                                {% if subitem.subsub %}
+                                    <li class="level2-parent">
+                                        <div class="sub-heading">{{ subitem.title }}</div>
 
-                            <ul class="level1-parent-dropdown">
-                                {% for subitem in item.sub %}
-                                    {% if subitem.subsub %}
-                                        <li class="level2-parent">
-                                            <div class="sub-heading">{{ subitem.title }}</div>
-
-                                            <ul class="submenu">
-                                                {% for subsubitem in subitem.subsub %}
-                                                    <li class="subsubitem">
-                                                        <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" >
-                                                            {{ subsubitem.title }}
-                                                        </a>
-                                                    </li>
-                                                {% endfor %}
-                                            </ul>
-                                        </li>
-                                    {% else %}
-                                        <li class="level2-child">
-                                            <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}" class="subitem">
-                                                {{ subitem.title }}
-                                            </a>
-                                        </li>
-                                    {% endif %}
-                                {% endfor %}
-                            </ul>
-                        </label>
+                                        <ul class="submenu">
+                                            {% for subsubitem in subitem.subsub %}
+                                                <li class="subsubitem">
+                                                    <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" >
+                                                        {{ subsubitem.title }}
+                                                    </a>
+                                                </li>
+                                            {% endfor %}
+                                        </ul>
+                                    </li>
+                                {% else %}
+                                    <li class="level2-child">
+                                        <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}" class="subitem">
+                                            {{ subitem.title }}
+                                        </a>
+                                    </li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
                     </li>
                 {% else %}
                     <li class="level1-child">
@@ -73,45 +69,41 @@
                 {% for item in site.data.nav.menu %}
                     {% if item.sub %}
                         <li class="level1-parent">
-                            <label id="ham-big-{{ forloop.index }}" for="ham-big-chk-{{ forloop.index }}">
-                                <div class="icon">
-                                    {% if item.icon %}
-                                        <img src="/assets/images/site/{{ item.icon }}" />
+                            <div class="icon">
+                                {% if item.icon %}
+                                    <img src="/assets/images/site/{{ item.icon }}" />
+                                {% endif %}
+                            </div>
+
+                            <div class="heading">
+                                {{ item.title }}
+                            </div>
+
+                            <ul class="level1-parent-dropdown-big">
+                                {% for subitem in item.sub %}
+                                    {% if subitem.subsub %}
+                                        <li class="level2-parent">
+                                            <div class="sub-heading">{{ subitem.title }}</div>
+
+                                            <ul class="submenu">
+                                                {% for subsubitem in subitem.subsub %}
+                                                    <li class="subsubitem">
+                                                        <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" >
+                                                            {{ subsubitem.title }}
+                                                        </a>
+                                                    </li>
+                                                {% endfor %}
+                                            </ul>
+                                        </li>
+                                    {% else %}
+                                        <li class="level2-child">
+                                            <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}" class="subitem">
+                                                {{ subitem.title }}
+                                            </a>
+                                        </li>
                                     {% endif %}
-                                </div>
-
-                                <div class="heading">
-                                    {{ item.title }}
-                                </div>
-
-                                <input type="radio" name="submenus" id="ham-big-chk-{{ forloop.index }}" class="show-hide-toggler" />
-
-                                <ul class="level1-parent-dropdown-big">
-                                    {% for subitem in item.sub %}
-                                        {% if subitem.subsub %}
-                                            <li class="level2-parent">
-                                                <div class="sub-heading">{{ subitem.title }}</div>
-
-                                                <ul class="submenu">
-                                                    {% for subsubitem in subitem.subsub %}
-                                                        <li class="subsubitem">
-                                                            <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" >
-                                                                {{ subsubitem.title }}
-                                                            </a>
-                                                        </li>
-                                                    {% endfor %}
-                                                </ul>
-                                            </li>
-                                        {% else %}
-                                            <li class="level2-child">
-                                                <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}" class="subitem">
-                                                    {{ subitem.title }}
-                                                </a>
-                                            </li>
-                                        {% endif %}
-                                    {% endfor %}
-                                </ul>
-                            </label>
+                                {% endfor %}
+                            </ul>
                         </li>
                     {% endif %}
                 {% endfor %}
