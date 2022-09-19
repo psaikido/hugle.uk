@@ -11,7 +11,7 @@ $('.main-nav > .toggler').click(function () {
     }
 })
 
-$('.sidebar-menu h3').click(function() {
+$('.sidebar-menu button.heading.top').click(function() {
     hide($('.sidebar-menu'));
 })
 

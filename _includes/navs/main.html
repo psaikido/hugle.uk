@@ -8,9 +8,9 @@
             {% for item in site.data.nav.menu %}
                 {% if item.sub %}
                     <li class="level1-parent">
-                        <div class="heading">
+                        <button class="heading">
                             {{ item.title }}
-                        </div>
+                        </button>
 
                         <ul class="level1-parent-dropdown">
                             {% for subitem in item.sub %}
@@ -50,7 +50,7 @@
     </nav>
 
     <nav class="sidebar-menu big">
-        <h3>&#x0f3a; hugle menu &#x0f3b;</h3>
+        <button class="heading top">&#x0f3a; hugle menu &#x0f3b;</button>
 
         <div class="ul-blocks">
             <ul class="solos">
@@ -75,9 +75,7 @@
                                 {% endif %}
                             </div>
 
-                            <div class="heading">
-                                {{ item.title }}
-                            </div>
+                            <button class="heading"> {{ item.title }} </button>
 
                             <ul class="level1-parent-dropdown-big">
                                 {% for subitem in item.sub %}

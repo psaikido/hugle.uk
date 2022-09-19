@@ -5,7 +5,7 @@
 }
 
 body {
-    width: 100vw;
+    width: 97vw;
     margin-inline: auto;
     overflow-x: hidden;
 }
@@ -34,8 +34,8 @@ form {
         grid-template-rows: auto;
         grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
         grid-template-areas: 
-            "nav banner search"
-            "subnav main ....."
+            "nav    banner search"
+            "subnav main   ......"
             "footer footer footer";
     }
 

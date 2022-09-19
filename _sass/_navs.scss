@@ -37,17 +37,21 @@
     position: absolute;
     top: 0;
     left: 0;
-    height: 88vh;
+    height: 511px;
     background-color: $bkg;
     padding: 0px 10px;
     z-index: 6;
     border: 1px solid $border-light;
 
-    h3 {
+    button.heading.top {
         font-family: Grandstander, sans-serif;
+        border: none;
         border-bottom: 1px solid transparent;
         border-image: linear-gradient(to right, $bkg, $blue, $bkg);
         border-image-slice: 1;
+        background-color: transparent;
+        color: $hilight;
+        font-size: 1.6em;
     }
 
     ul {
@@ -89,7 +93,7 @@
     li.level1-parent .heading,
     .sub-heading {
         font-family: Grandstander;
-        font-size: 1rem;
+        font-size: 1.2em;
         color: $hilight;
         text-decoration: underline;
     }
@@ -97,10 +101,14 @@
     li.level1-parent {
         margin-left: 6px;
 
-        .heading {
+        button.heading {
             background-image: url(/assets/images/site/down-arrow-svgrepo-com.svg);
             background-repeat: no-repeat;
             background-size: 20px;
+            background-color: transparent;
+            background-position: 0 0;
+            border: none;
+            padding-inline: 27px;
         }
 
     }
@@ -168,11 +176,6 @@
                 .icon img {
                     width: 50px;
                     margin: 0 auto;
-                }
-
-                .heading {
-                    background-position: 0px 8px;
-                    font-size: 110%;
                 }
             }
 
