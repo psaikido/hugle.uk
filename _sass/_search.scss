@@ -1,4 +1,8 @@
 .search {
+    button {
+        display: none;
+    }
+
     @include screen-width('medium') {
         position: relative;
         margin-top: 8px;
@@ -16,12 +20,13 @@
             background-position: 0 0;
             background-color: transparent;
             border: none;
+            opacity: .85;
         }
 
         #search-form {
             display: none;
             z-index: -1;
-            top: 8px;
+            margin-top: 12px;
             transition: opacity 350ms ease-in;
         }
 
