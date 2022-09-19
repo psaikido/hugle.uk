@@ -27,14 +27,6 @@ $('ul.nests .level1-parent .heading').click(function () {
     nestParent(this);
 })
 
-function nestParent(elem) {
-    $('ul.level1-parent-dropdown-big').fadeOut();
-    $(elem).siblings('ul.level1-parent-dropdown-big').fadeToggle();
-
-    $('ul.nests > li').removeClass('active');
-    $(elem).parent().toggleClass('active');
-}
-
 $('.subnavbar > .toggler').click(function () {
     if ($('.subnavbar ul').is(':visible')) {
         hide($('.subnavbar ul'));
@@ -48,6 +40,19 @@ $('.subnavbar > .toggler').click(function () {
 
     return false;
 })
+
+$('.search button').click(function () {
+    hide($(this));
+    show($('#search-form')); 
+})
+
+function nestParent(elem) {
+    $('ul.level1-parent-dropdown-big').fadeOut();
+    $(elem).siblings('ul.level1-parent-dropdown-big').fadeToggle();
+
+    $('ul.nests > li').removeClass('active');
+    $(elem).parent().toggleClass('active');
+}
 
 function hide (elem) {
     $(elem).fadeOut();
