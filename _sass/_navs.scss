@@ -269,38 +269,38 @@
         }
     }
 
-    #subnav-label {
-        display: block;
-        position: absolute;
-        right: 0;
+    button.toggler {
+        color: $text-link;
+        background-color: transparent;
+        border: none;
         height: 30px;
         width: 30px;
-        margin-right: 19px;
-        background-color: transparent;
+        margin-right: 8px;
+    }
+
+    button.toggler.is-showing {
         background-image: url(/assets/images/site/hide-sdebar-vert-svgrepo-com.svg);
-        background-size: 90%;
+        background-size: 95%;
         background-repeat: no-repeat;
-        border: none;
     }
 
-    #subnav-label::before {
-        display: block;
-        position: absolute;
-        left: -69px;
-        width: 60px;
-        height: 30px;
-        color: $text-link;
+    button.toggler.is-showing::before {
         content: 'hide';
+        font-size: 1.3em;
+        margin-left: -70px;
     }
 
-    #subnav-chk + label ~ nav {
-        margin-top: 30px;
-        opacity: 1;
-        transition: opacity 400ms ease;
+    button.toggler.is-hiding {
+        background-image: url(/assets/images/site/down-arrow-svgrepo-com.svg);
+        background-size: 50%;
+        background-position: 7px 9px;
+        background-repeat: no-repeat;
     }
 
-    #subnav-chk:checked + label ~ nav {
-        opacity: 0;
+    button.toggler.is-hiding::before {
+        content: 'show';
+        font-size: 1.3em;
+        margin-left: -70px;
     }
 
     @include screen-width('xsmall') {
@@ -313,17 +313,6 @@
         #subnav-chk:checked + label ~ nav {
             height: 1px;
         }
-    }
-
-    #subnav-chk:checked + label {
-        background-image: url(/assets/images/site/down-arrow-svgrepo-com.svg);
-        background-size: 50%;
-        background-position: 7px 9px;
-        background-repeat: no-repeat;
-    }
-
-    #subnav-chk:checked + label::before {
-        content: 'show';
     }
 }
 

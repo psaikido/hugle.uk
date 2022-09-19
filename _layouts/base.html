@@ -17,11 +17,16 @@
             <div class="header">&#x0f3a;{{ bt }}&#x0f3b;</div>
 
             {% include search.html %}
-            {% include navs/subnavbar.html %}
+
+            {% if page.subnav or page.category %}
+                {% include navs/subnav-list.html %}
+            {% endif %}
 
             {{ content }}
 
             {% include footer.html %}
+
+            <script type="text/javascript" src="/assets/js/toggler.js"> </script>
             <script type="text/javascript" src="/assets/js/cookie-toggler.js"> </script>
             <script type="text/javascript" src="/assets/js/add-class-images.js"> </script>
         </div>
