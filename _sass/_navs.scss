@@ -5,55 +5,47 @@
     display: none;
 }
 
-#hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
-    height: auto;
-    @include reveal(400ms);
-}
-
 .show-hide-toggler:checked + .level1-parent-dropdown {
     @include reveal(400ms);
 }
 
 @include screen-width('medium') {
-    #hamburger-input:checked + #hamburger-menu .sidebar-menu.little {
-        display: none;
-    }
-
-    #hamburger-input:checked + #hamburger-menu .sidebar-menu.big {
-        max-height: 550px;
-        overflow: auto;
-        @include reveal(400ms);
-    }
-
     .show-hide-toggler:checked + .level1-parent-dropdown-big {
         @include reveal(400ms);
     }
 }
 
-#hamburger-menu {
+.main-nav {
     position: relative;
-    top: 0px;
+    font-family: 'Cabin', sans-serif;
+    cursor: pointer;
+}
+
+.main-nav button.toggler {
+    position: absolute;
+    top: 0;
+    left: 10px;
     width: 50px;
     height: 60px;
     display: inline;
     border: none;
     padding: 0px;
     margin: 0px;
-    font-family: 'Cabin', sans-serif;
-    cursor: pointer;
-
+    margin-left: auto;
     background-image: url(/assets/images/site/kanji-three-shadow.png);
     background-size: 100%;
     background-repeat: no-repeat;
+    background-color: transparent;
+}
 
-    @include screen-width('medium') {
-        top: 1px;
-        justify-self: end;
+@include screen-width('medium') {
+    .main-nav button.toggler {
+        right: 10px;
     }
 }
 
-#hamburger-menu:hover,
-#hamburger-menu:focus {
+.main-nav button.toggler:hover,
+.main-nav button.toggler:focus {
     box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
 }
 
@@ -64,7 +56,6 @@
     left: 0;
     height: 88vh;
     background-color: $bkg;
-    transition: 0.3s;
     padding: 0px 10px;
     z-index: 6;
     border: 1px solid $border-light;

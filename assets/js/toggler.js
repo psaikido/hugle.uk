@@ -2,6 +2,19 @@
 
 ---
 
+$('.main-nav > .toggler').click(function () {
+    const iw = window.innerWidth;
+    if (iw < 900) {
+        show($('.sidebar-menu.little'));
+    } else {
+        show($('.sidebar-menu.big'));
+    }
+})
+
+$('.sidebar-menu h3').click(function() {
+    hide($('.sidebar-menu'));
+})
+
 $('.subnavbar > .toggler').click(function () {
     if ($('.subnavbar ul').is(':visible')) {
         hide($('.subnavbar ul'));
@@ -21,5 +34,5 @@ function hide (elem) {
 }
 
 function show (elem) {
-    $(elem).fadeIn();
+    $(elem).fadeIn(350);
 }
