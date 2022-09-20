@@ -20,13 +20,19 @@
                 {% include search.html %}
             </header>
 
+            <main class="main {{ page.subnav }}">
+                {{ content }}
+            </main>
+
             {% if page.subnav or page.category %}
-                {% include navs/subnav-list.html %}
+                <aside class="subnavbar">
+                    {% include navs/subnav-list.html %}
+                </aside>
             {% endif %}
 
-            {{ content }}
-
-            {% include footer.html %}
+            <footer class="footer">
+                {% include footer.html %}
+            </footer>
 
             <script type="text/javascript" src="/assets/js/toggler.js"> </script>
             <script type="text/javascript" src="/assets/js/cookie-toggler.js"> </script>
