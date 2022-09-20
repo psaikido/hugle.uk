@@ -1,20 +1,84 @@
-<div class="main-nav">
-    <button class="toggler"> 
-        <div class="button-text">menu</div>
-    </button>
+<button class="toggler"> 
+    <div class="button-text">menu</div>
+</button>
 
-    <nav class="sidebar-menu little">
-        <button class="heading top">&#x0f3a; hugle menu &#x0f3b;</button>
+<div class="sidebar-menu little">
+    <button class="heading top">&#x0f3a; menu &#x0f3b;</button>
 
-        <ul class="little">
+    <ul class="little">
+        {% for item in site.data.nav.menu %}
+            {% if item.sub %}
+                <li class="level1-parent">
+                    <button class="heading">
+                        {{ item.title }}
+                    </button>
+
+                    <ul class="level1-parent-dropdown">
+                        {% for subitem in item.sub %}
+                            {% if subitem.subsub %}
+                                <li class="level2-parent">
+                                    <div class="sub-heading">{{ subitem.title }}</div>
+
+                                    <ul class="submenu">
+                                        {% for subsubitem in subitem.subsub %}
+                                            <li class="subsubitem">
+                                                <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" >
+                                                    {{ subsubitem.title }}
+                                                </a>
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                </li>
+                            {% else %}
+                                <li class="level2-child">
+                                    <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}" class="subitem">
+                                        {{ subitem.title }}
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="level1-child">
+                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}" class="">
+                        {{ item.title }}
+                    </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="sidebar-menu big">
+    <button class="heading top">&#x0f3a; menu &#x0f3b;</button>
+
+    <div class="ul-blocks">
+        <ul class="solos">
+            {% for item in site.data.nav.menu %}
+                {% if item.sub == nil %}
+                    <li class="">
+                        <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}" class="">
+                            {{ item.title }}
+                        </a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+
+        <ul class="nests">
             {% for item in site.data.nav.menu %}
                 {% if item.sub %}
                     <li class="level1-parent">
-                        <button class="heading">
-                            {{ item.title }}
-                        </button>
+                        <div class="icon">
+                            {% if item.icon %}
+                                <img src="/assets/images/site/{{ item.icon }}" alt="icon" />
+                            {% endif %}
+                        </div>
 
-                        <ul class="level1-parent-dropdown">
+                        <button class="heading"> {{ item.title }} </button>
+
+                        <ul class="level1-parent-dropdown-big">
                             {% for subitem in item.sub %}
                                 {% if subitem.subsub %}
                                     <li class="level2-parent">
@@ -40,75 +104,9 @@
                             {% endfor %}
                         </ul>
                     </li>
-                {% else %}
-                    <li class="level1-child">
-                        <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}" class="">
-                            {{ item.title }}
-                        </a>
-                    </li>
                 {% endif %}
             {% endfor %}
         </ul>
-    </nav>
-
-    <nav class="sidebar-menu big">
-        <button class="heading top">&#x0f3a; hugle menu &#x0f3b;</button>
-
-        <div class="ul-blocks">
-            <ul class="solos">
-                {% for item in site.data.nav.menu %}
-                    {% if item.sub == nil %}
-                        <li class="">
-                            <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}" class="">
-                                {{ item.title }}
-                            </a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-
-            <ul class="nests">
-                {% for item in site.data.nav.menu %}
-                    {% if item.sub %}
-                        <li class="level1-parent">
-                            <div class="icon">
-                                {% if item.icon %}
-                                    <img src="/assets/images/site/{{ item.icon }}" alt="icon" />
-                                {% endif %}
-                            </div>
-
-                            <button class="heading"> {{ item.title }} </button>
-
-                            <ul class="level1-parent-dropdown-big">
-                                {% for subitem in item.sub %}
-                                    {% if subitem.subsub %}
-                                        <li class="level2-parent">
-                                            <div class="sub-heading">{{ subitem.title }}</div>
-
-                                            <ul class="submenu">
-                                                {% for subsubitem in subitem.subsub %}
-                                                    <li class="subsubitem">
-                                                        <a href="{{ site.baseurl }}{{ subsubitem.url }}" alt="{{ subsubitem.title }}" >
-                                                            {{ subsubitem.title }}
-                                                        </a>
-                                                    </li>
-                                                {% endfor %}
-                                            </ul>
-                                        </li>
-                                    {% else %}
-                                        <li class="level2-child">
-                                            <a href="{{ site.baseurl }}{{ subitem.url }}" alt="{{ subitem.title }}" class="subitem">
-                                                {{ subitem.title }}
-                                            </a>
-                                        </li>
-                                    {% endif %}
-                                {% endfor %}
-                            </ul>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-    </nav>
+    </div>
 </div>
 

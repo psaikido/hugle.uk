@@ -5,7 +5,9 @@
 
         <div class="grid-wrap">
             <header>
-                {% include navs/main.html %}
+                <nav class="main-nav">
+                    {% include navs/main.html %}
+                </nav>
 
                 {% if page.banner-title != nill %}
                     {% assign bt = page.banner-title %}
