@@ -4,12 +4,16 @@ html {
         color: $text-light;
         background-color: $dark-grey-shift;
 
-        .main {
+        main {
             background-color: $dark-grey;
         }
 
         h1, h2, h3, h4, h5, h6 {
             color: $hilight;
+        }
+
+        button .button-text {
+            color: $white;
         }
 
         .email-form  input, 
@@ -52,7 +56,7 @@ html {
 
     &.light {
         body,
-        .main {
+        main {
             background-color: $light-grey;
             color: $text-dark;
         }
@@ -62,18 +66,27 @@ html {
             color: $hilight-dark;
         }
 
+        button .button-text {
+            color: $black;
+        }
+
         #search-term {
             color: $text-dark;
             background-color: $light-grey;
         }
 
-        .random-hughku, 
-        .home-text-box,
-        .dharma-names {
-            color: $white;
+        .home-page {
+            .random-hughku, 
+            .home-text-box,
+            .dharma-names {
+                background-color: $light-grey;
+                color: $black;
 
-            a {
-                color: $white;
+                a,
+                a:link,
+                a:visited {
+                    color: $text-dark;
+                }
             }
         }
 
@@ -120,6 +133,10 @@ html {
             color: $hilight-dark;
             text-shadow: none;
             border: none;
+        }
+
+        button .button-text {
+            color: $black;
         }
 
         #search-term {
