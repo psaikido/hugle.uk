@@ -1,4 +1,17 @@
-.footer {
+footer.footer {
+    form fieldset {
+        float: left;
+        height: 22px;
+        width: 375px;
+        margin: 2px 0 0 20px;
+        border: none;
+        text-align: left;
+
+        legend {
+            display: none;
+        }
+    }
+
     background: rgba(220, 220, 220, .9);
     text-align: right;
     color: $dark-grey;
