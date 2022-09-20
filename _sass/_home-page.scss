@@ -5,7 +5,7 @@
     }
 
     @include screen-width('large') {
-        height: 1000px;
+        height: auto; 
 
         .home-text-box,
         .random-hughku {
