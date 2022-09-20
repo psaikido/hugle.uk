@@ -13,6 +13,9 @@ layout: default
 
 <div class="home-text-box">
 
+<h2><a href="/thesium/">Thesium</a> Buddhist-Sci-Fi </h2> 
+{: style="text-align: center;"}
+
 | [Yarn](/yarn)                                                              | [Family](http://family.carrollonline.uk) |
 | [Sunshine & Shadow](/sun)                                                  | [Shop](/shop/)                           |
 | [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll) | [Mantras](/blogs/mantra.html)
