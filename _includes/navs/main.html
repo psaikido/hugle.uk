@@ -1,5 +1,7 @@
 <div class="main-nav">
-    <button class="toggler is-showing"> &nbsp; </button>
+    <button class="toggler is-showing"> 
+        <div class="button-text">menu</div>
+    </button>
 
     <nav class="sidebar-menu little">
         <h3>&#x0f3a; hugle menu &#x0f3b;</h3>
@@ -71,7 +73,7 @@
                         <li class="level1-parent">
                             <div class="icon">
                                 {% if item.icon %}
-                                    <img src="/assets/images/site/{{ item.icon }}" />
+                                    <img src="/assets/images/site/{{ item.icon }}" alt="icon" />
                                 {% endif %}
                             </div>
 

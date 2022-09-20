@@ -21,6 +21,11 @@
     background-color: transparent;
 }
 
+.main-nav button .button-text {
+    color: $white;
+    margin-top: 40px;
+}
+
 @include screen-width('medium') {
     .main-nav button.toggler {
         right: 10px;
@@ -52,6 +57,7 @@
         background-color: transparent;
         color: $hilight;
         font-size: 1.6em;
+        height: 50px;
     }
 
     ul {
