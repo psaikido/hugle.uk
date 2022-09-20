@@ -5,6 +5,10 @@ layout: default
 
 <div class="home-page">
 
+<div class="image">
+<img src="/assets/images/bio/h-wall-door.jpg" alt="Hughie, big wall with high door" />
+</div>
+
 <div class="random-hughku"> </div>
 
 <div class="home-text-box">
