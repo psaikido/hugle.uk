@@ -44,6 +44,7 @@ $('.subnavbar > .toggler').click(function () {
 $('.search button').click(function () {
     hide($(this));
     show($('#search-form')); 
+    $('#search-form #search-term').focus();
 })
 
 function nestParent(elem) {
