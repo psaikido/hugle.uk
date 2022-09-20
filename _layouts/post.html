@@ -2,13 +2,11 @@
 layout: base
 ---
 
-<div class="main">
-    <div class="post">
-        <h4>{{ page.title }}</h4>
-        <h5>{{ page.date | date_to_string }}</h5>
+<div class="post">
+    <h4>{{ page.title }}</h4>
+    <h5>{{ page.date | date_to_string }}</h5>
 
-        {{ content }}
+    {{ content }}
 
-    </div>
 </div>
 

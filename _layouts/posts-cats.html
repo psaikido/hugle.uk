@@ -3,22 +3,20 @@ layout: base
 ---
 
 
-<div class="main {{ page.subnav }}">
-    <h4 class="poem-title">{{ page.title }}</h4>
+<h4 class="poem-title">{{ page.title }}</h4>
 
-    <ul>
-        {% for post in site.categories[page.category] %}
-            <li>
-                <h5>{{ post.date | date_to_string }}</h5>
-                <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">{{ post.title }}</a>
+<ul>
+    {% for post in site.categories[page.category] %}
+        <li>
+            <h5>{{ post.date | date_to_string }}</h5>
+            <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">{{ post.title }}</a>
 
-                {{ post.excerpt | truncatewords: 25 }}
+            {{ post.excerpt | truncatewords: 25 }}
 
-                [<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">full article</a>]
+            [<a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">full article</a>]
 
-                <hr />
-            </li>
-        {% endfor %}
-    </ul>
-</div>
+            <hr />
+        </li>
+    {% endfor %}
+</ul>
 
