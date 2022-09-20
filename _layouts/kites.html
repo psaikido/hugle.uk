@@ -4,15 +4,17 @@
     <body>
 
         <div class="grid-wrap">
-            {% include navs/main.html %}
+            <header>
+                <nav class="main-nav">
+                    {% include navs/main.html %}
+                </nav>
 
-            <div class="header">&#x0f3a;{{ page.title }}&#x0f3b;</div>
+                <h1>&#x0f3a;{{ page.title }}&#x0f3b;</h1>
 
-            {% include search.html %}
+                {% include search.html %}
+            </header>
 
-            <nav class="subnavbar empty"> &nbsp; </nav>
-
-            <div class="main">
+            <main class="kites">
 
                 <div id="wind-window">
                     <div id="kite-wrap">
@@ -72,9 +74,11 @@
                     });
                 </script>
 
-            </div>
+            </main>
 
-            {% include footer.html %}
+            <footer class="footer">
+                {% include footer.html %}
+            </footer>
         </div>
 
     </body>
