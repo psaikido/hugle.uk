@@ -19,9 +19,8 @@
         width: 80%;
         margin: 0 auto;
         border: 1px solid $border-light;
-        font-style: italic;
         background-color: $bkg;
-        line-height: .8rem;
+        line-height: 1.2rem;
         padding: 2px;
 
         @include screen-width('medium') {
