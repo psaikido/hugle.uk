@@ -18,10 +18,9 @@
     .dharma-names {
         width: 80%;
         margin: 0 auto;
-        border: 1px solid $dark-grey;
+        border: 1px solid $border-light;
         font-style: italic;
         background-color: $bkg;
-        opacity: .8;
         line-height: .8rem;
         padding: 2px;
 
@@ -57,7 +56,6 @@
 
     .dharma-names {
         margin-top: 0;
-        font-size: .6rem;
 
         @include screen-width('medium') {
             margin-top: 20px;
