@@ -28,32 +28,51 @@ form {
         grid-template-rows: auto;
         grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
         grid-template-areas: 
-            "nav    banner search"
+            "banner banner banner"
             "subnav main   ......"
             "footer footer footer";
     }
 
-    .main-nav {
+    header {
         grid-area: banner;
-        margin-top: 8px;
+    }
 
-        @include screen-width('medium') {
+    @include screen-width('medium') {
+        header {
+            grid-area: banner;
+            display: grid;
+            grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
+            grid-template-areas: 
+                "nav heading search";
+
+            padding-top: 11px;
+            height: auto;
+
+            @include screen-width('medium') {
+                grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
+                grid-template-areas: 
+                "nav heading search";
+
+                min-height: 50px;
+            }
+        }
+
+        header .main-nav {
             grid-area: nav;
+            margin-top: 8px;
+
+            @include screen-width('medium') {
+                grid-area: nav;
+            }
         }
-    }
 
-    .header {
-        grid-area: banner;
-        padding-top: 11px;
-        height: auto;
-
-        @include screen-width('medium') {
-            min-height: 50px;
+        header h1 {
+            grid-area: heading;
         }
-    }
 
-    .search {
-        grid-area: search;
+        header .search {
+            grid-area: search;
+        }
     }
 
     .subnavbar {

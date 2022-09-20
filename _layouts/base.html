@@ -4,19 +4,21 @@
     <body>
 
         <div class="grid-wrap">
-            {% include navs/main.html %}
+            <header>
+                {% include navs/main.html %}
 
-            {% if page.banner-title != nill %}
-                {% assign bt = page.banner-title %}
-            {% elsif page.category != nill %}
-                {% assign bt = page.category | prepend: 'hugle - ' %}
-            {% else %}
-                {% assign bt = 'hugle' %}
-            {% endif %}
+                {% if page.banner-title != nill %}
+                    {% assign bt = page.banner-title %}
+                {% elsif page.category != nill %}
+                    {% assign bt = page.category | prepend: 'hugle - ' %}
+                {% else %}
+                    {% assign bt = 'hugle' %}
+                {% endif %}
 
-            <div class="header">&#x0f3a;{{ bt }}&#x0f3b;</div>
+                <h1>&#x0f3a;{{ bt }}&#x0f3b;</h1>
 
-            {% include search.html %}
+                {% include search.html %}
+            </header>
 
             {% if page.subnav or page.category %}
                 {% include navs/subnav-list.html %}

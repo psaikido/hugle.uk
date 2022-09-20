@@ -2,6 +2,7 @@
 
 ---
 
+/* main hamburger nav show */
 $('.main-nav > .toggler').click(function () {
     const iw = window.innerWidth;
     if (iw < 900) {
@@ -11,22 +12,27 @@ $('.main-nav > .toggler').click(function () {
     }
 })
 
+/* main nav hide */
 $('.sidebar-menu button.heading.top').click(function() {
     hide($('.sidebar-menu'));
 })
 
+/* mobile nav show/hide main categories  */
 $('ul.little .level1-parent .heading').click(function () {
     $(this).siblings('ul.level1-parent-dropdown').fadeToggle();
 })
 
+/* desktop nav show/hide main categories by icon */
 $('ul.nests .level1-parent .icon').click(function () {
     nestParent(this);
 })
 
+/* desktop nav show/hide main categories by text */
 $('ul.nests .level1-parent .heading').click(function () {
     nestParent(this);
 })
 
+/* show/hide subnavigation links */
 $('.subnavbar > .toggler').click(function () {
     if ($('.subnavbar ul').is(':visible')) {
         hide($('.subnavbar ul'));
@@ -41,6 +47,7 @@ $('.subnavbar > .toggler').click(function () {
     return false;
 })
 
+/* desktop toggle search field */
 $('.search button').click(function () {
     hide($(this));
     show($('#search-form')); 
