@@ -1,59 +1,40 @@
 ---
-
+layout: null
 ---
 
-var index = lunr(function () {
+const index = lunr(function () {
     this.field('title')
     this.field('path')
     this.field('content')
     this.ref('id')
 });
 
-{% assign count = 0 %}
-
 var store = [];
 
-{% for item in site.pages %}
-    index.add({
-        title: {{ item.title | jsonify }},
-        path: "{{ item.url }}",
-        content: {{ item.content | strip_html | jsonify }},
-        id: {{ count }}
-    })
+let searchData = $.getJSON( './assets/js/search-data.json');
 
-    {% assign count = count | plus: 1 %}
+searchData.then(function( data ) {
+    $.each( data, function( key, val ) {
+        index.add({
+            'id': key,
+            'title': val.title,
+            'path':  val.path,
+            'excerpt': val.excerpt
+        });
 
-    store.push({
-      'title': {{item.title | jsonify}},
-      'path': {{ item.url | jsonify }},
-      'excerpt': {{ item.content | strip_html | truncatewords: 20 | jsonify }}
-    })
-{% endfor %}
+        store.push({
+            'title': val.title,
+            'path':  val.path,
+            'excerpt': val.excerpt
+        });
+    });
+});
 
-{% for item in site.posts %}
-    index.add({
-        title: {{ item.title | jsonify }},
-        path: "{{ item.url }}",
-        content: {{ item.content | strip_html | jsonify }},
-        id: {{ count }}
-    })
 
-    {% assign count = count | plus: 1 %}
-
-    store.push({
-      'title': {{item.title | jsonify}},
-      'path': "{{ item.url}}",
-      'excerpt': {{ item.content | strip_html | truncatewords: 20 | jsonify }}
-    })
-{% endfor %}
 
 $(document).ready(function() {
   $('<div id="results">')
     .prependTo('.main');
-
-  $('input#search-chk').click(function () {
-    $('input#search-term').focus();
-  });
 
   $('input#search-term').click(function () {
     $(this).val('');
@@ -66,7 +47,7 @@ $(document).ready(function() {
     resultdiv.empty();
     
     for (var item in result) {
-      var ref = result[item].ref;
+      var ref = result[item].id;
 
       if (store[ref].title != null) {
         let link = '<a href="' + store[ref].path + '" class="post-title">' + store[ref].title + '</a>';

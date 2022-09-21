@@ -49,6 +49,7 @@ header h1 {
     border-bottom: 1px solid transparent;
     border-image: linear-gradient(to right, $dark-grey-shift, $blue, $dark-grey-shift);
     border-image-slice: 1;
+    margin-top: 8px;
 }
 
 .grid-wrap {
