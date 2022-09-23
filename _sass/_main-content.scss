@@ -1,5 +1,5 @@
 .main {
-    padding: 3px;
+    padding: 1rem;
     border: 1px solid $border-light;
 
     @include screen-width('small') {
