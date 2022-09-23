@@ -5,6 +5,15 @@ layout: default
 
 <div class="home-page">
 
+<section class="home-text-box" id="overlay">
+
+Hughie's stash of poems, blogs, pictures, stories and goodies galore.  
+
+
+Sad that someone had already bought <em>'hughtube.com'</em>, he was overjoyed to find <em>'hugle.co.uk'</em> was still available :)
+
+</section>
+
 <div class="image">
 <img src="/assets/images/bio/h-wall-door.jpg" alt="Hughie, big wall with high door" />
 </div>
@@ -13,14 +22,15 @@ layout: default
 latest hughku: [reflection](/bucket/reflection.html)
 </div>
 
-<div class="home-text-box">
+<section class="home-text-box">
 
 | [Yarn](/yarn)                                                              | [Family](http://family.carrollonline.uk) |
 | [Sunshine & Shadow](/sun)                                                  | [Shop](/shop/)                           |
-| [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll) | [Mantras](/blogs/mantra.html)
+| [Bucket](/bucket/) | [Mantras](/blogs/mantra.html)
+| [Thesium](/thesium/) | [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll) 
 {: role="presentation"}
 
-</div>
+</section>
 
 <div class="dharma-names">
 

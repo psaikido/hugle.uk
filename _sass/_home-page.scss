@@ -1,4 +1,28 @@
 .home-page {
+    position: relative;
+
+    .image {
+    }
+
+    #overlay {
+        position: absolute;
+        opacity: .85;
+        color: $print-text;
+        background-color: $light-grey;
+        top: 50px;
+        left: 50%;
+        margin-left: -40%;
+    }
+
+    @include screen-width('large') {
+        #overlay {
+            top: 204px;
+            left: 73px;
+            margin-left: 0;
+            font-weight: bold;
+            line-height: 2rem;
+        }
+    }
 
     @include screen-width('xsmall') {
         width: 96vw;
@@ -29,6 +53,7 @@
         }
 
         @include screen-width('large') {
+            line-height: 1.3rem;
         }
 
         a, a:link, a:visited {
@@ -47,10 +72,15 @@
 
     .random-hughku {
         text-align: center;
+        padding-bottom: 20px;
     }
 
     .home-text-box {
         margin-top: 15px;
+
+        td {
+            height: 2rem;
+        }
     }
 
     .dharma-names {

@@ -6,7 +6,7 @@
 
 .main-nav button.toggler {
     position: absolute;
-    top: 0;
+    top: 5px;
     left: 10px;
     width: 50px;
     height: 60px;
@@ -27,6 +27,7 @@
 
 @include screen-width('medium') {
     .main-nav button.toggler {
+        top: 0;
         right: 10px;
     }
 }
