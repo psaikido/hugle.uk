@@ -12,6 +12,10 @@
         top: 50px;
         left: 50%;
         margin-left: -40%;
+
+        a {
+            color: blue;
+        }
     }
 
     @include screen-width('large') {

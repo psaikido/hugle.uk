@@ -10,7 +10,7 @@ layout: default
 Hughie's stash of poems, blogs, pictures, stories and goodies galore.  
 
 
-Sad that someone had already bought <em>'hughtube.com'</em>, he was overjoyed to find <em>'hugle.co.uk'</em> was still available :)
+Sad that someone had already bought <em>'hughtube.com'</em>, he was overjoyed to find <em>'hugle.co.uk'</em> was still available :) ([more..](/pages/magic/main.html "why the name?"))
 
 </section>
 
@@ -36,7 +36,6 @@ latest hughku: [reflection](/bucket/reflection.html)
 
 <div class="dharma-name">
 <span class="anglichars">Hughie</span>
-<a href="/pages/magic/main.html" title="why the name?">(why the 'hugle' name?)</a>
 </div>
 
 <div class="dharma-name">
