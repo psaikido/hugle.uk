@@ -51,6 +51,9 @@
 
     hr {
         color: $border-light;
+        border-bottom: 1px solid transparent;
+        border-image: linear-gradient(to right, $bkg, $blue, $bkg);
+        border-image-slice: 1;
     }
 
     .center-img {
