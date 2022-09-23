@@ -4,16 +4,6 @@ html {
         color: $text-light;
         background-color: $dark-grey-shift;
 
-        @media (prefers-color-scheme: dark) {
-            color: green;
-            background-color: pink;
-        }
-
-        @media (prefers-color-scheme: light) {
-            color: pink;
-            background-color: blue;
-        }
-
         main {
             background-color: $dark-grey;
         }
