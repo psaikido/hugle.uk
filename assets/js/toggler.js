@@ -52,6 +52,7 @@ $('.search button').click(function () {
     hide($(this));
     show($('#search-form')); 
     $('#search-form #search-term').focus();
+    $('#search-form #search-term').val('');
 })
 
 function nestParent(elem) {
