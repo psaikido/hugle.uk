@@ -269,6 +269,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-bootstrap-sass
+  jekyll-seo-tag
   jekyll-sitemap
   webrick
 
