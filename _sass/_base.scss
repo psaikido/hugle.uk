@@ -39,17 +39,45 @@ body {
     }
 }
 
-header h1 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Grandstander', sans-serif;
+    font-style: italic;
+    padding: 0 0 6px 6px;
+    max-width: fit-content;
+    border-bottom: 1px solid transparent;
+    border-image: linear-gradient(to right, $bkg, $blue, $bkg);
+    border-image-slice: 1;
+    color: $hilight;
+}
+
+header h1 {
     font-size: 1.8rem;
     font-weight: bold;
     letter-spacing: .3em;
-    color: $hilight;
     text-shadow: -2px 3px 2px $black;
-    border-bottom: 1px solid transparent;
-    border-image: linear-gradient(to right, $dark-grey-shift, $blue, $dark-grey-shift);
-    border-image-slice: 1;
     margin-top: 8px;
+    max-width: initial;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+h6 {
+    font-size: .8rem;
 }
 
 .grid-wrap {

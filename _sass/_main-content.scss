@@ -38,17 +38,6 @@
         }
     }
 
-    h4 {
-        font-family: Grandstander;
-        font-style: italic;
-        font-size: 1.5rem;
-        padding: 0 0 6px 6px;
-        max-width: fit-content;
-        border-bottom: 1px solid transparent;
-        border-image: linear-gradient(to right, $bkg, $blue, $bkg);
-        border-image-slice: 1;
-    }
-
     hr {
         color: $border-light;
         border-bottom: 1px solid transparent;
