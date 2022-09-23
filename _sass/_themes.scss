@@ -64,6 +64,7 @@ html {
         .header,
         h1, h2, h3, h4, h5, h6 {
             color: $hilight-dark;
+            text-shadow: none;
         }
 
         button .button-text {

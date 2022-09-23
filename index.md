@@ -9,12 +9,11 @@ layout: default
 <img src="/assets/images/bio/h-wall-door.jpg" alt="Hughie, big wall with high door" />
 </div>
 
-<div class="random-hughku"> </div>
+<div class="random-hughku">
+latest hughku: [reflection](/bucket/reflection.html)
+</div>
 
 <div class="home-text-box">
-
-<h2><a href="/thesium/">Thesium</a> Buddhist-Sci-Fi </h2> 
-{: style="text-align: center;"}
 
 | [Yarn](/yarn)                                                              | [Family](http://family.carrollonline.uk) |
 | [Sunshine & Shadow](/sun)                                                  | [Shop](/shop/)                           |
