@@ -54,5 +54,13 @@ Hughie can be contacted at hughie (at) hugle.co.uk.
 
 ![Kilkenny field](/assets/images/kites/kilkenny-hc-2022-07-m14.jpg)
 
+<hr />
+### Technicals about this site
+- Made in [jekyll](https://jekyllrb.com)
+- Fettled entirely in [neovim](https://neovim.io/)
+- Hosted by the good folks at [github](https://github.com/psaikido/hugle)
+- 95% [accessibility compliance](https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Fhugle.co.uk&flag=eu) 
+
+
 ![w3c valid](/assets/images/site/vcss.gif)
 {: style="width: 88px;"}
