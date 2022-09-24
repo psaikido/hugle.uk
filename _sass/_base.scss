@@ -23,6 +23,10 @@ body {
         font-size: 1em;
     }
 
+    @include screen-width('large') {
+        font-size: 1.3em;
+    }
+
     a,
     a:link,
     a:visited {
