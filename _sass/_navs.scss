@@ -153,10 +153,8 @@
 
 .sidebar-menu.big {
     width: 892px;
-    border: 1px solid transparent;
-    border-image: linear-gradient(to right, var(--blue), var(--dark-minor));
-    border-image-slice: 1;
-    background: linear-gradient(to bottom, var(--bkg-main), var(--bkg-minor));
+    border: 1px solid var(--blue);
+    background: var(--bkg-main);
 
     .ul-blocks {
         display: flex;
