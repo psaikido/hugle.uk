@@ -46,8 +46,6 @@ html {
         .random-hughku, 
         .home-text-box,
         .dharma-names {
-            color: var(--text-main);
-
             a {
                 color: var(--text-accent);
             }
@@ -135,11 +133,16 @@ html {
         .random-hughku, 
         .home-text-box,
         .dharma-names {
-            color: var(--white);
+            color: var(--black);
 
             a {
-                color: var(--white);
+                color: var(--blue);
             }
+        }
+
+        #overlay {
+            position: initial;
+            width: 100%;
         }
 
         .main-content.subMenu .quote-heading {
@@ -156,7 +159,7 @@ html {
         .home-page .home-text-box,
         .home-page .dharma-names {
             background: none;
-            border: 1px solid var(--bkg-main);
+            border: 1px solid var(--border-main);
         }
 
         .sidebar-menu.little ul.little li.level1-parent .heading,
@@ -168,6 +171,10 @@ html {
         .thesium .speech,
         .thesium .next {
             font-style: normal;
+        }
+
+        .sidebar-menu {
+            background-color: var(--bkg-minor);
         }
 
         .subnavbar {
