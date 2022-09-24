@@ -2,6 +2,10 @@ body {
     width: 99vw;
     margin-inline: auto;
     overflow-x: hidden;
+
+    @include screen-width('large') {
+        padding-right: 40px;
+    }
 }
 
 form {
