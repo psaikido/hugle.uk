@@ -22,14 +22,14 @@ years, he started playing when he was nine. He has a distinction at Grade 7 in
 Classical Guitar.
 
 A serious fall while performing a stunt during a rehearsal for Snapdragon
-Circus in 1991, left him with PTSD. The illness gradually morphed into ME/CFS
+Circus in 1991, left him with PTSD. The illness gradually morphed into [ME/CFS](https://batemanhornecenter.org/wp-content/uploads/filebase/education/top_resources/ER-and-Urgent-Care-Considerations-for-MECFS-1.19.22-005.pdfhttps://batemanhornecenter.org/wp-content/uploads/filebase/education/top_resources/ER-and-Urgent-Care-Considerations-for-MECFS-1.19.22-005.pdf)
 which was eventually diagnosed in 2001. 
 
 After the accident, Hughie went into IT. He has a
 [portfolio](/pages/pix/portfolio.html) of many websites and considered himself
 a 'full-stack web developer' until the illness stopped him working
 professionally in 2018. The main software for the Western Chan Fellowship is
-built and maintained by him (also this site). 
+built and maintained by him (also [this site](#technicals-about-this-site)). 
 
 His deep love of Buddhism started shortly after the accident. He has attended
 over 40 week long zen intensive meditation retreats, mostly with the [Western
@@ -57,7 +57,7 @@ Hughie can be contacted at hughie (at) hugle.co.uk.
 <hr />
 ### Technicals about this site
 - Made in [jekyll](https://jekyllrb.com)
-- Fettled entirely in [neovim](https://neovim.io/)
+- Designed & built entirely in [neovim](https://neovim.io/) by Hughie
 - Hosted by the good folks at [github](https://github.com/psaikido/hugle)
 - 95% [accessibility compliance](https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Fhugle.co.uk&flag=eu) 
 
