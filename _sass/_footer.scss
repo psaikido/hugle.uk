@@ -2,7 +2,7 @@ footer.footer {
     form fieldset {
         float: left;
         height: 22px;
-        width: 375px;
+        width: 50%;
         margin: -4px 0 0 20px;
         border: none;
         text-align: left;
@@ -14,10 +14,10 @@ footer.footer {
 
     background: rgba(220, 220, 220, .9);
     text-align: right;
-    color: $dark-grey;
+    color: var(--text-main);
 
     .mantra {
-        color: $dark-grey;
+        color: var(--text-main);
         font-size: .7rem;
     }
 

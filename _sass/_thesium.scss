@@ -18,7 +18,7 @@
     }
 
     .quote {
-        color: $hilight;
+        color: var(--text-accent);
         font-style: italic;
         border-bottom: 1px solid $border-light;
     }
@@ -33,7 +33,7 @@
     .next {
         border-top: 1px solid $border-light;
         margin-top: 60px;
-        color: $hilight;
+        color: var(--text-accent);
         font-style: italic;
     }
 }

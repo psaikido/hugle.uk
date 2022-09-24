@@ -1,15 +1,15 @@
 /* Themes */
 html {
     body {
-        color: $text-light;
-        background-color: $dark-grey-shift;
+        color: var(--text-main);
+        background-color: var(--bkg-minor);
 
         main {
-            background-color: $dark-grey;
+            background-color: var(--bkg-main);
         }
 
         h1, h2, h3, h4, h5, h6 {
-            color: $hilight;
+            color: var(--text-accent);
         }
 
         button .button-text {
@@ -19,13 +19,13 @@ html {
         .email-form  input, 
         .email-form  textarea, 
         #search-term {
-            color: $text-light;
-            background-color: $dark-grey-shift;
+            color: var(--text-main);
+            background-color: var(--bkg-minor);
             font: inherit;
         }
 
         #search-term {
-            background-color: $dark-grey;
+            background-color: var(--bkg-main);
         }
 
         .email-form  {
@@ -37,7 +37,7 @@ html {
             }
 
             button {
-                background: $hilight;
+                background: var(--text-accent);
                 color: $black;
                 font-weight: bold;
             }
@@ -46,10 +46,10 @@ html {
         .random-hughku, 
         .home-text-box,
         .dharma-names {
-            color: $text-light;
+            color: var(--text-main);
 
             a {
-                color: $hilight;
+                color: var(--text-accent);
             }
         }
     }
@@ -57,22 +57,20 @@ html {
     &.light {
         body,
         main {
-            background-color: $light-grey;
-            color: $text-dark;
         }
 
         .header,
         h1, h2, h3, h4, h5, h6 {
-            color: $hilight-dark;
+            color: var(--text-accent);
             text-shadow: none;
         }
 
         button .button-text {
-            color: $black;
+            color: var(--text-main);
         }
 
         #search-term {
-            color: $text-dark;
+            color: var(--text-main);
             background-color: $light-grey;
         }
 
@@ -81,12 +79,12 @@ html {
             .home-text-box,
             .dharma-names {
                 background-color: $light-grey;
-                color: $black;
+                color: var(--text-main);
 
                 a,
                 a:link,
                 a:visited {
-                    color: $text-dark;
+                    color: var(--text-main);
                 }
             }
         }
@@ -103,14 +101,14 @@ html {
         .sidebar-menu {
             background: none;
             background-color: $light-grey;
-            border: 1px solid $dark-grey;
+            border: 1px solid var(--bkg-main);
             li.level1-child a, 
             li.level1-parent a,
             li.level1-parent .heading,
             .hamburger-dropdown .sub-heading, 
             .hamburger-dropdown a.subitem, 
             .hamburger-dropdown .submenu li.subsubitem a {
-                color: $text-dark;
+                color: var(--text-main);
             }
         }
     }
@@ -118,8 +116,7 @@ html {
     &.print {
         body,
         .main {
-            background-color: $print-bkg;
-            color: $print-text;
+            background-color: var(--bkg-main);
             font-size: 1.2em;
             box-shadow: none;
             border: none;
@@ -131,18 +128,17 @@ html {
 
         .header,
         h1, h2, h3, h4, h5, h6 {
-            color: $hilight-dark;
+            color: var(--text-accent);
             text-shadow: none;
             border: none;
         }
 
         button .button-text {
-            color: $black;
+            color: var(--text-main);
         }
 
         #search-term {
-            color: $print-text;
-            background-color: $print-bkg;
+            background-color: var(--bkg-main);
         }
 
         .random-hughku, 
@@ -169,20 +165,7 @@ html {
         .home-page .home-text-box,
         .home-page .dharma-names {
             background: none;
-            background-color: $print-bkg;
-            border: 1px solid $dark-grey;
-            color: $print-text;
-
-            a,
-            a:visited,
-            li.level1-child a, 
-            li.level1-parent a,
-            li.level1-parent .heading,
-            .hamburger-dropdown .sub-heading, 
-            .hamburger-dropdown a.subitem, 
-            .hamburger-dropdown .submenu li.subsubitem a {
-                color: $print-text;
-            }
+            border: 1px solid var(--bkg-main);
         }
 
         .sidebar-menu.little ul.little li.level1-parent .heading,
@@ -193,7 +176,6 @@ html {
         .thesium .data,
         .thesium .speech,
         .thesium .next {
-            color: $print-text;
             font-style: normal;
         }
     }

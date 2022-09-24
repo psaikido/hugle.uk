@@ -7,7 +7,7 @@
     #overlay {
         position: absolute;
         opacity: .85;
-        color: $print-text;
+        color: $black;
         background-color: $light-grey;
         top: 50px;
         left: 50%;
@@ -47,7 +47,7 @@
         width: 80%;
         margin: 0 auto;
         border: 1px solid $border-light;
-        background-color: $bkg;
+        background-color: var(--bkg-main);
         line-height: 1.2rem;
         padding: 2px;
 
@@ -61,7 +61,7 @@
         }
 
         a, a:link, a:visited {
-            color: $hilight;
+            color: var(--text-accent);
         }
 
         table { 

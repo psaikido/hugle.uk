@@ -44,7 +44,7 @@
     top: 0;
     left: 0;
     height: 511px;
-    background-color: $bkg;
+    background-color: var(--bkg-main);
     padding: 0px 10px;
     z-index: 6;
     border: 1px solid $border-light;
@@ -53,10 +53,10 @@
         font-family: Grandstander, sans-serif;
         border: none;
         border-bottom: 1px solid transparent;
-        border-image: linear-gradient(to right, $bkg, $blue, $bkg);
+        border-image: linear-gradient(to right, var(--bkg-main), $blue, var(--bkg-main));
         border-image-slice: 1;
         background-color: transparent;
-        color: $hilight;
+        color: var(--text-accent);
         font-size: 1.6em;
         height: 50px;
     }
@@ -73,7 +73,7 @@
         }
 
         li a:hover {
-            color: $hilight;
+            color: var(--text-accent);
         }
     }
 }
@@ -101,7 +101,7 @@
     .sub-heading {
         font-family: Grandstander;
         font-size: 1.2em;
-        color: $hilight;
+        color: var(--text-accent);
         text-decoration: underline;
     }
 
@@ -125,7 +125,7 @@
 
         li:hover {
             border-bottom: 1px solid $border-dark;
-            color: $hilight;
+            color: var(--text-accent);
         }
     }
 }
@@ -156,7 +156,7 @@
     border: 1px solid transparent;
     border-image: linear-gradient(to right, $blue, $black);
     border-image-slice: 1;
-    background: linear-gradient(to bottom, $black, $dark-grey-shift);
+    background: linear-gradient(to bottom, $black, var(--bkg-minor));
 
     .ul-blocks {
         display: flex;
@@ -187,7 +187,7 @@
             }
 
             li.level1-parent.active {
-                border-top: 1px solid $hilight;
+                border-top: 1px solid var(--text-accent);
             }
 
             ul.level1-parent-dropdown-big {
@@ -201,13 +201,13 @@
                 float: left;
                 max-width: 230px;
                 border-left: 1px solid transparent; 
-                border-image: linear-gradient(to bottom, $dark-grey-shift, $blue, $dark-grey-shift);
+                border-image: linear-gradient(to bottom, var(--bkg-minor), $blue, var(--bkg-minor));
                 border-image-slice: 1;
                 padding-left: 8px;
                 margin-right: 40px;
 
                 .sub-heading {
-                    color: $text-light;
+                    color: var(--text-main);
                     text-decoration: none;
                 }
             }
@@ -239,7 +239,7 @@
         list-style-type: none;
 
         li.current a:hover {
-            color: $hilight;
+            color: var(--text-accent);
         }
     }
 
@@ -254,11 +254,11 @@
             margin: 0;
             padding: 8px 8px 0 0;
             border-right: 1px solid transparent; 
-            border-image: linear-gradient(to bottom, $dark-grey-shift, $blue, $dark-grey-shift);
+            border-image: linear-gradient(to bottom, var(--bkg-minor), $blue, var(--bkg-minor));
             border-image-slice: 1;
 
             li.current a {
-                color: $hilight;
+                color: var(--text-accent);
             }
         }
     }

@@ -1,5 +1,24 @@
-$dark-grey: #1f2428;
-$dark-grey-shift: #353b40;
+html {
+    --bkg-main: #1f2428;
+    --bkg-minor: #353b40;
+    --text-main: #cdc8c8;
+    --text-accent: #eea628;
+
+    &.light {
+        --bkg-main: #dadada;
+        --bkg-minor: #bababa;
+        --text-main: #333333;
+        --text-accent: #333333;
+    }
+
+    &.print {
+        --bkg-main: #ffffff;
+        --bkg-minor: #ffffff;
+        --text-main: #000000;
+        --text-accent: #333333;
+    }
+}
+
 $light-grey: #dadada;
 $blue: #87abeb;
 $pink: #d33682;
@@ -8,15 +27,8 @@ $white: #ffffff;
 $green: #44c92a;
 $yellow: #ffe244;
 
-$bkg: $dark-grey;
-$hilight: #eea628;
-$hilight-dark: $black;
-$text-light: #cdc8c8;
-$text-dark: $black;
 $text-mute: #7d7878;
 $text-link: #8d8888;
 $border-light: #586e75;
-$border-dark: $dark-grey;
+$border-dark: var(--bkg-main);
 
-$print-bkg: #ffffff;
-$print-text: #000000;

@@ -6,7 +6,7 @@
         padding: 20px;
     }
 
-    background-color: $dark-grey;
+    background-color: var(--bkg-main);
     box-shadow: -4px 7px 5px 0px rgba(30, 30, 30, .6);
     text-align: left;
 
@@ -41,7 +41,7 @@
     hr {
         color: $border-light;
         border-bottom: 1px solid transparent;
-        border-image: linear-gradient(to right, $bkg, $blue, $bkg);
+        border-image: linear-gradient(to right, var(--bkg-main), $blue, var(--bkg-main));
         border-image-slice: 1;
     }
 
@@ -84,11 +84,11 @@
         text-align: right;
         font-style: italic;
         font-size: 95%;
-        color: $hilight;
+        color: var(--text-accent);
     }
     #results {
         border-bottom: 1px solid transparent; 
-        border-image: linear-gradient(to right, $dark-grey-shift, $blue, $dark-grey-shift);
+        border-image: linear-gradient(to right, var(--bkg-minor), $blue, var(--bkg-minor));
         border-image-slice: 1;
         padding-top: 10px;
     }
