@@ -90,6 +90,11 @@ form {
         grid-area: subnav;
     }
 
+    .scroll-to-top {
+        position: fixed;
+        inset: auto 2rem 3rem auto;
+    }
+
     footer {
         grid-area: footer;
         bottom: 0;
