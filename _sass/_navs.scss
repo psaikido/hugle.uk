@@ -47,13 +47,13 @@
     background-color: var(--bkg-main);
     padding: 0px 10px;
     z-index: 6;
-    border: 1px solid $border-light;
+    border: 1px solid var(--border-main);
 
     button.heading.top {
         font-family: Grandstander, sans-serif;
         border: none;
         border-bottom: 1px solid transparent;
-        border-image: linear-gradient(to right, var(--bkg-main), $blue, var(--bkg-main));
+        border-image: linear-gradient(to right, var(--bkg-main), var(--blue), var(--bkg-main));
         border-image-slice: 1;
         background-color: transparent;
         color: var(--text-accent);
@@ -67,7 +67,7 @@
 
         li a,
         li a:visited {
-            color: $blue;
+            color: var(--link-main);
             text-decoration: underline;
             line-height: 1.2rem;
         }
@@ -90,7 +90,7 @@
     }
 
     li:hover {
-        border-bottom: 1px solid $border-light;
+        border-bottom: 1px solid var(--border-main);
     }
 
     li.level1-child a {
@@ -124,7 +124,7 @@
         padding: 0;
 
         li:hover {
-            border-bottom: 1px solid $border-dark;
+            border-bottom: 1px solid var(--text-accent);
             color: var(--text-accent);
         }
     }
@@ -154,9 +154,9 @@
 .sidebar-menu.big {
     width: 892px;
     border: 1px solid transparent;
-    border-image: linear-gradient(to right, $blue, $black);
+    border-image: linear-gradient(to right, var(--blue), var(--dark-minor));
     border-image-slice: 1;
-    background: linear-gradient(to bottom, $black, var(--bkg-minor));
+    background: linear-gradient(to bottom, var(--bkg-main), var(--bkg-minor));
 
     .ul-blocks {
         display: flex;
@@ -201,7 +201,7 @@
                 float: left;
                 max-width: 230px;
                 border-left: 1px solid transparent; 
-                border-image: linear-gradient(to bottom, var(--bkg-minor), $blue, var(--bkg-minor));
+                border-image: linear-gradient(to bottom, var(--bkg-minor), var(--blue), var(--bkg-minor));
                 border-image-slice: 1;
                 padding-left: 8px;
                 margin-right: 40px;
@@ -254,7 +254,7 @@
             margin: 0;
             padding: 8px 8px 0 0;
             border-right: 1px solid transparent; 
-            border-image: linear-gradient(to bottom, var(--bkg-minor), $blue, var(--bkg-minor));
+            border-image: linear-gradient(to bottom, var(--bkg-minor), var(--blue), var(--bkg-minor));
             border-image-slice: 1;
 
             li.current a {
@@ -264,7 +264,7 @@
     }
 
     button.toggler {
-        color: $text-link;
+        color: var(--text-mute);
         background-color: transparent;
         border: none;
         height: 30px;

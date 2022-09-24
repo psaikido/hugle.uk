@@ -6,6 +6,7 @@ footer.footer {
         margin: -4px 0 0 20px;
         border: none;
         text-align: left;
+        color: var(--text-minor);
 
         legend {
             float: left;
@@ -14,10 +15,8 @@ footer.footer {
 
     background: rgba(220, 220, 220, .9);
     text-align: right;
-    color: var(--text-main);
 
     .mantra {
-        color: var(--text-main);
         font-size: .7rem;
     }
 

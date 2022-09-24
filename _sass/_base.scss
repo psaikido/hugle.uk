@@ -9,7 +9,7 @@
 }
 
 *:focus {
-    outline: 2px solid $blue;
+    outline: 2px solid var(--blue);
 }
 
 body {
@@ -26,7 +26,7 @@ body {
     a,
     a:link,
     a:visited {
-        color: $blue;
+        color: var(--link-main);
         text-decoration: underline;
     }
 
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 0 6px 6px;
     max-width: fit-content;
     border-bottom: 1px solid transparent;
-    border-image: linear-gradient(to right, var(--bkg-main), $blue, var(--bkg-main));
+    border-image: linear-gradient(to right, var(--bkg-main), var(--blue), var(--bkg-main));
     border-image-slice: 1;
     color: var(--text-accent);
 }
@@ -54,7 +54,7 @@ header h1 {
     font-size: 1.8rem;
     font-weight: bold;
     letter-spacing: .3em;
-    text-shadow: -2px 3px 2px $black;
+    text-shadow: -2px 3px 2px var(--text-minor);
     margin-top: 8px;
     max-width: initial;
     text-align: center;

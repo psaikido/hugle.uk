@@ -13,7 +13,7 @@ html {
         }
 
         button .button-text {
-            color: $white;
+            color: var(--white);
         }
 
         .email-form  input, 
@@ -38,7 +38,7 @@ html {
 
             button {
                 background: var(--text-accent);
-                color: $black;
+                color: var(--text-minor);
                 font-weight: bold;
             }
         }
@@ -55,30 +55,26 @@ html {
     }
 
     &.light {
-        body,
-        main {
+        button .button-text {
+            color: var(--text-main);
         }
 
         .header,
         h1, h2, h3, h4, h5, h6 {
             color: var(--text-accent);
             text-shadow: none;
-        }
-
-        button .button-text {
-            color: var(--text-main);
+            border: none;
         }
 
         #search-term {
-            color: var(--text-main);
-            background-color: $light-grey;
+            background-color: var(--light-grey);
         }
 
         .home-page {
             .random-hughku, 
             .home-text-box,
             .dharma-names {
-                background-color: $light-grey;
+                background-color: var(--light-grey);
                 color: var(--text-main);
 
                 a,
@@ -90,7 +86,7 @@ html {
         }
 
         .main-content.subMenu .quote-heading {
-            color: $blue;
+            color: var(--blue);
         }
 
         #hamburger-menu:hover,
@@ -100,7 +96,7 @@ html {
 
         .sidebar-menu {
             background: none;
-            background-color: $light-grey;
+            background-color: var(--light-grey);
             border: 1px solid var(--bkg-main);
             li.level1-child a, 
             li.level1-parent a,
@@ -116,7 +112,6 @@ html {
     &.print {
         body,
         .main {
-            background-color: var(--bkg-main);
             font-size: 1.2em;
             box-shadow: none;
             border: none;
@@ -137,22 +132,18 @@ html {
             color: var(--text-main);
         }
 
-        #search-term {
-            background-color: var(--bkg-main);
-        }
-
         .random-hughku, 
         .home-text-box,
         .dharma-names {
-            color: $white;
+            color: var(--white);
 
             a {
-                color: $white;
+                color: var(--white);
             }
         }
 
         .main-content.subMenu .quote-heading {
-            color: $blue;
+            color: var(--blue);
         }
 
         #hamburger-menu:hover,
@@ -177,6 +168,14 @@ html {
         .thesium .speech,
         .thesium .next {
             font-style: normal;
+        }
+
+        .subnavbar {
+            ul {
+                a:hover {
+                    border: 2px solid var(--dark-minor);
+                }
+            }
         }
     }
 }

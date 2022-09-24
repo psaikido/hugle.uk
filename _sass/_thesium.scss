@@ -7,8 +7,8 @@
         text-align: justify;
         font-size: .8em;
         font-family: 'Lucida Console';
-        color: $text-mute;
-        border-bottom: 1px solid $border-light;
+        color: var(--text-mute);
+        border-bottom: 1px solid var(--border-main);
         margin-bottom: 13px;
 
         ul {
@@ -20,7 +20,7 @@
     .quote {
         color: var(--text-accent);
         font-style: italic;
-        border-bottom: 1px solid $border-light;
+        border-bottom: 1px solid var(--border-main);
     }
 
     .speech {
@@ -31,7 +31,7 @@
     }
 
     .next {
-        border-top: 1px solid $border-light;
+        border-top: 1px solid var(--border-main);
         margin-top: 60px;
         color: var(--text-accent);
         font-style: italic;

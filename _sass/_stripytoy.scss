@@ -15,7 +15,7 @@
             .control-stripe-first {
                 width: 10px;
                 height: 60px;
-                background-image: linear-gradient($blue, $pink);
+                background-image: linear-gradient(var(--blue), var(--pink));
             }
         }
 
@@ -25,7 +25,7 @@
             .control-stripe-second {
                 width: 10px;
                 height: 60px;
-                background-image: linear-gradient(var(--bkg-main), $white);
+                background-image: linear-gradient(var(--bkg-main), var(--white));
             }
         }
 
@@ -35,7 +35,7 @@
             .control-stripe-third {
                 width: 10px;
                 height: 60px;
-                background-image: linear-gradient($yellow, $green);
+                background-image: linear-gradient(var(--yellow), var(--green));
             }
         }
 
@@ -56,15 +56,15 @@
             height: 100%;
 
             &.first {
-                background-image: linear-gradient($blue, $pink);
+                background-image: linear-gradient(var(--blue), var(--pink));
             }
 
             &.second {
-                background-image: linear-gradient(var(--bkg-main), $white);
+                background-image: linear-gradient(var(--bkg-main), var(--white));
             }
 
             &.third {
-                background-image: linear-gradient($yellow, $green);
+                background-image: linear-gradient(var(--yellow), var(--green));
             }
         }
     }
