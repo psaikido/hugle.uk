@@ -3,3 +3,4 @@ bin/
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+Session.vim
