@@ -113,12 +113,17 @@ form {
     }
 
     .scroll-to-top {
-        position: fixed;
-        inset: auto auto 3rem 2rem;
-        background-color: var(--bkg-main);
-        padding: 5px;
-        font-size: .9rem;
-        border: 1px solid var(--border-main);
+        display: none;
+
+        @include screen-width('medium') {
+            display: block;
+            position: fixed;
+            inset: auto auto 3rem 2rem;
+            background-color: var(--bkg-main);
+            padding: 5px;
+            font-size: .9rem;
+            border: 1px solid var(--border-main);
+        }
     }
 
     footer {
