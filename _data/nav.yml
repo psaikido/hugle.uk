@@ -9,11 +9,11 @@ menu:
       sub: 
       - title: poetry
         subsub: 
-        - title: Yarn
-          url: /yarn/
-
         - title: Mahabodhi Moonlight
           url: /mbm/
+
+        - title: Yarn
+          url: /yarn/
 
         - title: Sunshine & Shadow
           url: /sun/

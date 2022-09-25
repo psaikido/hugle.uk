@@ -47,6 +47,12 @@ $('.subnavbar > .toggler').click(function () {
     return false;
 })
 
+/* show/hide subnavigation links */
+$('aside.subnav2 > section button.toggler').click(function () {
+    $(this).siblings('ul').toggle();
+    return false;
+})
+
 /* desktop toggle search field */
 $('.search button').click(function () {
     hide($(this));

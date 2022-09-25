@@ -18,17 +18,17 @@ html {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1em;
-    letter-spacing: .12em;
+    font-size: 1rem;
+    letter-spacing: .12rem;
     margin: 0;
-    line-height: 1.9em;
+    line-height: 1.9rem;
 
     @include screen-width('small') {
-        font-size: 1em;
+        font-size: 1rem;
     }
 
     @include screen-width('large') {
-        font-size: 1.3em;
+        font-size: 1.2rem;
     }
 
     a,

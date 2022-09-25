@@ -86,7 +86,6 @@
         text-align: left;
         list-style-type: none;
         line-height: 2rem;
-        border-bottom: 1px solid transparent;
     }
 
     li:hover {
@@ -123,6 +122,10 @@
     ul.submenu {
         padding: 0;
 
+        li {
+            margin-bottom: 8px;
+        }
+
         li:hover {
             border-bottom: 1px solid var(--text-accent);
             color: var(--text-accent);
@@ -152,7 +155,8 @@
 }
 
 .sidebar-menu.big {
-    width: 892px;
+    width: 933px;
+    height: 600px;
     border: 1px solid var(--blue);
     background: var(--bkg-main);
 
@@ -215,6 +219,12 @@
                 left: 550px;
             }
         }
+    }
+}
+
+@include screen-width('desktop') {
+    .sidebar-menu.big {
+        width: 1020px;
     }
 }
 

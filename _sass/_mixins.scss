@@ -2,7 +2,8 @@ $breakpoints: (
     'xsmall': ( max-width: 599px ),
     'small': ( min-width: 600px ),
     'medium': ( min-width: 900px ),
-    'large': ( min-width: 1200px )
+    'large': ( min-width: 1200px ),
+    'desktop': ( min-width: 1400px )
 ) !default;
 
 @mixin screen-width($breakpoint) {
@@ -13,18 +14,27 @@ $breakpoints: (
     }
 }
 
-@mixin reveal($milisecs) {
-    display: block;
-    animation-name: reveal;
-    animation-duration: $milisecs;
-    animation-iteration-count: 1;
-}
+/*
+html body {
+    @include screen-width('xsmall') {
+        background-color: white;
+    }
 
-@keyframes reveal {
-    0% {
-        opacity: 0;
+    @include screen-width('small') {
+        background-color: green;
+        margin-inline: auto;
     }
-    100% {
-        opacity: 1;
+
+    @include screen-width('medium') {
+        background-color: blue;
+    }
+
+    @include screen-width('large') {
+        background-color: pink;
+    }
+
+    @include screen-width('desktop') {
+        background-color: limegreen;
     }
 }
+*/

@@ -3,8 +3,7 @@ body {
     margin-inline: auto;
     overflow-x: hidden;
 
-    @include screen-width('large') {
-        padding-right: 40px;
+    @include screen-width('desktop') {
     }
 }
 
@@ -32,8 +31,14 @@ form {
         grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
         grid-template-areas: 
             "banner banner banner"
-            "subnav main   ......"
+            "subnav main  subnav2"
             "footer footer footer";
+    }
+
+    @include screen-width('desktop') {
+        grid-template-columns: minmax(200px, 300px) minmax(800px, 900px) minmax(200px, 300px);
+
+        padding-right: 40px;
     }
 
     header {
@@ -77,6 +82,12 @@ form {
         }
     }
 
+    @include screen-width('desktop') {
+        header {
+            grid-template-columns: minmax(200px, 300px) minmax(800px, 900px) minmax(200px, 300px);
+        }
+    }
+
     main {
         grid-area: main;
         margin: 0 auto;
@@ -90,9 +101,24 @@ form {
         grid-area: subnav;
     }
 
+    aside.subnav2 {
+        grid-area: subnav2;
+        display: none;
+    }
+
+    @include screen-width('medium') {
+        aside.subnav2 {
+            display: block;
+        }
+    }
+
     .scroll-to-top {
         position: fixed;
-        inset: auto 2rem 3rem auto;
+        inset: auto auto 3rem 2rem;
+        background-color: var(--bkg-main);
+        padding: 5px;
+        font-size: .9rem;
+        border: 1px solid var(--border-main);
     }
 
     footer {

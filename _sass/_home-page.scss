@@ -9,7 +9,8 @@
         opacity: .75;
         color: var(--text-minor);
         background-color: var(--light-grey);
-        top: 50px;
+        top: 50%;
+        margin-top: -50%;
         left: 50%;
         margin-left: -40%;
 
@@ -18,18 +19,28 @@
         }
     }
 
+    @include screen-width('xsmall') {
+        width: 96vw;
+    }
+
+    @include screen-width('medium') {
+        #overlay {
+            /* top: 111px; */
+        }
+    }
+
     @include screen-width('large') {
         #overlay {
-            top: 204px;
-            left: 73px;
-            margin-left: 0;
+            margin-top: -73%;
             font-weight: bold;
             line-height: 2rem;
         }
     }
 
-    @include screen-width('xsmall') {
-        width: 96vw;
+    @include screen-width('desktop') {
+        #overlay {
+            margin-top: -54%;
+        }
     }
 
     @include screen-width('large') {
