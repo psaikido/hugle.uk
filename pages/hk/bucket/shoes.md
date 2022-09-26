@@ -15,15 +15,17 @@ locking horns over free will
 wrestling  
 about karma  
 
-after all the refuting  
-and defending of positions  
+after every hair was split  
 at last the morning came  
-
+and so  
 tired out  
-they left  
+and non the wiser  
+the unstoppable force  
+and the immovable object  
+got up and left  
 
 which shoe each of them  
-put on first  
+put on first?  
 that was free will  
 
 the second?  
