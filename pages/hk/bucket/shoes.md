@@ -19,7 +19,7 @@ after every hair was split
 at last the morning came  
 and so  
 tired out  
-and non the wiser  
+and none the wiser  
 the unstoppable force  
 and the immovable object  
 got up and left  

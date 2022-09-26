@@ -19,7 +19,7 @@ Sad that someone had already bought <em>'hughtube.com'</em>, he was overjoyed to
 </div>
 
 <div class="random-hughku">
-latest hughku: [reflection](/bucket/reflection.html)
+latest hughku: [shoes](/bucket/shoes.html)
 </div>
 
 <section class="home-text-box">
