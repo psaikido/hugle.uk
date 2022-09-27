@@ -1,6 +1,10 @@
 {% for item in menu %}
     <h4>{{ item.title }}</h4>
-    <h6>{{ item.date }}</h6>
+
+    {% if item.date != null %}
+        <h6>{{ item.date }}</h6>
+    {% endif %}
+
     <div class="two-cols">
         <div class="col-left">
             <a href="https://youtu.be/{{ item.url }}">
