@@ -14,6 +14,12 @@ $breakpoints: (
     }
 }
 
+@mixin border-fancy() {
+    border-bottom: 1px solid transparent;
+    border-image: linear-gradient(to right, var(--bkg-main), var(--blue), var(--bkg-main));
+    border-image-slice: 1;
+}
+
 /*
 html body {
     @include screen-width('xsmall') {

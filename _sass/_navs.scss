@@ -52,9 +52,7 @@
     button.heading.top {
         font-family: Grandstander, sans-serif;
         border: none;
-        border-bottom: 1px solid transparent;
-        border-image: linear-gradient(to right, var(--bkg-main), var(--blue), var(--bkg-main));
-        border-image-slice: 1;
+        @include border-fancy;
         background-color: transparent;
         color: var(--text-accent);
         font-size: 1.6em;

@@ -40,9 +40,7 @@
 
     hr {
         color: var(--border-main);
-        border-bottom: 1px solid transparent;
-        border-image: linear-gradient(to right, var(--bkg-main), var(--blue), var(--bkg-main));
-        border-image-slice: 1;
+        @include border-fancy;
     }
 
     .center-img {
@@ -86,10 +84,9 @@
         font-size: 95%;
         color: var(--text-accent);
     }
+
     #results {
-        border-bottom: 1px solid transparent; 
-        border-image: linear-gradient(to right, var(--bkg-minor), var(--blue), var(--bkg-minor));
-        border-image-slice: 1;
+        @include border-fancy;
         padding-top: 10px;
     }
 
