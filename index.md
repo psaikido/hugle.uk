@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<script type="text/javascript" src="/assets/js/home-slideshow.js"></script>
 
 <div class="home-page">
 
@@ -16,6 +17,7 @@ Sad that someone had already bought <em>'hughtube.com'</em>, he was overjoyed to
 
 <div class="image">
 <img src="/assets/images/bio/h-wall-door.jpg" alt="Hughie, big wall with high door" />
+<button>another picture</button>
 </div>
 
 <div class="random-hughku">
