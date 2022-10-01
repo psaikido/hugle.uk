@@ -4,11 +4,9 @@
         <nav>
             <ul class="">
                 {% for item in site.data[page.subnav].menu %}
-                    {% if item.silent != true %}
-                        <li {% if page.url  == item.url %}class="current"{% endif %}>
-                            <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
-                        </li>
-                    {% endif %}
+                    <li {% if page.url  == item.url %}class="current"{% endif %}>
+                        <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                    </li>
                 {% endfor %}
             </ul>
         </nav>

@@ -1,5 +1,5 @@
 ---
-title: bucket
+title: intro
 banner-title: "bucket" 
 layout: default
 subnav: bucket

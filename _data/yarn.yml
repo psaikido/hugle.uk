@@ -2,9 +2,8 @@ description: yarn
 
 menu:
 
-- title: title page
+- title: intro
   url: /yarn/index.html
-  silent: true
 
 - title: scrabble
   url: /yarn/scrabble.html

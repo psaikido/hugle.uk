@@ -2,9 +2,8 @@ description: bucket
 
 menu:
 
-- title: title page
+- title: intro 
   url: /bucket/
-  silent: true
 
 - title: solstice
   url: /bucket/solstice.html

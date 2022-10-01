@@ -2,9 +2,8 @@ description: Mahabodhi Moonlight
 
 menu:
 
-- title: title page
+- title: intro 
   url: /mbm/
-  silent: true
 
 - title: Ladakh
   url: /mbm/ladakh.html

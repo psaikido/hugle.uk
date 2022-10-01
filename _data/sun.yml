@@ -2,9 +2,8 @@ description: Sunshine & Shadow
 
 menu:
 
-- title: title page
+- title: intro
   url: /sun/
-  silent: true
 
 - title: ancestors
   url: /sun/ancestors.html

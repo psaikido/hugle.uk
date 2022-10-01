@@ -1,5 +1,5 @@
 ---
-title: "Mahabodhi Moonlight" 
+title: intro 
 banner-title: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
