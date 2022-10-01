@@ -25,6 +25,8 @@ The 'Abystery' is a version of Chenrezig.
 ![Chenrezig](/assets/images/mantrasphere/chenrezig.jpg)
 {: class="half"}
 
+- review on [goodreads](https://www.goodreads.com/book/show/62708891-thesium)
+
 Books referred to:  
  - Zen & the Art of Motorcycle Maintenance - Robert Pirsig.
  - Be Here Now - Ram Dass

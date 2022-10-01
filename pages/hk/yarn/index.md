@@ -45,5 +45,6 @@ _– Brendan Hamley_
     </form>
 
 - buy on [blurb.co.uk](https://www.blurb.co.uk/b/10210368-yarn)
+- review on [goodreads](https://www.goodreads.com/book/show/55252078-yarn)
 
 [first poem - scrabble](/yarn/scrabble.html)

@@ -50,4 +50,6 @@ would do.
 
 ### 1/12/03
 
+- review on [goodreads](https://www.goodreads.com/book/show/62709090-first-burn)
+
 #### fin

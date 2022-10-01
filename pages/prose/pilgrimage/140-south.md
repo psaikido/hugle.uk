@@ -90,3 +90,5 @@ everyone to the downed bridge safely!
 I really hope to return to Ladakh one day.
 
 ###### ([poems from this pilgrimage](/mbm/))
+
+- review on [goodreads](https://www.goodreads.com/book/show/62709126-pilgrimage---mahabodhi-moonlight)
