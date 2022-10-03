@@ -1,0 +1,58 @@
+name: mantra carving
+description: mantra carving
+imageFolder: assets/images/mani/
+
+images:
+- name: "#1 July 2005 in Lamayuru"
+  img: mani1Finished.jpg
+
+- name: "#2 July 2005 in Lamayuru"
+  img: mani2Finished.jpg
+
+- name: "#3 July 2005 in Lamayuru for Mareike"
+  img: mani3Mareike.jpg
+
+- name: "#4 August 2005 in Lamayuru"
+  img: mani4.jpg
+    
+- name: "#5 September 2005 in Leh for the Women's Institute"
+  img: mani5.jpg
+
+- name: "#6 March 2007 at the Maenllwyd"
+  img: mani6.jpg
+
+- name: "#7 June 2007 at Gear Mill"
+  img: greenTaraMantraOnSerpentine.jpg
+
+- name: "#8 July 2008 Holy Island"
+  img: mani7.jpg
+
+- name: "#9 July 2009 Swindon" 
+  img: mani8.jpg
+
+- name: "#10 March 2019 Gaia House"
+  img: mani9.jpg
+
+- name: "#11 September 2021 Portishead"
+  img: mani10/mani10-sudden-light.jpg
+
+- name: "#12 September 2021 Portishead"
+  img: mani11.jpg
+
+- name: "#13 September 2021 Portishead"
+  img: mani-12.jpg
+
+- name: "#14 October 2021 Portishead"
+  img: green-tara-bath-stone.jpg
+
+- name: "#15 January 2022 Portishead"
+  img: padmasambhava/ps18.jpg
+
+- name: "#16 January 2022 Portishead"
+  img: padmasambhava/chan.jpg
+
+- name: "#17 March 2022 Portishead"
+  img: mani15.jpg
+
+- name: "#18 March 2022 Portishead"
+  img: mani16.jpg

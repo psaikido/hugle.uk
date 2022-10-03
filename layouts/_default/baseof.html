@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+
+    {{ partial "head.html" }}
+
+    <body>
+
+        <div class="grid-wrap">
+            <header>
+                {{ partial "main-nav.html" }}
+
+                <h1>&#x0f3a; hugo &#x0f3b;</h1>
+
+                <div class="search">
+                    <button> 
+                        <div class="button-text">search</div> 
+                    </button>
+
+                    <form id="search-form" action="" method="get" role="search">
+                        <label for="search-term">search</label>
+                        <input type="text" value="" placeholder="enter text" id="search-term" />
+                    </form>
+                </div>
+            </header>
+
+            <main class="main">
+                <div id="results"></div>
+                {{ block "main" . }}
+                {{ end }}
+            </main>
+
+            <aside class="subnav2">
+            </aside>
+
+            <a href="#" class="scroll-to-top">scroll to top</a>
+
+            <footer class="footer">
+            </footer>
+
+            <script type="text/javascript" src="/js/toggler.js"> </script>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+description: Mantrasphere
+
+menu:
+
+- title: info 
+  url: /mantrasphere/index.html
+
+- title: listen 
+  url: /mantrasphere/listen.html
+
+- title: songs 
+  url: /mantrasphere/songs.html
+
+- title: launch party 
+  url: /mantrasphere/pix-launch.html
+
+- title: promo pix 
+  url: /mantrasphere/pix-promo.html
+
+- title: press release 
+  url: /mantrasphere/press.html
