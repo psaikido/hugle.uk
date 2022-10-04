@@ -1,9 +1,26 @@
-description: main menu
-
-menu:
+solos:
     - title: home
       url: /
 
+    - title: shop
+      url: /shop/
+
+    - title: IT portfolio
+      url: /pages/pix/portfolio.html
+
+    - title: links
+      url: /pages/stuff/links.html
+
+    - title: sitemap
+      url: /sitemap.html
+
+    - title: about
+      url: /about/
+
+    - title: contact
+      url: /contact/
+
+nests:
     - title: writing
       icon: writing.png
       sub: 
@@ -176,21 +193,4 @@ menu:
             url: /pages/pix/faves.html
 
 
-    - title: shop
-      url: /shop/
-
-    - title: IT portfolio
-      url: /pages/pix/portfolio.html
-
-    - title: links
-      url: /pages/stuff/links.html
-
-    - title: sitemap
-      url: /sitemap.html
-
-    - title: about
-      url: /about/
-
-    - title: contact
-      url: /contact/
 
