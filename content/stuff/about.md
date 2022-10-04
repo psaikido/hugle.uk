@@ -2,11 +2,10 @@
 title: About
 banner-title: About Hughie
 layout: default
-permalink: /about/
+aliases: [/about/]
 ---
 
-![selfie Hughie 2022 June](/assets/images/faves/selfie202207.jpg) 
-{: class="half"}
+![selfie Hughie 2022 June](/images/faves/selfie202207.jpg) 
 
 Hughie aka:  Hugh, Hubles, Hughie McGinty, Cháng Kè, Sonam Wangchuk, Hugle,
 Spuge, Hugely, Ivor (Biggun), Shugi, Shugs, Jadu, Mr Irrelevant, Psaikido
@@ -26,7 +25,7 @@ Circus in 1991, left him with PTSD. The illness gradually morphed into [ME/CFS](
 which was eventually diagnosed in 2001. 
 
 After the accident, Hughie went into IT. He has a
-[portfolio](/pages/pix/portfolio.html) of many websites and considered himself
+[portfolio](/portfolio/) of many websites and considered himself
 a 'full-stack web developer' until the illness stopped him working
 professionally in 2018. The main software for the Western Chan Fellowship is
 built and maintained by him (also [this site](#technicals-about-this-site)). 
@@ -52,15 +51,14 @@ group of fanatical quad-line kite fliers. He lives in the South West of the UK.
 
 Hughie can be contacted at hughie (at) hugle.co.uk.
 
-![Kilkenny field](/assets/images/kites/kilkenny-hc-2022-07-m14.jpg)
+![Kilkenny field](/images/kites/kilkenny-hc-2022-07-m14.jpg)
 
-<hr />
 ### Technicals about this site
-- Made in [jekyll](https://jekyllrb.com)
+- Made in [hugo](https://gohugo.io)
 - Designed & built entirely in [neovim](https://neovim.io/) by Hughie
 - Hosted by the good folks at [github](https://github.com/psaikido/hugle)
 - 95% [accessibility compliance](https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Fhugle.co.uk&flag=eu) 
 
 
-![w3c valid](/assets/images/site/vcss.gif)
-{: style="width: 88px;"}
+![w3c valid](/images/site/vcss.gif)
+{.img-little}

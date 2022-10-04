@@ -2,13 +2,15 @@
 title: Links
 banner-title: Links
 layout: default
+aliases: [/links/]
 ---
 
 - [hughkupoems on facebook](https://www.facebook.com/hughkupoems)
 - [Carroll Family Archive](https://family.carrollonline.uk)
 - [Soundcloud](https://soundcloud.com/mantrasphere/)  
 - [Mad World](https://youtu.be/sSgvBhZ2-Us) Tears For Fears piano cover  
-- Code on [bitbucket](https://bitbucket.org/psaikido) and [github](https://github.com/psaikido) 
+- [bitbucket](https://bitbucket.org/psaikido)
+- [github](https://github.com/psaikido) 
 - [Western Chan Fellowship](https://westernchanfellowship.org)
 - [Swindon Chan Group](https://swindonchan.org)
 - [Gear Mill](https://gearmill.org)

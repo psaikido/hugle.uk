@@ -1,0 +1,11 @@
+baseURL:  'https://hugle.co.uk/'
+languageCode: 'en-gb'
+title: 'hugle'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
