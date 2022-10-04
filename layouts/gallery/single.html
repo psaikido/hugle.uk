@@ -2,24 +2,31 @@
 
     <h2>{{ .Params.title }}</h2>
 
-    <p>
-    {{ .Content }}
-    </p>
+    {{ if ne .Content "" }}
+        <p> {{ .Content }} </p>
+    {{ end }}
 
     {{ $imageDir := .Params.imageDir }}
 
     {{ range .Params.images }}
         <figure>
-            <h5>{{ .name }}</h5>
+            {{ if isset .Params "name" }}
+                <h5>{{ .name }}</h5>
+            {{ end }}
 
             <img src = "{{ $imageDir }}{{ .img }}"
                  alt = "{{ .name }}"
                  class = "center-img" />
 
             <figurecaption>
-                {{ .text }}
-                <br />
-                <a href="{{ .url }}">{{ .urlText }}</a>
+                {{ if isset .Params "text" }}
+                    {{ .text }}
+                    <br />
+                {{ end }}
+
+                {{ if isset .Params "url" }}
+                    <a href="{{ .url }}">{{ .urlText }}</a>
+                {{ end }}
             </figurecaption>
 
         </figure>
