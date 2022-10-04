@@ -86,6 +86,11 @@ h6 {
     font-size: .8rem;
 }
 
+figure {
+    @include border-fancy;
+    margin-bottom: 50px;
+}
+
 .grid-wrap {
     animation-name: reveal;
     animation-duration: 3s;

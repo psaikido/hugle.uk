@@ -2,7 +2,7 @@
 title: Shop
 banner-title: Shop
 layout: default
-permalink: /shop/
+aliases: [/shop/]
 ---
 
 <div class="shop-item">

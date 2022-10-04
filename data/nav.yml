@@ -6,7 +6,7 @@ solos:
       url: /shop/
 
     - title: IT portfolio
-      url: /pages/pix/portfolio.html
+      url: /gallery/portfolio/
 
     - title: links
       url: /pages/stuff/links.html
@@ -82,7 +82,7 @@ nests:
           url: /mantrasphere/songs.html
 
         - title: launch party 
-          url: /mantrasphere/pix-launch.html
+          url: /gallery/mantrasphere-launch/
 
         - title: promo pix 
           url: /mantrasphere/pix-promo.html
@@ -99,7 +99,7 @@ nests:
           url: /blogs/mantra-archive.html
 
         - title: gallery
-          url: /pages/pix/stones.html
+          url: /gallery/stones/
 
       - title: sutta anthology
         subsub:
@@ -164,7 +164,7 @@ nests:
             url: /pages/magic/testimonials.html
 
           - title: pix from gigs 
-            url: /pages/magic/pix.html
+            url: /gallery/magic-gigs/
 
       - title: silly
         subsub:
@@ -181,16 +181,16 @@ nests:
       - title: galleries
         subsub:
           - title: bio
-            url: /pages/pix/bio.html
+            url: /gallery/bio/
 
           - title: circus
-            url: /pages/pix/circus.html
+            url: /gallery/circus/
 
           - title: Chan
-            url: /pages/pix/chan.html
+            url: /gallery/chan/
 
           - title: faves
-            url: /pages/pix/faves.html
+            url: /gallery/faves/
 
 
 

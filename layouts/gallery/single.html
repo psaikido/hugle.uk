@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+    <h2>{{ .Params.title }}</h2>
+
+    <p>
+    {{ .Content }}
+    </p>
+
+    {{ $imageDir := .Params.imageDir }}
+
+    {{ range .Params.images }}
+        <figure>
+            <h5>{{ .name }}</h5>
+
+            <img src = "{{ $imageDir }}{{ .img }}"
+                 alt = "{{ .name }}"
+                 class = "center-img" />
+
+            <figurecaption>
+                {{ .text }}
+                <br />
+                <a href="{{ .url }}">{{ .urlText }}</a>
+            </figurecaption>
+
+        </figure>
+    {{ end }}
+{{ end }}
