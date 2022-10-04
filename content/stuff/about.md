@@ -6,6 +6,7 @@ aliases: [/about/]
 ---
 
 ![selfie Hughie 2022 June](/images/faves/selfie202207.jpg) 
+{.img-half}
 
 Hughie aka:  Hugh, Hubles, Hughie McGinty, Cháng Kè, Sonam Wangchuk, Hugle,
 Spuge, Hugely, Ivor (Biggun), Shugi, Shugs, Jadu, Mr Irrelevant, Psaikido

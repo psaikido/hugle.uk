@@ -119,7 +119,7 @@ form {
         @include screen-width('medium') {
             display: block;
             position: fixed;
-            inset: auto auto 3rem 2rem;
+            inset: auto auto 3rem 1rem;
             background-color: var(--bkg-main);
             padding: 5px;
             font-size: .9rem;
