@@ -1,7 +1,7 @@
 ---
 title: Tim Tim Tim
 written: 2020
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/tim-tim-tim.html

@@ -1,6 +1,6 @@
 ---
 title: "MN 63 Cūḷa Māluṅkyovāda: The Shorter Instructions to Malunkya"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

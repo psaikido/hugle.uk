@@ -1,6 +1,6 @@
 ---
 title: "SN 4.9 Paṭhamaāyu Sutta: Life Span"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

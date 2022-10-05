@@ -1,6 +1,6 @@
 ---
 title: "SN 35.244 Dukkhadhamma Sutta: States that Entail Suffering"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

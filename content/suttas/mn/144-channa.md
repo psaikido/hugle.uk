@@ -1,6 +1,6 @@
 ---
 title: "MN 144 Channovada Sutta: Advice to Channa"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

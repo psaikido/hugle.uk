@@ -1,7 +1,7 @@
 ---
 title: I looked at the flowers
 written: 2005
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/flowers.html

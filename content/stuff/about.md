@@ -1,6 +1,6 @@
 ---
 title: About
-banner-title: About Hughie
+bannerTitle: About Hughie
 layout: default
 aliases: [/about/]
 ---

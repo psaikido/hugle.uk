@@ -1,6 +1,6 @@
 ---
-title: Mantrasphere Promo pictures
-banner-title: Mantrasphere
+bannerTitle: Mantrasphere
+title: Promo pictures
 type: gallery
 aliases: [/gallery/mantrasphere-promo/]
 subnav: mantrasphere 

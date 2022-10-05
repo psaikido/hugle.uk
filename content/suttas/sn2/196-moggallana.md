@@ -1,6 +1,6 @@
 ---
 title: "SN 51.14 Moggallāna Sutta: Moggallāna"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

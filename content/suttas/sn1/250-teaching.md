@@ -1,6 +1,6 @@
 ---
 title: "SN 16.3 Candūpamā Sutta:  Like the Moon"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

@@ -1,6 +1,6 @@
 ---
 title: "MN 149 Mahā Saḷāyatanika Sutta: The Great Sixfold Base"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

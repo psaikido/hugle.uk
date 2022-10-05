@@ -1,7 +1,7 @@
 ---
 title: top dogs
 written: 2020
-banner-title: "bucket" 
+bannerTitle: "bucket" 
 layout: default
 subnav: bucket
 permalink: /bucket/top-dogs.html

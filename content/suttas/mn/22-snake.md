@@ -1,6 +1,6 @@
 ---
 title: "MN 22 Alagaddūpama: Similes of the Snake & Raft"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

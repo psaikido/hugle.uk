@@ -1,6 +1,6 @@
 ---
 title: The Core Sutras 
-banner-title: The Core Sutras 
+bannerTitle: The Core Sutras 
 layout: default 
 subnav: suttas
 ---

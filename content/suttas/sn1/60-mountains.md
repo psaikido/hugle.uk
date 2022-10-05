@@ -1,6 +1,6 @@
 ---
 title: "SN 3.25 Pabbatopama Sutta: Simile of the Mountains"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

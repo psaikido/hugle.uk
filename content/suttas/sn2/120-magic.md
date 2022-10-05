@@ -1,6 +1,6 @@
 ---
 title: "SN 42.13 Pātaliya Sutta: To Pātaliya"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

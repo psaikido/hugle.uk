@@ -1,6 +1,6 @@
 ---
 title: Taklung Rinpoche
-banner-title: Pilgrimage - Mahabodhi Moonlight
+bannerTitle: Pilgrimage - Mahabodhi Moonlight
 layout: default
 subnav: pilgrimage
 ---

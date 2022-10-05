@@ -1,7 +1,7 @@
 ---
 title: reflection
 written: 2022
-banner-title: "bucket" 
+bannerTitle: "bucket" 
 layout: default
 subnav: bucket
 permalink: /bucket/reflection.html

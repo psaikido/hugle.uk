@@ -1,4 +1,5 @@
 ---
+bannerTitle: gallery
 title: bio
 type: gallery
 aliases: [/gallery/bio]

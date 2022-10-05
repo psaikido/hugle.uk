@@ -1,6 +1,6 @@
 ---
 title: "MN 82 Raṭṭhapāla Sutta: About Raṭṭhapāla"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

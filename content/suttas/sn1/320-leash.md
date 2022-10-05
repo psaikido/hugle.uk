@@ -1,6 +1,6 @@
 ---
 title: "SN 22.99 Gaddūla Sutta: The Leash"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

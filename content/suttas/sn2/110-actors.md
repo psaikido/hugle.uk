@@ -1,6 +1,6 @@
 ---
 title: "SN 42.2 Tālapuṭa Sutta: To Tālapuṭa the Actor"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

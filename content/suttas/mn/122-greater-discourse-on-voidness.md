@@ -1,6 +1,6 @@
 ---
 title: "MN 122 Mahā Suññyata Sutta: Greater Discourse on Voidness"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

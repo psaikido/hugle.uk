@@ -1,6 +1,6 @@
 ---
 title: TV Lutòn 
-banner-title: TV Lutòn 
+bannerTitle: TV Lutòn 
 layout: default
 ---
 

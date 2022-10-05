@@ -1,6 +1,6 @@
 ---
 title: "SN 15.3 Assu Sutta: Tears"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

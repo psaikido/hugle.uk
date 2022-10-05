@@ -1,6 +1,6 @@
 ---
 title: intro
-banner-title: Yarn
+bannerTitle: Yarn
 type: hk
 layout: yarn
 subnav: yarn

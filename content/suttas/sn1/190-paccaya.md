@@ -1,6 +1,6 @@
 ---
 title: "SN 12.20 Paccaya Sutta: Requisite Conditions"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

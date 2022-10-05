@@ -1,6 +1,6 @@
 ---    
 title: White Tara (E)    
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/white-tara-e.html

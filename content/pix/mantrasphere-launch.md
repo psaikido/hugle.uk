@@ -1,6 +1,6 @@
 ---
-title: Mantrasphere Launch Party
-banner-title: Mantrasphere
+bannerTitle: Mantrasphere
+title: Launch Party
 type: gallery
 aliases: [/gallery/mantrasphere-launch/]
 subnav: mantrasphere 

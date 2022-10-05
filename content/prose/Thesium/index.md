@@ -1,6 +1,6 @@
 ---
 title: Seeds
-banner-title: "Thesium" 
+bannerTitle: "Thesium" 
 layout: default 
 subnav: thesium 
 permalink: /thesium/index.html

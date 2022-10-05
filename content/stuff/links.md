@@ -1,6 +1,6 @@
 ---
 title: Links
-banner-title: Links
+bannerTitle: Links
 layout: default
 aliases: [/links/]
 ---

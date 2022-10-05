@@ -1,4 +1,5 @@
 ---
+bannerTitle: gallery
 title: Chan
 type: gallery
 aliases: [/gallery/chan/]

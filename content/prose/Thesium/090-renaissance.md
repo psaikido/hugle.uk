@@ -1,6 +1,6 @@
 ---
 title: Renaissance
-banner-title: "Thesium" 
+bannerTitle: "Thesium" 
 layout: default 
 subnav: thesium 
 permalink: /thesium/090-renaissance.html

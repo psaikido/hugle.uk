@@ -1,6 +1,6 @@
 ---
 title: intro
-banner-title: "bucket" 
+bannerTitle: "bucket" 
 type: hk
 layout: bucket
 permalink: /bucket/

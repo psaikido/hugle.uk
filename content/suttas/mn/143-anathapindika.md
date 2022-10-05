@@ -1,6 +1,6 @@
 ---
 title: "MN 143 Anāthapiṇḍikovāda Sutta: Advice to Anāthapiṇḍikovāda"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shop
-banner-title: Shop
+bannerTitle: Shop
 layout: default
 aliases: [/shop/]
 ---

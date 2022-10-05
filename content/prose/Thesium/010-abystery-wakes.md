@@ -1,6 +1,6 @@
 ---
 title: Abystery
-banner-title: "Thesium" 
+bannerTitle: "Thesium" 
 layout: default 
 subnav: thesium 
 permalink: /thesium/010-abystery-wakes.html

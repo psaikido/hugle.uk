@@ -1,6 +1,6 @@
 ---
 title: Sorcerer
-banner-title: Pilgrimage - Mahabodhi Moonlight
+bannerTitle: Pilgrimage - Mahabodhi Moonlight
 layout: default
 subnav: pilgrimage
 ---

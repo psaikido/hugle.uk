@@ -1,6 +1,6 @@
 ---
 title: "SN 35.243 Avassutapariyaya Sutta: Exposition on the Corrupted"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

@@ -1,7 +1,7 @@
 ---
 title: night winds
 written: 2005
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/night-winds.html

@@ -1,7 +1,7 @@
 ---
 title: gliding
 written: 2016
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/gliding.html

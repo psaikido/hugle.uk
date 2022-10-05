@@ -1,6 +1,6 @@
 ---
 title: Press Release
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/press.html

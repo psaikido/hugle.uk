@@ -1,7 +1,7 @@
 ---
 title: glimpse
 written: 1996
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/glimpse.html

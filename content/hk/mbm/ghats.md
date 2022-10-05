@@ -1,7 +1,7 @@
 ---
 title: the burning ghats
 written: 2006
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/ghats.html

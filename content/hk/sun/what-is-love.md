@@ -1,7 +1,7 @@
 ---
 title: what is love?
 written: 1998 & 2020
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/what-is-love.html

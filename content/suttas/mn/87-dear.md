@@ -1,6 +1,6 @@
 ---
 title: "MN 87 Piyajātika: Born from those who are dear"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

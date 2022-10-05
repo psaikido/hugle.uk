@@ -1,6 +1,9 @@
 baseURL:  'http://localhost:1313/'
 languageCode: 'en-gb'
-title: 'hugle'
+
+params:
+  title: 'hugle'
+  description: "Hughie's pages of writing, Dharma, kites and magic."
 
 markup:
   goldmark:

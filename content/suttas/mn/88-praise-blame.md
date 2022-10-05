@@ -1,6 +1,6 @@
 ---
 title: "MN 88 Bahatika: The Cloak"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

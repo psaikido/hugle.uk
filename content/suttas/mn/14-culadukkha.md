@@ -1,6 +1,6 @@
 ---
 title: "MN 14 Cūḷa Dukkhakkhandha Sutta: The Lesser Mass of Suffering"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

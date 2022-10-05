@@ -1,6 +1,6 @@
 ---
 title: "MN 115 Bahudhatuka: The Many Kinds of Elements "
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

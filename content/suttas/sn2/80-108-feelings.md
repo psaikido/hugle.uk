@@ -1,6 +1,6 @@
 ---
 title: "SN 36.22 Aṭṭhasata Sutta: The 108 Feelings"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

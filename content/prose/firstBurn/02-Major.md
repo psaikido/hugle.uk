@@ -1,6 +1,6 @@
 ---
 title: Major
-banner-title: First Burn
+bannerTitle: First Burn
 layout: default
 subnav: first-burn
 ---

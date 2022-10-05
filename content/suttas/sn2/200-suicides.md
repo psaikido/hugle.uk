@@ -1,6 +1,6 @@
 ---
 title: "SN 54.9 Vesālī Sutta: At Vesālī"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

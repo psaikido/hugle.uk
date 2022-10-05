@@ -1,6 +1,6 @@
 ---      
 title: Great Light  
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/great-light.html

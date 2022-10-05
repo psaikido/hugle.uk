@@ -1,7 +1,7 @@
 ---
 title: bucket
 written: 2019
-banner-title: Yarn
+bannerTitle: Yarn
 layout: default
 subnav: yarn
 permalink: /yarn/bucket.html

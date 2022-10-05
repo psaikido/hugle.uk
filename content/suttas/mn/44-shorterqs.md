@@ -1,6 +1,6 @@
 ---
 title: "MN 44 Cūḷa Vedalla Sutta: The Shorter Series of Questions and Answers"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

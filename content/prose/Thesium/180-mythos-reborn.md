@@ -1,6 +1,6 @@
 ---
 title: Mythos Reborn
-banner-title: "Thesium" 
+bannerTitle: "Thesium" 
 layout: default 
 subnav: thesium 
 permalink: /thesium/180-mythos-reborn.html

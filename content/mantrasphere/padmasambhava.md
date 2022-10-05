@@ -1,6 +1,6 @@
 ---
 title: Padmasambhava
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/padmasambhava.html

@@ -1,6 +1,6 @@
 ---        
 title: Mani
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/mani.html

@@ -1,7 +1,7 @@
 ---
 title: dog and bell
 written: 2006
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/dog-bell.html

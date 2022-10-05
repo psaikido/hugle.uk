@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-    {{ partial "head.html" }}
+    {{ partial "head.html" . }}
 
     <body>
 
@@ -9,7 +9,11 @@
             <header>
                 {{ partial "main-nav.html" . }}
 
-                <h1>&#x0f3a; hugle &#x0f3b;</h1>
+                {{ if .Params.bannerTitle }}
+                    <h1>&#x0f3a; {{ .Params.bannerTitle }} &#x0f3b;</h1>
+                {{ else }}
+                    <h1>&#x0f3a; hugle &#x0f3b;</h1>
+                {{ end }}
 
                 <div class="search">
                     <button> 

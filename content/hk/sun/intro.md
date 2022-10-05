@@ -1,6 +1,6 @@
 ---
 title: intro 
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 type: hk
 layout: sun
 permalink: /sun/

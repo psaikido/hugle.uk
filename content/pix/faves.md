@@ -1,4 +1,5 @@
 ---
+bannerTitle: gallery
 title: faves
 type: gallery
 aliases: [/gallery/faves/]

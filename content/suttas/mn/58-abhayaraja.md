@@ -1,6 +1,6 @@
 ---
 title: "MN 58 Abhaya Rāja Kumāra: To Prince Abhaya"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

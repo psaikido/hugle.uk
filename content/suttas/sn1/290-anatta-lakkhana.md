@@ -1,6 +1,6 @@
 ---
 title: "SN 22.59 Anatta-lakkhana Sutta: The Characteristics of Non-Self"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

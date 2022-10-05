@@ -1,6 +1,6 @@
 ---
 title: "MN 124 Bakkula Sutta"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

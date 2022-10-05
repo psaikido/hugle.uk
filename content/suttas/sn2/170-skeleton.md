@@ -1,6 +1,6 @@
 ---
 title: "SN 46.57 Meditate on a Skeleton" 
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

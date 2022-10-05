@@ -1,6 +1,6 @@
 ---
 title: "SN 21.7 Visakha Sutta: Well Spoken Words"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

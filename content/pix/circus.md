@@ -1,4 +1,5 @@
 ---
+bannerTitle: gallery
 title: Snapdragon Circus 1990/91
 type: gallery
 aliases: [/gallery/circus/]

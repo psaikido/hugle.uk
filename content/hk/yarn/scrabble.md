@@ -1,7 +1,7 @@
 ---
 title: scrabble
 written: 2020
-banner-title: Yarn
+bannerTitle: Yarn
 type: hk
 layout: hk/yarn
 aliases: [/yarn/scrabble.html]

@@ -1,6 +1,6 @@
 ---              
 title: Everyone's Gotta Die  
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/gotta-die.html

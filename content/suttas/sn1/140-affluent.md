@@ -1,6 +1,6 @@
 ---
 title: "SN 7.14 Mahāsāla Sutta: The Affluent One"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

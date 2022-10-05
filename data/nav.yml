@@ -12,7 +12,7 @@ solos:
       url: /links/
 
     - title: sitemap
-      url: /sitemap.html
+      url: /sitemap/
 
     - title: about
       url: /about/
@@ -27,16 +27,16 @@ nests:
       - title: poetry
         subsub: 
         - title: Mahabodhi Moonlight
-          url: /hk/mbm/
+          url: /hk/mbm/intro/
 
         - title: Yarn
-          url: /hk/yarn/
+          url: /hk/yarn/intro/
 
         - title: Sunshine & Shadow
-          url: /hk/sun/
+          url: /hk/sun/intro/
 
         - title: Bucket
-          url: /hk/bucket/
+          url: /hk/bucket/intro/
 
       - title: prose
         subsub:

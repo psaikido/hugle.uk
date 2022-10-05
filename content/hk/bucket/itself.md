@@ -1,7 +1,7 @@
 ---
 title: itself
 written: 2021
-banner-title: "bucket" 
+bannerTitle: "bucket" 
 layout: default
 subnav: bucket
 permalink: /bucket/itself.html

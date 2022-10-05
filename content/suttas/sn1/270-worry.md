@@ -1,6 +1,6 @@
 ---
 title: "SN 22.7 Upaadaaparitassanaa Sutta: Grasping and Worry"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

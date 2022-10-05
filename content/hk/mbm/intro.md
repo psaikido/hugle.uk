@@ -1,6 +1,6 @@
 ---
 title: intro 
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 type: hk
 layout: mbm
 permalink: /mbm/

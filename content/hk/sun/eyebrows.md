@@ -1,7 +1,7 @@
 ---
 title: eyebrows
 written: 2019
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/eyebrows.html

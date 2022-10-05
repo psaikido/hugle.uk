@@ -1,6 +1,6 @@
 ---
+bannerTitle: hugle
 title: Portfolio
-banner-title: Portfolio
 type: gallery
 aliases: [/gallery/portfolio/]
 imageDir: /images/portfolio/

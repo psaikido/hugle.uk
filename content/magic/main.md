@@ -1,6 +1,6 @@
 ---
 title: hugle
-banner-title: hugle - magic
+bannerTitle: hugle - magic
 layout: youtubes
 yml-data: magic-youtubes
 subnav: magic 

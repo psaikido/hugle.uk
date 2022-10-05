@@ -1,6 +1,6 @@
 ---
 title: "SN 35.69 Upasena Sutta: Upasena"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

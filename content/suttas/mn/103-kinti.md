@@ -1,6 +1,6 @@
 ---
 title: "MN 103 Kinti: Dealing with Disputes"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

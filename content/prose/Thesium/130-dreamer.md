@@ -1,6 +1,6 @@
 ---
 title: Dreamer
-banner-title: "Thesium" 
+bannerTitle: "Thesium" 
 layout: default 
 subnav: thesium 
 permalink: /thesium/130-dreamer.html

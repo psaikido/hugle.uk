@@ -1,4 +1,5 @@
 ---
+bannerTitle: hugle
 title: mantra carving
 type: gallery
 aliases: [/gallery/stones/]

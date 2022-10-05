@@ -1,7 +1,7 @@
 ---
 title: all of us 
 written: 2019
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/all-of-us.html

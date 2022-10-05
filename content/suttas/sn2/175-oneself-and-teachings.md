@@ -1,6 +1,6 @@
 ---
 title: "SN 47.9 Gilāna Sutta: Oneself & the Teachings" 
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

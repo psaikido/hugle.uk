@@ -1,6 +1,6 @@
 ---
 title: Addendum 
-banner-title: "Thesium" 
+bannerTitle: "Thesium" 
 layout: default 
 subnav: thesium 
 permalink: /thesium/190-addendum.html

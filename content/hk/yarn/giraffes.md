@@ -1,7 +1,7 @@
 ---
 title: giraffes
 written: 2020
-banner-title: Yarn
+bannerTitle: Yarn
 layout: default
 subnav: yarn
 permalink: /yarn/giraffes.html

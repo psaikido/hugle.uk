@@ -1,6 +1,6 @@
 ---
 title: "SN 47.20 Sedaka Sutta (2): The Beauty Queen"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

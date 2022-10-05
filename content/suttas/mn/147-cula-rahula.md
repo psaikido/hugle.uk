@@ -1,6 +1,6 @@
 ---
 title: "MN 147 Cūḷa Rāhulovāda Sutta: Shorter Advice to Rāhula"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

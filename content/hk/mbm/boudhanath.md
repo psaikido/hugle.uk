@@ -1,7 +1,7 @@
 ---
 written: 2006
 title: Boudhanath stupa
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/boudhanath.html

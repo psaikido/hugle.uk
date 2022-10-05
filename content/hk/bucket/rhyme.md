@@ -1,7 +1,7 @@
 ---
 title: rhyme
 written: 2022
-banner-title: "bucket" 
+bannerTitle: "bucket" 
 layout: default
 subnav: bucket
 permalink: /bucket/rhyme.html

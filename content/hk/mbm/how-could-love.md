@@ -1,7 +1,7 @@
 ---
 title: how could love
 written: 2005
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/how-could-love.html

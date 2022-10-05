@@ -1,6 +1,6 @@
 ---
 title: "MN 60 Apaṇṇaka: The Incontrovertible Teaching"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

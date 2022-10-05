@@ -1,6 +1,6 @@
 ---
 title: "SN 6.5 Apara Ditthi: The Wrong View of a Certain Brahma"
-banner-title: "Saṁyutta Nikāya I" 
+bannerTitle: "Saṁyutta Nikāya I" 
 layout: default 
 subnav: suttas-sn1
 ---

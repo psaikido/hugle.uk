@@ -1,6 +1,6 @@
 ---
 title: "MN 26 Ariyapariyesana: The Noble Search"
-banner-title: "Majjhima Nikāya" 
+bannerTitle: "Majjhima Nikāya" 
 layout: default 
 subnav: suttas-mn 
 ---

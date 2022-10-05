@@ -1,6 +1,6 @@
 ---
 title: Turd in a Box
-banner-title: Turd in a Box
+bannerTitle: Turd in a Box
 layout: default
 ---
 

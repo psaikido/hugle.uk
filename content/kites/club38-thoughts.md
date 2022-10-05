@@ -1,7 +1,7 @@
 ---
 layout: default
 title: kite thoughts 
-banner-title: kite thoughts 
+bannerTitle: kite thoughts 
 permalink: /kites/kite-thoughts.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: for Bankei
 written: 2005
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/for-bankei.html

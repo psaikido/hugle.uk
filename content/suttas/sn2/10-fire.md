@@ -1,6 +1,6 @@
 ---
 title: "SN 35.28 Āditta-pariyāya Sutta: The Fire Sermon"
-banner-title: "Saṁyutta Nikāya II" 
+bannerTitle: "Saṁyutta Nikāya II" 
 layout: default 
 subnav: suttas-sn2
 ---

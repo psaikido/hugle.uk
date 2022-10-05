@@ -1,7 +1,7 @@
 ---
 title: dog at Tsopema
 written: 2005
-banner-title: "Mahabodhi Moonlight" 
+bannerTitle: "Mahabodhi Moonlight" 
 layout: default
 subnav: mbm
 permalink: /mbm/tsopema.html

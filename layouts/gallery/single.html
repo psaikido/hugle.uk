@@ -10,7 +10,7 @@
 
     {{ range .Params.images }}
         <figure>
-            {{ if isset .Params "name" }}
+            {{ if .name }}
                 <h5>{{ .name }}</h5>
             {{ end }}
 
@@ -19,12 +19,12 @@
                  class = "center-img" />
 
             <figurecaption>
-                {{ if isset .Params "text" }}
+                {{ if .text }}
                     {{ .text }}
                     <br />
                 {{ end }}
 
-                {{ if isset .Params "url" }}
+                {{ if .url }}
                     <a href="{{ .url }}">{{ .urlText }}</a>
                 {{ end }}
             </figurecaption>

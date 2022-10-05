@@ -1,6 +1,6 @@
 ---          
 title: The Sailing Stars  
-banner-title: "Mantrasphere" 
+bannerTitle: "Mantrasphere" 
 layout: default
 subnav: mantrasphere
 permalink: /mantrasphere/sailing-stars.html

@@ -1,7 +1,7 @@
 ---
 title: la via dolorosa
 written: 2019
-banner-title: "Sunshine & Shadow" 
+bannerTitle: "Sunshine & Shadow" 
 layout: default
 subnav: sun
 permalink: /sun/dolorosa.html
