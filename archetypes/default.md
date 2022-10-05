@@ -1,6 +1,7 @@
 ---
+bannerTitle: "" 
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+written: 
+type: hk/
 ---
 
