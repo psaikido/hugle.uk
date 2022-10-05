@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: Chris Evans
 written: 2022
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/chris-evans.html
+type: hk/bucket
 ---
 
-<div class="poem">
 whose name did I write?  
 
 now, I don't think I looked    
@@ -72,6 +69,5 @@ nearly thirty years later
 I honestly can't remember  
 whose name  
 I wrote
-</div>
 
-![Chris Evans & Billie Piper]({{ site.baseurl }}/assets/images/bucket/chris-evans-billie-piper.jpg)
+![Chris Evans & Billie Piper](/images/bucket/chris-evans-billie-piper.jpg)

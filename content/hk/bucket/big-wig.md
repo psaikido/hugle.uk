@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: big wig
 written: 2020
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/big-wig.html
+type: hk/bucket
 ---
 
-<div class="poem">
 the big wig explained  
 just how very big  
 his bigness really was  
@@ -74,7 +71,6 @@ what is it
 to pretend to rule the world  
 and be  
 friendless?  
-</div>
 
 
-!["Darth Vader"]({{ site.baseurl }}/assets/images/bucket/darth-vader.jpg "Darth Vader")  
+!["Darth Vader"](/images/bucket/darth-vader.jpg "Darth Vader")  

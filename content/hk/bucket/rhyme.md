@@ -1,15 +1,11 @@
 ---
+bannerTitle: "bucket" 
 title: rhyme
 written: 2022
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/rhyme.html
+type: hk/bucket
 ---
 
-<div class="poem">
 The practice of poetic rhyming,  
 Of rhythm and metre and timing,  
 Are rules you can follow  
 or not
-</div>

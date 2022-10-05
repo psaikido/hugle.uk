@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: don't freak out
 written: 2019
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/dont-freak-out.html
+type: hk/bucket
 ---
 
-<div class="poem">
 when Hughie is freaking out  
 Cháng Kè says:  
 
@@ -52,5 +49,4 @@ have faith and surrender
 to the surrounding hush  
 so bright  
 with loving
-</div>
 

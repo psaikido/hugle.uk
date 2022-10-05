@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: pretend
 written: 2021
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/pretend.html
+type: hk/bucket
 ---
 
-<div class="poem">
 why do junkies always  
 tell you that they're clean  
 and pillars of society  
@@ -20,4 +17,3 @@ we've all constructed facades
 but falsities offend  
 don't they say let's all be nice  
 so pretend pretend pretend
-</div>

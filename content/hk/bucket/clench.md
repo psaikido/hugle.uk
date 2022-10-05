@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: clench
 written: 2020
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/clench.html
+type: hk/bucket
 ---
 
-<div class="poem">
 a centre had an open day  
 they hired us for a show  
 thirty odd teenage boys  
@@ -76,4 +73,3 @@ and utterly
 
 
 bananas
-</div>

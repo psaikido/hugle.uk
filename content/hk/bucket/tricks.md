@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: tricks
 written: 2021
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/tricks.html
+type: hk/bucket
 ---
 
-<div class="poem">
 impromptu magic show  
 a large Indian family  
 had reacted with fear  
@@ -66,4 +63,3 @@ their own sorcery
 that they are victims  
 even while  
 they kill
-</div>

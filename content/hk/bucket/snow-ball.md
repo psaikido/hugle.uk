@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: snow ball
 written: 2022
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/snow-ball.html
+type: hk/bucket
 ---
 
-<div class="poem">
 the snow was brilliant  
 the whole school  
 going mad  
@@ -50,4 +47,3 @@ the sheer jubilation
 the back of her head  
 protected by a dark blue veil  
 went 'dufff'
-</div>

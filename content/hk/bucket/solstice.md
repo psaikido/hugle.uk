@@ -1,14 +1,11 @@
 ---
+bannerTitle: "bucket" 
 title: solstice
 written: 2020
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/solstice.html
+type: hk/bucket
 ---
 
 
-<div class="poem">
 a Glastonbury solstice  
 near dawn  
 a young guy  
@@ -82,8 +79,7 @@ blazing
 sputtering forth  
 towards the setting  
 of that sun
-</div>
 
 
-!["dawn approaching"]({{ site.baseurl }}/assets/images/bucket/dawn-approaching.jpg "dawn approaching")  
+!["dawn approaching"](/images/bucket/dawn-approaching.jpg "dawn approaching")  
 credit [sunrise.maplogs.com](https://sunrise.maplogs.com/)

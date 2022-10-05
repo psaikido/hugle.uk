@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: top dogs
 written: 2020
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/top-dogs.html
+type: hk/bucket
 ---
 
-<div class="poem">
 the top dogs  
 our CEO from Murca  
 with his consigliere  
@@ -65,7 +62,6 @@ yes they get the lion's share
 but  
 the dog-eat-dog mind  
 belongs to the animals  
-</div>
 
-!["dog and bone"]({{ site.baseurl }}/assets/images/bucket/dog-and-bone.jpg "dog and bone")  
+!["dog and bone"](/images/bucket/dog-and-bone.jpg "dog and bone")  
 [credit](https://rocksolidk9.wordpress.com/)

@@ -1,9 +1,7 @@
 ---
-title: intro
 bannerTitle: "bucket" 
-type: hk
-layout: bucket
-permalink: /bucket/
+title: intro
+type: hk/bucket
 ---
 
 Unpublished stuff

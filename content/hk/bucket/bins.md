@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: bins 
 written: 2021
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/bins.html
+type: hk/bucket
 ---
 
-<div class="poem">
 the expanse of sky
 
 so clear
@@ -21,4 +18,3 @@ cool and massive
 suddenly happy
 
 putting out the bins
-</div>

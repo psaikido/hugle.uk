@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: Noel Reilly
 written: 2021
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/reilly.html
+type: hk/bucket
 ---
 
-<div class="poem">
 on a slow afternoon in the Beehive  
 I was working behind the bar  
 when this red-faced woman  
@@ -47,7 +44,6 @@ and points right at him
 as Noel does a quick 180  
 and disappears  
 scuttling back upstairs
-</div>
 
-![Noel Reilly]({{ site.baseurl }}/assets/images/bucket/noel-reilly.jpg "Noel Reilly")
+![Noel Reilly](/images/bucket/noel-reilly.jpg "Noel Reilly")
 [Philosopher](https://www.swindonadvertiser.co.uk/news/11136446.the-time-an-outrageous-pub-landlord-managed-to-get-swindon-into-the-new-york-times/)

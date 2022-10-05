@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: thirst
 written: 2022 (for Cathy)
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/thirst.html
+type: hk/bucket
 ---
 
-<div class="poem">
 it was thirst  
 
 that drove the iceberg  
@@ -19,5 +16,4 @@ searching for its source
 even as it melted  
 
 away  
-</div>
 

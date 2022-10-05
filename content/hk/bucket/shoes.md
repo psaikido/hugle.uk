@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: shoes
 written: 2022
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/shoes.html
+type: hk/bucket
 ---
 
-<div class="poem">
 argument and counter-argument  
 all night long  
 the philosophers debated  
@@ -30,6 +27,5 @@ that was free will
 
 the second?  
 karma
-</div>
 
-![Chan monk shoes]( /assets/images/chan/shoes.jpg)
+![Chan monk shoes](/images/chan/shoes.jpg)

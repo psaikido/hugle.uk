@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: reflection
 written: 2022
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/reflection.html
+type: hk/bucket
 ---
 
-<div class="poem">
 droplets condensed   
 on a window  
 moments ago  
@@ -22,6 +19,5 @@ finger writing
 on glass  
 I point  
 at my reflection
-</div>
 
-![Pete, Hughie, Barry]( /assets/images/mantrasphere/gallery/promo/pl_hc_ba.jpg "Pete, Hughie & Barry reflections")
+![Pete, Hughie, Barry](/images/mantrasphere/gallery/promo/pl_hc_ba.jpg "Pete, Hughie & Barry reflections")

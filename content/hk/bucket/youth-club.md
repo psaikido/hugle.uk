@@ -1,14 +1,11 @@
 ---
+bannerTitle: "bucket" 
 title: youth club
 written: 2020
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/youth-club.html
+type: hk/bucket
 ---
 
 
-<div class="poem">
 we'd not done a show  
 together before  
 me and Dik  
@@ -104,9 +101,8 @@ a wee head
 popped around the corner  
 and called out  
 "we liked you really!"
-</div>
 
 
-!["hands in chains"]({{ site.baseurl }}/assets/images/bucket/bound-with-chains.jpg "hands in chains")  
+!["hands in chains"](/images/bucket/bound-with-chains.jpg "hands in chains")  
 [image credit](https://simplyconsiderthis.wordpress.com/2013/03/23/how-can-i-be-set-free/)  
 with thanks to [Dik Downey](https://www.opposablethumbtheatre.com/the-company)

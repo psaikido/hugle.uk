@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: 30 years
 written: 2021
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/30years.html
+type: hk/bucket
 ---
 
-<div class="poem">
 thirty years ago
 
 today
@@ -21,6 +18,5 @@ this old man
 still struggling
 
 to be born
-</div>
 
-![the fateful stunt]({{ site.baseurl }}/assets/images/circus/suitcase.jpg "the fateful stunt")
+![the fateful stunt](/images/circus/suitcase.jpg "the fateful stunt")

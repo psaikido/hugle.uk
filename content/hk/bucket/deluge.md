@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: deluge
 written: 2022
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/deluge.html
+type: hk/bucket
 ---
 
-<div class="poem">
 above the waterline  
 we speak  
 and breathe  
@@ -38,6 +35,5 @@ and take a stand
 while there is yet  
 ground  
 beneath your feet
-</div>
 
-![underwater Christ](/assets/images/bucket/underwater-christ.jpg)
+![underwater Christ](/images/bucket/underwater-christ.jpg)

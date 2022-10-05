@@ -1,13 +1,10 @@
 ---
+bannerTitle: "bucket" 
 title: beep
 written: 2020
-bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/beep.html
+type: hk/bucket
 ---
 
-<div class="poem">
 the command I typed  
 had a space  
 where it should not have been  
@@ -63,7 +60,6 @@ a heart attack
 clickery tappery  
 is no way  
 to earn a living  
-</div>
 
 
-!["row of monitors"]({{ site.baseurl }}/assets/images/bucket/monitors.jpg "row of monitors")  
+!["row of monitors"](/images/bucket/monitors.jpg "row of monitors")  

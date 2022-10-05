@@ -1,13 +1,10 @@
 ---
-title: everybody's gotta die
-written: 2014/2021
 bannerTitle: "bucket" 
-layout: default
-subnav: bucket
-permalink: /bucket/gotta-die.html
+title: gotta die
+written: 2014/2021
+type: hk/bucket
 ---
 
-<div class="poem">
 cancer pneumonia   
 HIV  
 choking on a bun  
@@ -82,4 +79,3 @@ stop
 
 
 (_song lyrics_)
-</div>
