@@ -1,9 +1,7 @@
 ---
-title: intro 
 bannerTitle: "Mahabodhi Moonlight" 
-type: hk
-layout: mbm
-permalink: /mbm/
+title: intro 
+type: hk/mbm
 ---
 
 A Buddhist pilrimage undergone in 2005/6. The writings in prose form

@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 written: 2006
 title: Boudhanath stupa
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/boudhanath.html
+type: hk/mbm
 ---
 
-<div class="poem">
 Boudhanath stupa  
 long imagined  
 now really here
@@ -19,6 +16,5 @@ the universal tragedy
 and wonder
  
 what those eyes see
-</div>
 
-!["Boudhanath, Katmandu"]({{ site.baseurl }}/assets/images/pilg1/boudhanath.jpg "Boudhanath, Katmandu")
+!["Boudhanath, Katmandu"](/images/pilg1/boudhanath.jpg "Boudhanath, Katmandu")

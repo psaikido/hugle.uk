@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: Rajgir
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/rajgir.html
+type: hk/mbm
 ---
 
-<div class="poem">
 thunderstruck  
 I sit on Vulture Peak  
 where the Compassionate One  
@@ -22,7 +19,6 @@ the gratitude
 to hear the echoes  
 
 still
-</div>
 
-!["Rajgir Vulture Peak"]({{ site.baseurl }}/assets/images/pilg1/rajgir.jpg "Rajgir Vulture Peak")  
+!["Rajgir Vulture Peak"](/images/pilg1/rajgir.jpg "Rajgir Vulture Peak")  
 [what3words](https://what3words.com/emblem.counts.basically)

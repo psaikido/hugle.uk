@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: Leh
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/leh.html
+type: hk/mbm
 ---
 
-<div class="poem">
 silk route city  
 our wobbly legs  
 in your ancient streets
@@ -23,6 +20,5 @@ but I feel jubilant
 a wonderful freedom  
 knowing everyone  
 is me
-</div>
 
-!["Leh dogs"]({{ site.baseurl }}/assets/images/pilg1/lehdogs.jpg "Leh dogs")
+!["Leh dogs"](/images/pilg1/lehdogs.jpg "Leh dogs")

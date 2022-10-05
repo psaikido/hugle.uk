@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: the burning ghats
 written: 2006
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/ghats.html
+type: hk/mbm
 ---
 
-<div class="poem">
 through the heat shimmer  
 of the pyres of Varanasi  
 a boat  
@@ -28,6 +25,5 @@ the elements return
 to Mother Nature  
 from whom  
 they never really left
-</div>
 
-!["The Burning Ghats at Varanasi"]({{ site.baseurl }}/assets/images/pilg1/ghats.jpg "The Burning Ghats at Varanasi")
+!["The Burning Ghats at Varanasi"](/images/pilg1/ghats.jpg "The Burning Ghats at Varanasi")

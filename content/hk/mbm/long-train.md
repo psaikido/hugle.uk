@@ -1,14 +1,11 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: long train
 written: 2020
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/long-train.html
+type: hk/mbm
 ---
 
 
-<div class="poem">
 man but that train  
 just rolled on forever  
 clanking  
@@ -70,7 +67,6 @@ with gratitude
 that a home  
 could be found  
 anywhere
-</div>
 
 
-!["H does a trick for an Indian boy"]({{ site.baseurl }}/assets/images/pilg1/pilg84.jpg "H does a trick for an Indian boy")
+!["H does a trick for an Indian boy"](/images/pilg1/pilg84.jpg "H does a trick for an Indian boy")

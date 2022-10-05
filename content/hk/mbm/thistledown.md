@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: thistledown 
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/thistledown.html
+type: hk/mbm
 ---
 
-<div class="poem">
 homeless thistledown  
 drifting through
 
@@ -22,4 +19,3 @@ of everything
 
 the hello and goodbye  
 of everyone
-</div>

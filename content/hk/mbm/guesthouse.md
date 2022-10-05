@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: guesthouse
 written: 2006
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/guesthouse.html
+type: hk/mbm
 ---
 
-<div class="poem">
 yet another guesthouse  
 left behind  
 it's ok
@@ -21,6 +18,5 @@ one day older
  
 my heart  
 one day lighter
-</div>
 
-!["Leh"]({{ site.baseurl }}/assets/images/pilg1/cow.jpg "Leh")
+!["Leh"](/images/pilg1/cow.jpg "Leh")

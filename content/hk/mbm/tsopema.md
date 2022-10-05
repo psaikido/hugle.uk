@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: dog at Tsopema
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/tsopema.html
+type: hk/mbm
 ---
 
-<div class="poem">
 we walked around  
 the holy lake  
 suddenly  
@@ -26,6 +23,5 @@ let go
 what if I really stopped  
 asking the world  
 to make me happy?
-</div>
 
-!["Tsopema"]({{ site.baseurl }}/assets/images/pilg1/tsopema.jpg "Tsopema")
+!["Tsopema"](/images/pilg1/tsopema.jpg "Tsopema")

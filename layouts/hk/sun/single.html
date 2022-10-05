@@ -1,10 +1,4 @@
 {{ define "main" }}
-    <h2>{{ .Params.title }}</h2>
-    {{ .Content }}
-{{ end }}
-
-{{ define "subnavbar" }}
-    <aside class="subnavbar">
-        stuff
-    </aside>
+    {{ .Scratch.Set "menu" .Site.Data.sun.menu }}
+    {{ partial "poem.html" . }}
 {{ end }}

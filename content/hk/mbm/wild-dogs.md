@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: wild dogs
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/wild-dogs.html
+type: hk/mbm
 ---
 
-<div class="poem">
 wild dogs barking  
 sleepless belly rumbling  
 very late or very early?  
@@ -19,4 +16,3 @@ and loneliness
 how I wish I knew
  
 the way
-</div>

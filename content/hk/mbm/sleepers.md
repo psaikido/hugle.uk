@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: sleepers
 written: 2006
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/sleepers.html
+type: hk/mbm
 ---
 
-<div class="poem">
 clickety clock  
 night freighted  
 rolling stock  
@@ -31,6 +28,5 @@ loco motives
 shadow schemes  
 human cargo  
 of dreams
-</div>
 
-!["train to Bangkok"]({{ site.baseurl }}/assets/images/pilg1/sleepers.jpg "train to Bangkok")
+!["train to Bangkok"](/images/pilg1/sleepers.jpg "train to Bangkok")

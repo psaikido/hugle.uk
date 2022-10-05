@@ -63,7 +63,6 @@
             width: 100%;
             margin-bottom: 20px;
         }
-
     }
 
     .img-half {
@@ -81,6 +80,13 @@
         padding: 0;
     }
 
+    .poem-footer {
+        text-align: right;
+        font-style: italic;
+        font-size: 95%;
+        color: var(--text-accent);
+    }
+
     .center-quote {
         padding: 19px 0 0 0;
     }
@@ -89,13 +95,6 @@
         color: var(--text-accent);
         font-style: italic;
         border-bottom: 1px solid var(--border-main);
-    }
-
-    .poem-footer {
-        text-align: right;
-        font-style: italic;
-        font-size: 95%;
-        color: var(--text-accent);
     }
 
     #results {

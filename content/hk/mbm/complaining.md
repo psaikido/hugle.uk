@@ -1,13 +1,10 @@
 ---
-title: when complaining stops
-written: 2005
 bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/complaining.html
+title: complaining
+written: 2005
+type: hk/mbm
 ---
 
-<div class="poem">
 when complaining stops  
 the world floods in  
 and I'm swept along  
@@ -16,6 +13,5 @@ by the tweeting of birds
 the murmuring street
  
 the patter of rain
-</div>
 
-!["Leh, Ladakh"]({{ site.baseurl }}/assets/images/pilg1/walltree.jpg "Leh, Ladakh")
+!["Leh, Ladakh"](/images/pilg1/walltree.jpg "Leh, Ladakh")

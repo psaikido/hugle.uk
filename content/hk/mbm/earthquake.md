@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: earthquake
 written: 2020
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/earthquake.html
+type: hk/mbm
 ---
 
-<div class="poem">
 [Ontul Rinpoche](https://www.facebook.com/ontul)'s answer  
 had made me laugh  
 "what is your essential practice?"  
@@ -55,8 +52,7 @@ and loving the camaraderie
 of accepting  
 our imminent  
 demise
-</div>
 
-!["Tsopema"]({{ site.baseurl }}/assets/images/pilg1/pilg54.jpg "Nuns at Tsopema")
+!["Tsopema"](/images/pilg1/pilg54.jpg "Nuns at Tsopema")
 [what3words](https://what3words.com/sentry.jauntily.dean)  
 [wikipedia](https://en.wikipedia.org/wiki/2005_Kashmir_earthquake)

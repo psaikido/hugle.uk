@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: kaleidoscope
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/kaleidoscope.html
+type: hk/mbm
 ---
 
-<div class="poem">
 yesterday's endless kaleidoscope  
 conjured life stories  
 revolving  
@@ -24,4 +21,3 @@ today's unfolding bewilderment
 karmic quanderies unreal  
 inspiring  
 expiring
-</div>

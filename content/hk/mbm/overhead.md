@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: overhead
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/overhead.html
+type: hk/mbm
 ---
 
-<div class="poem">
 overhead  
 the eagle wheeled
  
@@ -18,6 +15,5 @@ the rock in my hands
 momentarily
  
 weightless
-</div>
 
-!["Choglamsar Desert"]({{ site.baseurl }}/assets/images/pilg1/choglamsarDesert.jpg "Choglamsar Desert")
+!["Choglamsar Desert"](/images/pilg1/choglamsarDesert.jpg "Choglamsar Desert")

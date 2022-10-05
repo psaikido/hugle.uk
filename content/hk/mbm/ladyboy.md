@@ -1,14 +1,11 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: ladyboy
 written: 2020
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/ladyboy.html
+type: hk/mbm
 ---
 
 
-<div class="poem">
 Bangkok ladyboy  
 following us  
 leaving the park  
@@ -70,7 +67,6 @@ wondering
 about the many ways  
 one can prostitute  
 oneself
-</div>
 
 
 !["ladyboy"]({{ site.baseurl }}/assets/images/bucket/ladyboy.jpg "ladyboy")

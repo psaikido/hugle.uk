@@ -1,39 +1,5 @@
 {{ define "main" }}
-    <h2 class="poem-title">{{ .Params.title }}</h2>
-
-    {{ .Content }}
-
-    <div class="poem-footer"> 
-        {{ if .Params.written }}
-            <div class="poem-written-date">
-                HC: {{ .Params.written }}
-            </div>
-        {{ end }}
-
-        {{ $currentItemFound := "false" }}
-
-        {{ range .Site.Data.bucket.menu }}
-            {{ if eq $currentItemFound "true" }}
-                <div class="next">
-                    next -> <a href="{{ .Params.url }}" alt="{{ .Params.title }}">{{ .Params.title }}</a>
-                </div>
-            {{ end }}
-
-            {{ if eq $.Page.Title .title }}
-                {{ $currentItemFound := "true" }}
-            {{ end }}
-        {{ end }}
-    </div>
+    {{ .Scratch.Set "menu" .Site.Data.bucket.menu }}
+    {{ partial "poem.html" . }}
 {{ end }}
 
-{{ define "subnavbar" }}
-    <aside class="subnavbar">
-        <ul>
-            {{ range .Site.Data.bucket.menu }}
-                <li class="{{ if eq $.Page.Title .title }}current{{ end }}">
-                    <a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
-                </li>
-            {{ end }}
-        </ul>
-    </aside>
-{{ end }}

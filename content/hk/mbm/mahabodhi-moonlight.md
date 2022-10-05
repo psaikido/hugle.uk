@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: Mahabodhi moonlight
 written: 2006
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/mahabodhi-moonlight.html
+type: hk/mbm
 ---
 
-<div class="poem">
 power cut  
 just long enough  
 to hear the hush  
@@ -20,6 +17,5 @@ to feel the benediction
 and answer
  
 just answer
-</div>
 
-!["The Mahabodhi Temple"]({{ site.baseurl }}/assets/images/pilg1/mahabodhi.jpg "The Mahabodhi Temple")
+!["The Mahabodhi Temple"](/images/pilg1/mahabodhi.jpg "The Mahabodhi Temple")

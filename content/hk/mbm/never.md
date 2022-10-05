@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: never
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/never.html
+type: hk/mbm
 ---
 
-<div class="poem">
 pain body condensed  
 made of fear  
 helpless in the endless night  
@@ -19,4 +16,3 @@ embracing the tragic me
 Dharmakaya whispering  
 I will never  
 leave you
-</div>

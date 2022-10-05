@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: for Bankei
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/for-bankei.html
+type: hk/mbm
 ---
 
-<div class="poem">
 my birth pangs  
 my death throes  
 ambiguous collisions  
@@ -22,4 +19,3 @@ in mutual appreciation
 my voice
  
 finally heard
-</div>

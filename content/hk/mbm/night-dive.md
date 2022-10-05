@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: night dive
 written: 2006
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/night-dive.html
+type: hk/mbm
 ---
 
-<div class="poem">
 night dive  
 scary jump nervous  
 black waters threaten  
@@ -33,6 +30,5 @@ cosmic expanse
 of wonderment  
 looping above  
 looming below
-</div>
 
-!["Thailand Andaman Sea night dive"]({{ site.baseurl }}/assets/images/pilg1/night-dive.jpg "Thailand Andaman Sea night dive")
+!["Thailand Andaman Sea night dive"](/images/pilg1/night-dive.jpg "Thailand Andaman Sea night dive")

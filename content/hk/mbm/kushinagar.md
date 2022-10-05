@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: Kushinagar
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/kushinagar.html
+type: hk/mbm
 ---
 
-<div class="poem">
 that massive bell rang  
 here where the Buddha died  
 polyphonic primal purity  
@@ -33,6 +30,5 @@ that Dharma wheel
 still ringing  
 its ancient presence  
 pristine
-</div>
 
-!["Kushinagar"]({{ site.baseurl }}/assets/images/pilg1/kushinagar.jpg "Kushinagar")
+!["Kushinagar"](/images/pilg1/kushinagar.jpg "Kushinagar")

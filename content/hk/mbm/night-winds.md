@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: night winds
 written: 2005
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/night-winds.html
+type: hk/mbm
 ---
 
-<div class="poem">
 night winds  
 rampaging through  
 this empty hotel  
@@ -18,6 +15,5 @@ kick the toilet door
 roaring  
 their friends  
 ransack the building  
-</div>
 
-!["Lamayuru Gompa"]({{ site.baseurl }}/assets/images/pilg1/lamayuru.jpg "Lamayuru Gompa")
+!["Lamayuru Gompa"](/images/pilg1/lamayuru.jpg "Lamayuru Gompa")

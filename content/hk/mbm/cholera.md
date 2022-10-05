@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: cholera
 written: 2020
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/cholera.html
+type: hk/mbm
 ---
 
-<div class="poem">
 over the doctor's shoulder  
 I hallucinated Green Tara  
 ethereal light all around  
@@ -73,4 +70,3 @@ a desolation so complete
 the Queen of the Dead herself  
 would turn away  
 in fright
-</div>

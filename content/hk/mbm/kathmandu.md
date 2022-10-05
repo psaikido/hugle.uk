@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Mahabodhi Moonlight" 
 title: Kathmandu
 written: 2006
-bannerTitle: "Mahabodhi Moonlight" 
-layout: default
-subnav: mbm
-permalink: /mbm/kathmandu.html
+type: hk/mbm
 ---
 
-<div class="poem">
 rainy night in Kathmandu  
 ghostly cycle rickshaw  
 looms and swishes
@@ -19,6 +16,5 @@ suddenly goes dark
 all but this shop
  
 shining
-</div>
 
-!["Kathmandu"]({{ site.baseurl }}/assets/images/pilg1/kathmandu.jpg "Kathmandu")
+!["Kathmandu"](/images/pilg1/kathmandu.jpg "Kathmandu")
