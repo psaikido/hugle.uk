@@ -2,12 +2,11 @@
 title: scrabble
 written: 2020
 banner-title: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/scrabble.html
+type: hk
+layout: hk/yarn
+aliases: [/yarn/scrabble.html]
 ---
 
-<div class="poem">
 scrabble at Christmas  
 Grandma Burke visiting  
 mam and dad in a team  
@@ -53,6 +52,5 @@ the more serious they looked
 the more we howled  
 it couldn't  
 be helped
-</div>
 
-![Grandma Burke & Carrolls]({{ site.baseurl }}/assets/images/bucket/carrolls_grandmab.jpg "Grandma Burke & Carrolls")
+![Grandma Burke & Carrolls](/images/bucket/carrolls_grandmab.jpg "Grandma Burke & Carrolls")

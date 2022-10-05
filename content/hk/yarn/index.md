@@ -1,12 +1,13 @@
 ---
 title: intro
 banner-title: Yarn
-layout: default
+layout: hk/yarn
 subnav: yarn
-permalink: /yarn/
+aliases: [/yarn/]
 ---
 
-![Yarn cover]({{ site.baseurl }}/assets/images/shop/yarn-cover.jpg "Yarn cover")  
+![Yarn cover](/images/shop/yarn-cover.jpg "Yarn cover")  
+{.img-half}
 
 #### preface
 <a name="hughku"></a>
