@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: carrying the cake
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/carrying-the-cake.html
+type: hk/sun
 ---
 
-<div class="poem">
 looking down the garden  
 pausing with her hand  
 still on the kitchen door  
@@ -71,6 +68,5 @@ it was
 boy
 
 was I in for it
-</div>
 
-!["H and C Sept 15"]({{ site.baseurl }}/assets/images/bucket/C-H-wedding-ceremony.jpg "H and C Sept 15")  
+!["H and C Sept 15"](/images/bucket/C-H-wedding-ceremony.jpg "H and C Sept 15")  

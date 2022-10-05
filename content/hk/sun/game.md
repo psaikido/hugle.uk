@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: game
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/game.html
+type: hk/sun
 ---
 
-<div class="poem">
 did you not see  
 me tremble?  
 your glance  
@@ -28,6 +25,5 @@ for then you would not
 hold out your arms  
 and beckon me  
 to jump  
-</div>
 
-!["brown eye"]({{ site.baseurl }}/assets/images/bucket/brownEye.jpg "brown eye")  
+!["brown eye"](/images/bucket/brownEye.jpg "brown eye")  

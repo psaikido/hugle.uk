@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: flight
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/flight.html
+type: hk/sun
 ---
 
-<div class="poem">
 the weight  
 of the words  
 rolled around  
@@ -42,7 +39,6 @@ birds sing
 through bars  
 we each  
 have a sentence
-</div>
 
-!["Hughie, guitar, butterfly"]({{ site.baseurl }}/assets/images/bucket/butterfly.jpg "Hughie, guitar, butterfly")  
+!["Hughie, guitar, butterfly"](/images/bucket/butterfly.jpg "Hughie, guitar, butterfly")  
 Photo by Lynette Thomas

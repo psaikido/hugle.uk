@@ -1,13 +1,10 @@
 ---
-title: I looked at the flowers
-written: 2005
 bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/flowers.html
+title: flowers
+written: 2005
+type: hk/sun
 ---
 
-<div class="poem">
 I looked at the flowers  
 while you made the tea  
 you had some news to give to me  
@@ -48,7 +45,6 @@ and so I looked in the calm
 of moments before the storm  
 of showers that would fall from my eyes  
 and so I looked at the flowers  
-</div>
 
 
-!["Sarah and Hughie"]({{ site.baseurl }}/assets/images/bucket/hs_sillysofa.jpg "Sarah and Hughie")
+!["Sarah and Hughie"](/images/bucket/hs_sillysofa.jpg "Sarah and Hughie")

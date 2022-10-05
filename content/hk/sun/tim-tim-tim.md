@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: Tim Tim Tim
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/tim-tim-tim.html
+type: hk/sun
 ---
 
-<div class="poem">
 Tim Tim Tim  
 my terrifying brother  
 the kind of fright  
@@ -29,4 +26,3 @@ that no one understands
 
 
 no one
-</div>

@@ -1,13 +1,10 @@
 ---
-title: dog stick
-written: 2004
 bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/dog-stick.html
+title: dog & stick
+written: 2004
+type: hk/sun
 ---
 
-<div class="poem">
 multi-coloured leaves   
 flitter down 
 
@@ -15,4 +12,3 @@ dog runs after stick
 
 absurdly happy   
 all of us
-</div>

@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: book
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/book.html
+type: hk/sun
 ---
 
-<div class="poem">
 an open book  
 perhaps thrown  
 from a car  
@@ -55,7 +52,6 @@ the transcendent
 despite a host of names  
 the author remains  
 undiscovered  
-</div>
 
-!["book"]({{ site.baseurl }}/assets/images/bucket/book.jpg "book")  
+!["book"](/images/bucket/book.jpg "book")  
 [image source](https://www.misskopykat.com/)

@@ -1,4 +1,8 @@
 {{ define "main" }}
-    {{ .Scratch.Set "menu" .Site.Data.sun.menu }}
     {{ partial "poem.html" . }}
+{{ end }}
+
+{{ define "subnavbar" }}
+    {{ .Scratch.Set "menu" .Site.Data.sun.menu }}
+    {{ partial "subnavbar.html" . }}
 {{ end }}

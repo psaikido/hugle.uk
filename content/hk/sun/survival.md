@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: survival
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/survival.html
+type: hk/sun
 ---
 
-<div class="poem">
 I've been angry all these years  
 self-pitying  
 wounded  
@@ -25,4 +22,3 @@ perhaps Avalokitesvara
 The One Who Hears the Cries of the World  
 perhaps he  
 can help me learn
-</div>

@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: ancestors
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/ancestors.html
+type: hk/sun
 ---
 
-<div class="poem">
 practising my juggling  
 one day in Oxford  
 a passing priest  
@@ -48,7 +45,6 @@ came to mean something
 me and the ancestors  
 honouring  
 each other  
-</div>
 
 
-!["5 balls East Oxford Community Centre"]({{ site.baseurl }}/assets/images/circus/5balls_oxford.jpg "5 balls East Oxford Community Centre")
+!["5 balls East Oxford Community Centre"](/images/circus/5balls_oxford.jpg "5 balls East Oxford Community Centre")

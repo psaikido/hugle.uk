@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: bottom feeder
 written: 2003 & 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/bottom-feeder.html
+type: hk/sun
 ---
 
-<div class="poem">
 bottom feeder  
 only murkily aware  
 of the fizz and flash  
@@ -21,6 +18,5 @@ darkened half life
 yet living  
 
 through ages  
-</div>
 
-!["sea"]({{ site.baseurl }}/assets/images/bucket/deepSea.jpg "sea")
+!["sea"](/images/bucket/deepSea.jpg "sea")

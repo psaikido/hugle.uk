@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: Mrs Nguy
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/nguy.html
+type: hk/sun
 ---
 
-<div class="poem">
 Mrs Nguy died  
 her family looked  
 for a Buddhist funeral  
@@ -62,6 +59,5 @@ lifted
 we all cried  
 those ancient tunes  
 reborn
-</div>
 
-![Church door]({{ site.baseurl }}/assets/images/bucket/churchDoor.jpg "Church door") 
+![Church door](/images/bucket/churchDoor.jpg "Church door") 

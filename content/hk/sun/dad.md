@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: dad
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/dad.html
+type: hk/sun
 ---
 
-<div class="poem">
 I was watching my friends  
 do a street show  
 when I got the fateful call  
@@ -57,6 +54,5 @@ we both understood
 that love
 
 is for always
-</div>
 
-!["Cul larfing"]({{ site.baseurl }}/assets/images/bio/cul_larfing.jpg "Cul larfing")
+!["Cul larfing"](/images/bio/cul_larfing.jpg "Cul larfing")

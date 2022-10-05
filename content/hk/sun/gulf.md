@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: gulf
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/gulf.html
+type: hk/sun
 ---
 
-<div class="poem">
 what a gulf  
 that lies between us  
 how could such closeness  
@@ -29,4 +26,3 @@ of appearing
 a demon  
 who welcomes  
 only to spurn  
-</div>

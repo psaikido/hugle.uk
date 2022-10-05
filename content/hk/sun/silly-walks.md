@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: silly walks 
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/silly-walks.html
+type: hk/sun
 ---
 
-<div class="poem">
 that wonderful dinner-time  
 of anecdotes  
 John told us  
@@ -19,6 +16,5 @@ I asked
 everyone laughed  
 except John who said  
 "it was fine"
-</div>
 
-![John's 70th birthday party]({{ site.baseurl }}/assets/images/chan/h-jc-birthday-party.jpg "John's 70th birthday party")
+![John's 70th birthday party](/images/chan/h-jc-birthday-party.jpg "John's 70th birthday party")

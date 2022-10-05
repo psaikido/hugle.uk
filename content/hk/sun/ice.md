@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: ice
 written: 2003
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/ice.html
+type: hk/sun
 ---
 
-<div class="poem">
 lucid waters mingling  
 glittering mountain lake
 
@@ -18,6 +15,5 @@ forgotten
 the frozen dreams
 
 of ice
-</div>
 
-![Mountain lake]({{ site.baseurl }}/assets/images/bucket/melting-ice.jpg "Mountain lake")
+![Mountain lake](/images/bucket/melting-ice.jpg "Mountain lake")

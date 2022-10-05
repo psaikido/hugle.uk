@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: bat detector
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/bat-detector.html
+type: hk/sun
 ---
 
-<div class="poem">
 bat detector  
 a gang taking turns  
 on the headphones  
@@ -27,4 +24,3 @@ awestruck
 later on you said  
 "it was a shame  
 you missed it!"
-</div>

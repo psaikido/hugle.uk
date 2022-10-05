@@ -1,14 +1,11 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: you're leaving
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/leaving.html
+type: hk/sun
 ---
 
 
-<div class="poem">
 heading South  
 in Katie's wonderful bus  
 a 1954 Bedford  
@@ -71,7 +68,6 @@ and you can't tell from looking
 whether you are going  
 to get death threats  
 or bunting
-</div>
 
 
-!["Mr Gasket & Bedford Bus"]({{ site.baseurl }}/assets/images/circus/mr_gasket.jpg "Mr Gasket & Bedford Bus")
+!["Mr Gasket & Bedford Bus"](/images/circus/mr_gasket.jpg "Mr Gasket & Bedford Bus")

@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: stopping the sun
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/stopping-the-sun.html
+type: hk/sun
 ---
 
-<div class="poem">
 whatever the monk had told us  
 I remember being upset  
 everything seemed hopeless  
@@ -31,9 +28,8 @@ perfect!"
 
 the sun stopped  
 in its track
-</div>
 
-![Sally & Hughie]({{ site.baseurl }}/assets/images/chan/sally_catch_feather_fan.jpg "Sally catches a feather on a fan")
+![Sally & Hughie](/images/chan/sally_catch_feather_fan.jpg "Sally catches a feather on a fan")
 
 Sally Masheder catches a feather on a fan at 
 Tientong Si where Hung Chih was abbot and where Dogen got enlightened

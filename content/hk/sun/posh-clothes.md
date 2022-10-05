@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: posh clothes
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/posh-clothes.html
+type: hk/sun
 ---
 
-<div class="poem">
 what is it  
 about posh clothes?  
 maybe people need  
@@ -38,8 +35,7 @@ forked tongues
 satin sheen  
 lining  
 their pockets
-</div>
 
-!["Bullingdon Club"]({{ site.baseurl }}/assets/images/bucket/bullingdonClub.jpg "Bullingdon Club")  
+!["Bullingdon Club"](/images/bucket/bullingdonClub.jpg "Bullingdon Club")  
 
 The Routinis, Oxford jugglers, Ric, Richie and me, were hired for the summer ball that this photo was taken at. We performed for this bunch of bastards!

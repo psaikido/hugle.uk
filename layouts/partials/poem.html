@@ -12,14 +12,3 @@
     </div>
 </div>
 
-{{ define "subnavbar" }}
-    <aside class="subnavbar">
-        <ul>
-            {{ range .Scratch.Get "menu" }}
-                <li class="{{ if eq $.Page.Title .title }}current{{ end }}">
-                    <a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
-                </li>
-            {{ end }}
-        </ul>
-    </aside>
-{{ end }}

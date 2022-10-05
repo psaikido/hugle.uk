@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: all of us 
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/all-of-us.html
+type: hk/sun
 ---
 
-<div class="poem">
 career, family, home  
 three pillars  
 collapsed at once  
@@ -30,6 +27,5 @@ the study
 the yells, bells and smells  
 I really do do it  
 for all of us
-</div>
 
-![Vulture Peak]({{ site.baseurl }}/assets/images/pilg1/rajgir.jpg "Rajgir, the Vulture Peak")
+![Vulture Peak](/images/pilg1/rajgir.jpg "Rajgir, the Vulture Peak")

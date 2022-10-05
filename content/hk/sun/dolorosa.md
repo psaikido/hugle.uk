@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: la via dolorosa
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/dolorosa.html
+type: hk/sun
 ---
 
-<div class="poem">
 on the via dolorosa  
 the descent into night  
 if it's all  
@@ -21,5 +18,4 @@ is still to come
 
 how else  
 are heroes born?
-</div>
 

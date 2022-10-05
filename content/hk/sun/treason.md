@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: treason
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/treason.html
+type: hk/sun
 ---
 
-<div class="poem">
 I gave you my very heart  
 trusting in our joy  
 but then you said I tricked you!  
@@ -17,4 +14,3 @@ it was you who tricked me
 into becoming a lightening rod  
 discharging  
 your ancient pain  
-</div>

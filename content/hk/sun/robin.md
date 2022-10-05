@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: robin
 written: 2014
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/robin.html
+type: hk/sun
 ---
 
-<div class="poem">
 high on the rabbity downs  
 in sunny seclusion  
 we listened  
@@ -23,6 +20,5 @@ its declaration to you
 a triumphant surrender  
 older  
 than grass  
-</div>
 
-!["Corinne and Hughie"]({{ site.baseurl }}/assets/images/bio/CorinneHHalo.jpg "Corinne and Hughie")
+!["Corinne and Hughie"](/images/bio/CorinneHHalo.jpg "Corinne and Hughie")

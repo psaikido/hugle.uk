@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: softness
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/softness.html
+type: hk/sun
 ---
 
-<div class="poem">
 oh but again  
 you will shine  
 your love  
@@ -21,7 +18,6 @@ and the softness
 of things  
 will reclaim  
 your heart
-</div>
 
-!["H and C Sept 15"]({{ site.baseurl }}/assets/images/bucket/HandCSept15.jpg "H and C Sept 15")  
+!["H and C Sept 15"](/images/bucket/HandCSept15.jpg "H and C Sept 15")  
 Photo by [Elmar Rubio](http://elmarrubiophotography.weebly.com/)

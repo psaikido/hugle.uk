@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: Gaia
 written: 2006
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/gaia.html
+type: hk/sun
 ---
 
-<div class="poem">
 a great surge of love  
 overwhelmed me  
 Gaia herself  
@@ -28,6 +25,5 @@ streaming with tears
  
 
 our pain
-</div>
 
-!["Maenllwyd"]({{ site.baseurl }}/assets/images/chan/mistymorning.jpg "Maenllwyd")  
+!["Maenllwyd"](/images/chan/mistymorning.jpg "Maenllwyd")  

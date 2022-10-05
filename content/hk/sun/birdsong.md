@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: birdsong
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/birdsong.html
+type: hk/sun
 ---
 
-<div class="poem">
 I bathed my broken heart  
 in three months of silence  
 and birdsong
@@ -29,6 +26,5 @@ from outside"
 the sage told me  
 "your honour  
 is redeemed"
-</div>
 
-![West Ogwell Church]({{ site.baseurl }}/assets/images/bucket/westOgwellChurchInterior.jpg "West Ogwell church")
+![West Ogwell Church](/images/bucket/westOgwellChurchInterior.jpg "West Ogwell church")

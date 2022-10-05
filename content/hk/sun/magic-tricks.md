@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: magic tricks
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/magic-tricks.html
+type: hk/sun
 ---
 
-<div class="poem">
 
 sometimes  
 doing magic tricks for folks  
@@ -23,5 +20,5 @@ and triumphantly declares
 "see, I knew it was real,  
 I KNEW it!"
 
-</div>
 
+![trick](/images/magic/riffstock1.jpg "magic trick reaction")

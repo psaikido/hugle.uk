@@ -1,14 +1,11 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: spy hole
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/spyhole.html
+type: hk/sun
 ---
 
 
-<div class="poem">
 spy hole  
 before the show  
 I'd peep through  
@@ -34,7 +31,6 @@ lost
 
 in an ocean  
 of darkness
-</div>
 
 
 !["5 rings"]({{ site.baseurl }}/assets/images/circus/SnapdragonFinale1990HughieRings.jpg "5 rings")

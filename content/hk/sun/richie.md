@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: Richie
 written: 2005
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/richie.html
+type: hk/sun
 ---
 
-<div class="poem">
 that stoopy way you had  
 and your sudden animation  
 long fingers unfurled  
@@ -32,6 +29,5 @@ your being gone
 but somehow  
 for some reason  
 it's ok  
-</div>
 
-!["Richie"]({{ site.baseurl }}/assets/images/bio/richie_cat.jpg "Richie")  
+!["Richie"](/images/bio/richie_cat.jpg "Richie")  

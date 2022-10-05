@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: what is love?
 written: 1998 & 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/what-is-love.html
+type: hk/sun
 ---
 
-<div class="poem">
 what is love?  
 the shared silence  
 of spinning spheres  
@@ -35,9 +32,8 @@ through the sunlight of our laughter
 and the shadows of our fears  
 we are voyagers  
 everyday its own destination
-</div>
 
-!["Giant's Grave"]({{ site.baseurl }}/assets/images/faves/giantsGrave.jpg "Giant's Grave")
+!["Giant's Grave"](/images/faves/giantsGrave.jpg "Giant's Grave")
 
 
 [The Sailing Stars](http://www.reverbnation.com/open_graph/song/6375552 "The Sailing Stars")

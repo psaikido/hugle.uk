@@ -1,15 +1,11 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: treasure
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/treasure.html
+type: hk/sun
 ---
 
-<div class="poem">
 money worries everyone  
 a grateful heart  
 is treasure enough
-</div>
 

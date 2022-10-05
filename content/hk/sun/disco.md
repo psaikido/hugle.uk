@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: behind the disco
 written: 1996
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/disco.html
+type: hk/sun
 ---
 
-<div class="poem">
 my dad  
 always denying emotions  
 ran  
@@ -24,4 +21,3 @@ amongst the weeds and rubbish
 hot tears of grieving  
 for the father   
 I still had
-</div>

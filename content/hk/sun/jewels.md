@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: jewels 
 written: 2003
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/jewels.html
+type: hk/sun
 ---
 
-<div class="poem">
 the solar blast  
 shocked our chattering  
 into silence  
@@ -21,7 +18,6 @@ blazing
 
 
 like love
-</div>
 
-![Sarah & Hughie, Chan Retreat 2001]({{ site.baseurl }}/assets/images/bucket/s_h_chanretreat2000.jpg "Sarah & Hughie, Chan Retreat 2001")
+![Sarah & Hughie, Chan Retreat 2001](/images/bucket/s_h_chanretreat2000.jpg "Sarah & Hughie, Chan Retreat 2001")
 

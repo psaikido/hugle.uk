@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: bastards
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/bastards.html
+type: hk/sun
 ---
 
-<div class="poem">
 the fire comes  
 the body heats up  
 my rage crackles  
@@ -82,7 +79,6 @@ those bastards
 
 thrice cursed  
 bloody bastards  
-</div>
 
-!["Gerald-Scarfe-Cameron-cardboard-cartoon"]({{ site.baseurl }}/assets/images/bucket/Gerald-Scarfe-Cameron-cardboard-cartoon.jpg "Gerald-Scarfe-Cameron-cardboard-cartoon")  
+!["Gerald-Scarfe-Cameron-cardboard-cartoon"](/images/bucket/Gerald-Scarfe-Cameron-cardboard-cartoon.jpg "Gerald-Scarfe-Cameron-cardboard-cartoon")  
 [Gerald Scarfe](https://www.geraldscarfe.com/)

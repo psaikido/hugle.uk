@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: who cares?
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/who-cares.html
+type: hk/sun
 ---
 
-<div class="poem">
 who cares?  
 my friend asked  
 as we strolled  
@@ -29,6 +26,5 @@ to express
 come what may  
 even if  
 no-one cares?
-</div>
 
-!["mani stone - Holy Island"]({{ site.baseurl }}/assets/images/faves/HolyIslandMani.jpg "mani stone - Holy Island")  
+!["mani stone - Holy Island"](/images/faves/HolyIslandMani.jpg "mani stone - Holy Island")  

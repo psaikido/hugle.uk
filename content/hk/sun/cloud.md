@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: cloud 
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/cloud.html
+type: hk/sun
 ---
 
-<div class="poem">
 that dark cloud  
 the one that looms  
 inside  
@@ -30,6 +27,5 @@ a great blackness
 it's that  
 that makes us  
 the same
-</div>
 
-!["dry dock boat"]({{ site.baseurl }}/assets/images/faves/portisheadDryBoat.jpg "dry dock boat")
+!["dry dock boat"](/images/faves/portisheadDryBoat.jpg "dry dock boat")

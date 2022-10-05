@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: mam
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/mam.html
+type: hk/sun
 ---
 
-<div class="poem">
 five lunatic boys  
 loved unconditionally  
 throughout a steadfast lifetime  
@@ -15,6 +12,5 @@ mam, you've demonstrated
 the kind of selfless virtue  
 I thought only existed  
 in sermons
-</div>
 
-!["Margaret & Hughie"]({{ site.baseurl }}/assets/images/faves/HughieMam2008.jpg "Margaret & Hughie")
+!["Margaret & Hughie"](/images/faves/HughieMam2008.jpg "Margaret & Hughie")

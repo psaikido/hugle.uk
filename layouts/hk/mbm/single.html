@@ -1,5 +1,9 @@
 {{ define "main" }}
-    {{ .Scratch.Set "menu" .Site.Data.mbm.menu }}
     {{ partial "poem.html" . }}
+{{ end }}
+
+{{ define "subnavbar" }}
+    {{ .Scratch.Set "menu" .Site.Data.mbm.menu }}
+    {{ partial "subnavbar.html" . }}
 {{ end }}
 

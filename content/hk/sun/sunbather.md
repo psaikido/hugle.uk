@@ -1,14 +1,11 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: sunbather
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/sunbather.html
+type: hk/sun
 ---
 
 
-<div class="poem">
 I've always felt  
 colourless  
 skin so very pale  
@@ -40,7 +37,6 @@ it reminded me
 about how we are all  
 preposterous jewels  
 awkward miracles  
-</div>
 
 
-!["skin colours"]({{ site.baseurl }}/assets/images/pilg1/pilg125.jpg "skin colours")
+!["skin colours"](/images/pilg1/pilg125.jpg "skin colours")

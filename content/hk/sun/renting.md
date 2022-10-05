@@ -1,18 +1,14 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: renting
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/renting.html
+type: hk/sun
 ---
 
 
-<div class="poem">
 marriage and mortgage  
 never mind the wedding ring  
 I was just renting
-</div>
 
 
-!["wedding ring"]({{ site.baseurl }}/assets/images/bucket/weddingRing.jpg "wedding ring")
+!["wedding ring"](/images/bucket/weddingRing.jpg "wedding ring")

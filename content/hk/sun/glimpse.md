@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: glimpse
 written: 1996
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/glimpse.html
+type: hk/sun
 ---
 
-<div class="poem">
 the present  
 spliced infinitesimally between  
 before and after
@@ -25,4 +22,3 @@ through a slowly closing
 
 
 fire exit
-</div>

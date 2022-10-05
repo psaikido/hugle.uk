@@ -1,9 +1,7 @@
 ---
-title: intro 
 bannerTitle: "Sunshine & Shadow" 
-type: hk
-layout: sun
-permalink: /sun/
+title: intro 
+type: hk/sun
 ---
 
 ![Sunshine & Shadow cover](/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")

@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: grandma
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/grandma.html
+type: hk/sun
 ---
 
-<div class="poem">
 lazy dust floating  
 in sunshine  
 through a gap in the curtains  
@@ -103,6 +100,5 @@ I like to think that fate
 had dealt her a kindness somehow  
 but still I really wish  
 I'd offered to walk her
-</div>
 
-!["Grandma Carroll"]({{ site.baseurl }}/assets/images/bucket/aug75_grandma_carroll.jpg "Grandma Carroll Aug 1975")
+!["Grandma Carroll"](/images/bucket/aug75_grandma_carroll.jpg "Grandma Carroll Aug 1975")

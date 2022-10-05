@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: the big nowhere 
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/big-nowhere.html
+type: hk/sun
 ---
 
-<div class="poem">
 he's gone    
 into the big nowhere  
 Ben  
@@ -74,4 +71,3 @@ somehow to regain friendship
 with that great  
 big  
 nowhere  
-</div>

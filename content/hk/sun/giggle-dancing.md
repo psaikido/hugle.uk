@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: giggle dancing
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/giggle-dancing.html
+type: hk/sun
 ---
 
-<div class="poem">
 the Chan nuns  
 clearly loved  
 their abbess  
@@ -37,6 +34,5 @@ as she went
 we bowed to each other  
 two pairs of eyes  
 giggle dancing
-</div>
 
-!["China feet"]({{ site.baseurl }}/assets/images/chan/shoes.jpg "China feet")
+!["China feet"](/images/chan/shoes.jpg "China feet")

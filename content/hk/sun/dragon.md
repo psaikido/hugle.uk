@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: dragon
 written: 2001
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/dragon.html
+type: hk/sun
 ---
 
-<div class="poem">
 its sound is heard  
 by no ears  
 in silence  
@@ -27,4 +24,3 @@ of the dragon
 expose my heart  
 in pain  
 and beauty
-</div>

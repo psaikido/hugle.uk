@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: kangaroo court
 written: 2020
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/kangaroo-court.html
+type: hk/sun
 ---
 
-<div class="poem">
 every few days  
 there was new tech to learn  
 I couldn't keep up  
@@ -40,4 +37,3 @@ I was sent to Coventry
 then drummed out of the regiment  
 by a man  
 I called friend
-</div>

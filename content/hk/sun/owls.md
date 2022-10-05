@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: owls
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/owls.html
+type: hk/sun
 ---
 
-<div class="poem">
 deepening dusk  
 hush enfolds  
 last birds  
@@ -23,6 +20,5 @@ night's bewitchment
 brings 
 
 owls
-</div>
 
-![church & moon]({{ site.baseurl }}/assets/images/bucket/churchFullMoon.jpg "church & moon")
+![church & moon](/images/bucket/churchFullMoon.jpg "church & moon")

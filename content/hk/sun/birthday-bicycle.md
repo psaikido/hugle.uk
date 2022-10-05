@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: birthday bicycle
 written: 2003
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/birthday-bicycle.html
+type: hk/sun
 ---
 
-<div class="poem">
 ah, the glory of that bicycle  
 is it so long ago  
 that birthday?  
@@ -22,7 +19,6 @@ wind thrilled
 my boyhood ablaze  
 with love mutely given  
 and tacitly received  
-</div>
 
 
-!["Colmcille and Hughie 2007"]({{ site.baseurl }}/assets/images/bio/dadandme.jpg "Colmcille and Hughie 2007")
+!["Colmcille and Hughie 2007"](/images/bio/dadandme.jpg "Colmcille and Hughie 2007")

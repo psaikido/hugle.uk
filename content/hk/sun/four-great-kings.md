@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: the four great kings
 written: 2005
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/four-great-kings.html
+type: hk/sun
 ---
 
-<div class="poem">
 the four great kings  
 my brothers  
 who spurned  
@@ -23,6 +20,5 @@ in the fierce blast
 of freedom  
 I wear  
 my shaven head  
-</div>
 
-!["Hughie, Tim, Damian, Matt, Jem 1985"]({{ site.baseurl }}/assets/images/bio/5brothers1985.jpg "Hughie, Tim, Damian, Matt, Jem 1985")
+!["Hughie, Tim, Damian, Matt, Jem 1985"](/images/bio/5brothers1985.jpg "Hughie, Tim, Damian, Matt, Jem 1985")

@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: gliding
 written: 2016
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/gliding.html
+type: hk/sun
 ---
 
-<div class="poem">
 over my shoulder looking  
 I saw the river gliding  
 water so quiet  
@@ -23,6 +20,5 @@ the shortening days?
 looking for spring-time's jumper?  
 knowing I'm just visiting?  
 gliding by?
-</div>
 
-!["the Test at Overton"]({{ site.baseurl }}/assets/images/bucket/testAtOverton.jpg "the Test at Overton")  
+!["the Test at Overton"](/images/bucket/testAtOverton.jpg "the Test at Overton")  

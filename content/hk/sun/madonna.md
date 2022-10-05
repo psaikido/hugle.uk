@@ -1,19 +1,15 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: Madonna
 written: 2016
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/madonna.html
+type: hk/sun
 ---
 
-<div class="poem">
 Madonna in the dust  
 drifting  
 buried  
 your acceptance  
  
 so radiant
-</div>
 
-!["Hush"]({{ site.baseurl }}/assets/images/bucket/Hush.gif "Hush")
+!["Hush"](/images/bucket/Hush.gif "Hush")

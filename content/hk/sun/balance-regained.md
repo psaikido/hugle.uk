@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: balance regained
 written: 2008
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/balance-regained.html
+type: hk/sun
 ---
 
-<div class="poem">
 a miracle of balance regained  
 my mind is not these things  
 but not something apart  
@@ -24,4 +21,3 @@ like space
 
 what was all that  
 that dragged me down?  
-</div>

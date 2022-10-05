@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: eyebrows
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/eyebrows.html
+type: hk/sun
 ---
 
-<div class="poem">
 De Lin the Chan Master  
 a tigerish air about him  
 looked at John and said  
@@ -32,6 +29,5 @@ and John the teacher
 I can't think  
 if I've ever felt  
 pride like it
-</div>
 
-![John rainbow Hughie]({{ site.baseurl }}/assets/images/chan/John_rainbow_Hughie.jpg "John rainbow Hughie")
+![John rainbow Hughie](/images/chan/John_rainbow_Hughie.jpg "John rainbow Hughie")

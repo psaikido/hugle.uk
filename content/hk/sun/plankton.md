@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: plankton
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/plankton.html
+type: hk/sun
 ---
 
-<div class="poem">
 all over the hermitage  
 polite little notices  
 asking folks to be quiet  
@@ -33,5 +30,4 @@ and we can't even see
 
 
 the sea
-</div>
 

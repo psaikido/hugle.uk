@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: 10,000 Buddhas
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/buddhas.html
+type: hk/sun
 ---
 
-<div class="poem">
 in the hall of 10,000 Buddhas  
 on pilgrimage in China  
 I told Simon  
@@ -22,6 +19,5 @@ he said
 about anniversaries  
 you should consider  
 the alternative"
-</div>
 
-![hall of Buddhas]({{ site.baseurl }}/assets/images/chan/hall-of-buddhas.jpg "hall of Buddhas")
+![hall of Buddhas](/images/chan/hall-of-buddhas.jpg "hall of Buddhas")

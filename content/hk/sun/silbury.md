@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: Silbury
 written: 2017
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/silbury.html
+type: hk/sun
 ---
 
-<div class="poem">
 a violent absence  
 that missing bike  
 on the last day of school  
@@ -42,6 +39,5 @@ of achieving even banal normalities
 against the roar  
 of that apocalyptic  
 silence  
-</div>
 
-!["Silbury Hill"]({{ site.baseurl }}/assets/images/bucket/silburyhill.jpg "Silbury Hill")
+!["Silbury Hill"](/images/bucket/silburyhill.jpg "Silbury Hill")

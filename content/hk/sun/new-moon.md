@@ -1,18 +1,14 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: new moon 
 written: 2018
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/new-moon.html
+type: hk/sun
 ---
 
-<div class="poem">
 oh look!  
 the new moon  
 abruptly scything  
 through our stories
-</div>
 
-!["new moon - Bill King"]({{ site.baseurl }}/assets/images/bucket/newMoon.jpg "new moon by Bill King")  
+!["new moon - Bill King"](/images/bucket/newMoon.jpg "new moon by Bill King")  
 photo - Bill King

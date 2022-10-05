@@ -1,13 +1,10 @@
 ---
+bannerTitle: "Sunshine & Shadow" 
 title: shadow 
 written: 2019
-bannerTitle: "Sunshine & Shadow" 
-layout: default
-subnav: sun
-permalink: /sun/shadow.html
+type: hk/sun
 ---
 
-<div class="poem">
 looking at this shadow  
 I used to think  
 it wanted to drag me  
@@ -23,6 +20,5 @@ and face the sun
 and there it can stay  
 behind me  
 where it belongs
-</div>
 
-![Hughie at the rigging bar]({{ site.baseurl }}/assets/images/circus/hughierigging.jpg "the fateful rigging bar")
+![Hughie at the rigging bar](/images/circus/hughierigging.jpg "the fateful rigging bar")
