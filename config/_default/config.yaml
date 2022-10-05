@@ -1,4 +1,4 @@
-baseURL:  'https://psaikido.github.io/hugo-hugle/'
+baseURL:  'http://localhost:1313/'
 languageCode: 'en-gb'
 title: 'hugle'
 

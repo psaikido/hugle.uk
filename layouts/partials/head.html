@@ -2,13 +2,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="{{ .Site.description }}">
     <meta http-equiv='cache-control' content='no-cache'> 
     <meta http-equiv='expires' content='0'> 
     <meta http-equiv='pragma' content='no-cache'>
-    <title>hugo</title>
+    <title>{{ if isset .Params "title" }}hugle | {{ .Site.title }}{{ else }}{{ .Site.title }}{{ end }}</title>
     <link rel="shortcut icon" href="/images/site/favicon.ico" type="image/png" />
-    <link rel="alternate" type="application/rss+xml" title="hugo" href="hugle.co.uk">
 
     <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="/js/jquery-ui-1.12.1/jquery-ui.js"></script>
