@@ -9,7 +9,7 @@
             <header>
                 {{ partial "main-nav.html" . }}
 
-                <h1>&#x0f3a; hugo &#x0f3b;</h1>
+                <h1>&#x0f3a; hugle &#x0f3b;</h1>
 
                 <div class="search">
                     <button> 
@@ -29,8 +29,13 @@
                 {{ end }}
             </main>
 
-            <aside class="subnav2">
-            </aside>
+            {{ block "subnavbar" . }}
+                <aside class="subnavbar">
+                </aside>
+            {{ end }}
+
+            {{ block "subnav2" . }}
+            {{ end }}
 
             <a href="#" class="scroll-to-top">scroll to top</a>
 
