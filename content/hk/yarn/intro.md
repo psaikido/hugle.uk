@@ -1,9 +1,9 @@
 ---
 title: intro
 banner-title: Yarn
-layout: hk/yarn
+type: hk
+layout: yarn
 subnav: yarn
-aliases: [/yarn/]
 ---
 
 ![Yarn cover](/images/shop/yarn-cover.jpg "Yarn cover")  

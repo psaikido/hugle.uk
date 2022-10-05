@@ -1,8 +1,8 @@
 ---
 title: intro 
 banner-title: "Sunshine & Shadow" 
-layout: default
-subnav: sun
+type: hk
+layout: sun
 permalink: /sun/
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: intro
 banner-title: "bucket" 
-layout: default
-subnav: bucket
+type: hk
+layout: bucket
 permalink: /bucket/
 ---
 
