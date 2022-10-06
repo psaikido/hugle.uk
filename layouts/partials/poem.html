@@ -1,5 +1,6 @@
 <div class="poem">
-    <h2 class="poem-title">{{ .Params.title }}</h2>
+    {{ .Scratch.Set "currentTitle" .Params.title }}
+    <h2 class="poem-title">{{ .Scratch.Get "currentTitle" }}</h2>
 
     {{ .Content }}
 
@@ -8,6 +9,17 @@
             <div class="poem-written-date">
                 HC: {{ .Params.written }}
             </div>
+        {{ end }}
+
+        {{ range $currentIndex, $item := .Scratch.Get "menu" }}
+            {{ if eq ($.Scratch.Get "currentTitle") $item.title }}
+                {{ $nextIndex := add $currentIndex 1 }}
+                {{ $nextItem := (index ($.Scratch.Get "menu") $nextIndex) }}
+                <div class="next">
+                    next -> <a href="{{ $nextItem.url }}" alt="{{ $nextItem.title }}">{{ $nextItem.title }}</a>
+                </div>
+                {{ break }}
+            {{ end }}
         {{ end }}
     </div>
 </div>
