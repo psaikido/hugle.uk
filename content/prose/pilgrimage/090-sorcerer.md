@@ -1,8 +1,7 @@
 ---
+bannerTitle: Pilgrimage
 title: Sorcerer
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
@@ -23,7 +22,7 @@ eventually tells me what’s going on. He says "he thought you were a sorcerer
 and so he did the quelling magic mantra. You did another trick so I said ‘his
 magic is stronger than your mantra!’". 
 
-!["Tricks"]({{ site.baseurl }}/assets/images/pilg1/pilg34.jpg "Tricks")
+!["Tricks"](/images/pilg1/pilg34.jpg "Tricks")
 
 Later on the abbot says "people like your magic, it makes them
 happy, come to my room after lights out and teach me your tricks". I
@@ -33,7 +32,7 @@ soup. We get into the tricks and I show him everything I have. At
 one point we are both rolling on our backs with our feet in the air
 hooting with helpless laughter. I really love those guys :)
 
-!["Yogins"]({{ site.baseurl }}/assets/images/pilg1/pilg29.jpg "Yogins") 
+!["Yogins"](/images/pilg1/pilg29.jpg "Yogins") 
 
 The one who did the mantra, Kunchok Tsering, is on the
 left holding the small mani wheel. His picture is in John Crook’s

@@ -1,11 +1,10 @@
 ---
+bannerTitle: Pilgrimage
 title: Naming
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
-!["Kunchok Namdrol and me – Lamayuru 2005"]({{ site.baseurl }}/assets/images/pilg1/pilg32.jpg "Kunchok Namdrol and me – Lamayuru 2005")
+!["Kunchok Namdrol and me – Lamayuru 2005"](/images/pilg1/pilg32.jpg "Kunchok Namdrol and me – Lamayuru 2005")
 ###### Kunchok Namdrol and me – Lamayuru 2005.
 
 A few minutes before the picture above was taken, Kunchok Namdrol had

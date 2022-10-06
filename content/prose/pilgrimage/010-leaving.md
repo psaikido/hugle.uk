@@ -1,10 +1,10 @@
 ---
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
+bannerTitle: Pilgrimage
 title: Leaving
 type: prose/pilgrimage
 ---
 
-!["Hugh Carroll, Ladakh 2005"]({{ site.baseurl }}/assets/images/pilg1/pilg14a.jpg "Hugh Carroll, Ladakh 2005")
+!["Hugh Carroll, Ladakh 2005"](/images/pilg1/pilg14a.jpg "Hugh Carroll, Ladakh 2005")
 
 
 It is April 2005 when I hand back the keys to the landlord. The nest

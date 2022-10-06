@@ -1,8 +1,7 @@
 ---
-title: Leh Hospital
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+bannerTitle: Pilgrimage
+title: Leh hospital
+type: prose/pilgrimage
 ---
 
 
@@ -49,5 +48,5 @@ swap them over and leave. By the time I am discharged later that
 morning they have put three litres of saline into me and I'm as weak
 as a kitten.
 
-![monastery passage](/assets/images/pilg1/dscn0061.jpg)
+![monastery passage](/images/pilg1/dscn0061.jpg)
 

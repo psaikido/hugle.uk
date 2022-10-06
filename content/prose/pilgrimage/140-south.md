@@ -1,8 +1,7 @@
 ---
+bannerTitle: Pilgrimage
 title: South
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
@@ -34,7 +33,7 @@ smithereens below us. Everyone tightens up. Folks at the back of the bus,
 behind the rear axle, are being thrown around. One guy gets a bad hit to the
 head from the roof! 
 
-![fallen bus](/assets/images/pilg1/dscn0345.jpg)
+![fallen bus](/images/pilg1/dscn0345.jpg)
 
 A vast plain opens out before us with a little smudge of dust being raised. As
 we cover the miles the smudge gradually grows and after a while I see it is
@@ -42,7 +41,7 @@ actually a single person walking with hundreds of goats. When I realise what
 I’m looking at my mind suddenly has a point of reference and reels at taking in
 the scale of the place. It is awe-inspiring. 
 
-![Himalayan plain](/assets/images/pilg1/dscn0342.jpg)
+![Himalayan plain](/images/pilg1/dscn0342.jpg)
 
 We bounce over the Himilayas all that day and then are left at a little group
 of houses. The bus driver lets us in to a cafe sort of a place but there is
@@ -67,7 +66,7 @@ Wires have been strung across the river and a group of three guys on either end
 are pulling a metal cage across. A person and their bags is loaded in and then
 hauled over.
 
-![rubicon](/assets/images/pilg1/dscn0348.jpg)
+![rubicon](/images/pilg1/dscn0348.jpg)
 
 When it is my turn I have a feeling of deep surrender as the anxiety reaches
 its peak mid-stream. It seems that there has been some release of the past as I
@@ -89,6 +88,5 @@ everyone to the downed bridge safely!
 
 I really hope to return to Ladakh one day.
 
-###### ([poems from this pilgrimage](/mbm/))
+###### ([poems from this pilgrimage](/hk/mbm/intro/))
 
-- review on [goodreads](https://www.goodreads.com/book/show/62709126-pilgrimage---mahabodhi-moonlight)

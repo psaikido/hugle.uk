@@ -1,11 +1,10 @@
 ---
+bannerTitle: Pilgrimage
 title: Gotsang Gompa
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
-!["Gotsang Gompa"]({{ site.baseurl }}/assets/images/pilg1/dscn0093.jpg "Taklung Rinpoche")
+!["Gotsang Gompa"](/images/pilg1/dscn0093.jpg "Taklung Rinpoche")
 
 Ayu Lhamo had asked me to get a "khuntup" whatever that was. I decided to ask
 for one when visiting Gotsang which had been one of the places in John’s book.

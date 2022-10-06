@@ -1,13 +1,12 @@
 ---
+bannerTitle: Pilgrimage
 title: Mind State 
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
 
-!["Dupon Samten Rinpoche – Lamayuru 2005"]({{ site.baseurl }}/assets/images/pilg1/DuponSamten.jpg "Dupon Samten Rinpoche – Lamayuru 2005")
+!["Dupon Samten Rinpoche – Lamayuru 2005"](/images/pilg1/DuponSamten.jpg "Dupon Samten Rinpoche – Lamayuru 2005")
 ###### Dupon Samten Rinpoche – Lamayuru 2005
 
 One day I was down at the tap doing some laundry and heard a yelp.

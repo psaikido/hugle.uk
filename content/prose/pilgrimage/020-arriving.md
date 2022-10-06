@@ -1,8 +1,7 @@
 ---
+bannerTitle: Pilgrimage
 title: Arriving
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
@@ -31,4 +30,4 @@ of home
 </div>
 
 
-![Leh](/assets/images/pilg1/pilg01a.jpg)
+![Leh](/images/pilg1/pilg01a.jpg)

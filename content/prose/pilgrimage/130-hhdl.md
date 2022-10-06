@@ -1,8 +1,7 @@
 ---
-title: His Holiness the Dalai Lama
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+bannerTitle: Pilgrimage
+title: HH the Dalai Lama
+type: prose/pilgrimage
 ---
 
 
@@ -13,7 +12,7 @@ Ladakh along with pretty much everyone else comes to see him. The
 non-Ladakhis are kept in a separate enclosure for some reason. There
 is a sign on the way into the roped off area saying "Tourist".
 
-!["Nichole 'Tourist' 2005"]({{ site.baseurl }}/assets/images/pilg1/Nichole.jpg "Nichole 'Tourist' 2005")
+!["Nichole 'Tourist' 2005"](/images/pilg1/Nichole.jpg "Nichole 'Tourist' 2005")
 
 The sun is super hot and there is no shade. My chum Nichole and I entertain
 each other with foolishness and flippant remarks for what seems like hours when
@@ -40,7 +39,7 @@ him. Much to my surprise, just as I take the shot, he turns round and looks
 right at me. It felt really spooky for a second that he seemed to know what was
 happening.
 
-!["Dupon Samten Rinpoche and the elite chanting group"]({{ site.baseurl }}/assets/images/pilg1/chanters.jpg "Dupon Samten Rimpoche and the elite chanting group")
+!["Dupon Samten Rinpoche and the elite chanting group"](/images/pilg1/chanters.jpg "Dupon Samten Rimpoche and the elite chanting group")
 
 There was a security guy keeping watch over everything. A young Tibetan in a
 suit and tie, earpiece and sharp hair cut. He stayed standing throughout while
@@ -61,7 +60,7 @@ beautiful!" We finish eating and being grinned at and then she’s off. She had
 to be around ninety years old, something like four foot high, and had a strong
 sense of Yoda about her!
 
-!["Ani Nawang Jondon"]({{ site.baseurl }}/assets/images/pilg1/AniNawangJondon.jpg "Ani Nawang Jondon")
+!["Ani Nawang Jondon"](/images/pilg1/AniNawangJondon.jpg "Ani Nawang Jondon")
 
 We get to a bus in a throng of people. A farmer lady uses her elbows and feet
 to force her way through the crowd towards the door. She hits Nichole with her

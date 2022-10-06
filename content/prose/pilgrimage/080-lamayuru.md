@@ -1,12 +1,11 @@
 ---
+bannerTitle: Pilgrimage
 title: Lamayuru
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
-!["Lamayuru Gompa, 2005"]({{ site.baseurl }}/assets/images/pilg1/lamayuru.jpg "Lamayuru Gompa, 2005")
+!["Lamayuru Gompa, 2005"](/images/pilg1/lamayuru.jpg "Lamayuru Gompa, 2005")
 
 On the road to Zanskar we stopped off here. Our wonderful chum Dave
 was going trekking and I tagged along as far as Lamayuru. I had
@@ -23,7 +22,7 @@ between naps I would chip away with the tiny chisel and hammer, bits
 of stone pinging painfully off my forehead every now and then. At
 last it was finished and he seemed really pleased.
 
-!["Hughie & Phunchok Namgyal, Lamayuru, 2005"]({{ site.baseurl }}/assets/images/mani/mani1Teacher.jpg "Hughie & Phunchok Namgyal, Lamayuru, 2005")
+!["Hughie & Phunchok Namgyal, Lamayuru, 2005"](/images/mani/mani1Teacher.jpg "Hughie & Phunchok Namgyal, Lamayuru, 2005")
 ###### Hughie & Phunchok Namgyal, Lamayuru, 2005.
 
 After a few more goes I eventually came up with this one – my
@@ -36,9 +35,10 @@ a golden eagle soared just over head, amazingly close. It must have
 been checking me out. I was filled with a feeling hard to describe.
 Suddenly everything was so stupendously clear, bright and joyous.
 
-!["Mani 5"]({{ site.baseurl }}/assets/images/mani/mani5.jpg "Mani 5")
+!["Mani 5"](/images/mani/mani5.jpg "Mani 5")
 
 <div class="poem">
+
 overhead  
 the eagle wheeled
 
@@ -53,5 +53,4 @@ weightless
 
 
 <hr />
-A [blog](/blogs/mantra-archive.html) on the carving
 

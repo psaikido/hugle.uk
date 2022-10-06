@@ -1,8 +1,7 @@
 ---
+bannerTitle: Pilgrimage
 title: Ayu Lhamo
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
@@ -107,4 +106,4 @@ powerful need to try and tell the story, always hoping that it would somehow
 help me leave it behind. After meeting the shaman, that need lessened a good
 deal.
 
-!["Ayu Llamo"]({{ site.baseurl }}/assets/images/pilg1/ladakh_orakel4.jpg "Ayu Llamo")
+!["Ayu Llamo"](/images/pilg1/ladakh_orakel4.jpg "Ayu Llamo")

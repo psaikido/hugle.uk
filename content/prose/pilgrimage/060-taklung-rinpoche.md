@@ -1,8 +1,7 @@
 ---
+bannerTitle: Pilgrimage
 title: Taklung Rinpoche
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 
@@ -49,4 +48,4 @@ me and I felt awestruck because of it. The take away advice he gave was that
 one’s practice should be continuous and you should not force it.
 
 
-!["Taklung Rinpoche"]({{ site.baseurl }}/assets/images/pilg1/hh-kyabje-taklung-tsetrul-rinpoche.jpg "Taklung Rinpoche")
+!["Taklung Rinpoche"](/images/pilg1/hh-kyabje-taklung-tsetrul-rinpoche.jpg "Taklung Rinpoche")

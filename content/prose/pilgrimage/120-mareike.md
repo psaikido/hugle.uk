@@ -1,11 +1,10 @@
 ---
+bannerTitle: Pilgrimage
 title: Mareike 
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
-!["Mareike, Lamayuru 2005"]({{ site.baseurl }}/assets/images/pilg1/Mareike_H.jpg "Mareike, Lamayuru 2005")
+!["Mareike, Lamayuru 2005"](/images/pilg1/Mareike_H.jpg "Mareike, Lamayuru 2005")
 
 A group of German Buddhists had come for teaching from their guru,
 Lama Jorphel. I had been wondering about whether to join the
@@ -68,7 +67,7 @@ visibly shrinking and turning bright red with embarrassment and
 running off. Good job because he would’ve been able to take me
 apart! 
 
-![Mareike's mani](/assets/images/mani/mani4.jpg)
+![Mareike's mani](/images/mani/mani4.jpg)
 
 I made a present for her, a little mani stone that would not
 be too heavy to take back with her. Our time came to an all-too-soon

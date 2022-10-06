@@ -1,8 +1,7 @@
 ---
+bannerTitle: Pilgrimage
 title: Rizong
-bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+type: prose/pilgrimage
 ---
 
 The next suggestion was to go to Rizong Gompa and find Geshi
@@ -15,7 +14,7 @@ continues the chant with everyone looking to see what he'll do.
 Eventually he flicks it back and everyone falls about laughing,
 their feet in the air and hooting. Wonderful!
 
-!["Tsultim Gyatso, Rizong Gompa 2005"]({{ site.baseurl }}/assets/images/pilg1/pilg12.jpg "Tsultim Gyatso, Rizong Gompa 2005")
+!["Tsultim Gyatso, Rizong Gompa 2005"](/images/pilg1/pilg12.jpg "Tsultim Gyatso, Rizong Gompa 2005")
 
 Tsultim Gyatso always had that amused look and a powerful presence
 that went with it. It was a joy just to hang around with him, not
@@ -49,7 +48,7 @@ he says "no!". There was a thick, felt blanket over an empty window space.
 There was no glass in it! Some of the coldest temperatures planet earth gets
 happen throughout the winter in Ladakh. What was this monk made of?
 
-![super-hard yogin](/assets/images/pilg1/dscn0067.jpg)
+![super-hard yogin](/images/pilg1/dscn0067.jpg)
 
 I had a few magic tricks to show them. "Pen behind the ear", "elastic bands", a
 "paddle" type trick with a lighter and so forth. One day I was showing the kids
@@ -62,4 +61,4 @@ had it returned but didn’t come himself. He basically stopped having anything
 to do with me. Someone suggested that it might be because he was a different
 sect from the one investigated in the book. Who knows..
 
-![my towel, the Zanskar range](/assets/images/pilg1/rizong.jpg)
+![my towel, the Zanskar range](/images/pilg1/rizong.jpg)
