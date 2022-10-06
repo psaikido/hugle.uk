@@ -15,9 +15,13 @@
             {{ if eq ($.Scratch.Get "currentTitle") $item.title }}
                 {{ $nextIndex := add $currentIndex 1 }}
                 {{ $nextItem := (index ($.Scratch.Get "menu") $nextIndex) }}
-                <div class="next">
-                    next -> <a href="{{ $nextItem.url }}" alt="{{ $nextItem.title }}">{{ $nextItem.title }}</a>
-                </div>
+
+                {{ if $nextItem }}
+                    <div class="next">
+                        next -> <a href="{{ $nextItem.url }}" alt="{{ $nextItem.title }}">{{ $nextItem.title }}</a>
+                    </div>
+                {{ end }}
+
                 {{ break }}
             {{ end }}
         {{ end }}
