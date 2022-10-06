@@ -38,7 +38,7 @@
         button:hover,
         button:focus {
             box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
-            filter: brightness(150%) hue-rotate(180deg);
+            filter: brightness(150%) grayscale(100%);
         }
 
         #search-form {
