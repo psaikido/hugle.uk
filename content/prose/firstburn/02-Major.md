@@ -1,8 +1,7 @@
 ---
-title: Major
 bannerTitle: First Burn
-layout: default
-subnav: first-burn
+title: Major
+type: prose/firstburn
 ---
 
 Hr09 stepped into the debriefing room at the command centre, eight hours after

@@ -1,0 +1,9 @@
+{{ define "main" }}
+    {{ .Scratch.Set "menu" .Site.Data.firstburn.menu }}
+    {{ partial "poem.html" . }}
+{{ end }}
+
+{{ define "subnavbar" }}
+    {{ partial "subnavbar.html" . }}
+{{ end }}
+

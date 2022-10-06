@@ -1,0 +1,15 @@
+description: First Burn 
+
+menu:
+
+- title: Mn04 
+  url: /prose/firstburn/01-mn04/
+
+- title: Major 
+  url: /prose/firstburn/02-major/
+
+- title: GForce 
+  url: /prose/firstburn/03-gforce/
+
+- title: Ground Zero 
+  url: /prose/firstburn/04-ground-zero/

@@ -1,8 +1,7 @@
 --- 
-title: Ground Zero 
 bannerTitle: First Burn 
-layout: default 
-subnav: first-burn 
+title: Ground Zero 
+type: prose/firstburn
 ---
 
 Since unhitching the rope at the bottom of the shaft, total warfare had filled

@@ -1,8 +1,7 @@
 ---
-title: GForce
 bannerTitle: First Burn
-layout: default
-subnav: first-burn
+title: GForce
+type: prose/firstburn
 ---
 
 The warhead was roomy inside the tip of the missile. He relied on the exo to
