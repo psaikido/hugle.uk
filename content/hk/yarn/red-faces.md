@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: red faces in the park
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/red-faces.html
+type: hk/yarn
 ---
 
-<div class="poem">
 
 Finchley Fair had asked  
 for a contribution from the circus  
@@ -74,5 +71,4 @@ a bruised lip
 was a very small price  
 for such a deep satisfaction
 
-</div>
 

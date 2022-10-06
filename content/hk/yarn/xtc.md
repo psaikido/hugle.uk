@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: XTC 
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/xtc.html
+type: hk/yarn
 ---
 
-<div class="poem">
 
 my first proper gig  
 late seventies  
@@ -79,6 +76,5 @@ steel
 steel
 
 steel
-</div>
 
-![xtc]({{ site.baseurl }}/assets/images/bio/xtc_affair_1978.jpg "Hughie or Andrew's back of head watching XTC"){: .center-img }
+![xtc](/images/bio/xtc_affair_1978.jpg "Hughie or Andrew's back of head watching XTC"){: .center-img }

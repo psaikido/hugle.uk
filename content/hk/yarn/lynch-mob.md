@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: lynch mob
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/lynch-mob.html
+type: hk/yarn
 ---
 
-<div class="poem">
 how hard is it  
 to make a music video?  
 I was thinking  
@@ -67,6 +64,5 @@ not much hair
 happy shoppers  
 become  
 lynch mob
-</div>
 
-![Murray John]({{ site.baseurl }}/assets/images/bucket/murrayJohn.jpg "Murray John building, Swindon")
+![Murray John](/images/bucket/murrayJohn.jpg "Murray John building, Swindon")

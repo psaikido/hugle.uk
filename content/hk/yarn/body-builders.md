@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: body-builders 
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/body-builders.html
+type: hk/yarn
 ---
 
-<div class="poem">
 
 a beach bar in Greece  
 a gang of bronzed  
@@ -45,5 +42,4 @@ I lifted my fists in victory
 the whole bar erupted  
 in applause
 
-</div>
 

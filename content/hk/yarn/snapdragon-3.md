@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: snapdragon after
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/snapdragon-3.html
+type: hk/yarn
 ---
 
-<div class="poem">
 they said I had 90% bruising  
 and that I would be ok  
 after about three months  
@@ -79,7 +76,6 @@ then the suffering is terrible
 if I'm asking 'what love do I give?'  
 then everywhere seems filled  
 with ordinary magic  
-</div>
 
 
-![Phil]({{ site.baseurl }}/assets/images/circus/h_as_phil91.jpg "Hughie as 'Phil'")
+![Phil](/images/circus/h_as_phil91.jpg "Hughie as 'Phil'")

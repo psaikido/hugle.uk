@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: endarkenment
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/endarkenment.html
+type: hk/yarn
 ---
 
-<div class="poem">
 my endarkenment was total  
 an absence of light  
 and also of matter  
@@ -57,5 +54,4 @@ is that right now
 
 
 I am here
-</div>
 

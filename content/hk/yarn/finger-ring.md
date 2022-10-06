@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: finger ring 
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/finger-ring.html
+type: hk/yarn
 ---
 
-<div class="poem">
 wedding gig  
 doing magic  
 for the bridesmaids  
@@ -42,6 +39,5 @@ when at last he swallowed
 tears down his cheeks  
 everyone jumped to their feet  
 for a standing ovation
-</div>
 
-![wedding magic](/assets/images/magic/bellinger010.jpg "wedding magic")
+![wedding magic](/images/magic/bellinger010.jpg "wedding magic")

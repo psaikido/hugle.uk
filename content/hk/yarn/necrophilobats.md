@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: necrophilobats
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/necrophilobats.html
+type: hk/yarn
 ---
 
-<div class="poem">
 acrobalance  
 I think it's called  
 Peewee would get knocked  
@@ -44,7 +41,6 @@ was profoundly pleasing
 especially since  
 it took  
 some time
-</div>
 
-![The Weedplants]({{ site.baseurl }}/assets/images/faves/weedplants.jpg "The Weedplants")
+![The Weedplants](/images/faves/weedplants.jpg "The Weedplants")
 

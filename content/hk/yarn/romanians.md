@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Romanians
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/romanians.html
+type: hk/yarn
 ---
 
-<div class="poem">
 my friend had a gig near me  
 and invited me along  
 an East European rugby squad  
@@ -32,6 +29,6 @@ our new friends
 had set a record  
 losing  
 54 - 3
-</div>
 
-[Match link](http://stats.espnscrum.com/scrum/rugby/match/22864.html)
+--
+_(NB: we both remembered the score as 93-0, but google says otherwise!)_

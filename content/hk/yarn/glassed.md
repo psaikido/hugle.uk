@@ -1,16 +1,13 @@
 ---
+bannerTitle: Yarn
 title: glassed 
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/glassed.html
+type: hk/yarn
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkiGen7qAlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<div class="poem">
 they both weighed  
 twice as much as me  
 my rugby mates  
@@ -115,5 +112,5 @@ sticking out of my head
 I looked quite a bit  
 like Frankenstein's monster
 
-![Hughie, Ilkley art show]({{ site.baseurl }}/assets/images/bio/ilkleyartshow.jpg "black eyes"){: .center-img }
-</div>
+![Hughie, Ilkley art show](/images/bio/ilkleyartshow.jpg "black eyes")
+{.center-img }

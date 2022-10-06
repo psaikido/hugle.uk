@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: scattering 
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/scattering.html
+type: hk/yarn
 ---
 
-<div class="poem">
 they had come to the island  
 to scatter the ashes  
 daughter  
@@ -65,7 +62,6 @@ at the same time
 I felt the aching heart  
 of the world  
 embracing everything
-</div>
 
-![beach scattering]({{ site.baseurl }}/assets/images/pilg1/pilg129a.jpg "beach scattering")
+![beach scattering](/images/pilg1/pilg129a.jpg "beach scattering")
 

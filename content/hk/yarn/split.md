@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: The Inevitable Split
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/split.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the college band  
 was modelled on Kid Creole  
 and the Coconuts  
@@ -75,6 +72,5 @@ at fifty drunken blokes
 in hysterics  
 ripping up  
 their world
-</div>
 
-![Hughie, Inevitable Split 1984]({{ site.baseurl }}/assets/images/bio/Promo1984.jpg "Hughie, Inevitable Split 1984")
+![Hughie, Inevitable Split 1984](/images/bio/Promo1984.jpg "Hughie, Inevitable Split 1984")

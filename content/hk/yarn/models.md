@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: models
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/models.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the lorry arrived  
 one thousand CDs  
 my album  
@@ -28,7 +25,8 @@ then there it was
 Mantrasphere  
 
 
-![Mantrasphere cover]({{ site.baseurl }}/assets/images/shop/mantrasphere.gif "Mantrasphere"){:class="half"}
+![Mantrasphere cover](/images/shop/mantrasphere.gif "Mantrasphere")
+{.img-half}
 
 
 the printing looked ok  
@@ -71,9 +69,8 @@ recording artist
 it might have a Buddhist theme  
 but I aint  
 no monk
-</div>
 
-![Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun]({{ site.baseurl }}/assets/images/bucket/models2.jpg "Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun")
+![Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun](/images/bucket/models2.jpg "Lex, Gestalta, Hughie, x, Madame Bink, Rebecca Tun")
 
 
-[Mantrasphere](https://mantrasphere.co.uk) album  
+[Mantrasphere](/mantrasphere/) album  

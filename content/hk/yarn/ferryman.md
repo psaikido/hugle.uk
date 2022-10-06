@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: the ferryman
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/ferryman.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the human body  
 is not supposed to survive  
 a twenty seven foot fall  
@@ -46,6 +43,5 @@ to bring me back across
 just what Mother Nature needs  
 in return  
 for my life
-</div>
 
-![the fateful stunt]({{ site.baseurl }}/assets/images/circus/suitcase.jpg "the fateful stunt")
+![the fateful stunt](/images/circus/suitcase.jpg "the fateful stunt")

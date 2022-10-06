@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Bott
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/bott.html
+type: hk/yarn
 ---
 
-<div class="poem">
 in the IT office  
 childish geeky banter  
 if someone left their computer  
@@ -81,6 +78,5 @@ we had both said
 the snow melted  
 eventually away  
 into legend
-</div>
 
-![bottenator]({{ site.baseurl }}/assets/images/bucket/bottenator.jpg "bottenator") 
+![bottenator](/images/bucket/bottenator.jpg "bottenator") 

@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: shine
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/shine.html
+type: hk/yarn
 ---
 
-<div class="poem">
 dreaming of my grandma  
 and mam  
 baking in the kitchen  
@@ -41,8 +38,7 @@ and says
 
 
 is shine!"  
-</div>
 
-![Grandma Carroll]({{ site.baseurl }}/assets/images/bio/happy_grandmacarroll_1977.jpg "Grandma Carroll")  
+![Grandma Carroll](/images/bio/happy_grandmacarroll_1977.jpg "Grandma Carroll")  
 
 [song 'shine' on album Mantrasphere](http://www.reverbnation.com/open_graph/song/6375337)

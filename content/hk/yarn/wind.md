@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: wind
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/wind.html
+type: hk/yarn
 ---
 
-<div class="poem">
 we had been climbing  
 all day long  
 the wind at the top  
@@ -56,7 +53,6 @@ on that wind
 
 was it an act of faith  
 or tempting fate?
-</div>
 
-![Stanage Edge]({{ site.baseurl }}/assets/images/bucket/Stanage-Edge-1.jpg "Stanage Edge")
+![Stanage Edge](/images/bucket/Stanage-Edge-1.jpg "Stanage Edge")
 

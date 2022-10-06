@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Dobra
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/dobra.html
+type: hk/yarn
 ---
 
-<div class="poem">
 Nick had told me  
 about the Dobra Valley  
 how no one had ever gone down it  
@@ -158,6 +155,5 @@ having told everyone
 that the last two people  
 to give it a go  
 had never returned  
-</div>
 
-![Hughie, Dobra Valley, 1989]({{ site.baseurl }}/assets/images/bio/h_dobra.jpg "Hughie, Dobra Valley 1989")
+![Hughie, Dobra Valley, 1989](/images/bio/h_dobra.jpg "Hughie, Dobra Valley 1989")

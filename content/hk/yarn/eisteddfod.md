@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Eisteddfod
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/eisteddfod.html
+type: hk/yarn
 ---
 
-<div class="poem">
 me and Peewee were put on last  
 then the compėre went home  
 so our slot became open ended  
@@ -64,7 +61,6 @@ or ask for the applause
 the young girl in question  
 took several  
 curtain calls
-</div>
 
-![Peewee & Hughie]({{ site.baseurl }}/assets/images/circus/peewee_hughie_firetower.jpg "Peewee & Hughie")
+![Peewee & Hughie](/images/circus/peewee_hughie_firetower.jpg "Peewee & Hughie")
 

@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Paul Daniels
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/paul-daniels.html
+type: hk/yarn
 ---
 
-<div class="poem">
 a tweet offered a place  
 a Paul Daniels Master Class  
 twelve would-be magicians  
@@ -175,6 +172,5 @@ it was among
 his last few shows  
 shortly afterwards  
 he disappeared  
-</div>
 
-![Paul Daniels and me]({{ site.baseurl }}/assets/images/bio/PaulDaniels.jpg "Paul Daniels and m")
+![Paul Daniels and me](/images/bio/PaulDaniels.jpg "Paul Daniels and m")

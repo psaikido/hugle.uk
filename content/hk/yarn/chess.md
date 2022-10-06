@@ -1,15 +1,12 @@
 ---
+bannerTitle: Yarn
 title: chess
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/chess.html
+type: hk/yarn
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jh9JYVPCPOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="poem">
 the scars were deep  
 all over his face  
 car windscreen maybe?  
@@ -63,8 +60,7 @@ my guilt
 lacerating  
 taking his queen  
 another cut
-</div>
 
-![chess]({{ site.baseurl }}/assets/images/faves/Chess.jpg "chess")
+![chess](/images/faves/Chess.jpg "chess")
 
 

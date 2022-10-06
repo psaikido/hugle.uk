@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Gaumin Si
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/gaumin-si.html
+type: hk/yarn
 ---
 
-<div class="poem">
 outside the Chan hall  
 at Gaumin Si  
 we discussed and stretched  
@@ -25,6 +22,5 @@ John poked me in the forehead
 you
 
 forget it!"
-</div>
 
-![Gaumin Si]({{ site.baseurl }}/assets/images/chan/gauminSiGroup.jpg "Gaumin Si")
+![Gaumin Si](/images/chan/gauminSiGroup.jpg "Gaumin Si")

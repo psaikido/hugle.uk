@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: bucket
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/bucket.html
+type: hk/yarn
 ---
 
-<div class="poem">
 over the doctor's shoulder  
 I hallucinated Green Tara  
 ethereal light all around  
@@ -72,4 +69,3 @@ a desolation so complete
 the Queen of the Dead herself  
 would turn away  
 in fright
-</div>

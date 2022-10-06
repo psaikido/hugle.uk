@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: arrested
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/arrested.html
+type: hk/yarn
 ---
 
-<div class="poem">
 in the mid 90s  
 I had a garret room  
 the landlord was away  
@@ -105,6 +102,5 @@ they said
 dissappointed  
 as they handed me  
 my stuff
-</div>
 
-![Eastcott]({{ site.baseurl }}/assets/images/bucket/eastcottHillLeaf.jpg "Savernake Street playground, Eastcott Hill")
+![Eastcott](/images/bucket/eastcottHillLeaf.jpg "Savernake Street playground, Eastcott Hill")

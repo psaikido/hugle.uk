@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: library
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/library.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the book had the title  
 "Speed Reading"  
 in big bold letters on the cover  
@@ -49,4 +46,3 @@ I think my laughter bursting out
 was accompanied  
 by a tiny drop  
 of wee
-</div>

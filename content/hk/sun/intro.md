@@ -5,6 +5,7 @@ type: hk/sun
 ---
 
 ![Sunshine & Shadow cover](/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")
+{.img-half}
 
 Poems on circus, zen, love, longing, loss and darkness.  
 Most have sprung from the silence of meditation.  

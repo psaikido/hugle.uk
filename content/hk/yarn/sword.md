@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: sword
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/sword.html
+type: hk/yarn
 ---
 
-<div class="poem">
 my old jiu-jitsu teacher  
 used to have a short sword  
 its blade milled off  
@@ -50,4 +47,3 @@ that we had kind of been playing
 on the bones
 
 of the dead
-</div>

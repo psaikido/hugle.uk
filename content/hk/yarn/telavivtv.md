@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Tel Aviv TV
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/telavivtv.html
+type: hk/yarn
 ---
 
-<div class="poem">
 
 "quick quick grab your costume  
 we'll explain on the way"  
@@ -113,6 +110,5 @@ but that night over beers
 I thought it would last  
 forever
 
-</div>
-![Eilat, Timna Park]({{ site.baseurl }}/assets/images/circus/snapdragonnegev.jpg "Timna Park")
+![Eilat, Timna Park](/images/circus/snapdragonnegev.jpg "Timna Park")
 

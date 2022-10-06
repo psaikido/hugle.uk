@@ -1,9 +1,7 @@
 ---
-title: intro
 bannerTitle: Yarn
-type: hk
-layout: yarn
-subnav: yarn
+title: intro
+type: hk/yarn
 ---
 
 ![Yarn cover](/images/shop/yarn-cover.jpg "Yarn cover")  
@@ -48,4 +46,4 @@ _– Brendan Hamley_
 - buy on [blurb.co.uk](https://www.blurb.co.uk/b/10210368-yarn)
 - review on [goodreads](https://www.goodreads.com/book/show/55252078-yarn)
 
-[first poem - scrabble](/yarn/scrabble.html)
+[first poem - scrabble](/yarn/scrabble/)

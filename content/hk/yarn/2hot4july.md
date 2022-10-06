@@ -1,13 +1,11 @@
 ---
+bannerTitle: Yarn
 title: 2 Hot 4 July
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/2hot4july.html
+type: hk/yarn
 ---
 
-<div class="poem">
+
 
 the only band on the island  
 2 Hot 4 July  
@@ -38,6 +36,5 @@ he asked me to send him a tape
 but I had no songs of my own  
 and somehow lost his address
 
-</div>
 
 ![Ios amphitheatre](/images/bucket/ios_amphitheater.jpg "Ios amphitheatre")

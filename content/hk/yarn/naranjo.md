@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: El Naranjo de Bulnes
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/naranjo.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the picture says it all
 kind of
 
@@ -80,8 +77,7 @@ the brakes went on
 and all these years later  
 they simply will not  
 come off  
-</div>
 
-![El Naranjo de Bulnes 1989]({{ site.baseurl }}/assets/images/faves/h_naranjodebulnes89.jpg "on top 1989")  
+![El Naranjo de Bulnes 1989](/images/faves/h_naranjodebulnes89.jpg "on top 1989")  
 
-![El Naranjo de Bulnes 2001]({{ site.baseurl }}/assets/images/faves/h_s_naranjo_sumit.jpg "on top 2001")
+![El Naranjo de Bulnes 2001](/images/faves/h_s_naranjo_sumit.jpg "on top 2001")

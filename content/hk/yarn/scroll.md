@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: scroll
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/scroll.html
+type: hk/yarn
 ---
 
-<div class="poem">
 I'd been asked  
 to talk on Chan  
 at the Ashmolean  
@@ -55,8 +52,7 @@ to him
 was a mystery  
 not to be  
 evaluated
-</div>
 
-![Bing Nan Li-Ashmolean]({{ site.baseurl }}/assets/images/chan/BingNanLi-Ashmolean.jpg "BingNanLi-Ashmolean")  
-![Heart Sutra scroll]({{ site.baseurl }}/assets/images/chan/HeartSutraGift.jpg "Heart Sutra scroll")  
+![Bing Nan Li-Ashmolean](/images/chan/BingNanLi-Ashmolean.jpg "BingNanLi-Ashmolean")  
+![Heart Sutra scroll](/images/chan/HeartSutraGift.jpg "Heart Sutra scroll")  
 [Heart Sutra wikipedia](https://en.wikipedia.org/wiki/Heart_Sutra)

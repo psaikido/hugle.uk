@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: groupies
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/groupies.html
+type: hk/yarn
 ---
 
-<div class="poem">
 two girls in the audience  
 had clearly taken a shine  
 I played my funky guitar  
@@ -41,6 +38,5 @@ I scooted down behind it
 and scuttled along  
 hoping they wouldn't  
 see my feet
-</div>
 
-![Hughie, Inevitable Split 1984]({{ site.baseurl }}/assets/images/bio/inevitablesplit.jpg "Hughie, Inevitable Split 1984")
+![Hughie, Inevitable Split 1984](/images/bio/inevitablesplit.jpg "Hughie, Inevitable Split 1984")

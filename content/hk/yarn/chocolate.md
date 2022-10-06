@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: chocolate
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/chocolate.html
+type: hk/yarn
 ---
 
-<div class="poem">
 long distance club passing  
 the final  
 European Juggling Convention  
@@ -51,7 +48,6 @@ to smash up
 and distribute  
 a process that took  
 seconds
-</div>
 
-![chocolate club prize, Hughie, Maastricht 1989]({{ site.baseurl }}/assets/images/bio/maastricht89.jpg "chocolate club prize, Hughie, Maastricht 1989")
+![chocolate club prize, Hughie, Maastricht 1989](/images/bio/maastricht89.jpg "chocolate club prize, Hughie, Maastricht 1989")
 

@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: dancing Shiva
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/dancing-shiva.html
+type: hk/yarn
 ---
 
-<div class="poem">
 dancing shiva acid  
 sixteen years old  
 Stonehenge  
@@ -71,6 +68,5 @@ of that ecstatic rite
 a journey of tribal allegiance  
 to what I later learned to call  
 the Way of the Bodhisattva
-</div>
 
-![Ananda's cave]({{ site.baseurl }}/assets/images/faves/anandaCaveMala.jpg)
+![Ananda's cave](/images/faves/anandaCaveMala.jpg)

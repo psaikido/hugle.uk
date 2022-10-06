@@ -1,10 +1,8 @@
 ---
+bannerTitle: Yarn
 title: scrabble
 written: 2020
-bannerTitle: Yarn
-type: hk
-layout: hk/yarn
-aliases: [/yarn/scrabble.html]
+type: hk/yarn
 ---
 
 scrabble at Christmas  

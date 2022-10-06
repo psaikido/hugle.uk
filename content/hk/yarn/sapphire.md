@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: sapphire
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/sapphire.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the taxi driver  
 kept taking me to shops  
 carpets, suits, jewellery  
@@ -54,7 +51,6 @@ helplessly
 
 me  
 not them
-</div>
 
-![Chennai woman laughing]({{ site.baseurl }}/assets/images/pilg1/chennaiWomanLaughing.jpg "Chennai woman laughing")
+![Chennai woman laughing](/images/pilg1/chennaiWomanLaughing.jpg "Chennai woman laughing")
 

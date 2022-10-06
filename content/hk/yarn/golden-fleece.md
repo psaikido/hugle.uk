@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: the golden fleece
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/golden-fleece.html
+type: hk/yarn
 ---
 
-<div class="poem">
 all the gear fell out  
 as I started the crux  
 of the golden fleece  
@@ -48,7 +45,6 @@ of accidental
 
 
 perfection
-</div>
 
-![Los Rubios]({{ site.baseurl }}/assets/images/faves/losrubios_h&d_pembroke98.jpg "Los Rubios")
+![Los Rubios](/images/faves/losrubios_h&d_pembroke98.jpg "Los Rubios")
 

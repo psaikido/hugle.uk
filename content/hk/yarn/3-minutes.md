@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: 3 minutes 
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/3-minutes.html
+type: hk/yarn
 ---
 
-<div class="poem">
 the clowing workshop  
 could really get rough  
 away for a week  
@@ -47,6 +44,5 @@ my three minutes was up
 I felt like a king  
 never again did stage fright  
 come to spoil the party
-</div>
 
-![Snapdragon 90 spectacular]({{ site.baseurl }}/assets/images/circus/speccie.jpg "'Snapdragon 90 spectacular") 
+![Snapdragon 90 spectacular](/images/circus/speccie.jpg "'Snapdragon 90 spectacular") 

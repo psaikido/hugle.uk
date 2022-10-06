@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: giraffes
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/giraffes.html
+type: hk/yarn
 ---
 
-<div class="poem">
 it might've been Llanelli  
 or somewhere just like it  
 me and Seb did a show  
@@ -54,7 +51,6 @@ the entire shopping centre
 at a standstill  
 hovering  
 without security
-</div>
 
-![Peewee & Seb in the fish car]({{ site.baseurl }}/assets/images/bucket/PeeweeSebFishCar.jpg "Peewee & Seb in the fish car")
+![Peewee & Seb in the fish car](/images/bucket/PeeweeSebFishCar.jpg "Peewee & Seb in the fish car")
 

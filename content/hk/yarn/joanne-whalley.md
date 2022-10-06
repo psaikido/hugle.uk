@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Joanne Whalley
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/joanne-whalley.html
+type: hk/yarn
 ---
 
-<div class="poem">
 they were filming Edge of Darkness  
 at the Ilkley College Student Union  
 I showed up to get some chips  
@@ -34,6 +31,5 @@ what she said
 but I wasn't really listening  
 having already drowned  
 in her eyes
-</div>
 
-![Joanne Whalley]({{ site.baseurl }}/assets/images/bucket/JoanneWhalley.jpg "Joanne Whalley")
+![Joanne Whalley](/images/bucket/JoanneWhalley.jpg "Joanne Whalley")

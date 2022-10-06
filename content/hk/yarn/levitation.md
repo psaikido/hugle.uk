@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: levitation
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/levitation.html
+type: hk/yarn
 ---
 
-<div class="poem">
 there is a levitation trick  
 we're not supposed to tell  
 how it's done  
@@ -73,6 +70,5 @@ well
 
 
 so can I
-</div>
 
-![joker]({{ site.baseurl }}/assets/images/bucket/joker.jpg "joker")
+![joker](/images/bucket/joker.jpg "joker")

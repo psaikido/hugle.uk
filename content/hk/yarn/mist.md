@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: mist
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/mist.html
+type: hk/yarn
 ---
 
-<div class="poem">
 flying my blue motorbike  
 over that big old bridge to Wales  
 into an enfoldment of mist  
@@ -29,6 +26,5 @@ I saw that the cloud
 was left behind  
 except for a little bubble  
 all mine
-</div>
 
-![Severn Bridge]({{ site.baseurl }}/assets/images/bucket/severnBridge.jpg "Severn Bridge")
+![Severn Bridge](/images/bucket/severnBridge.jpg "Severn Bridge")

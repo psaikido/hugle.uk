@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: snapdragon during 
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/snapdragon-2.html
+type: hk/yarn
 ---
 
-<div class="poem">
 rehearsals  
 Sowerby Bridge  
 13th April 1991  
@@ -116,6 +113,5 @@ back inside my body
 between my shoulder blades  
 the single most painful moment  
 of my life  
-</div>
 
-![Mr Gasket]({{ site.baseurl }}/assets/images/circus/gasket_balloon_mime.jpg "Mr Gasket")
+![Mr Gasket](/images/circus/gasket_balloon_mime.jpg "Mr Gasket")

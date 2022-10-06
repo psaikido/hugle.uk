@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: finale 
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/finale.html
+type: hk/yarn
 ---
 
-<div class="poem">
 street juggling finale  
 looking straight up  
 throwing those balls so high  
@@ -29,6 +26,5 @@ not to be sick
 
 it was the biggest laugh  
 I ever got
-</div>
 
-!['Phil' at Snapdragon 91]({{ site.baseurl }}/assets/images/circus/h_as_phil91.jpg "'Phil' at Snapdragon 91") 
+!['Phil' at Snapdragon 91](/images/circus/h_as_phil91.jpg "'Phil' at Snapdragon 91") 

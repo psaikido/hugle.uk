@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: white hats 
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/white-hats.html
+type: hk/yarn
 ---
 
-<div class="poem">
 people kept warning me  
 about the white hat police  
 on Naxos  
@@ -51,6 +48,5 @@ the next performance
 
 a striptease maybe?  
 expressive dance?  
-</div>
 
-![Hughie beach juggle Thailand]({{ site.baseurl }}/assets/images/pilg1/beachJuggle.jpg "Hughie beach juggle Thailand")
+![Hughie beach juggle Thailand](/images/pilg1/beachJuggle.jpg "Hughie beach juggle Thailand")

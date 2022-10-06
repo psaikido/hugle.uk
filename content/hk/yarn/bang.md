@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: bang
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/bang.html
+type: hk/yarn
 ---
 
-<div class="poem">
 weedkiller and sugar  
 burned with a supernatural light  
 a fierce lancing  
@@ -49,6 +46,5 @@ my brother called my name
 
 
 distantly
-</div>
 
-![Jem & Hughie]({{ site.baseurl }}/assets/images/bio/jemHughie.jpg "Jem & Hughie")
+![Jem & Hughie](/images/bio/jemHughie.jpg "Jem & Hughie")

@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: snapdragon before
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/snapdragon-1.html
+type: hk/yarn
 ---
 
-<div class="poem">
 so exciting  
 to winch up the king poles  
 they held up the little big top  
@@ -93,6 +90,5 @@ when they become
 
 
 nightmares?
-</div>
 
-![Hughie 5 rings]({{ site.baseurl }}/assets/images/circus/5rings.jpg "Hughie 5 rings")
+![Hughie 5 rings](/images/circus/5rings.jpg "Hughie 5 rings")

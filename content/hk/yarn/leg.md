@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: leg
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/leg.html
+type: hk/yarn
 ---
 
-<div class="poem">
 one snowy Christmas  
 the whole family went  
 to the woods  
@@ -32,7 +29,6 @@ see that guy?
 he's come in  
 to have his tie  
 straightened
-</div>
 
-![Colm and Hughie]({{ site.baseurl }}/assets/images/bio/dadandme.jpg "Colm and Hughie")
+![Colm and Hughie](/images/bio/dadandme.jpg "Colm and Hughie")
 

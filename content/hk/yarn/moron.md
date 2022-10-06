@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: moron
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/moron.html
+type: hk/yarn
 ---
 
-<div class="poem">
 I have to admit  
 it was pretty funny  
 Jem overpowering me  
@@ -34,7 +31,6 @@ being shaken
 
 
 by the ears
-</div>
 
-![tie burning]({{ site.baseurl }}/assets/images/bio/hcTieBurn1980.jpeg "burning my tie on the last day of school")
+![tie burning](/images/bio/hcTieBurn1980.jpeg "burning my tie on the last day of school")
 

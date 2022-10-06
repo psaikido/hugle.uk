@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Tiananmen Square
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/tiananmen.html
+type: hk/yarn
 ---
 
-<div class="poem">
 Tiananmen square  
 just leaving  
 a pair of synchronised soldiers  
@@ -30,6 +27,5 @@ we laughed so hard
 Ah John  
 zen master clowning  
 that's what I salute  
-</div>
 
-![Tiananmen Square]({{ site.baseurl }}/assets/images/chan/johnCrookTiananmen.jpg "Tiananmen Square")  
+![Tiananmen Square](/images/chan/johnCrookTiananmen.jpg "Tiananmen Square")  

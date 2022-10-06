@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: Grist
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/grist.html
+type: hk/yarn
 ---
 
-<div class="poem">
 I had asked him  
 not to leave  
 his liturgy on the floor  
@@ -63,6 +60,5 @@ except to say
 I now feel  
 the meaning of the words  
 is in the manner of their handling  
-</div>
 
-![broken guitar]({{ site.baseurl }}/assets/images/bucket/brokenGuitar.jpg "broken guitar") 
+![broken guitar](/images/bucket/brokenGuitar.jpg "broken guitar") 

@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: airborne
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/airborne.html
+type: hk/yarn
 ---
 
-<div class="poem">
 all the stories my dad told  
 about his time down the mines  
 the "coal tattoo" behind his ear  
@@ -43,7 +40,6 @@ was just for a moment
 
 
 airborne
-</div>
 
-![Colm at the pithead]({{ site.baseurl }}/assets/images/bucket/pithead.jpg "Colm at the pithead")
+![Colm at the pithead](/images/bucket/pithead.jpg "Colm at the pithead")
 

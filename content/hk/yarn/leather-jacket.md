@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: leather jacket
 written: 2020
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/leather-jacket.html
+type: hk/yarn
 ---
 
-<div class="poem">
 that leather jacket  
 kinda saved my life  
 
@@ -53,6 +50,5 @@ back at the bus
 my folks had sent a letter  
 inside  
 was a tenner
-</div>
 
-![Hughie in leather jacket]({{ site.baseurl }}/assets/images/bucket/h-leather-jacket.jpg "Hughie in leather jacket")
+![Hughie in leather jacket](/images/bucket/h-leather-jacket.jpg "Hughie in leather jacket")

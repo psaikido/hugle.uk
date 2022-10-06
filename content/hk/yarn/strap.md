@@ -1,13 +1,10 @@
 ---
+bannerTitle: Yarn
 title: the strap
 written: 2019
-bannerTitle: Yarn
-layout: default
-subnav: yarn
-permalink: /yarn/strap.html
+type: hk/yarn
 ---
 
-<div class="poem">
 a professional maths teacher  
 asked us  
 "how many right angles  
@@ -55,5 +52,4 @@ any semblance of integrity
 they believed they had  
 vanished right then  
 never to return  
-</div>
 
