@@ -10,9 +10,9 @@
                 {{ partial "main-nav.html" . }}
 
                 {{ if .Params.bannerTitle }}
-                    <h1>&#x0f3a; {{ .Params.bannerTitle }} &#x0f3b;</h1>
+                    <a href="/"><h1>&#x0f3a; {{ .Params.bannerTitle }} &#x0f3b;</h1></a>
                 {{ else }}
-                    <h1>&#x0f3a; hugle &#x0f3b;</h1>
+                    <a href="/"><h1>&#x0f3a; hugle &#x0f3b;</h1></a>
                 {{ end }}
 
                 <div class="search">

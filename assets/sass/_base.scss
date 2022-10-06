@@ -56,14 +56,26 @@ h1, h2, h3, h4, h5, h6 {
     @include border-fancy;
 }
 
-header h1 {
-    font-size: 1.8rem;
-    font-weight: bold;
-    letter-spacing: .3em;
-    text-shadow: -2px 3px 2px var(--text-minor);
-    margin-top: 8px;
-    max-width: initial;
-    text-align: center;
+header {
+    a,
+    a:link,
+    a:visited {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+        font-weight: bold;
+        letter-spacing: .3em;
+        text-shadow: -2px 3px 2px var(--text-minor);
+        margin-top: 8px;
+        max-width: initial;
+        text-align: center;
+    }
 }
 
 h2 {
