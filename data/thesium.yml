@@ -1,60 +1,58 @@
-description: thesium
-
 menu:
 
 - title: Seeds 
-  url: /thesium/index.html
+  url: /thesium/
 
 - title: Abystery
-  url: /thesium/010-abystery-wakes.html
+  url: /thesium/010-abystery-wakes/
 
 - title: Age 7
-  url: /thesium/020-age-7.html
+  url: /thesium/020-age-7/
 
 - title: Perception 
-  url: /thesium/030-perception.html
+  url: /thesium/030-perception/
 
 - title: Terraformers 
-  url: /thesium/040-terraformers.html
+  url: /thesium/040-terraformers/
 
 - title: Theocracy 
-  url: /thesium/050-theocracy.html
+  url: /thesium/050-theocracy/
 
 - title: Rebellion 
-  url: /thesium/060-rebellion.html
+  url: /thesium/060-rebellion/
 
 - title: Age 13
-  url: /thesium/070-age-13.html
+  url: /thesium/070-age-13/
 
 - title: Doubt 
-  url: /thesium/080-doubt.html
+  url: /thesium/080-doubt/
 
 - title: Renaissance
-  url: /thesium/090-renaissance.html
+  url: /thesium/090-renaissance/
 
 - title: Age 17
-  url: /thesium/100-age-17.html
+  url: /thesium/100-age-17/
 
 - title: Industry 
-  url: /thesium/110-industry.html
+  url: /thesium/110-industry/
 
 - title: Dreamer
-  url: /thesium/130-dreamer.html
+  url: /thesium/130-dreamer/
 
 - title: Self
-  url: /thesium/140-self.html
+  url: /thesium/140-self/
 
 - title: Dread
-  url: /thesium/150-dread.html
+  url: /thesium/150-dread/
 
 - title: Rapprochement
-  url: /thesium/160-rapprochement.html
+  url: /thesium/160-rapprochement/
 
 - title: Age 44
-  url: /thesium/170-age-44.html
+  url: /thesium/170-age-44/
 
 - title: Mythos Reborn 
-  url: /thesium/180-mythos-reborn.html
+  url: /thesium/180-mythos-reborn/
 
 - title: addendum 
-  url: /thesium/190-addendum.html
+  url: /thesium/190-addendum/

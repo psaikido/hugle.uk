@@ -1,8 +1,7 @@
 ---
-title: Leaving
 bannerTitle: Pilgrimage - Mahabodhi Moonlight
-layout: default
-subnav: pilgrimage
+title: Leaving
+type: prose/pilgrimage
 ---
 
 !["Hugh Carroll, Ladakh 2005"]({{ site.baseurl }}/assets/images/pilg1/pilg14a.jpg "Hugh Carroll, Ladakh 2005")

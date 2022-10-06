@@ -1,9 +1,8 @@
 ---
-title: Self
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/140-self.html
+title: Self
+type: prose/thesium
+aliases: [/thesium/140-self/]
 ---
 
 <div class="data">
@@ -12,7 +11,7 @@ permalink: /thesium/140-self.html
 - root-108: anomalous entity 'Abystery' report.
 </div>
 
-![splits elliptic moonlight - capn-damo deviantart.com](/assets/images/Thesium/splits-elliptic-moonlight.jpg)
+![splits elliptic moonlight - capn-damo deviantart.com](/images/thesium/splits-elliptic-moonlight.jpg)
 
 From the peace of the void, the Abystery lifted the High Neem's experience
 upwards. As he ascended he became aware of a great wailing cry. He accelerated

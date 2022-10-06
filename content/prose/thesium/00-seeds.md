@@ -1,9 +1,8 @@
 ---
-title: Seeds
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/index.html
+title: Seeds
+type: prose/thesium
+aliases: [/thesium/]
 ---
 
 <div class="quote">
@@ -18,7 +17,7 @@ other contending that it was not the same."
 -- Plutarch, Theseus
 </div>
 
-![another sunset somewhere - capn-damo on deviantart.com](/assets/images/Thesium/another-sunset-somewhere.png)
+![another sunset somewhere - capn-damo on deviantart.com](/images/thesium/another-sunset-somewhere.png)
 
 
 The deep future. Gaia's son mourns her dying and casts many seeds onto the

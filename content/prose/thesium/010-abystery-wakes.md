@@ -1,12 +1,11 @@
 ---
-title: Abystery
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/010-abystery-wakes.html
+title: Abystery
+type: prose/thesium
+aliases: [/thesium/010-abystery-wakes/]
 ---
 
-![cobra - capn-damo deviantart.com](/assets/images/Thesium/cobra.jpg)
+![cobra - capn-damo deviantart.com](/images/thesium/cobra.jpg)
 
 The Abystery woke up. After some time it spoke.  
 

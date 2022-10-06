@@ -1,9 +1,8 @@
 ---
-title: Industry
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/110-industry.html
+title: Industry
+type: prose/thesium
+aliases: [/thesium/110-industry/]
 ---
 
 <div class="data">
@@ -12,7 +11,7 @@ permalink: /thesium/110-industry.html
 </div>
 
 
-![Pinski's place - monument - capn-damo deviantart.com](/assets/images/Thesium/pinski-monument.jpg)
+![Pinski's place - monument - capn-damo deviantart.com](/images/thesium/pinski-monument.jpg)
 
 An industrial revolution turns the society inside out at dizzying speed. The
 Execs sweep the feudal systems aside and install themselves in the corridors of

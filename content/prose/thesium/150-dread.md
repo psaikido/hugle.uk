@@ -1,9 +1,8 @@
 ---
-title: Dread
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/150-dread.html
+title: Dread
+type: prose/thesium
+aliases: [/thesium/150-dread/]
 ---
 
 <div class="quote">
@@ -20,7 +19,7 @@ against our will, comes wisdom to us by the awful grace of God."
 - root-108: anomalous entity 'Abystery' report. 
 </div>
 
-![dragon egg - capn-damo deviantart.com](/assets/images/Thesium/dragon-egg.jpg)
+![dragon egg - capn-damo deviantart.com](/images/thesium/dragon-egg.jpg)
 
 The High Neem lurched back to reality. He was nearly sick.
 

@@ -1,9 +1,8 @@
 ---
-title: Doubt
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/080-doubt.html
+title: Doubt
+type: prose/thesium
+aliases: [/thesium/080-doubt/]
 ---
 
 <div class="data">
@@ -11,7 +10,7 @@ permalink: /thesium/080-doubt.html
 - rdr-108: narrative summary of 102 exabyte archive filed by root-108.  
 </div>
 
-![the waiting city - capn-damo deviantart.com](/assets/images/Thesium/waiting-city.jpg)
+![the waiting city - capn-damo deviantart.com](/images/thesium/waiting-city.jpg)
 
 The society is structured like a walled garden. In the outer circles there are
 vast shanty towns of mostly unregulated space. Crime runs rife. Mob killings

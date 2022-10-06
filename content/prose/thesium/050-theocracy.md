@@ -1,9 +1,8 @@
 ---
-title: Theocracy
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/050-theocracy.html
+title: Theocracy
+type: prose/thesium
+aliases: [/thesium/050-theocracy/]
 ---
 
 <div class="data">
@@ -11,7 +10,7 @@ permalink: /thesium/050-theocracy.html
 - rdr-108: narrative summary of 231 exabyte archive filed by root-108.  
 </div>
 
-![desert outpost - capn-damo deviantart.com](/assets/images/Thesium/desert-outpost.jpg)
+![desert outpost - capn-damo deviantart.com](/images/thesium/desert-outpost.jpg)
 
 Theo Nimes has long since died along with the rest of the crew. Their
 many offspring remember him as 'Neems'. They are eight, perhaps nine generations

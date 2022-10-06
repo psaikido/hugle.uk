@@ -1,9 +1,8 @@
 ---
-title: Dreamer
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/130-dreamer.html
+title: Dreamer
+type: prose/thesium
+aliases: [/thesium/130-dreamer]
 ---
 
 <div class="data">
@@ -12,7 +11,7 @@ permalink: /thesium/130-dreamer.html
 - root-108: anomalous entity 'Abystery' report.
 </div>
 
-![take it to the lab Igor - capn-damo deviantart.com](/assets/images/Thesium/take-it-to-the-lab-igor.jpg)
+![take it to the lab Igor - capn-damo deviantart.com](/images/thesium/take-it-to-the-lab-igor.jpg)
 
 The arguments between the High Neem and the Top Prof go round and round in
 circles. They both tire of them. On the one side there is the need for a

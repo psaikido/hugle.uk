@@ -1,9 +1,8 @@
 ---
-title: Mythos Reborn
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/180-mythos-reborn.html
+title: Mythos Reborn
+type: prose/thesium
+aliases: [/thesium/180-mythos-reborn/]
 ---
 
 <div class="quote">
@@ -21,7 +20,7 @@ The same holds for sensation and perception, memory and consciousness."
 - rdr-108: narrative summary of 9 petabyte archive filed by root-108.  
 </div>
 
-![mouette solitaire - capn-damo deviantart.com](/assets/images/Thesium/mouette-solitaire.jpg) 
+![mouette solitaire - capn-damo deviantart.com](/images/thesium/mouette-solitaire.jpg) 
 
 And so it was that that year became one of the most momentous in all of
 Thesium's history. The elders told of those happenings long into their future.

@@ -1,9 +1,8 @@
 ---
-title: Addendum 
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/190-addendum.html
+title: Addendum 
+type: prose/thesium
+aliases: [/thesium/190-addendum/]
 ---
 
 There have been loads of times that I've tried to get the ideas in this story
@@ -22,8 +21,8 @@ found on [DeviantArt](https://www.deviantart.com/capn-damo).
 
 The 'Abystery' is a version of Chenrezig.  
 
-![Chenrezig](/assets/images/mantrasphere/chenrezig.jpg)
-{: class="half"}
+![Chenrezig](/images/mantrasphere/chenrezig.jpg)
+{.img-half}
 
 - review on [goodreads](https://www.goodreads.com/book/show/62708891-thesium)
 
@@ -45,4 +44,4 @@ An essay on the theme:
 
 With heartfelt thanks to my late teacher, John Crook. 
 
-![John Crook & Hughie](/assets/images/chan/John_rainbow_Hughie.jpg)
+![John Crook & Hughie](/images/chan/John_rainbow_Hughie.jpg)

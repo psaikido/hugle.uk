@@ -1,11 +1,10 @@
 ---
-title: Perception 
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/030-perception.html
+title: Perception 
+type: prose/thesium
+aliases: [/thesium/030-perception/]
 ---
-![planet buster - capn-damo deviantart.com](/assets/images/Thesium/planet-buster.jpg)
+![planet buster - capn-damo deviantart.com](/images/thesium/planet-buster.jpg)
 
 A drone craft called a 'Reader' is sent out to collect reports. Kronos
 waits patiently for them. After time-dilation and relativistic effects

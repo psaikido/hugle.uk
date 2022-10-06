@@ -1,9 +1,8 @@
 --- 
-title: Terraformers 
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/040-terraformers.html 
+title: Terraformers 
+type: prose/thesium
+aliases: [/thesium/040-terraformers/]
 ---
 
 <div class="data">
@@ -11,7 +10,7 @@ permalink: /thesium/040-terraformers.html
 - rdr-108: narrative summary of 422 exabyte archive filed by root-108.  
 </div>
 
-![orbital - capn-damo deviantart.com](/assets/images/Thesium/orbital.jpg)
+![orbital - capn-damo deviantart.com](/images/thesium/orbital.jpg)
 
 Captain Theo Nimes and his crew are awoken from cryogenesis by Root. A local
 year count is started. Root decides to name them 'Seeding Years'. They are

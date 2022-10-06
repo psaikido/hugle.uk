@@ -41,13 +41,13 @@ nests:
       - title: prose
         subsub:
         - title: Pilgrimage 
-          url: /pages/prose/pilgrimage/010-leaving.html
+          url: /prose/pilgrimage/010-leaving/
 
         - title: First Burn
-          url: /pages/prose/firstBurn/01-Mn04.html
+          url: /prose/firstBurn/01-Mn04/
 
         - title: Thesium 
-          url: /thesium/
+          url: /prose/thesium/
 
       - title: blogs
         subsub:

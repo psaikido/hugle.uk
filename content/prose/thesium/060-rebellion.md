@@ -1,9 +1,8 @@
 ---
-title: Rebellion 
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/060-rebellion.html
+title: Rebellion 
+type: prose/thesium
+aliases: [/thesium/060-rebellion/]
 ---
 
 <div class="data">
@@ -11,7 +10,7 @@ permalink: /thesium/060-rebellion.html
 - rdr-108: narrative summary of 589 exabyte archive filed by root-108.  
 </div>
 
-![main sequence has ended - capn-damo deviantart.com](/assets/images/Thesium/main-sequence-has-ended.jpg)
+![main sequence has ended - capn-damo deviantart.com](/images/thesium/main-sequence-has-ended.jpg)
 
 XOP-108 went through a period of being called "Theo's World" but has now
 morphed into the name 'Thesium'. It has become a feudal and theocratic society

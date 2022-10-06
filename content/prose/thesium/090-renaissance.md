@@ -1,9 +1,8 @@
 ---
-title: Renaissance
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/090-renaissance.html
+title: Renaissance
+type: prose/thesium
+aliases: [/thesium/090-renaissance/]
 ---
 
 <div class="data">
@@ -11,7 +10,7 @@ permalink: /thesium/090-renaissance.html
 - rdr-108: narrative summary of 223 exabyte archive filed by root-108.  
 </div>
 
-![Jain tech - capn-damo deviantart.com](/assets/images/Thesium/jain-tech.jpg)
+![Jain tech - capn-damo deviantart.com](/images/thesium/jain-tech.jpg)
 
 Society is in turmoil with many millions leaving the Neemians. The
 Evempiricals, although still underground, have swollen in number.

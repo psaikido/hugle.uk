@@ -1,9 +1,8 @@
 ---
-title: Rapprochement
 bannerTitle: "Thesium" 
-layout: default 
-subnav: thesium 
-permalink: /thesium/160-rapprochement.html
+title: Rapprochement
+type: prose/thesium
+aliases: [/thesium/160-rapprochement/]
 ---
 
 <div class="quote">
@@ -21,8 +20,7 @@ search for any plan of action."
 - root-108: anomalous entity 'Abystery' report. 
 </div>
 
-![towers - capn-damo deviantart.com](/assets/images/Thesium/towers.jpg) 
-{: class="half"}
+![towers - capn-damo deviantart.com](/images/thesium/towers.jpg) 
 
 "You're right, you're right!" cried the High Neem down the main hall of the
 Church.
