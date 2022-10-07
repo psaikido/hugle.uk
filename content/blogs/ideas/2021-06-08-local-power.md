@@ -1,7 +1,6 @@
 ---
 bannerTitle: blog - ideas
 title: Local Power
-type: blogs/ideas
 date: 2021-06-08
 ---
 

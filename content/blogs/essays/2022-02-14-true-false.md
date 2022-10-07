@@ -1,7 +1,7 @@
 ---
 bannerTitle: blog - essays
 title: "Science, Religion, Dharma"
-type: blogs/essays
+date: 2022-02-14
 ---
 
 It seems to me that in the Western Enlightenment we gained a method for finding

@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+    <h2>{{ .Title }}</h2>
+    <h6>{{ .Params.date.Format "2006 Jan 02"}}</h6>
+    
+    {{ .Content }}
+
+    <hr />
+    <div class="next">
+        {{ with .PrevInSection }}
+            <- back <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}
+        
+        {{ with .NextInSection }}
+            next <a href="{{ .Permalink }}">{{ .Title }}</a> ->
+        {{ end }}
+    </div>
+
+{{ end }}

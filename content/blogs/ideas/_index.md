@@ -1,5 +1,4 @@
 ---
-bannerTitle: ideas
+bannerTitle: blog - ideas
 title: ideas
-type: blogs/ideas
 ---

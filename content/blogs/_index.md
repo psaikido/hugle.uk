@@ -1,4 +1,3 @@
 ---
 title: blogs
-type: blogs
 ---

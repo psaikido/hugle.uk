@@ -1,5 +1,4 @@
 ---
-bannerTitle: essays
+bannerTitle: blog - essays
 title: essays
-type: blogs/essays
 ---

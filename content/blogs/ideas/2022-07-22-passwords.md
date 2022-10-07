@@ -1,7 +1,6 @@
 ---
 bannerTitle: blog - ideas
 title: Passwords
-type: blogs/ideas
 date: 2022-07-22
 ---
 

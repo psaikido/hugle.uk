@@ -55,6 +55,10 @@
         li {
             margin-bottom: 8px;
         }
+
+        li::marker {
+            color: var(--text-accent);
+        }
     }
 
     .poem, 
@@ -104,5 +108,18 @@
 
     #results:empty {
         opacity: 0;
+    }
+
+    ul.blog-list {
+        .blog-date {
+            display: inline-block;
+            width: 130px;
+            font-size: .9rem;
+            color: var(--text-accent);
+        }
+
+        .blog-link {
+            display: inline;
+        }
     }
 }

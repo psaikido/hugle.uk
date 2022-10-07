@@ -93,10 +93,7 @@ nests:
       - title: mantra
         subsub:
         - title: mantra carving
-          url: /blogs/mantra.html
-
-        - title: mantra archive
-          url: /blogs/mantra-archive.html
+          url: /blogs/mantra/
 
         - title: gallery
           url: /gallery/stones/
@@ -128,7 +125,7 @@ nests:
       - title: kites
         subsub:
           - title: blog
-            url: /blogs/kites.html
+            url: /blogs/kites/
 
           - title: fleet 
             url: /pages/kites/fleet.html

@@ -1,7 +1,7 @@
 ---
 bannerTitle: blog - essays
 title: "Love in a Time of Crisis"
-type: blogs/essays
+date: 2022-08-27
 ---
 
 ![dead phones](/images/faves/deadPhones.jpg "Holy Isle, Arran, Scotland")

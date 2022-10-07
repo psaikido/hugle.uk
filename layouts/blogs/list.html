@@ -1,8 +1,16 @@
 {{ define "main" }}
 
-    <ul>
+    <ul class="blog-list">
         {{ range $p := .Pages }}
-            {{ $p }}
+            <li>
+                <div class="blog-date">
+                    {{ $p.Date.Format "2006 Jan 02" }}
+                </div>
+
+                <div class="blog-link">
+                    <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+                </div>
+            </li>
         {{ end }}
     </ul>
 

@@ -1,7 +1,6 @@
 ---
 bannerTitle: blog - ideas
 title: Park & Ride
-type: blogs/ideas
 date: 2021-06-08
 ---
 
