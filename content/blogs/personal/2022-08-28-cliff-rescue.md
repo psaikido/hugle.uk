@@ -1,7 +1,7 @@
 --- 
+bannerTitle: blog - personal
 title: cliff rescue 
-layout: post 
-category: personal 
+date: 2022-08-28
 ---
 
 This is how not to take your mates climbing. Jeez, one of the worst days out
@@ -96,9 +96,9 @@ towards it, grabbing on at the last moment to avoid being thrown onto the road.
 
 More sedately, and after some apologies, they delivered us to the dockside.
 Lovely Katie was all smiles when we were reunited. I wondered if she might be
-holding the machete as we walked up. After that, I always made sure I had a little knife with me. You know, anytime
-I went out with a rope that is.
+holding the machete as we walked up. After that, I always made sure I had a
+little knife with me. You know, anytime I went out with a rope that is.
 
 So, wherever you are Katie, sorry!
 
-![Katie on her bus](/assets/images/circus/katieonthebus.jpg)
+![Katie on her bus](/images/circus/katieonthebus.jpg)
