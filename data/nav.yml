@@ -189,5 +189,18 @@ nests:
           - title: faves
             url: /gallery/faves/
 
+          - title: mantra stones
+            url: /gallery/stones/
+
+          - title: magic 
+            url: /gallery/magic-gigs/
+
+          - title: mantrasphere launch
+            url: /gallery/mantrasphere-launch/
+
+          - title: mantrasphere promo
+            url: /gallery/mantrasphere-promo/
+
+
 
 

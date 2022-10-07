@@ -26,7 +26,7 @@ Circus in 1991, left him with PTSD. The illness gradually morphed into [ME/CFS](
 which was eventually diagnosed in 2001. 
 
 After the accident, Hughie went into IT. He has a
-[portfolio](/portfolio/) of many websites and considered himself
+[portfolio](/gallery/portfolio/) of many websites and considered himself
 a 'full-stack web developer' until the illness stopped him working
 professionally in 2018. The main software for the Western Chan Fellowship is
 built and maintained by him (also [this site](#technicals-about-this-site)). 
@@ -37,13 +37,12 @@ Chan Fellowship](https://westernchanfellowship.org). He was a senior student of
 the late, great [John
 Crook](https://en.wikipedia.org/wiki/John_Crook_(ethologist)). He went on
 pilgrimage to Ladakh and the main Buddhist sites in India and Nepal. This trip
-is written up in [Pilgrimage - Mahabodhi
-Moonlight](/pages/prose/pilgrimage/010-leaving.html). He has also done two pilgrimages in
+is written up in [Pilgrimage](/prose/pilgrimage/010-leaving/). He has also done two pilgrimages in
 China, visiting many of the original Chan temples and important locations. He
 ran a meditation group for twenty years and has undergone a three month silent
 retreat. He made an album of Buddhist inspired music, called
 [Mantrasphere](/mantrasphere/). He has carved many [mantra
-stones](/pages/pix/stones.html), learning the ancient craft at Lamayuru Gompa
+stones](/gallery/stones/), learning the ancient craft at Lamayuru Gompa
 in Ladakh. 
 
 He has written two volumes of poetry, [Yarn](/yarn/) and [Sunshine &
