@@ -5,6 +5,7 @@ layout: default
 aliases: [/about/]
 ---
 
+&nbsp;    
 ![selfie Hughie 2022 June](/images/faves/selfie202207.jpg) 
 {.img-half}
 
