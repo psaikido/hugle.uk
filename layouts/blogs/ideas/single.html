@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+    <h2>{{ .Title }}</h2>
+    <p>
+        <i>{{ .Date.Format "2006 Jan 02" }}</i>
+    </p>
+
+    {{ .Content }}
+
+    <hr />
+    <div class="next">
+        back -> <a href="/blogs/ideas/">ideas</a>
+    </div>
+
+{{ end }}

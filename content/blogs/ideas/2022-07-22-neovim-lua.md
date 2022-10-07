@@ -1,8 +1,8 @@
 ---
+bannerTitle: blog - ideas
 title: neovim and lua
-layout: post
-category: ideas
-bkp-permalink: 2022-07-22-neovim-lua.html
+type: blogs/ideas
+date: 2022-07-22
 ---
 
 
