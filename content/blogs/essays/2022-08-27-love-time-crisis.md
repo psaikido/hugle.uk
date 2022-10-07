@@ -1,11 +1,10 @@
 ---
+bannerTitle: blog - essays
 title: "Love in a Time of Crisis"
-layout: post
-category: essays
+type: blogs/essays
 ---
 
-![dead phones]({{ site.baseurl }}/assets/images/faves/deadPhones.jpg
-"Holy Isle, Arran, Scotland")
+![dead phones](/images/faves/deadPhones.jpg "Holy Isle, Arran, Scotland")
 
 
 Us human beings are most fully seen at times of crisis. Here we are
@@ -16,7 +15,7 @@ our full range of reactions.
 
 Now, this isn't going to be a story of me being heroic, but it is going to be
 about not panicking. I wrote of it elsewhere in a sort of story-come-poem
-called '[the golden fleece](/yarn/golden-fleece.html)'. The tl;dr of it is that
+called '[the golden fleece](/hk/yarn/golden-fleece)'. The tl;dr of it is that
 the protection I had put in while rock climbing all fell out! Suddenly faced
 with a death fall, the range of human reactions flashed through my mind and
 something happened that had never happened to me before. Something very basic
@@ -80,6 +79,4 @@ must be done. If there are no solutions and nothing can be done, then it will
 be time to learn something. If a thing really is inevitable then what would be
 a groovy way of accepting it? If we 'climb perfectly' who knows?
 
-![Los Rubios]({{ site.baseurl
-}}/assets/images/faves/losrubios_h&d_pembroke98.jpg "Los Rubios. Hughie and
-Damian on first ascent, Pembroke 98")
+![Los Rubios](/images/faves/losrubios_h&d_pembroke98.jpg "Los Rubios. Hughie and Damian on first ascent, Pembroke 98")

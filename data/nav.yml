@@ -52,16 +52,16 @@ nests:
       - title: blogs
         subsub:
           - title: essays
-            url: /blogs/essays.html
+            url: /blogs/essays/
 
           - title: ideas
-            url: /blogs/ideas.html
+            url: /blogs/ideas/
 
           - title: kites
-            url: /blogs/kites.html
+            url: /blogs/kites/
 
           - title: magic 
-            url: /blogs/magic.html
+            url: /blogs/magic/
 
           - title: personal 
             url: /blogs/personal

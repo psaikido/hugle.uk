@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+    <ul>
+        {{ range $p := .Pages }}
+            {{ $p }}
+        {{ end }}
+    </ul>
+
+{{ end }}

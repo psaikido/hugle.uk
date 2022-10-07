@@ -1,8 +1,7 @@
 ---
+bannerTitle: blog - essays
 title: "Science, Religion, Dharma"
-layout: post
-category: essays
-bkp-permalink: true-false.html
+type: blogs/essays
 ---
 
 It seems to me that in the Western Enlightenment we gained a method for finding

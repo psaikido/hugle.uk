@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+    <ul>
+        {{ range $p := .Pages }}
+        <li>
+            <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+
+{{ end }}
