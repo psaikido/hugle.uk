@@ -99,5 +99,5 @@ the movement of the kite all came together in moments of real joy.
 
 I recommend it :)
 
-![Kilkenny](/assets/images/kites/kilkenny-hc-2022-07-m14.jpg)
+![Kilkenny](/images/kites/kilkenny-hc-2022-07-m14.jpg)
 
