@@ -6,7 +6,7 @@ type: suttas/sn1
 
 #### SN 12.20 Paccaya Sutta: Requisite Conditions
 
-The Buddha teaches [Dependent Origination](/suttas/sn/165-ps/) and adds that
+The Buddha teaches [Dependent Origination](/suttas/sn1/165-ps/) and adds that
 someone who has understood it would not run back into the past thinking:  
 
 "Did I exist in the past?  
