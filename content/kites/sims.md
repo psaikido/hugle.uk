@@ -1,12 +1,13 @@
 ---
-layout: kites
+bannerTitle: kites
 title: simulations
-permalink: /kites/sims.html 
 ---
 
 <div class="button-bank left">
+
 <input type="button" value="M-94" onclick="M94();" />  
 <input type="button" value="team" onclick="team();" accesskey="l" />  
+
 </div>
 
 <div class="msg">

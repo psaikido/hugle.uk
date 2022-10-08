@@ -125,28 +125,28 @@ nests:
             url: /blogs/kites/
 
           - title: fleet 
-            url: /pages/kites/fleet.html
+            url: /kites/fleet/
 
           - title: rotation codes
-            url: /pages/kites/rotation-codes.html
+            url: /kites/rotation-codes/
 
           - title: youtubes 
-            url: /kites/kite-youtubes.html
+            url: /kites/kite-youtubes/
 
           - title: messing about vids 
-            url: /kites/kite-messing-youtubes.html
+            url: /kites/kite-messing-youtubes/
 
           - title: sims
-            url: /kites/sims.html
+            url: /kites/sims/
 
           - title: kaitodo
-            url: /kites/kaitodo.html
+            url: /kites/kaitodo/
 
           - title: kite thoughts
-            url: /kites/kite-thoughts.html
+            url: /kites/kite-thoughts/
 
           - title: ISKCB 
-            url: /kites/iskcb.html
+            url: /kites/iskcb/
 
 
       - title: magic

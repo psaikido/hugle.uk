@@ -1,7 +1,6 @@
 ---
-layout: kites
+bannerTitle: kites
 title: ISKCB 
-permalink: /kites/iskcb.html
 ---
 
 <script type="text/javascript">

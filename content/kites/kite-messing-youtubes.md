@@ -1,8 +1,6 @@
 ---
-title: hugle
-bannerTitle: messing about vids 
-layout: youtubes 
+bannerTitle: kites
+title: messing about vids 
 yml-data: kite-messing-youtubes
-permalink: /kites/kite-messing-youtubes.html 
 ---
 
