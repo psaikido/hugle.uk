@@ -1,9 +1,8 @@
 ---      
-title: Great Light  
 bannerTitle: "Mantrasphere" 
-layout: default
-subnav: mantrasphere
-permalink: /mantrasphere/great-light.html
+title: Great Light  
+type: mantrasphere
+aliases: [/mantrasphere/great-light/]
 ---      
       
 there's beings out there  

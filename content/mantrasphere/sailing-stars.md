@@ -1,9 +1,8 @@
 ---          
-title: The Sailing Stars  
 bannerTitle: "Mantrasphere" 
-layout: default
-subnav: mantrasphere
-permalink: /mantrasphere/sailing-stars.html
+title: The Sailing Stars  
+type: mantrasphere
+aliases: [/mantrasphere/sailing-stars/]
 ---          
   
 lay your head on me  

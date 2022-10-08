@@ -47,7 +47,7 @@ nests:
           url: /prose/firstburn/01-mn04/
 
         - title: Thesium 
-          url: /prose/thesium/
+          url: /thesium/
 
       - title: blogs
         subsub:
@@ -72,23 +72,23 @@ nests:
       sub:
       - title: mantrasphere
         subsub:
-        - title: info
-          url: /mantrasphere/
+        - title: intro
+          url: /mantrasphere/intro/
 
         - title: listen
-          url: /mantrasphere/listen.html
+          url: /mantrasphere/listen/
 
         - title: songs
-          url: /mantrasphere/songs.html
+          url: /mantrasphere/songs/
 
         - title: launch party 
-          url: /gallery/mantrasphere-launch/
+          url: /mantrasphere/launch/
 
         - title: promo pix 
-          url: /gallery/mantrasphere-promo/
+          url: /mantrasphere/promo/
 
         - title: press release 
-          url: /mantrasphere/press.html
+          url: /mantrasphere/press/
 
       - title: mantra
         subsub:
@@ -196,10 +196,10 @@ nests:
             url: /gallery/magic-gigs/
 
           - title: mantrasphere launch
-            url: /gallery/mantrasphere-launch/
+            url: /mantrasphere/launch/
 
           - title: mantrasphere promo
-            url: /gallery/mantrasphere-promo/
+            url: /mantrasphere/promo/
 
 
 

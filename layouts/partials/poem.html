@@ -3,28 +3,6 @@
     <h2 class="poem-title">{{ .Scratch.Get "currentTitle" }}</h2>
 
     {{ .Content }}
-
-    <div class="poem-footer"> 
-        {{ if .Params.written }}
-            <div class="poem-written-date">
-                HC: {{ .Params.written }}
-            </div>
-        {{ end }}
-
-        {{ range $currentIndex, $item := .Scratch.Get "menu" }}
-            {{ if eq ($.Scratch.Get "currentTitle") $item.title }}
-                {{ $nextIndex := add $currentIndex 1 }}
-                {{ $nextItem := (index ($.Scratch.Get "menu") $nextIndex) }}
-
-                {{ if $nextItem }}
-                    <div class="next">
-                        next -> <a href="{{ $nextItem.url }}" alt="{{ $nextItem.title }}">{{ $nextItem.title }}</a>
-                    </div>
-                {{ end }}
-
-                {{ break }}
-            {{ end }}
-        {{ end }}
-    </div>
+    {{ partial "poem-footer.html" . }}
 </div>
 

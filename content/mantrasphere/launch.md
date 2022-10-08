@@ -1,9 +1,8 @@
 ---
 bannerTitle: Mantrasphere
-title: Launch Party
-type: gallery
-aliases: [/gallery/mantrasphere-launch/]
-subnav: mantrasphere 
+title: launch party
+type: mantrasphere
+aliases: [/mantrasphere/launch/]
 imageDir: /images/mantrasphere/gallery/launch/
 images:
     - img: 001-launch-buddha_flowers.jpg

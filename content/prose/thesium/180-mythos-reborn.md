@@ -99,4 +99,3 @@ It was divine.
 
 
 # fin 
-{: style="text-align: center;"}

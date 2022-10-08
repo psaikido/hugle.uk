@@ -1,9 +1,8 @@
 ---
 bannerTitle: Mantrasphere
-title: Promo pictures
-type: gallery
-aliases: [/gallery/mantrasphere-promo/]
-subnav: mantrasphere 
+title: promo pix
+type: mantrasphere
+aliases: [/mantrasphere/promo/]
 imageDir: /images/mantrasphere/gallery/promo/
 images:
     - img: albumCover.gif

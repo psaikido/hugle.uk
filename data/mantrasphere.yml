@@ -2,20 +2,20 @@ description: Mantrasphere
 
 menu:
 
-- title: info 
-  url: /mantrasphere/index.html
+- title: intro 
+  url: /mantrasphere/intro/
 
 - title: listen 
-  url: /mantrasphere/listen.html
+  url: /mantrasphere/listen/
 
 - title: songs 
-  url: /mantrasphere/songs.html
+  url: /mantrasphere/songs/
 
 - title: launch party 
-  url: /mantrasphere/pix-launch.html
+  url: /mantrasphere/launch/
 
 - title: promo pix 
-  url: /mantrasphere/pix-promo.html
+  url: /mantrasphere/promo/
 
 - title: press release 
-  url: /mantrasphere/press.html
+  url: /mantrasphere/press/

@@ -1,24 +1,23 @@
 ---
-title: songs
 bannerTitle: "Mantrasphere" 
-layout: default
-subnav: mantrasphere
-permalink: /mantrasphere/songs.html
+title: songs
+type: mantrasphere
+aliases: [/mantrasphere/songs/]
 ---
 
-[01 Padmasambhava](padmasambhava.html)  
-[02 Shine](shine.html)  
-[03 Blue](blue.html)  
-[04 Vajrasattva](vajrasattva.html)  
-[05 Three Refuges](three-refuges.html)  
-[06 White Tara (E)](white-tara-e.html)  
-[07 Great Light](great-light.html)  
-[08 White Tara (D)](white-tara-d.html)  
-[09 Mani](mani.html)  
-[10 Green Tara](green-tara.html)  
-[11 The Sailing Stars](sailing-stars.html)  
-[12 Tonglen](tonglen.html)  
+[01 Padmasambhava](padmasambhava)  
+[02 Shine](shine)  
+[03 Blue](blue)  
+[04 Vajrasattva](vajrasattva)  
+[05 Three Refuges](three-refuges)  
+[06 White Tara (E)](white-tara-e)  
+[07 Great Light](great-light)  
+[08 White Tara (D)](white-tara-d)  
+[09 Mani](mani)  
+[10 Green Tara](green-tara)  
+[11 The Sailing Stars](sailing-stars)  
+[12 Tonglen](tonglen)  
 
 ### other songs
-[Everybody's Got To Die](gotta-die.html)  
-[Secret Sun](secret-sun.html)  
+[Everybody's Got To Die](gotta-die)  
+[Secret Sun](secret-sun)  

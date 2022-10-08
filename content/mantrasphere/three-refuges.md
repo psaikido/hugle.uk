@@ -1,9 +1,8 @@
 ---    
-title: The Three Refuges  
 bannerTitle: "Mantrasphere" 
-layout: default
-subnav: mantrasphere
-permalink: /mantrasphere/three-refuges.html
+title: The Three Refuges  
+type: mantrasphere
+aliases: [/mantrasphere/three-refuges/]
 ---    
     
 Buddham Buddham saranam gacharmin  

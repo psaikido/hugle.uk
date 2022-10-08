@@ -1,9 +1,8 @@
 ---              
-title: Everyone's Gotta Die  
 bannerTitle: "Mantrasphere" 
-layout: default
-subnav: mantrasphere
-permalink: /mantrasphere/gotta-die.html
+title: Everyone's Gotta Die  
+type: mantrasphere
+aliases: [/mantrasphere/gotta-die/]
 ---              
       
 cancer pneumonia HIV  
