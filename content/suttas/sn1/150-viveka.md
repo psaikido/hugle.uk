@@ -1,11 +1,13 @@
 ---
-title: "SN 9.1 Viveka Sutta: Seclusion"
-bannerTitle: "Saṁyutta Nikāya I" 
-layout: default 
-subnav: suttas-sn1
+bannerTitle: Pali Canon Anthology
+title: Shake Off the Dust
+type: suttas/sn1
 ---
 
-A bhikkhu has many unwholesome thoughts that 'gush outwardly'. A devata comes to him and says:
+#### SN 9.1 Viveka Sutta: Seclusion
+
+A bhikkhu has many unwholesome thoughts that 'gush outwardly'. A devata comes
+to him and says:
 
 - "remove the desire for people, then you'll be happy"
 

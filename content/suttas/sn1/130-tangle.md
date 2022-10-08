@@ -1,9 +1,10 @@
 ---
-title: "SN 7.6 Jaṭā Sutta: The Tangle"
-bannerTitle: "Saṁyutta Nikāya I" 
-layout: default 
-subnav: suttas-sn1
+bannerTitle: Pali Canon Anthology
+title: The Tangle
+type: suttas/sn1
 ---
+
+#### SN 7.6 Jaṭā Sutta: The Tangle
 
 A brahmin called Jaṭā Bharadvaja says to the Buddha:  
 
@@ -23,7 +24,7 @@ totally stop without trace:
 that's where the tangle  
 is cut."
 
-
-Incidentally, 'Jaṭā' means 'tangle'! He asks to ordain and thereafter becomes one of the arahants.
+Incidentally, 'Jaṭā' means 'tangle'! He asks to ordain and thereafter becomes
+one of the arahants.
 
 [Full text](https://www.dhammatalks.org/suttas/SN/SN7_6.html)

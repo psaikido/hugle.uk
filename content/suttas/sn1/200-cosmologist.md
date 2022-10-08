@@ -1,9 +1,10 @@
 ---
-title: "SN 12.48 Lokayatika Sutta: The Cosmologist"
-bannerTitle: "Saṁyutta Nikāya I" 
-layout: default 
-subnav: suttas-sn1
+bannerTitle: Pali Canon Anthology
+title: The Cosmologist
+type: suttas/sn1
 ---
+
+#### SN 12.48 Lokayatika Sutta: The Cosmologist
 
 A cosmologist (C) asks the Buddha (B) a series of questions:  
 

@@ -1,11 +1,13 @@
 ---
-title: "SN 12.20 Paccaya Sutta: Requisite Conditions"
-bannerTitle: "Saṁyutta Nikāya I" 
-layout: default 
-subnav: suttas-sn1
+bannerTitle: Pali Canon Anthology
+title: Paccaya
+type: suttas/sn1
 ---
 
-The Buddha teaches [Dependent Origination](/pages/suttas/sn/165-ps.html) and adds that someone who has understood it would not run back into the past thinking:  
+#### SN 12.20 Paccaya Sutta: Requisite Conditions
+
+The Buddha teaches [Dependent Origination](/suttas/sn/165-ps/) and adds that
+someone who has understood it would not run back into the past thinking:  
 
 "Did I exist in the past?  
 Did I not exist in the past?  

@@ -1,12 +1,14 @@
 ---
-title: "SN 21.7 Visakha Sutta: Well Spoken Words"
-bannerTitle: "Saṁyutta Nikāya I" 
-layout: default 
-subnav: suttas-sn1
+bannerTitle: Pali Canon Anthology
+title: Well Spoken
+type: suttas/sn1
 ---
 
-Venerable Visakha gives a great Dhamma talk. He was instructing, exhorting, inspiring and gladdening the monks with words polished, clear, articulate, expressing well the meaning, comprehensive and unattached.  
+#### SN 21.7 Visakha Sutta: Well Spoken Words
 
+Venerable Visakha gives a great Dhamma talk. He was instructing, exhorting,
+inspiring and gladdening the monks with words polished, clear, articulate,
+expressing well the meaning, comprehensive and unattached.  
 
 The Buddha hears it and says:  
 'When the wise man is in the midst of fools,    

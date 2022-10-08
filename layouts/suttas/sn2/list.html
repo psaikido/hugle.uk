@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+    <ul>
+        {{ range $p := .Pages }}
+            <li>
+                <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+            </li>
+        {{ end }}
+    </ul>
+
+{{ end }}
+
+{{ define "subnavbar" }}
+    {{ .Scratch.Set "menu" .Site.Data.suttasSn2.menu }}
+    {{ partial "subnavbar.html" . }}
+{{ end }}
