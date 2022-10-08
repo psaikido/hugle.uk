@@ -1,16 +1,18 @@
 ---
-title: "MN 143 Anāthapiṇḍikovāda Sutta: Advice to Anāthapiṇḍikovāda"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: Anathapindika
+type: suttas/mn
 ---
 
+#### MN 143 Anāthapiṇḍikovāda Sutta: Advice to Anāthapiṇḍikovāda
 
-Anāthapiṇḍikovāda the householder is very ill. Sariputra goes to see him and says:
+Anāthapiṇḍikovāda the householder is very ill. Sariputra goes to see him and
+says:
 
+You should train yourself thus: I won't cling to the eye, my consciousness will
+not be dependent on the eye.  
 
-You should train yourself thus: I won't cling to the eye, my consciousness will not be dependent on the eye.  
-
-He then adds not to cling to the ear, nose, tongue, body, forms, sounds, smells, tastes, feelings, perceptions and the whole world.
+He then adds not to cling to the ear, nose, tongue, body, forms, sounds,
+smells, tastes, feelings, perceptions and the whole world.
 
 [Full text](https://www.dhammatalks.org/suttas/MN/MN143.html)  

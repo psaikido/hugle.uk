@@ -1,9 +1,10 @@
 ---
-title: "MN 131 Bhaddekaratta Sutta: On the Better Way to Live Alone"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: Bhaddekarata
+type: suttas/mn
 ---
+
+#### MN 131 Bhaddekaratta Sutta: On the Better Way to Live Alone
 
 Do not pursue the past.  
 Do not lose yourself in the future.  
@@ -14,6 +15,7 @@ We must be diligent today.
 To wait till tomorrow is too late.  
 Death comes unexpectedly.  
 How can we bargain with it?  
-The sage calls a person who dwells in mindfulness night and day, ‘the one who knows the better way to live alone'.
+The sage calls a person who dwells in mindfulness night and day, ‘the one who
+knows the better way to live alone'.
 
 [Full text](https://plumvillage.org/sutra/discourse-on-knowing-the-better-way-to-live-alone/)  

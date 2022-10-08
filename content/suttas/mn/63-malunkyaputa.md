@@ -1,9 +1,10 @@
 ---
-title: "MN 63 Cūḷa Māluṅkyovāda: The Shorter Instructions to Malunkya"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: Speculative Views
+type: suttas/mn
 ---
+
+#### MN 63 Cūḷa Māluṅkyovāda: The Shorter Instructions to Malunkya
 
 "These speculative views are undeclared by the Tathagata -  
 The world is eternal / not eternal.  
@@ -11,14 +12,18 @@ The world is finite / infinite.
 The soul is the same as / different to the body.  
 What happens to the Tathagata after death?"
 
+Malunkyaputa asks the Buddha these questions saying he will stay with him if he
+answers.  
 
-Malunkyaputa asks the Buddha these questions saying he will stay with him if he answers.  
+B: "Suppose a man were wounded with an arrow and a surgeon came to treat him.
+The man would say 'I will not let the surgeon pull out the arrow until I know
+whether the man who shot me was a noble, a brahmin, a merchant or a
+worker..what is his clan?  was he tall or short..(etc)'. All this would not be
+known to him and meanwhile he would die."
 
 
-B: "Suppose a man were wounded with an arrow and a surgeon came to treat him. The man would say 'I will not let the surgeon pull out the arrow until I know whether the man who shot me was a noble, a brahmin, a merchant or a worker..what is his clan?  was he tall or short..(etc)'. All this would not be known to him and meanwhile he would die."
-
-
-Set aside speculative view and concentrate on what HAS been declared - ie. the 4 Noble Truths, [Satipatthana](/pages/suttas/mn/010-10-sati.html). 
+Set aside speculative view and concentrate on what HAS been declared - ie. the
+4 Noble Truths, [Satipatthana](/suttas/mn/010-10-sati/). 
 
 
 [Full text](https://www.dhammatalks.org/suttas/MN/MN63.html)

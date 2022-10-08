@@ -1,9 +1,10 @@
 ---
-title: "MN 21 Kakacupama: Simile of the Saw"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: Simile of the Saw
+type: suttas/mn
 ---
+
+#### MN 21 Kakacupama: Simile of the Saw
 
 Monks, there are these five aspects of speech by which others may address you:  
 timely or untimely,  

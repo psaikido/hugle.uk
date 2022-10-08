@@ -101,22 +101,19 @@ nests:
       - title: sutta anthology
         subsub:
         - title: intro 
-          url: /pages/suttas/intro.html
+          url: /suttas/intro/
 
         - title: core sutras 
-          url: /pages/suttas/core-suttas.html
-
-        - title: list 
-          url: /pages/suttas/list-of-suttas.html
+          url: /suttas/core-suttas/
 
         - title: MN 
-          url: /pages/suttas/mn/index.html
+          url: /suttas/mn/index/
 
         - title: SN1 
-          url: /pages/suttas/sn1/index.html
+          url: /suttas/sn1/index/
 
         - title: SN2 
-          url: /pages/suttas/sn2/index.html
+          url: /suttas/sn2/index/
 
 
     - title: play

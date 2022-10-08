@@ -1,11 +1,11 @@
 ---
-title: "MN 124 Bakkula Sutta"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: Bakkula
+type: suttas/mn
 ---
 
-Bakkula was fully enlightened for 80 years!
+#### MN 124 Bakkula Sutta
 
+Bakkula was fully enlightened for 80 years!
 
 [Full text](https://tipitaka.fandom.com/wiki/Bakkula_Sutta)  

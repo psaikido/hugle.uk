@@ -1,8 +1,6 @@
 ---
-title: The Core Sutras 
-bannerTitle: The Core Sutras 
-layout: default 
-subnav: suttas
+bannerTitle: Pali Canon Anthology
+title: core sutras 
 ---
 
 The following Sutras are chosen and ordered for providing a framework for a course. This course ran over a dozen times at a further education college, and has been the basis for four or five weekend retreats.

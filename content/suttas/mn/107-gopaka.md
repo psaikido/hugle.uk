@@ -1,12 +1,12 @@
 ---
-title: "MN 107 Gaṇaka Moggallāna Sutta: The whole path"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: The Whole Path
+type: suttas/mn
 ---
 
-A discourse to Gaṇaka Moggallāna on a gradual training of a monk.
+#### MN 107 Gaṇaka Moggallāna Sutta: The whole path
 
+A discourse to Gaṇaka Moggallāna on a gradual training of a monk.
 
 The steps laid out:
 

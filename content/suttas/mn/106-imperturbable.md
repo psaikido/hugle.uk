@@ -1,14 +1,15 @@
 ---
-title: "MN 106 Āneñja-sappāya: Imperturbable"
-bannerTitle: "Majjhima Nikāya" 
-layout: default 
-subnav: suttas-mn 
+bannerTitle: Pali Canon Anthology
+title: Anyone Anywhere
+type: suttas/mn
 ---
+
+#### MN 106 Āneñja-sappāya: Imperturbable
 
 Not clinging to an identity, or anything at all, is the way.
 
-
-"I am not anyone's anything anywhere; nor is anything of mine in anyone anywhere."
+"I am not anyone's anything anywhere; nor is anything of mine in anyone
+anywhere."
 
 or
 
