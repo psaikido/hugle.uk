@@ -1,6 +1,6 @@
 ---
 bannerTitle: Pali Canon Anthology
-title: Noble Search
+title: Saṁyutta Nikāya I
 type: suttas/sn1
 ---
 

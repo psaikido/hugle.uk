@@ -107,13 +107,13 @@ nests:
           url: /suttas/core-suttas/
 
         - title: MN 
-          url: /suttas/mn/index/
+          url: /suttas/mn/intro/
 
         - title: SN1 
-          url: /suttas/sn1/index/
+          url: /suttas/sn1/intro/
 
         - title: SN2 
-          url: /suttas/sn2/index/
+          url: /suttas/sn2/intro/
 
 
     - title: play
