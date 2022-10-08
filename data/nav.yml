@@ -115,12 +115,15 @@ nests:
 
         - title: MN 
           url: /suttas/mn/intro/
+          dataFile: suttasMn
 
         - title: SN1 
           url: /suttas/sn1/intro/
+          dataFile: suttasSn1
 
         - title: SN2 
           url: /suttas/sn2/intro/
+          dataFile: suttasSn2
 
 
     - title: play
