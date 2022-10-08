@@ -5,7 +5,8 @@ type: mantrasphere
 aliases: [/mantrasphere/tonglen]
 ---            
     
-![Om Ah Hung]({{ site.baseurl }}/assets/images/mantrasphere/om_ah_hum_large.jpg)  
+![Om Ah Hung](/images/mantrasphere/om_ah_hum_large.jpg)  
+{.img-half}
 
 OM AH HUM  
 

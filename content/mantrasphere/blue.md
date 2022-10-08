@@ -34,4 +34,4 @@ amazing creature that, now I look back on it,
 was something like mother nature herself.
 I felt awe in the true sense of the word.
 
-Here is the poem version: [Blue](/hk/sun/blue/)
+Here is the poem version: [Blue](/hk/mbm/blue/)
