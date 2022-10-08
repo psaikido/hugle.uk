@@ -1,9 +1,10 @@
 ---
-title: "SN 45.8 Magga-Vibhaṅga Sutta: Analysis of the Whole Path"
-bannerTitle: "Saṁyutta Nikāya II" 
-layout: default 
-subnav: suttas-sn2
+bannerTitle: Pali Canon Anthology
+title: Eightfold Path
+type: suttas/sn2
 ---
+
+#### "SN 45.8 Magga-Vibhaṅga Sutta: Analysis of the Whole Path"
 
 - Right View:  
     knowledge of suffering, its origin, its cessation and the path to cessation.
@@ -29,7 +30,7 @@ subnav: suttas-sn2
 - Right Concentration:  
     the four jhanas
     
-There is more discussion of this on the [Core Sutras](/pages/suttas/core-suttas.html#magga) page.
+There is more discussion of this on the [Core Sutras](/suttas/core-suttas/#magga) page.
 
 
 [Full text](https://www.dhammatalks.org/suttas/SN/SN45_8.html)

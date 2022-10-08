@@ -1,9 +1,10 @@
 ---
-title: "SN 36.22 Aṭṭhasata Sutta: The 108 Feelings"
-bannerTitle: "Saṁyutta Nikāya II" 
-layout: default 
-subnav: suttas-sn2
+bannerTitle: Pali Canon Anthology
+title: 108 Feelings
+type: suttas/sn2
 ---
+
+#### "SN 36.22 Aṭṭhasata Sutta: The 108 Feelings"
 
 2 feelings - bodily and mental.  
 

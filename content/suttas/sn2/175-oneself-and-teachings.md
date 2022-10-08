@@ -1,9 +1,10 @@
 ---
-title: "SN 47.9 Gilāna Sutta: Oneself & the Teachings" 
-bannerTitle: "Saṁyutta Nikāya II" 
-layout: default 
-subnav: suttas-sn2
+bannerTitle: Pali Canon Anthology
+title: Oneself & the Teachings
+type: suttas/sn2
 ---
+
+#### "SN 47.9 Gilāna Sutta: Oneself & the Teachings" 
 
 After the Buddha heals himself from a sickness he exhorts Ānanda to dwell with the only island and refuge being oneself and the teachings.  
 

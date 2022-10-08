@@ -1,5 +1,5 @@
 ---
 bannerTitle: Pali Canon Anthology
-title: Satipatthana
-type: suttas/mn
+title: "Saṁyutta Nikāya II" 
+type: suttas/sn2
 ---

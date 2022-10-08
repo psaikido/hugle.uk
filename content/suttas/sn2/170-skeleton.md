@@ -1,9 +1,10 @@
 ---
-title: "SN 46.57 Meditate on a Skeleton" 
-bannerTitle: "Saṁyutta Nikāya II" 
-layout: default 
-subnav: suttas-sn2
+bannerTitle: Pali Canon Anthology
+title: Skeleton 
+type: suttas/sn2
 ---
+
+#### "SN 46.57 Meditate on a Skeleton" 
 
 The Buddha explains how it is of great fruit and benefit to meditate on a skeleton.  
 

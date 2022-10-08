@@ -1,11 +1,13 @@
 ---
-title: "SN 46.55 Sangaravo Sutta: The Hindrances"
-bannerTitle: "Saṁyutta Nikāya II" 
-layout: default 
-subnav: suttas-sn2
+bannerTitle: Pali Canon Anthology
+title: 5 Hindrances
+type: suttas/sn2
 ---
 
-Imagine a bowl of water and a person tries to see the reflection of their face. They would be hindered from doing so if the bowl is:
+#### "SN 46.55 Sangaravo Sutta: The Hindrances"
+
+Imagine a bowl of water and a person tries to see the reflection of their face.
+They would be hindered from doing so if the bowl is:
 
 - mixed with coloured dies. This is like the hindrance of sense-desire.  
 - boiling. This is like being overwhelmed with ill-will and aversion. 

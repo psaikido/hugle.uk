@@ -1,12 +1,13 @@
 ---
-title: "SN 46.16 Gillana Sutta: Illness and the Factors of Enlightenment"
-bannerTitle: "Saṁyutta Nikāya II" 
-layout: default 
-subnav: suttas-sn2
+bannerTitle: Pali Canon Anthology
+title: Illness
+type: suttas/sn2
 ---
 
-A severe illness besets the Buddha who asks Mahacunda to recite the seven factors of enlightenment to him whereupon he gets better!  
+#### "SN 46.16 Gillana Sutta: Illness and the Factors of Enlightenment"
 
+A severe illness besets the Buddha who asks Mahacunda to recite the seven
+factors of enlightenment to him whereupon he gets better!  
 
 - mindfulness
 - discrimination of states
