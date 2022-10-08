@@ -1,0 +1,51 @@
+{{ define "main" }}
+    <h3>stand alone pages</h3>
+    <ul>
+        {{ range .Site.Data.nav.solos }}
+            <li>
+                <a href="{{ .url }}">{{ .title }}</a>
+            </li>
+        {{ end }}
+    </ul>
+
+    <ul>
+        {{ range .Site.Data.nav.nests }}
+            <li>
+                {{ .title }}
+
+                {{ if .sub }}
+                    <ul>
+                        {{ range .sub }}
+                            <li>
+                               {{ .title }}
+
+                               {{ if .subsub }}
+                                <ul>
+                                    {{ range .subsub }}
+                                    <li>
+                                        <a href="{{ .url }}">{{ .title }}</a>
+
+                                        {{ if .dataFile }}
+                                            <ul>
+
+                                            {{ $df := (index $.Site.Data (print .dataFile)) }}
+                                            {{ range $df.menu }}
+                                                <li><a href="{{ .url }}">{{ .title }}</a></li>
+                                            {{ end }}
+
+                                            </ul>
+                                        {{ end }}
+                                    </li>
+                                    {{ end }}
+                                </ul>
+                               {{ end }}
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ else }}
+                    {{ .title }}
+                {{ end }}
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}
