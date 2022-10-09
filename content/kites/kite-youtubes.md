@@ -1,7 +1,7 @@
 ---
 bannerTitle: kites
 title: kite vids 
-yml-data: kite-youtubes
+ymlData: kiteYoutubes
 ---
 
 [Club38](https://revkites.com/club-38/)  
