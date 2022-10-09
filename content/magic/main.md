@@ -1,8 +1,7 @@
 ---
-title: hugle
 bannerTitle: hugle - magic
-layout: youtubes
-yml-data: magic-youtubes
+title: "'hugle'"
+ymlData: magicYoutubes
 subnav: magic 
 ---
 
@@ -10,4 +9,4 @@ I tried to buy 'hughtube.com' but someone beat me to it. Mighty surprised to fin
 
 During the pandemic lockdowns I decided to use the hugle domain for all my stuff so now it is an umbrella for my various enthusiasms.
 
-[Training with Paul Daniels](/yarn/paul-daniels.html)
+[Training with Paul Daniels](/hk/yarn/paul-daniels/)

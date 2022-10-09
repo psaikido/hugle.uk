@@ -1,7 +1,6 @@
 ---
-title: testimonials
 bannerTitle: hugle - magic
-layout: default
+title: testimonials
 subnav: magic
 ---
 

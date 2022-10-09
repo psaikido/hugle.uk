@@ -2,6 +2,7 @@
 bannerTitle: blog - ideas
 title: Secret Garden Party 
 date: 2013-06-01
+subnav: magic
 ---
 
 Most of the summer gigs were at festivals. The standout moment was at the

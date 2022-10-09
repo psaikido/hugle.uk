@@ -2,6 +2,7 @@
 bannerTitle: blog - ideas
 title: Eastcott Christmas Party 
 date: 2013-12-15
+subnav: magic
 ---
 
 A flurry of activity as it gets on towards Christmas.

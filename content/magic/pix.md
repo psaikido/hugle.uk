@@ -1,6 +1,6 @@
 ---
-title: pix from gigs
 bannerTitle: hugle - magic
+title: pix from gigs
 type: gallery
 aliases: [/gallery/magic-gigs/]
 subnav: magic 

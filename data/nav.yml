@@ -162,21 +162,25 @@ nests:
       - title: magic
         subsub:
           - title: info 
-            url: /pages/magic/main.html
+            url: /magic/main/
 
           - title: testimonials 
-            url: /pages/magic/testimonials.html
+            url: /magic/testimonials/
 
           - title: pix from gigs 
             url: /gallery/magic-gigs/
 
+          - title: blog 
+            url: /blogs/magic/
+
+
       - title: silly
         subsub:
           - title: TV Lutòn
-            url: /pages/stuff/tvluton.html
+            url: /stuff/tvluton/
 
           - title: tiab 
-            url: /pages/stuff/tiab.html
+            url: /stuff/tiab/
 
 
     - title: galleries

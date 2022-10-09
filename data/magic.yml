@@ -3,10 +3,14 @@ description: Magic
 menu:
 
 - title: info 
-  url: /pages/magic/main.html
+  url: /magic/main/
 
 - title: testimonials 
-  url: /pages/magic/testimonials.html
+  url: /magic/testimonials/
 
 - title: pix from gigs 
-  url: /pages/magic/pix.html
+  url: /magic/pix/
+
+- title: blog 
+  url: /blogs/magic/
+
