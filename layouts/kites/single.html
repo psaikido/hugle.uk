@@ -1,37 +1,12 @@
 {{ define "main" }}
     {{ .Scratch.Set "menu" .Site.Data.kites.menu }}
 
-    {{ .Content }}
-
-    {{ if .Params.ymlData }}
-
-        {{ $youtubes := (index $.Site.Data (print .Params.ymlData)) }}
-        {{ range $youtubes.menu }}
-            <h4>{{ .title }}</h4>
-
-            {{if .date }}
-                <h6>{{ .date }}</h6>
-            {{ end }}
-
-            <div class="two-cols">
-                <div class="col-left">
-                    <a href="https://youtu.be/{{ .url }}">
-                        <img src="https://img.youtube.com/vi/{{ .url }}/0.jpg" alt="youtube thumbnail" />
-                    </a>
-                </div>
-
-                <div class="col-right">
-                    <ul>
-                        {{ range .desc }}
-                            <li>{{ . }}</li>
-                        {{ end }}
-                    </ul>
-                </div>
-            </div>
-        {{ end }}
-    {{ else }}
-        {{ partial "poem.html" . }}
+    {{ if .Params.youtubeData }}
+        {{ $youtubes := (index $.Site.Data (print .Params.youtubeData)) }}
+        {{ .Scratch.Set "youtubes" $youtubes }}
     {{ end }}
+
+    {{ partial "poem.html" . }}
 {{ end }}
 
 {{ define "subnavbar" }}

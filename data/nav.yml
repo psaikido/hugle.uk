@@ -141,7 +141,7 @@ nests:
             url: /kites/rotation-codes/
 
           - title: youtubes 
-            url: /kites/kite-youtubes/
+            url: /kites/club38-submissions/
 
           - title: messing about vids 
             url: /kites/kite-messing-youtubes/
@@ -172,6 +172,9 @@ nests:
 
           - title: blog 
             url: /blogs/magic/
+
+          - title: youtubes 
+            url: /magic/youtubes/
 
 
       - title: silly

@@ -1,7 +1,6 @@
 ---
 bannerTitle: hugle - magic
 title: "'hugle'"
-ymlData: magicYoutubes
 subnav: magic 
 ---
 

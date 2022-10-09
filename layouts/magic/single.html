@@ -1,5 +1,11 @@
 {{ define "main" }}
     {{ .Scratch.Set "menu" .Site.Data.magic.menu }}
+
+    {{ if .Params.youtubeData }}
+        {{ $youtubes := (index $.Site.Data (print .Params.youtubeData)) }}
+        {{ .Scratch.Set "youtubes" $youtubes }}
+    {{ end }}
+
     {{ partial "poem.html" . }}
 {{ end }}
 
