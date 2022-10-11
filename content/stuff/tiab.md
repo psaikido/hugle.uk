@@ -4,4 +4,4 @@ bannerTitle: Turd in a Box
 layout: default
 ---
 
-![tiab]({{ site.baseurl }}/assets/images/stuff/tiab.png "turd in a box")
+![tiab](/images/stuff/tiab.png "turd in a box")
