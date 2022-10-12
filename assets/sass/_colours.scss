@@ -1,38 +1,38 @@
 :root {
-    --dark-major: #000000;
-    --dark-minor: #333333;
-    --light-grey: #dadada;
-    --blue: #2870ee;
-    --pink: #d33682;
-    --white: #ffffff;
-    --green: #44c92a;
-    --yellow: #ffe244;
+    --dark-major: hsl(0, 0%, 0%);
+    --dark-minor: hsl(0, 0%, 20%);
+    --light-grey: hsl(0, 0%, 85%);
+    --blue:       hsl(218, 85%, 55%);
+    --pink:       hsl(331, 64%, 52%);
+    --white:      hsl(0, 0%, 100%);
+    --green:      hsl(110, 65%, 48%);
+    --yellow:     hsl(51, 100%, 63%);
 }
 
 html {
-    --bkg-main: #1f2428;
-    --bkg-minor: #353b40;
-    --text-main: #cdc8c8;
-    --text-minor: #333333;
-    --text-accent: #eea628;
-    --text-mute: #7d7878;
-    --link-main: var(--blue);
-    --border-main: #586e75;
+    --bkg-main:   hsl(207 14% 14%);
+    --bkg-minor:  hsl(207 14% 23%);
+    --text-main:  hsl(205 200% 200%);
+    --text-minor: hsl(0, 0%, 20%);
+    --text-accent:hsl(30 85% 55%);
+    --text-mute:  hsl(0, 0%, 47%);
+    --link-main:  var(--blue);
+    --border-main:hsl(194, 14%, 40%);
 
     &.light {
-        --bkg-main: #dadada;
-        --bkg-minor: #bababa;
-        --text-main: #333333;
-        --text-accent: #333333;
-        --link-main: blue;
+        --bkg-main:   var(--light-grey);
+        --bkg-minor:  hsl(0, 0%, 73%);
+        --text-main:  var(--dark-minor);
+        --text-accent:var(--dark-minor);
+        --link-main:  var(--blue);
     }
 
     &.print {
-        --bkg-main: #ffffff;
-        --bkg-minor: #ffffff;
-        --text-main: #000000;
-        --text-accent: #333333;
-        --link-main: blue;
+        --bkg-main:   var(--white);
+        --bkg-minor:  var(--white);
+        --text-main:  hsl(0, 0%, 0%);
+        --text-accent:var(--dark-minor);
+        --link-main:  var(--blue);
     }
 }
 
