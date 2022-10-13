@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: earthquake
 written: 2020
 type: hk/mbm
+aliases: ['/mbm/earthquake.html']
 ---
 
 [Ontul Rinpoche](https://www.facebook.com/ontul)'s answer  

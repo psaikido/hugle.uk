@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: never
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/never.html']
 ---
 
 pain body condensed  

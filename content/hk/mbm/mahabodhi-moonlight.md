@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Mahabodhi moonlight
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/mahabodhi-moonlight.html']
 ---
 
 power cut  

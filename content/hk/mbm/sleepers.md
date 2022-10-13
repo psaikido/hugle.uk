@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: sleepers
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/sleepers.html']
 ---
 
 clickety clock  

@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: thistledown 
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/thistledown.html']
 ---
 
 homeless thistledown  

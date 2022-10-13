@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: overhead
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/overhead.html']
 ---
 
 overhead  

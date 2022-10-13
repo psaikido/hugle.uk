@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Rajgir
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/rajgir.html']
 ---
 
 thunderstruck  

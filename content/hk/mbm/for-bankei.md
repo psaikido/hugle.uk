@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: for Bankei
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/for-bankei.html']
 ---
 
 my birth pangs  

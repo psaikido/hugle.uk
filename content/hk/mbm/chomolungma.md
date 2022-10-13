@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Chomolungma
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/chomolungma.html']
 ---
 
 up through clouds  

@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: guesthouse
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/guesthouse.html']
 ---
 
 yet another guesthouse  

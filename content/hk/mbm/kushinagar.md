@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Kushinagar
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/kushinagar.html']
 ---
 
 that massive bell rang  

@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: night winds
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/night-winds.html']
 ---
 
 night winds  

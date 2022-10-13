@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Leh
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/leh.html']
 ---
 
 silk route city  

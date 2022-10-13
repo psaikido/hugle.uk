@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: dog and bell
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/dog-and-bell.html']
 ---
 
 a Gothic duet  

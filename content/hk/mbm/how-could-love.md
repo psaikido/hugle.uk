@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: how could love?
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/how-could-love.html']
 ---
 
 how could love  

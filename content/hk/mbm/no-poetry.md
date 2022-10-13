@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: no poetry
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/no-poetry.html']
 ---
 
 today I have no poetry  

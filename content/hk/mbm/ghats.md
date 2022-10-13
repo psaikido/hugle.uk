@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: the burning ghats
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/ghats.html']
 ---
 
 through the heat shimmer  

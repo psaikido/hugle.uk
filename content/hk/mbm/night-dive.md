@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: night dive
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/night-dive.html']
 ---
 
 night dive  

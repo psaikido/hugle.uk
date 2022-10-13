@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: long train
 written: 2020
 type: hk/mbm
+aliases: ['/mbm/long-train.html']
 ---
 
 

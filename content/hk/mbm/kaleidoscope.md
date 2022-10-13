@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: kaleidoscope
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/kaleidoscope.html']
 ---
 
 yesterday's endless kaleidoscope  

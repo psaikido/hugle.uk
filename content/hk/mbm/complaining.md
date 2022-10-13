@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: complaining
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/complaining.html']
 ---
 
 when complaining stops  

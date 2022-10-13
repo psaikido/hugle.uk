@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 written: 2006
 title: Boudhanath stupa
 type: hk/mbm
+aliases: ['/mbm/boudhanath.html']
 ---
 
 Boudhanath stupa  

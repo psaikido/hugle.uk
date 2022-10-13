@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: in the hall of mirrors
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/mirrors.html']
 ---
 
 in the hall of mirrors  

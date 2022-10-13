@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: sorcerer
 written: 2020
 type: hk/mbm
+aliases: ['/mbm/sorcerer.html']
 ---
 
 the abbot at Lamayuru  

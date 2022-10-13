@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: dog at Tsopema
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/tsopema.html']
 ---
 
 we walked around  

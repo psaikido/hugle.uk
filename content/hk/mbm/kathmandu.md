@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Kathmandu
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/kathmandu.html']
 ---
 
 rainy night in Kathmandu  

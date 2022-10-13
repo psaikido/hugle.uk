@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: Ladakh
 written: 2005
 type: hk/mbm
+aliases: ['/mbm/ladakh.html']
 ---
 
 half a day in the air  

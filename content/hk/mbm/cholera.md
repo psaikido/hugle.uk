@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: cholera
 written: 2020
 type: hk/mbm
+aliases: ['/mbm/cholera.html']
 ---
 
 over the doctor's shoulder  

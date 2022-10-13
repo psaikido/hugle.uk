@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: ladyboy
 written: 2020
 type: hk/mbm
+aliases: ['/mbm/ladyboy.html']
 ---
 
 

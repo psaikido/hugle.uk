@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: blue
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/blue.html']
 ---
 
 blue angel blue ocean blue  

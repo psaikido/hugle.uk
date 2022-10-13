@@ -3,6 +3,7 @@ bannerTitle: "Mahabodhi Moonlight"
 title: time stops
 written: 2006
 type: hk/mbm
+aliases: ['/mbm/time-stops.html']
 ---
 
 this is where  
