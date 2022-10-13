@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: all of us 
 written: 2019
 type: hk/sun
+aliases: ['/sun/all-of-us.html']
 ---
 
 career, family, home  

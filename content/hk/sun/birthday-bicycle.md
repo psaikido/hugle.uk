@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: birthday bicycle
 written: 2003
 type: hk/sun
+aliases: ['/sun/birthday-bicycle.html']
 ---
 
 ah, the glory of that bicycle  

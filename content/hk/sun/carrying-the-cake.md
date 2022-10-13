@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: carrying the cake
 written: 2020
 type: hk/sun
+aliases: ['/sun/carrying-the-cake.html']
 ---
 
 looking down the garden  

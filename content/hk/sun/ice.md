@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: ice
 written: 2003
 type: hk/sun
+aliases: ['/sun/ice.html']
 ---
 
 lucid waters mingling  

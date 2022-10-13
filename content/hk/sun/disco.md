@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: behind the disco
 written: 1996
 type: hk/sun
+aliases: ['/sun/disco.html']
 ---
 
 my dad  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: posh clothes
 written: 2020
 type: hk/sun
+aliases: ['/sun/posh-clothes.html']
 ---
 
 what is it  

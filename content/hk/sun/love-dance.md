@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: love is a dance
 written: 2002
 type: hk/sun
+aliases: ['/sun/love-dance.html']
 ---
 
 flying lurching  

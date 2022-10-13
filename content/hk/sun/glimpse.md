@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: glimpse
 written: 1996
 type: hk/sun
+aliases: ['/sun/glimpse.html']
 ---
 
 the present  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: gulf
 written: 2020
 type: hk/sun
+aliases: ['/sun/gulf.html']
 ---
 
 what a gulf  

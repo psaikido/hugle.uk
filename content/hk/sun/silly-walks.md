@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: silly walks 
 written: 2019
 type: hk/sun
+aliases: ['/sun/silly-walks.html']
 ---
 
 that wonderful dinner-time  

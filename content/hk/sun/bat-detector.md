@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: bat detector
 written: 2019
 type: hk/sun
+aliases: ['/sun/bat-detector.html']
 ---
 
 bat detector  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: treason
 written: 2019
 type: hk/sun
+aliases: ['/sun/treason.html']
 ---
 
 I gave you my very heart  

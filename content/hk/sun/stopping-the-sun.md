@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: stopping the sun
 written: 2019
 type: hk/sun
+aliases: ['/sun/stopping-the-sun.html']
 ---
 
 whatever the monk had told us  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: flowers
 written: 2005
 type: hk/sun
+aliases: ['/sun/flowers.html']
 ---
 
 I looked at the flowers  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: birdsong
 written: 2019
 type: hk/sun
+aliases: ['/sun/birdsong.html']
 ---
 
 I bathed my broken heart  

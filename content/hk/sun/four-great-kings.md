@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: the four great kings
 written: 2005
 type: hk/sun
+aliases: ['/sun/four-great-kings.html']
 ---
 
 the four great kings  

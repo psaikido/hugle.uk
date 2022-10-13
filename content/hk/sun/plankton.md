@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: plankton
 written: 2019
 type: hk/sun
+aliases: ['/sun/plankton.html']
 ---
 
 all over the hermitage  

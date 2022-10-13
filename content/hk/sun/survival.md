@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: survival
 written: 2019
 type: hk/sun
+aliases: ['/sun/survival.html']
 ---
 
 I've been angry all these years  

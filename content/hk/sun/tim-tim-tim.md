@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: Tim Tim Tim
 written: 2020
 type: hk/sun
+aliases: ['/sun/tim-tim-tim.html']
 ---
 
 Tim Tim Tim  

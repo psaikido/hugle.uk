@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: dad
 written: 2019
 type: hk/sun
+aliases: ['/sun/dad.html']
 ---
 
 I was watching my friends  

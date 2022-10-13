@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: Gaia
 written: 2006
 type: hk/sun
+aliases: ['/sun/gaia.html']
 ---
 
 a great surge of love  

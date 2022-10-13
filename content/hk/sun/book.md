@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: book
 written: 2020
 type: hk/sun
+aliases: ['/sun/book.html']
 ---
 
 an open book  

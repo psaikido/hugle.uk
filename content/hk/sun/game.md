@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: game
 written: 2020
 type: hk/sun
+aliases: ['/sun/game.html']
 ---
 
 did you not see  

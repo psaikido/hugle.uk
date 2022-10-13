@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: softness
 written: 2020
 type: hk/sun
+aliases: ['/sun/softness.html']
 ---
 
 oh but again  

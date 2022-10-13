@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: grandma
 written: 2019
 type: hk/sun
+aliases: ['/sun/grandma.html']
 ---
 
 lazy dust floating  

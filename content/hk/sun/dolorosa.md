@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: la via dolorosa
 written: 2019
 type: hk/sun
+aliases: ['/sun/dolorosa.html']
 ---
 
 on the via dolorosa  

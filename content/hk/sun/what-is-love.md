@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: what is love?
 written: 1998 & 2020
 type: hk/sun
+aliases: ['/sun/what-is-love.html']
 ---
 
 what is love?  

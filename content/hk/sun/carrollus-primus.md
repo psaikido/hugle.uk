@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: Carrollus Primus
 written: 2019
 type: hk/sun
+aliases: ['/sun/carrollus-primus.html']
 ---
 
 my biggest brother  

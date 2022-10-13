@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: bastards
 written: 2020
 type: hk/sun
+aliases: ['/sun/bastards.html']
 ---
 
 the fire comes  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: jewels 
 written: 2003
 type: hk/sun
+aliases: ['/sun/jewels.html']
 ---
 
 the solar blast  

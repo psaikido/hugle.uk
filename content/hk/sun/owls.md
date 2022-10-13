@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: owls
 written: 2019
 type: hk/sun
+aliases: ['/sun/owls.html']
 ---
 
 deepening dusk  

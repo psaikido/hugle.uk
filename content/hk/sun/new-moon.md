@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: new moon 
 written: 2018
 type: hk/sun
+aliases: ['/sun/new-moon.html']
 ---
 
 oh look!  

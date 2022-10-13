@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: spectre
 written: 2020
 type: hk/sun
+aliases: ['/sun/spectre.html']
 ---
 
 

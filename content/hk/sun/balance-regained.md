@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: balance regained
 written: 2008
 type: hk/sun
+aliases: ['/sun/balance-regained.html']
 ---
 
 a miracle of balance regained  

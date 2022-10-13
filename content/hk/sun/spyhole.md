@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: spy hole
 written: 2020
 type: hk/sun
+aliases: ['/sun/spyhole.html']
 ---
 
 

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: shadow 
 written: 2019
 type: hk/sun
+aliases: ['/sun/shadow.html']
 ---
 
 looking at this shadow  

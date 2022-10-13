@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: ancestors
 written: 2020
 type: hk/sun
+aliases: ['/sun/ancestors.html']
 ---
 
 practising my juggling  

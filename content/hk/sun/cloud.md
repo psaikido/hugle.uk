@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: cloud 
 written: 2020
 type: hk/sun
+aliases: ['/sun/cloud.html']
 ---
 
 that dark cloud  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: the big nowhere 
 written: 2020
 type: hk/sun
+aliases: ['/sun/big-nowhere.html']
 ---
 
 he's gone    

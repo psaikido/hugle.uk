@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: kangaroo court
 written: 2020
 type: hk/sun
+aliases: ['/sun/kangaroo-court.html']
 ---
 
 every few days  

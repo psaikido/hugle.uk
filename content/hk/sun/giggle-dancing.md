@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: giggle dancing
 written: 2019
 type: hk/sun
+aliases: ['/sun/giggle-dancing.html']
 ---
 
 the Chan nuns  

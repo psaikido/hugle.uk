@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: flight
 written: 2020
 type: hk/sun
+aliases: ['/sun/flight.html']
 ---
 
 the weight  

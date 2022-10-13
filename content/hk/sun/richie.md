@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: Richie
 written: 2005
 type: hk/sun
+aliases: ['/sun/richie.html']
 ---
 
 that stoopy way you had  

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: banana moon 
 written: 2020
 type: hk/sun
+aliases: ['/sun/banana-moon.html']
 ---
 
 big old banana moon  

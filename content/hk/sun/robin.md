@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: robin
 written: 2014
 type: hk/sun
+aliases: ['/sun/robin.html']
 ---
 
 high on the rabbity downs  

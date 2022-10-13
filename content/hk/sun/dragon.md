@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: dragon
 written: 2001
 type: hk/sun
+aliases: ['/sun/dragon.html']
 ---
 
 its sound is heard  

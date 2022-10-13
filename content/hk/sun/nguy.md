@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: Mrs Nguy
 written: 2020
 type: hk/sun
+aliases: ['/sun/nguy.html']
 ---
 
 Mrs Nguy died  

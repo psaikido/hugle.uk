@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: dog & stick
 written: 2004
 type: hk/sun
+aliases: ['/sun/dog-stick.html']
 ---
 
 multi-coloured leaves   

@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: eyebrows
 written: 2019
 type: hk/sun
+aliases: ['/sun/eyebrows.html']
 ---
 
 De Lin the Chan Master  

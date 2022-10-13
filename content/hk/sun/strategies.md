@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: strategies
 written: 2019
 type: hk/sun
+aliases: ['/sun/strategies.html']
 ---
 
 astonishing scary reality  

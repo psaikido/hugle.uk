@@ -3,6 +3,7 @@ bannerTitle: "Sunshine & Shadow"
 title: you're leaving
 written: 2020
 type: hk/sun
+aliases: ['/sun/leaving.html']
 ---
 
 
