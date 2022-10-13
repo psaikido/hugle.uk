@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: rain
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/rain.html']
 ---
 
 floundering through the labyrinth  

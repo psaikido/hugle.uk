@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Romanians
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/romanians.html']
 ---
 
 my friend had a gig near me  

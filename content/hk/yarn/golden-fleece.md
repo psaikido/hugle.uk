@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: the golden fleece
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/golden-fleece.html']
 ---
 
 all the gear fell out  

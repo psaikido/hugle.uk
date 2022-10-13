@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: bucket
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/bucket.html']
 ---
 
 over the doctor's shoulder  

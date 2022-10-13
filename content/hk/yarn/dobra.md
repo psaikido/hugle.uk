@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Dobra
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/dobra.html']
 ---
 
 Nick had told me  

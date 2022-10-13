@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: scattering 
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/scattering.html']
 ---
 
 they had come to the island  

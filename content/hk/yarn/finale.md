@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: finale 
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/finale.html']
 ---
 
 street juggling finale  

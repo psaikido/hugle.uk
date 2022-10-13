@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: snapdragon during 
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/snapdragon-2.html']
 ---
 
 rehearsals  

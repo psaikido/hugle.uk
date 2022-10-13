@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Tiananmen Square
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/tiananmen.html']
 ---
 
 Tiananmen square  

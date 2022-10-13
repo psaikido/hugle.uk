@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: chocolate
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/chocolate.html']
 ---
 
 long distance club passing  

@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: mist
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/mist.html']
 ---
 
 flying my blue motorbike  

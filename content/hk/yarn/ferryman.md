@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: the ferryman
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/ferryman.html']
 ---
 
 the human body  

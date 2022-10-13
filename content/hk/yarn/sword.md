@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: sword
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/sword.html']
 ---
 
 my old jiu-jitsu teacher  

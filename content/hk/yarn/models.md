@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: models
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/models.html']
 ---
 
 the lorry arrived  

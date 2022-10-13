@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: praise for Yarn 
 type: hk/yarn
 ---
+aliases: ['/yarn/praise-for-yarn.html']
 
 - "Loved it Hughie. Its a real insight in to your life and a picture of the wonderful person you are. I am proud to know you." _MP_
 

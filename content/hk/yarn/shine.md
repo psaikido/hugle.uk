@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: shine
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/shine.html']
 ---
 
 dreaming of my grandma  

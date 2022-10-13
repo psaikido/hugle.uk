@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: wind
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/wind.html']
 ---
 
 we had been climbing  

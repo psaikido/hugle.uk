@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Gaumin Si
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/gaumin-si.html']
 ---
 
 outside the Chan hall  

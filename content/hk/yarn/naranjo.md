@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: El Naranjo de Bulnes
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/naranjo.html']
 ---
 
 the picture says it all

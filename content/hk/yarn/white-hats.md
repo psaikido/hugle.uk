@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: white hats 
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/white-hats.html']
 ---
 
 people kept warning me  

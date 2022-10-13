@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: arrested
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/arrested.html']
 ---
 
 in the mid 90s  

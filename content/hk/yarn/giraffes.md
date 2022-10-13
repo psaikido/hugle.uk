@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: giraffes
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/giraffes.html']
 ---
 
 it might've been Llanelli  

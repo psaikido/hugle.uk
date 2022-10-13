@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: 3 minutes 
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/3-minutes.html']
 ---
 
 the clowing workshop  

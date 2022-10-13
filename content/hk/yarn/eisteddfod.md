@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Eisteddfod
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/eisteddfod.html']
 ---
 
 me and Peewee were put on last  

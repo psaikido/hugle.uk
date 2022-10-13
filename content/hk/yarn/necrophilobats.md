@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: necrophilobats
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/necrophilobats.html']
 ---
 
 acrobalance  

@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: scrabble
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/scrabble.html']
 ---
 
 scrabble at Christmas  

@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: snapdragon after
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/snapdragon-3.html']
 ---
 
 they said I had 90% bruising  

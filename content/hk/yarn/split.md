@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: The Inevitable Split
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/split.html']
 ---
 
 the college band  

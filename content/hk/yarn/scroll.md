@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: scroll
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/scroll.html']
 ---
 
 I'd been asked  

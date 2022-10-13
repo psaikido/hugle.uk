@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: leather jacket
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/leather-jacket.html']
 ---
 
 that leather jacket  

@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: groupies
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/groupies.html']
 ---
 
 two girls in the audience  

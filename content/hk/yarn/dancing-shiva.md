@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: dancing Shiva
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/dancing-shiva.html']
 ---
 
 dancing shiva acid  

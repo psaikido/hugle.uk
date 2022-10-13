@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: finger ring 
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/finger-ring.html']
 ---
 
 wedding gig  

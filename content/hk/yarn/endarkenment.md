@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: endarkenment
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/endarkenment.html']
 ---
 
 my endarkenment was total  

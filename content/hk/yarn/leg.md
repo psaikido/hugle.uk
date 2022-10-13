@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: leg
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/leg.html']
 ---
 
 one snowy Christmas  

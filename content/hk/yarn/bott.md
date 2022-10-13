@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Bott
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/bott.html']
 ---
 
 in the IT office  

@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: sapphire
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/sapphire.html']
 ---
 
 the taxi driver  

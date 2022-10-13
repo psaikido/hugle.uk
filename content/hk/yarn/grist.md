@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Grist
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/grist.html']
 ---
 
 I had asked him  

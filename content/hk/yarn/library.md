@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: library
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/library.html']
 ---
 
 the book had the title  

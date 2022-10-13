@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: the strap
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/strap.html']
 ---
 
 a professional maths teacher  

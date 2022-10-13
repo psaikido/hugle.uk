@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: glassed 
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/glassed.html']
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkiGen7qAlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

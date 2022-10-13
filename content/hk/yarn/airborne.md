@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: airborne
 written: 2019
 type: hk/yarn
+aliases: ['/yarn/airborne.html']
 ---
 
 all the stories my dad told  

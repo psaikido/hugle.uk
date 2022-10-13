@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: Paul Daniels
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/paul-daniels.html']
 ---
 
 a tweet offered a place  

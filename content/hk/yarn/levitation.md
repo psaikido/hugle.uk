@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: levitation
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/levitation.html']
 ---
 
 there is a levitation trick  

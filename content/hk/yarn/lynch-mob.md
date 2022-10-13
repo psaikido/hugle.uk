@@ -3,6 +3,7 @@ bannerTitle: Yarn
 title: lynch mob
 written: 2020
 type: hk/yarn
+aliases: ['/yarn/lynch-mob.html']
 ---
 
 how hard is it  
