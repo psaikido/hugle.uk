@@ -6,17 +6,17 @@
     <body>
 
         <div class="grid-wrap">
-            <header>
-                {{ partial "main-nav.html" . }}
+            {{ partial "main-nav.html" . }}
 
+            <heading>
                 {{ if .Params.bannerTitle }}
                     <a href="/"><h1>&#x0f3a; {{ .Params.bannerTitle }} &#x0f3b;</h1></a>
                 {{ else }}
                     <a href="/"><h1>&#x0f3a; hugle &#x0f3b;</h1></a>
                 {{ end }}
+            </heading>
 
-                {{ partial "pagefind.html" . }}
-            </header>
+            {{ partial "pagefind.html" . }}
 
             <main class="main" data-pagefind-body>
                 <div id="results"></div>

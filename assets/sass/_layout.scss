@@ -30,21 +30,33 @@ body {
             minmax(620px, 800px) 
             minmax(140px, 230px);
         grid-template-areas: 
-            "heading heading heading"
+            "nav heading search"
             "subnav main  subnav2"
             "footer footer footer";
 
-        header {
-            display: grid;
-            grid-area: heading;
-            grid-template-columns: subgrid;
-            padding-top: 11px;
-            height: auto;
-            min-height: 50px;
+        .main-nav {
+            grid-area: nav;
+            margin-top: 8px;
         }
 
-        header .main-nav {
-            margin-top: 8px;
+        heading {
+            grid-area: heading;
+            text-align: center;
+
+            a,
+            a:link,
+            a:visited {
+                text-decoration: none;
+            }
+
+            h1 {
+                margin: 0 auto;
+                padding-top: 16px;
+            }
+        }
+
+        .search {
+            grid-area: search;
         }
     }
 
@@ -73,10 +85,8 @@ body {
     aside.subnav2 {
         grid-area: subnav2;
         display: none;
-    }
 
-    @include screen-width('medium') {
-        aside.subnav2 {
+        @include screen-width('medium') {
             display: block;
         }
     }
