@@ -52,9 +52,10 @@ $('aside.subnav2 > section button.toggler').click(function () {
 /* desktop toggle search field */
 $('.search button').click(function () {
     hide($(this));
-    show($('#search-form')); 
-    $('#search-form #search-term').focus();
-    $('#search-form #search-term').val('');
+    show($('.pagefind-ui')); 
+    $('.pagefind-ui__search-input')
+        .focus()
+        .val('');
 })
 
 function nestParent(elem) {

@@ -15,19 +15,10 @@
                     <a href="/"><h1>&#x0f3a; hugle &#x0f3b;</h1></a>
                 {{ end }}
 
-                <div class="search">
-                    <button> 
-                        <div class="button-text">search</div> 
-                    </button>
-
-                    <form id="search-form" action="" method="get" role="search">
-                        <label for="search-term">search</label>
-                        <input type="text" value="" placeholder="enter text" id="search-term" />
-                    </form>
-                </div>
+                {{ partial "pagefind.html" . }}
             </header>
 
-            <main class="main">
+            <main class="main" data-pagefind-body>
                 <div id="results"></div>
                 {{ block "main" . }}
                 {{ end }}
