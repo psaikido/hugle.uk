@@ -10,7 +10,6 @@
 
         button {
             position: absolute;
-            left: 17px;
             top: -4px;
             z-index: 1;
             display: block;
@@ -23,10 +22,6 @@
             background-color: transparent;
             border: none;
             opacity: .85;
-
-            @include screen-width('large') {
-                left: 30px;
-            }
 
             .button-text {
                 color: var(--white);

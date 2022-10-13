@@ -2,13 +2,6 @@ body {
     width: 99vw;
     margin-inline: auto;
     overflow-x: hidden;
-
-    @include screen-width('desktop') {
-    }
-}
-
-form {
-    font: inherit;
 }
 
 .grid-wrap {
@@ -25,67 +18,42 @@ form {
         'subnav'
         'footer';
 
-    @include screen-width('medium') {
-        margin: 0 auto;
-        grid-template-rows: auto;
-        grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
-        grid-template-areas: 
-            "banner banner banner"
-            "subnav main  subnav2"
-            "footer footer footer";
-    }
-
-    @include screen-width('desktop') {
-        grid-template-columns: minmax(200px, 300px) minmax(800px, 900px) minmax(200px, 300px);
-
-        padding-right: 40px;
-    }
-
     header {
         grid-area: banner;
     }
 
     @include screen-width('medium') {
+        margin: 0 auto;
+        grid-template-rows: auto;
+        grid-template-columns: 
+            minmax(140px, 230px) 
+            minmax(620px, 800px) 
+            minmax(140px, 230px);
+        grid-template-areas: 
+            "heading heading heading"
+            "subnav main  subnav2"
+            "footer footer footer";
+
         header {
             display: grid;
-            grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
-            grid-template-areas: 
-                "nav heading search";
-
+            grid-area: heading;
+            grid-template-columns: subgrid;
             padding-top: 11px;
             height: auto;
-
-            @include screen-width('medium') {
-                grid-template-columns: minmax(140px, 230px) minmax(620px, 800px) minmax(140px, 230px);
-                grid-template-areas: 
-                "nav heading search";
-
-                min-height: 50px;
-            }
+            min-height: 50px;
         }
 
         header .main-nav {
-            grid-area: nav;
             margin-top: 8px;
-
-            @include screen-width('medium') {
-                grid-area: nav;
-            }
-        }
-
-        header h1 {
-            grid-area: heading;
-        }
-
-        header .search {
-            grid-area: search;
         }
     }
 
     @include screen-width('desktop') {
-        header {
-            grid-template-columns: minmax(200px, 300px) minmax(800px, 900px) minmax(200px, 300px);
-        }
+        grid-template-columns: 
+            minmax(200px, 300px) 
+            minmax(800px, 900px) 
+            minmax(200px, 300px);
+        padding-right: 40px;
     }
 
     main {
