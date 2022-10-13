@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: deluge
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/deluge.html']
 ---
 
 above the waterline  

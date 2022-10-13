@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: kite
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/kite.html']
 ---
 
 lifting spinning  

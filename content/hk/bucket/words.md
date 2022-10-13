@@ -3,6 +3,7 @@ banner-title: "bucket"
 title: words 
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/words.html']
 ---
 
 little time capsules  

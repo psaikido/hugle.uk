@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: don't freak out
 written: 2019
 type: hk/bucket
+aliases: ['/bucket/dont-freak-out.html']
 ---
 
 when Hughie is freaking out  

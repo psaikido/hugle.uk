@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: Chris Evans
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/chris-evans.html']
 ---
 
 whose name did I write?  

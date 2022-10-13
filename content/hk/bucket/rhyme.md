@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: rhyme
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/rhyme.html']
 ---
 
 The practice of poetic rhyming,  

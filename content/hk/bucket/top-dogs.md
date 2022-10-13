@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: top dogs
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/top-dogs.html']
 ---
 
 the top dogs  

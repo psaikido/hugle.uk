@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: ink 
 written: 2021-10
 type: hk/bucket
+aliases: ['/bucket/ink.html']
 ---
 
 popping the lid  

@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: gotta die
 written: 2014/2021
 type: hk/bucket
+aliases: ['/bucket/gotta-die.html']
 ---
 
 cancer pneumonia   

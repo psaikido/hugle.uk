@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: big wig
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/big-wig.html']
 ---
 
 the big wig explained  

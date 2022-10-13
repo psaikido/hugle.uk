@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: solstice
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/solstice.html']
 ---
 
 

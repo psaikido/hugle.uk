@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: beep
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/beep.html']
 ---
 
 the command I typed  

@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: youth club
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/youth-club.html']
 ---
 
 

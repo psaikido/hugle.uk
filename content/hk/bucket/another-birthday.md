@@ -2,7 +2,8 @@
 bannerTitle: "bucket" 
 title: another birthday 
 written: 2021
-type: hk/bucket
+type: hk/bucketm
+aliases: ['/bucket/another-birthday.html']
 ---
 
 minutes often drag  

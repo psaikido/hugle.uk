@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: clench
 written: 2020
 type: hk/bucket
+aliases: ['/bucket/clench.html']
 ---
 
 a centre had an open day  

@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: Noel Reilly
 written: 2021
 type: hk/bucket
+aliases: ['/bucket/reilly.html']
 ---
 
 on a slow afternoon in the Beehive  

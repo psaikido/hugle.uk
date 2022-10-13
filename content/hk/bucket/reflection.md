@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: reflection
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/reflection.html']
 ---
 
 droplets condensed   

@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: shoes
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/shoes.html']
 ---
 
 argument and counter-argument  

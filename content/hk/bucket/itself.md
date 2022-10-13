@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: itself
 written: 2021
 type: hk/bucket
+aliases: ['/bucket/itself.html']
 ---
 
 John I still miss you  

@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: bins 
 written: 2021
 type: hk/bucket
+aliases: ['/bucket/bins.html']
 ---
 
 the expanse of sky

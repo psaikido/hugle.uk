@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: snow ball
 written: 2022
 type: hk/bucket
+aliases: ['/bucket/snow-ball.html']
 ---
 
 the snow was brilliant  
