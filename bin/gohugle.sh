@@ -1,4 +1,5 @@
 #!/bin/sh
+rm -rf ./public
 hugo
 
 # For working in dev we output the pagefind index to the local static directory.

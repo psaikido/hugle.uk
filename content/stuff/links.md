@@ -1,7 +1,6 @@
 ---
 title: Links
 bannerTitle: Links
-layout: default
 aliases: [/links/]
 ---
 

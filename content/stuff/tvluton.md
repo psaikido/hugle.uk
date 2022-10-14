@@ -1,7 +1,6 @@
 ---
 title: TV Lutòn 
 bannerTitle: TV Lutòn 
-layout: default
 ---
 
 

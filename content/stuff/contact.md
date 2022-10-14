@@ -1,7 +1,6 @@
 ---
 title: Contact
 bannerTitle: Contact Hughie
-layout: default
 aliases: [/contact/]
 ---
 
