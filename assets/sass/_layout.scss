@@ -11,15 +11,37 @@ body {
     margin-inline: auto;
     grid-gap: 15px;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(4, auto);
+    grid-template-rows: repeat(5, auto);
     grid-template-areas: 
         'banner'
+        'search'
         'main'
         'subnav'
         'footer';
 
-    header {
+    .main-nav,
+    heading {
         grid-area: banner;
+    }
+
+    heading {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 80%;
+
+        a,
+        a:link,
+        a:visited {
+            text-decoration: none;
+        }
+
+        h1 {
+            margin: 10px auto 20px auto;
+        }
+    }
+
+    .search {
+        grid-area: search;
     }
 
     @include screen-width('medium') {
@@ -43,20 +65,10 @@ body {
             grid-area: heading;
             text-align: center;
 
-            a,
-            a:link,
-            a:visited {
-                text-decoration: none;
-            }
-
             h1 {
                 margin: 0 auto;
                 padding-top: 16px;
             }
-        }
-
-        .search {
-            grid-area: search;
         }
     }
 

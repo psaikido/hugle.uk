@@ -11,9 +11,11 @@
     --pagefind-ui-font: sans-serif;
 }
 
-.pagefind-ui {
-    position: absolute;
-    display: none;
+@include screen-width('medium') {
+    .pagefind-ui {
+        position: absolute;
+        display: none;
+    }
 }
 
 .pagefind-ui__drawer {
