@@ -1,0 +1,28 @@
+.shop-item {
+    float: left;
+    clear: left;
+    width: 100%;
+    border-bottom: 1px solid var(--border-main);
+    margin-bottom: 40px;
+    padding: 20px;
+
+    .graphic {
+        float: left;
+        min-width: 252px;
+        text-align: center;
+
+        img {
+            max-width: 252px;
+        }
+    }
+
+    .info {
+        float: left;
+        margin-left: 30px;
+        max-width: 62%;
+
+        li {
+            margin-bottom: 20px;
+        }
+    }
+}

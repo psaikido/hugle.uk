@@ -1,0 +1,60 @@
+description: thesium
+
+menu:
+
+- title: Seeds 
+  url: /thesium/index.html
+
+- title: Abystery
+  url: /thesium/010-abystery-wakes.html
+
+- title: Age 7
+  url: /thesium/020-age-7.html
+
+- title: Perception 
+  url: /thesium/030-perception.html
+
+- title: Terraformers 
+  url: /thesium/040-terraformers.html
+
+- title: Theocracy 
+  url: /thesium/050-theocracy.html
+
+- title: Rebellion 
+  url: /thesium/060-rebellion.html
+
+- title: Age 13
+  url: /thesium/070-age-13.html
+
+- title: Doubt 
+  url: /thesium/080-doubt.html
+
+- title: Renaissance
+  url: /thesium/090-renaissance.html
+
+- title: Age 17
+  url: /thesium/100-age-17.html
+
+- title: Industry 
+  url: /thesium/110-industry.html
+
+- title: Dreamer
+  url: /thesium/130-dreamer.html
+
+- title: Self
+  url: /thesium/140-self.html
+
+- title: Dread
+  url: /thesium/150-dread.html
+
+- title: Rapprochement
+  url: /thesium/160-rapprochement.html
+
+- title: Age 44
+  url: /thesium/170-age-44.html
+
+- title: Mythos Reborn 
+  url: /thesium/180-mythos-reborn.html
+
+- title: addendum 
+  url: /thesium/190-addendum.html

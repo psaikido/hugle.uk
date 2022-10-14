@@ -1,0 +1,32 @@
+url: "https://hugle.co.uk"
+email: hughie@carrollonline.co.uk
+baseurl: ""
+title: hugle
+description: Hughie's stuff
+favicon: assets/images/site/favicon.ico
+permalink: /:categories/:year/:month/:day/:title:output_ext
+github_username: psaikido
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  auto_ids: true
+
+plugins:
+    - jekyll-bootstrap-sass
+    - jekyll-sitemap
+    - github-pages
+    - jekyll-seo-tag
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+exclude:
+    - README.md
+    - Gemfile
+    - Gemfile.lock
+    - changelog.md
+    - "*.Rmd"
+    - notes.txt
+    - bin/*

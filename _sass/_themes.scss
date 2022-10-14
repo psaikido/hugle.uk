@@ -1,0 +1,188 @@
+/* Themes */
+html {
+    body {
+        color: var(--text-main);
+        background-color: var(--bkg-minor);
+
+        main {
+            background-color: var(--bkg-main);
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--text-accent);
+        }
+
+        button .button-text {
+            color: var(--white);
+        }
+
+        .email-form  input, 
+        .email-form  textarea, 
+        #search-term {
+            color: var(--text-main);
+            background-color: var(--bkg-minor);
+            font: inherit;
+        }
+
+        #search-term {
+            background-color: var(--bkg-main);
+        }
+
+        .email-form  {
+            margin-top: 15px;
+
+            input, 
+            textarea {
+                width: 350px;
+            }
+
+            button {
+                background: var(--text-accent);
+                color: var(--text-minor);
+                font-weight: bold;
+            }
+        }
+
+        .random-hughku, 
+        .home-text-box,
+        .dharma-names {
+            a {
+                color: var(--text-accent);
+            }
+        }
+    }
+
+    &.light {
+        button .button-text {
+            color: var(--text-main);
+        }
+
+        .header,
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--text-accent);
+            text-shadow: none;
+            border: none;
+        }
+
+        #search-term {
+            background-color: var(--light-grey);
+        }
+
+        .home-page {
+            .random-hughku, 
+            .home-text-box,
+            .dharma-names {
+                background-color: var(--light-grey);
+                color: var(--text-main);
+
+                a,
+                a:link,
+                a:visited {
+                    color: var(--text-main);
+                }
+            }
+        }
+
+        .main-content.subMenu .quote-heading {
+            color: var(--blue);
+        }
+
+        #hamburger-menu:hover,
+        #hamburger-menu:focus {
+            box-shadow: 0 1px 5px 4px rgba(30, 30, 30, .5);
+        }
+
+        .sidebar-menu {
+            background: none;
+            background-color: var(--light-grey);
+            border: 1px solid var(--bkg-main);
+            li.level1-child a, 
+            li.level1-parent a,
+            li.level1-parent .heading,
+            .hamburger-dropdown .sub-heading, 
+            .hamburger-dropdown a.subitem, 
+            .hamburger-dropdown .submenu li.subsubitem a {
+                color: var(--text-main);
+            }
+        }
+    }
+
+    &.print {
+        body,
+        .main {
+            font-size: 1.2em;
+            box-shadow: none;
+            border: none;
+        }
+
+        img {
+            display: none;
+        }
+
+        .header,
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--text-accent);
+            text-shadow: none;
+            border: none;
+        }
+
+        button .button-text {
+            color: var(--text-main);
+        }
+
+        .random-hughku, 
+        .home-text-box,
+        .dharma-names {
+            color: var(--black);
+
+            a {
+                color: var(--blue);
+            }
+        }
+
+        #overlay {
+            position: initial;
+            width: 100%;
+        }
+
+        .main-content.subMenu .quote-heading {
+            color: var(--blue);
+        }
+
+        #hamburger-menu:hover,
+        #hamburger-menu:focus {
+            box-shadow: 0 1px 5px 4px rgba(30, 30, 30, .5);
+        }
+
+        .sidebar-menu,
+        .home-page .random-hughku,
+        .home-page .home-text-box,
+        .home-page .dharma-names {
+            background: none;
+            border: 1px solid var(--border-main);
+        }
+
+        .sidebar-menu.little ul.little li.level1-parent .heading,
+        .sidebar-menu.little ul.little .sub-heading,
+        .sidebar-menu.big ul.nests li.level1-parent .heading,
+        .sidebar-menu.big ul.nests .sub-heading,
+        .thesium .quote,
+        .thesium .data,
+        .thesium .speech,
+        .thesium .next {
+            font-style: normal;
+        }
+
+        .sidebar-menu {
+            background-color: var(--bkg-minor);
+        }
+
+        .subnavbar {
+            ul {
+                a:hover {
+                    border: 2px solid var(--dark-minor);
+                }
+            }
+        }
+    }
+}

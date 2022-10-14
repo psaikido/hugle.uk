@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@400;700&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: 2px solid var(--blue);
+}
+
+html {
+    scroll-behavior: smooth;
+} 
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    letter-spacing: .12rem;
+    margin: 0;
+    line-height: 1.9rem;
+
+    @include screen-width('small') {
+        font-size: 1rem;
+    }
+
+    @include screen-width('large') {
+        font-size: 1.2rem;
+    }
+
+    a,
+    a:link,
+    a:visited {
+        color: var(--link-main);
+        text-decoration: underline;
+    }
+
+    a:hover {
+        color: var(--text-accent);
+    }
+
+    h4::before {
+        content: '༄༅༎ ';
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Grandstander', sans-serif;
+    font-style: italic;
+    padding: 0 0 6px 6px;
+    max-width: fit-content;
+    color: var(--text-accent);
+    @include border-fancy;
+}
+
+header h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: .3em;
+    text-shadow: -2px 3px 2px var(--text-minor);
+    margin-top: 8px;
+    max-width: initial;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+h6 {
+    font-size: .8rem;
+}
+
+.grid-wrap {
+    animation-name: reveal;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+

@@ -1,0 +1,12 @@
+design sites:
+    images:
+        pexel.com
+        unsplash.com
+    colour schemes:
+        coolors.co
+        mycolor.space
+        color.adobe.com
+    icons:
+        thenounproject.com
+    templates:
+        designmodo.com/slides

@@ -1,0 +1,29 @@
+footer.footer {
+    color: var(--text-minor);
+
+    form fieldset {
+        float: left;
+        height: 22px;
+        width: 50%;
+        margin: -4px 0 0 20px;
+        border: none;
+        text-align: left;
+
+        legend {
+            float: left;
+        }
+    }
+
+    background: rgba(220, 220, 220, .9);
+    text-align: right;
+
+    .mantra {
+        font-size: .7rem;
+    }
+
+    .footer-text {
+        font-style: italic;
+        font-size: .8rem;
+        margin-right: 10px;
+    }
+}

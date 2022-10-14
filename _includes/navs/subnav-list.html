@@ -1,0 +1,28 @@
+    <button class="toggler is-showing"> &nbsp; </button>
+    
+    {% if page.subnav %}
+        <nav>
+            <ul class="">
+                {% for item in site.data[page.subnav].menu %}
+                    <li {% if page.url  == item.url %}class="current"{% endif %}>
+                        <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    {% endif %}
+
+    {% if page.category %}
+        <nav>
+            <ul class="">
+                {% for post in site.categories[page.category] %}
+                    <li {% if post.url == page.url %}class="current"{% endif %}>
+                        <a href="{{ site.baseurl }}{{ post.url }}" alt="{{ post.title }}">
+                            {{ post.title }} 
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    {% endif %}
+

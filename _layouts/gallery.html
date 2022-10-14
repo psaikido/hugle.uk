@@ -1,0 +1,37 @@
+---
+layout: base
+---
+
+<h4>{{ site.data.galleries[page.dataFile].description }}</h4>
+
+{% for image in site.data.galleries[page.dataFile].images %}
+
+    {% capture src %}
+        {{ site.baseurl }}/{{ site.data.galleries[page.dataFile].imageFolder }}{{ image.img }}
+    {% endcapture %}
+
+
+    {% if image.name %}
+        <h5>{{ image.name }}</h5>
+    {% endif %}
+
+
+    <img src="{{ src }}"
+        alt="{{ image.name }}" 
+        class="center-img" />
+
+    <br />
+
+    {% if image.text %}
+        {{ image.text }}
+        <br />
+    {% endif %}
+
+    {% if image.url %}
+        <a href="{{ image.url }}">{{ image.urlText }}</a>
+        <br />
+    {% endif %}
+
+    <hr />
+
+{% endfor %}

@@ -1,0 +1,106 @@
+.main {
+    padding: 1rem;
+    border: 1px solid var(--border-main);
+
+    @include screen-width('small') {
+        padding: 20px;
+    }
+
+    background-color: var(--bkg-main);
+    box-shadow: -4px 7px 5px 0px rgba(30, 30, 30, .6);
+    text-align: left;
+
+    img {
+        width: 100%;
+        border: 1px solid var(--border-main);
+    }
+
+    p.full-width {
+        padding: 0;
+        max-width: 800px;
+    }
+
+    p, h1, h2, h3, h4, h5, h6 {
+        padding: 0 1rem;
+    }
+
+    @include screen-width('small') {
+        padding: 0 3rem;
+        max-width: 75ch;
+    }
+
+    p.half {
+        text-align: center;
+
+        img {
+            width: 50%;
+            margin: 0 auto;
+        }
+    }
+
+    hr {
+        color: var(--border-main);
+        @include border-fancy;
+    }
+
+    .center-img {
+        display: block;
+        max-width: 100%;
+        min-width: 50%;
+    }
+
+    ul {
+        list-style-type: square;
+
+        li {
+            margin-bottom: 8px;
+        }
+    }
+
+    .poem, 
+    .center-quote {
+        img {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        img.half {
+            width: 50%;
+        }
+    }
+
+    h2.poem-title {
+        padding-left: 2rem;
+    }
+
+    .poem {
+        margin-left: 20px;
+        padding: 0;
+    }
+
+    .center-quote {
+        padding: 19px 0 0 0;
+    }
+
+    .quote {
+        color: var(--text-accent);
+        font-style: italic;
+        border-bottom: 1px solid var(--border-main);
+    }
+
+    .poem-footer {
+        text-align: right;
+        font-style: italic;
+        font-size: 95%;
+        color: var(--text-accent);
+    }
+
+    #results {
+        @include border-fancy;
+        padding-top: 10px;
+    }
+
+    #results:empty {
+        opacity: 0;
+    }
+}

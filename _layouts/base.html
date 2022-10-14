@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+
+        <div class="grid-wrap">
+            <header>
+                <nav class="main-nav">
+                    {% include navs/main.html %}
+                </nav>
+
+                {% if page.banner-title != nill %}
+                    {% assign bt = page.banner-title %}
+                {% elsif page.category != nill %}
+                    {% assign bt = page.category | prepend: 'hugle - ' %}
+                {% else %}
+                    {% assign bt = 'hugle' %}
+                {% endif %}
+
+                <h1>&#x0f3a;{{ bt }}&#x0f3b;</h1>
+
+                {% include search.html %}
+            </header>
+
+            <main class="main {{ page.subnav }}">
+                <div id="results"></div>
+
+                {{ content }}
+            </main>
+
+            {% if page.subnav or page.category %}
+                <aside class="subnavbar">
+                    {% include navs/subnav-list.html %}
+                </aside>
+            {% endif %}
+
+            <aside class="subnav2">
+                {% include navs/subnav2.html %}
+            </aside>
+
+            <a href="#" class="scroll-to-top">scroll to top</a>
+
+            <footer class="footer">
+                {% include footer.html %}
+            </footer>
+
+            <script type="text/javascript" src="/assets/js/toggler.js"> </script>
+            <script type="text/javascript" src="/assets/js/cookie-toggler.js"> </script>
+            <script type="text/javascript" src="/assets/js/add-class-images.js"> </script>
+        </div>
+
+    </body>
+
+</html>

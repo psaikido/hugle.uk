@@ -1,0 +1,34 @@
+.thesium {
+    ul {
+        margin-left: 0;
+    }
+
+    .data {
+        text-align: justify;
+        font-size: .8em;
+        font-family: 'Lucida Console';
+        color: var(--text-mute);
+        border-bottom: 1px solid var(--border-main);
+        margin-bottom: 13px;
+
+        ul {
+            padding-left: 0;
+            list-style-position: inside;
+        }
+    }
+
+    .speech {
+        text-align: justify;
+        line-height: 1.9rem;
+        font-family: Lucida;
+        font-size: 110%;
+    }
+
+    .next {
+        border-top: 1px solid var(--border-main);
+        margin-top: 60px;
+        color: var(--text-accent);
+        font-style: italic;
+    }
+}
+
