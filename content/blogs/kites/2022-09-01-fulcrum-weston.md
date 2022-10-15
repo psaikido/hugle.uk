@@ -1,6 +1,7 @@
 ---
 bannerTitle: blog - kites
 title: Fulcrum 85
+date: 2022-09-01
 subnav: kites
 ---
 

@@ -1,6 +1,7 @@
 ---
 bannerTitle: blog - kites
 title: bicycle spins
+date: 2022-09-27
 subnav: kites
 ---
 
