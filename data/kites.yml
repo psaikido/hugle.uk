@@ -14,14 +14,14 @@ menu:
 - title: messing about vids 
   url: /kites/kite-messing-youtubes/
 
-- title: sims
-  url: /kites/sims/
-
 - title: kaitodo
   url: /kites/kaitodo/
 
 - title: kite thoughts
   url: /kites/club38-thoughts/
+
+- title: simulations
+  url: /kites/sims/
 
 - title: ISKCB 
   url: /kites/iskcb/
