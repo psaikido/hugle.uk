@@ -9,9 +9,7 @@
 
     <div class="two-cols">
         <div class="col-left">
-            <a href="https://youtu.be/{{ .url }}">
-                <img src="https://img.youtube.com/vi/{{ .url }}/0.jpg" alt="youtube thumbnail" />
-            </a>
+            {{ partial "youtube.html" .url }}
         </div>
 
         <div class="col-right">
