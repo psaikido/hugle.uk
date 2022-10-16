@@ -35,7 +35,7 @@
         {{ .Scratch.Set "currentTitle" .Params.title }}
         {{ partial "poem-footer.html" . }}
     {{ else }}
-        {{ partial "poem.html" . }}
+        {{ partial "prose.html" . }}
     {{ end }}
 {{ end }}
 
