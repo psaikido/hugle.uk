@@ -22,6 +22,10 @@
                 <div id="results"></div>
                 {{ block "main" . }}
                 {{ end }}
+
+                <div class="scroll-to-top">
+                    <a href="#">scroll to top</a>
+                </div>
             </main>
 
             {{ block "subnavbar" . }}
@@ -30,7 +34,6 @@
             {{ block "subnav2" . }}
             {{ end }}
 
-            <a href="#" class="scroll-to-top">scroll to top</a>
 
             {{ partial "footer.html" }}
 

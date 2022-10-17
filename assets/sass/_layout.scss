@@ -86,7 +86,7 @@ body {
         width: 100%;
         height: auto;
         min-height: 84vh;
-        padding-bottom: 80px;
+        padding-bottom: 10px;
     }
 
     aside.subnavbar {
@@ -107,13 +107,16 @@ body {
         display: none;
 
         @include screen-width('medium') {
-            display: block;
-            position: fixed;
-            inset: auto auto 3rem 1rem;
+            display:block;
+            text-align: center;
             background-color: var(--bkg-main);
             padding: 5px;
             font-size: .9rem;
-            border: 1px solid var(--border-main);
+            margin-top: 40px;
+
+            a {
+                color: var(--text-accent);
+            }
         }
     }
 
