@@ -48,3 +48,5 @@ the sheer jubilation
 the back of her head  
 protected by a dark blue veil  
 went 'dufff'
+
+![St Joe's Upper School playground](/images/bucket/st-joes-upper.jpg)
