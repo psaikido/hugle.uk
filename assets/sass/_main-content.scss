@@ -80,15 +80,27 @@
     }
 
     .poem {
-        padding-inline: 4rem;
+        padding-inline: 2rem;
     }
 
-    .next,
-    .poem-footer {
-        text-align: right;
-        font-style: italic;
-        font-size: 95%;
+    .page-footer {
+        @include border-fancy;
+        margin-top: 60px;
         color: var(--text-accent);
+        font-style: italic;
+
+        .previous {
+            float: left;
+        }
+
+        .next {
+            float: right;
+        }
+    }
+
+    .poem-written-date {
+        color: var(--text-accent);
+        text-align: right;
     }
 
     .center-quote {

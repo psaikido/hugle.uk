@@ -5,15 +5,18 @@
     
     {{ .Content }}
 
-    <hr />
-    <div class="next">
-        {{ with .PrevInSection }}
-            <- back <a href="{{ .Permalink }}">{{ .Title }}</a>
-        {{ end }}
+    <div class="page-footer">
+        <span class="previous">
+            {{ with .PrevInSection }}
+                <- back <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ end }}
+        </span>
         
-        {{ with .NextInSection }}
-            next <a href="{{ .Permalink }}">{{ .Title }}</a> ->
-        {{ end }}
+        <span class="next">
+            {{ with .NextInSection }}
+                next <a href="{{ .Permalink }}">{{ .Title }}</a> ->
+            {{ end }}
+        </span>
     </div>
 
 {{ end }}
