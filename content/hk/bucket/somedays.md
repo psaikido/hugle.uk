@@ -40,4 +40,4 @@ no-one really
 wants to hear  
 about the end  
 
-![zen tree](/images/mantrasphere/gallery/promo/zenTreePilgrim.jpg)
+![zen tree](/images/bucket/churchDoor.jpg)
