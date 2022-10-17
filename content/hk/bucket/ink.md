@@ -43,7 +43,7 @@ red's primal scarlet uproar
   
 midnight's longing blue quiet
 
-forest's calm green pulsation
+forest's calm emerald pulse
 
 the ink by itself  
 was always more exciting  
