@@ -20,6 +20,12 @@ $breakpoints: (
     border-image-slice: 1;
 }
 
+@mixin border-fancy-top() {
+    border-top: 1px solid transparent;
+    border-image: linear-gradient(to right, var(--bkg-main), var(--blue), var(--bkg-main));
+    border-image-slice: 1;
+}
+
 /*
 html body {
     @include screen-width('xsmall') {

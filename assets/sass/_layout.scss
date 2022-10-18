@@ -103,23 +103,6 @@ body {
         }
     }
 
-    .scroll-to-top {
-        display: none;
-
-        @include screen-width('medium') {
-            display:block;
-            text-align: center;
-            background-color: var(--bkg-main);
-            padding: 5px;
-            font-size: .9rem;
-            margin-top: 40px;
-
-            a {
-                color: var(--text-accent);
-            }
-        }
-    }
-
     footer {
         grid-area: footer;
         bottom: 0;

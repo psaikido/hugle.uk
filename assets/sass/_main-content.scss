@@ -80,11 +80,16 @@
     }
 
     .poem {
+        position: relative;
+        height: 98%;
         padding-inline: 2rem;
     }
 
     .page-footer {
-        @include border-fancy;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        @include border-fancy-top;
         margin-top: 60px;
         color: var(--text-accent);
         font-style: italic;
@@ -96,6 +101,25 @@
         .next {
             float: right;
         }
+
+        .scroll-to-top {
+            display: none;
+
+            @include screen-width('medium') {
+                display:block;
+                clear: both;
+                text-align: center;
+                background-color: var(--bkg-main);
+                padding: 5px;
+                font-size: .9rem;
+                margin-top: 40px;
+
+                a {
+                    color: var(--text-accent);
+                }
+            }
+        }
+
     }
 
     .poem-written-date {
