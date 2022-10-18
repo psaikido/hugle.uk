@@ -59,6 +59,12 @@
             </div>
 
         </div>
+
+        <div class="page-footer">
+            <div class="scroll-to-top">
+                <a href="#">scroll to top</a>
+            </div>
+        </div>
     </div>
 {{ end }}
 
@@ -143,7 +149,7 @@
                 <button class="toggler is-hiding">First Burn</button>
 
                 <ul class="">
-                    {{ range .Site.Data.firstBurn.menu }}
+                    {{ range .Site.Data.firstburn.menu }}
                         <li>
                             <a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
                         </li>

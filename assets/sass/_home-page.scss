@@ -6,7 +6,9 @@
         opacity: .75;
         color: var(--text-minor);
         background-color: var(--light-grey);
+        height: auto; 
         top: 20%;
+
 
         @include screen-width('desktop') {
             top: 23%;
@@ -29,8 +31,6 @@
             font-weight: bold;
             line-height: 2rem;
         }
-
-        height: auto; 
 
         .home-text-box,
         .random-hughku {
@@ -85,7 +85,7 @@
     }
 
     .dharma-names {
-        margin-top: 0;
+        margin-top: 15px;
 
         @include screen-width('medium') {
             margin-top: 20px;
@@ -94,6 +94,20 @@
 
         .dharma-name {
             margin-bottom: 10px;
+        }
+    }
+
+    .page-footer {
+        position: inherit;
+        border: none;
+        text-align: center;
+
+        .scroll-to-top {
+            display: block;
+
+            a {
+                color: var(--text-accent);
+            }
         }
     }
 }
