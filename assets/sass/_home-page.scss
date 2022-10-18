@@ -1,22 +1,19 @@
 .home-page {
     position: relative;
 
-    .image {
-    }
-
     #overlay {
         position: absolute;
         opacity: .75;
         color: var(--text-minor);
         background-color: var(--light-grey);
-        margin-top: -50%;
-        top: 33%;
+        top: 20%;
+
+        @include screen-width('desktop') {
+            top: 23%;
+        }
+
         left: 50%;
         margin-left: -40%;
-
-        @include screen-width('medium') {
-            top: 50%;
-        }
 
         a {
             color: blue;
@@ -38,12 +35,6 @@
         .home-text-box,
         .random-hughku {
             width: 60%;
-        }
-    }
-
-    @include screen-width('desktop') {
-        #overlay {
-            margin-top: -54%;
         }
     }
 
