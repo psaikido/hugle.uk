@@ -10,13 +10,13 @@
             <div class="page-footer">
                 <span class="previous">
                     {{ if $prevItem }}
-                        <- back <a href="{{ $prevItem.url }}" alt="{{ $prevItem.title }}">{{ $prevItem.title }}</a>
+                        << back <a href="{{ $prevItem.url }}" alt="{{ $prevItem.title }}">{{ $prevItem.title }}</a>
                     {{ end }}
                 </span>
                 
                 <span class="next">
                     {{ if $nextItem }}
-                        next <a href="{{ $nextItem.url }}" alt="{{ $nextItem.title }}">{{ $nextItem.title }}</a> -> 
+                        next <a href="{{ $nextItem.url }}" alt="{{ $nextItem.title }}">{{ $nextItem.title }}</a> >> 
                     {{ end }}
                 </span>
 

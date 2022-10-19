@@ -79,18 +79,32 @@
         border: none;
     }
 
-    .poem {
+    .prose,
+    .poem,
+    .blog {
         position: relative;
-        height: 98%;
+        min-height: 98%;
         padding-inline: 2rem;
+        padding-bottom: 90px;
+    }
+
+    .prose {
+        padding-inline: 1rem;
+    }
+
+    .blog {
+        /* content with  positioned divs messes up the 
+        page footer */
+        min-height: auto;
     }
 
     .page-footer {
         position: absolute;
         bottom: 0;
+        left: 0;
         width: 100%;
         @include border-fancy-top;
-        margin-top: 60px;
+        padding-inline: 2rem;
         color: var(--text-accent);
         font-style: italic;
 

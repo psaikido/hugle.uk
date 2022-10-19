@@ -88,5 +88,7 @@ everyone to the downed bridge safely!
 
 I really hope to return to Ladakh one day.
 
-###### ([poems from this pilgrimage](/hk/mbm/intro/))
+#### fin
+
+_([a collection of poems from this pilgrimage](/hk/mbm/intro/))_
 

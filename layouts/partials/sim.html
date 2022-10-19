@@ -1,0 +1,13 @@
+<div class="sim">
+    {{ .Scratch.Set "currentTitle" .Params.title }}
+    <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
+
+    {{ .Content }}
+
+    {{ if .Params.youtubeData }}
+        {{ partial "youtubes.html" . }}
+    {{ end }}
+
+    {{ partial "page-footer-yml.html" . }}
+</div>
+

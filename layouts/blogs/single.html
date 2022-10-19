@@ -3,20 +3,22 @@
     <h2>{{ .Title }}</h2>
     <h6>{{ .Params.date.Format "2006 Jan 02"}}</h6>
     
-    {{ .Content }}
+    <div class="blog">
+        {{ .Content }}
 
-    <div class="page-footer">
-        <span class="previous">
-            {{ with .PrevInSection }}
-                <- back <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{ end }}
-        </span>
-        
-        <span class="next">
-            {{ with .NextInSection }}
-                next <a href="{{ .Permalink }}">{{ .Title }}</a> ->
-            {{ end }}
-        </span>
+        <div class="page-footer">
+            <span class="previous">
+                {{ with .PrevInSection }}
+                    << earlier <a href="{{ .Permalink }}">{{ .Title }}</a>
+                {{ end }}
+            </span>
+            
+            <span class="next">
+                {{ with .NextInSection }}
+                    later <a href="{{ .Permalink }}">{{ .Title }}</a> >>
+                {{ end }}
+            </span>
+        </div>
     </div>
 
 {{ end }}

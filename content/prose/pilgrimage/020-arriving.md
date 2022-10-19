@@ -16,7 +16,6 @@ heavy but my head is helium light. I am met by my host Ngawang who
 looks after me and advises that one should do very little while one
 is acclimatising to the altitude. Between naps I meditate.
 
-<div class="poem">
 half a day in the air  
 the world wildly different  
 
@@ -27,7 +26,6 @@ behind the noise
 the same silence
 
 of home
-</div>
 
 
 ![Leh](/images/pilg1/pilg01a.jpg)

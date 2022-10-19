@@ -7,19 +7,11 @@
         {{ .date }}
     {{ end }}
 
-    <div class="two-cols">
-        <div class="col-left">
-            {{ partial "youtube.html" .url }}
-        </div>
+    {{ partial "youtube.html" .url }}
 
-        <div class="col-right">
-            <ul>
-                {{ range .desc }}
-                    <li>{{ . }}</li>
-                {{ end }}
-            </ul>
-        </div>
-    </div>
-
-    <hr />
+    <ul>
+        {{ range .desc }}
+            <li>{{ . }}</li>
+        {{ end }}
+    </ul>
 {{ end }}

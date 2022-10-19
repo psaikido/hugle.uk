@@ -54,7 +54,7 @@ if you're a hippopotamus
 it started with a kiss  
 and ended up in homicide  
 nothing seemed amiss  
-except a secret whiff of cyanide
+except a certain whiff of cyanide
 
 
 everybody's gotta die  

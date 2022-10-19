@@ -37,7 +37,6 @@ Suddenly everything was so stupendously clear, bright and joyous.
 
 !["Mani 5"](/images/mani/mani5.jpg "Mani 5")
 
-<div class="poem">
 
 overhead  
 the eagle wheeled
@@ -49,8 +48,5 @@ the rock in my hands
 momentarily
 
 weightless
-</div>
 
-
-<hr />
 
