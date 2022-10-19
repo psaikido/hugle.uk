@@ -31,6 +31,9 @@
 
         </figure>
     {{ end }}
+
+    {{ .Scratch.Set "currentTitle" .Params.title }}
+    {{ partial "page-footer-yml.html" . }}
 {{ end }}
 
 {{ define "subnavbar" }}

@@ -1,6 +1,6 @@
 ---
 bannerTitle: hugle - magic
-title: "'hugle'"
+title: "the hugle name"
 subnav: magic 
 ---
 

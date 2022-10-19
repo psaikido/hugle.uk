@@ -5,6 +5,7 @@ aliases: [/links/]
 ---
 
 - [hughkupoems on facebook](https://www.facebook.com/hughkupoems)
+- [goodreads](https://www.goodreads.com/author/show/20671806.Hughie_Carroll)
 - [Carroll Family Archive](https://family.carrollonline.uk)
 - [Soundcloud](https://soundcloud.com/mantrasphere/)  
 - [Mad World](https://youtu.be/sSgvBhZ2-Us) Tears For Fears piano cover  
