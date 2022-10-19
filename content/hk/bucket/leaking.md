@@ -20,3 +20,5 @@ the doomsters
 and activists  
 
 drowned  
+
+![Rembrandt ship at sea](/images/bucket/ship-at-sea-rembrandt.jpg)
