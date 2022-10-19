@@ -7,6 +7,7 @@
         {{ $nextItem := (index ($.Scratch.Get "menu") $nextIndex) }}
 
         {{ if $prevItem | or $nextItem }}
+
             <div class="page-footer">
                 <span class="previous">
                     {{ if $prevItem }}

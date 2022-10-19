@@ -99,9 +99,7 @@
     }
 
     .page-footer {
-        position: absolute;
-        bottom: 0;
-        left: 0;
+        margin-top: 40px;
         width: 100%;
         @include border-fancy-top;
         padding-inline: 2rem;

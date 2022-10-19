@@ -33,7 +33,7 @@
         {{ end }}
 
         {{ .Scratch.Set "currentTitle" .Params.title }}
-        {{ partial "poem-footer.html" . }}
+        {{ partial "page-footer-yml.html" . }}
     {{ else }}
         {{ partial "prose.html" . }}
     {{ end }}
