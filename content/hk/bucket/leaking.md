@@ -3,6 +3,13 @@ bannerTitle: "bucket"
 title: leaking
 written: 2022-10
 type: hk/bucket
+twitter:
+  card: "summary"
+  site: "@psaikido"
+  title: "leaking"
+  description: "A 'hughku' poem from hugle.uk"
+  image: "https://hugle.uk/images/bucket/ship-at-sea-rembrandt.jpg"
+  imageAlt: "Rembrandt's Ship at Sea"
 ---
 
 the cabin boy said  
