@@ -1,6 +1,8 @@
 baseURL:  'http://localhost:1313/'
 languageCode: 'en-gb'
 
+enableRobotsTXT: true
+
 params:
   title: 'hugle'
   description: "Hughie's pages of writing, Dharma, kites and magic."
