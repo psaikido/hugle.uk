@@ -4,6 +4,9 @@ title: top dogs
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/top-dogs.html']
+images:
+- path: /images/bucket/dog-and-bone.jpg 
+  alt: "dog and bone"
 ---
 
 the top dogs  
@@ -64,5 +67,4 @@ but
 the dog-eat-dog mind  
 belongs to the animals  
 
-!["dog and bone"](/images/bucket/dog-and-bone.jpg "dog and bone")  
 [credit](https://rocksolidk9.wordpress.com/)

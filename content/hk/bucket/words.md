@@ -4,6 +4,9 @@ title: words
 written: 2022
 type: hk/bucket
 aliases: ['/bucket/words.html']
+images:
+- path: /images/chan/mistymorning.jpg 
+  alt: Maenllwyd morning
 ---
 
 little time capsules  
@@ -29,4 +32,3 @@ nothing less
 the mystery  
 of forever
 
-![Maenllwyd morning](/images/chan/mistymorning.jpg)

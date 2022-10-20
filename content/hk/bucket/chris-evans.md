@@ -4,6 +4,9 @@ title: Chris Evans
 written: 2022
 type: hk/bucket
 aliases: ['/bucket/chris-evans.html']
+images:
+- path: /images/bucket/chris-evans-billie-piper.jpg 
+  alt: Chris Evans & Billie Piper
 ---
 
 whose name did I write?  
@@ -71,4 +74,3 @@ I honestly can't remember
 whose name  
 I wrote
 
-![Chris Evans & Billie Piper](/images/bucket/chris-evans-billie-piper.jpg)

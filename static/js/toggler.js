@@ -58,6 +58,30 @@ $('.search button').click(function () {
         .val('');
 })
 
+/* screen print a poem */
+$('#screen-print').click(function () {
+    $('.poem').addClass('display-card');
+
+    /* turn off extraneous elements */
+    $('.main-nav').css('display', 'none');
+    $('heading').css('display', 'none');
+    $('.search').css('display', 'none');
+    $('.subnavbar').css('display', 'none');
+    $('.poem .page-footer').css('display', 'none');
+    $('.poem .poem-image').css('display', 'none');
+    $('.poem .poem-written-date').css('display', 'none');
+    $('#screen-print').css('display', 'none');
+    $('footer').css('display', 'none');
+
+    /* get the main image and set it as the background */
+    var img = $('.poem-image img').attr('src');
+    $('.main').css('background-image', 'url(' + img + ')');
+    $('.main').css('background-repeat', 'no-repeat');
+    $('.main').css('background-size', 'cover');
+    var $mainHeight = $('.poem-text').height();
+    $('.main').css('height', $mainHeight + 90);
+})
+
 function nestParent(elem) {
     $('ul.level1-parent-dropdown-big').fadeOut();
     $(elem).siblings('ul.level1-parent-dropdown-big').fadeToggle();

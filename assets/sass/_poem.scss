@@ -1,0 +1,59 @@
+.grid-wrap .main {
+    position: relative;
+    isolation: isolate;
+    width: 800px;
+}
+
+.poem {
+    position: relative;
+    min-height: 98%;
+
+    .poem-written-date {
+        color: var(--text-accent);
+        font-style: italic;
+        text-align: right;
+    }
+
+    &.display-card {
+        width: 800px;
+
+        .poem-title {
+            position: absolute;
+            top: 0;
+            border: none;
+            width: 100%;
+            text-align: center;
+            margin: 0;
+            padding: 5px;
+        }
+
+        .poem-text {
+            position: absolute;
+            top: 46px;
+            z-index: 2;
+            opacity: .8;
+        }
+
+        .poem-title,
+        .poem-text {
+            background-color: var(--light-grey);
+            color: var(--dark-major);
+            width: 400px;
+            margin-inline: auto;
+            left: 0;
+            right: 0;
+            font-weight: bold;
+        }
+
+        .poem-text::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            text-align: right;
+            font-style: italic;
+            mix-blend-mode: screen;
+            z-index: 1;
+        }
+    }
+}
+

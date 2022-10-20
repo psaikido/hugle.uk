@@ -4,6 +4,9 @@ title: deluge
 written: 2022
 type: hk/bucket
 aliases: ['/bucket/deluge.html']
+images:
+- path: /images/bucket/underwater-christ.jpg 
+  alt: underwater Christ
 ---
 
 above the waterline  
@@ -37,4 +40,3 @@ while there is yet
 ground  
 beneath your feet
 
-![underwater Christ](/images/bucket/underwater-christ.jpg)

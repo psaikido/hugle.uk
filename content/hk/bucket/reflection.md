@@ -4,6 +4,9 @@ title: reflection
 written: 2022
 type: hk/bucket
 aliases: ['/bucket/reflection.html']
+images:
+- path: /images/mantrasphere/gallery/promo/pl_hc_ba.jpg 
+  alt: Pete, Hughie, Barry
 ---
 
 droplets condensed   
@@ -21,4 +24,3 @@ on glass
 I point  
 at my reflection
 
-![Pete, Hughie, Barry](/images/mantrasphere/gallery/promo/pl_hc_ba.jpg "Pete, Hughie & Barry reflections")

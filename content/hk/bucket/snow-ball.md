@@ -4,6 +4,9 @@ title: snow ball
 written: 2022
 type: hk/bucket
 aliases: ['/bucket/snow-ball.html']
+images:
+- path: /images/bucket/st-joes-upper.jpg 
+  alt: St Joe's Upper School playground
 ---
 
 the snow was brilliant  
@@ -49,4 +52,3 @@ the back of her head
 protected by a dark blue veil  
 went 'dufff'
 
-![St Joe's Upper School playground](/images/bucket/st-joes-upper.jpg)

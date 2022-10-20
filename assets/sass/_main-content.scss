@@ -61,7 +61,6 @@
         }
     }
 
-    .poem, 
     .center-quote {
         img {
             width: 100%;
@@ -80,7 +79,6 @@
     }
 
     .prose,
-    .poem,
     .blog {
         position: relative;
         min-height: 98%;
@@ -132,12 +130,6 @@
             }
         }
 
-    }
-
-    .poem-written-date {
-        color: var(--text-accent);
-        font-style: italic;
-        text-align: right;
     }
 
     .center-quote {

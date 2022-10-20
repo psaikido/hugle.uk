@@ -4,6 +4,9 @@ title: itself
 written: 2021
 type: hk/bucket
 aliases: ['/bucket/itself.html']
+images:
+- path: /images/chan/JohnLeaving.jpg 
+  alt: John leaving
 ---
 
 John I still miss you  
@@ -20,4 +23,3 @@ of this moment
 just being itself
 
 
-![John leaving](/images/chan/JohnLeaving.jpg "John leaving for China")

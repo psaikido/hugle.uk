@@ -4,6 +4,9 @@ title: beep
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/beep.html']
+images:
+- path: /images/bucket/monitors.jpg 
+  alt: "row of monitors"
 ---
 
 the command I typed  
@@ -63,4 +66,3 @@ is no way
 to earn a living  
 
 
-!["row of monitors"](/images/bucket/monitors.jpg "row of monitors")  

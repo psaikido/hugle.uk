@@ -4,6 +4,9 @@ title: big wig
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/big-wig.html']
+images:
+- path: /images/bucket/darth-vader.jpg 
+  alt: "Darth Vader"
 ---
 
 the big wig explained  
@@ -74,4 +77,3 @@ and be
 friendless?  
 
 
-!["Darth Vader"](/images/bucket/darth-vader.jpg "Darth Vader")  

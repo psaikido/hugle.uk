@@ -2,7 +2,17 @@
     {{ .Scratch.Set "currentTitle" .Params.title }}
     <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
 
-    {{ .Content }}
+    <div class="poem-text">
+        {{ .Content }}
+    </div>
+
+    {{ if .Params.images }}
+        {{ range .Params.images }}
+            <div class="poem-image">
+                <img src="{{ .path }}" alt="{{ .alt }}" />
+            </div>
+        {{ end }}
+    {{ end }}
 
     {{ if .Params.youtubeData }}
         {{ partial "youtubes.html" . }}
@@ -14,7 +24,11 @@
         </div>
     {{ end }}
 
-    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    {{ if .Params.images }}
+        <button id="screen-print">
+            screen-print
+        </button>
+    {{ end }}
 
     {{ partial "page-footer-yml.html" . }}
 </div>

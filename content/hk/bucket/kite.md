@@ -4,6 +4,9 @@ title: kite
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/kite.html']
+images:
+- path: /images/bucket/kite.jpg 
+  alt: "kite"
 ---
 
 lifting spinning  
@@ -15,4 +18,3 @@ right out
 of my head
 
 
-!["kite"](/images/bucket/kite.jpg "kite")  

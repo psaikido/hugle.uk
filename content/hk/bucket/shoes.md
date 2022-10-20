@@ -4,6 +4,9 @@ title: shoes
 written: 2022
 type: hk/bucket
 aliases: ['/bucket/shoes.html']
+images:
+- path: /images/chan/shoes.jpg 
+  alt: Chan monk shoes
 ---
 
 argument and counter-argument  
@@ -29,4 +32,3 @@ that was free will
 the second?  
 karma
 
-![Chan monk shoes](/images/chan/shoes.jpg)

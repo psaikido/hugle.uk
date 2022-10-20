@@ -4,6 +4,9 @@ title: 30 years
 written: 2021
 type: hk/bucket
 aliases: ['/bucket/30years.html']
+images:
+- path: /images/circus/suitcase.jpg 
+  alt: the fateful stunt
 ---
 
 thirty years ago
@@ -20,5 +23,3 @@ still struggling
 
 to be born
 
-
-![the fateful stunt](/images/circus/suitcase.jpg "the fateful stunt")

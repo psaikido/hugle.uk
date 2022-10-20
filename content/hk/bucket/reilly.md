@@ -4,6 +4,9 @@ title: Noel Reilly
 written: 2021
 type: hk/bucket
 aliases: ['/bucket/reilly.html']
+images:
+- path: /images/bucket/noel-reilly.jpg 
+  alt: Noel Reilly
 ---
 
 on a slow afternoon in the Beehive  
@@ -46,5 +49,4 @@ as Noel does a quick 180
 and disappears  
 scuttling back upstairs
 
-![Noel Reilly](/images/bucket/noel-reilly.jpg "Noel Reilly")
 [Philosopher](https://www.swindonadvertiser.co.uk/news/11136446.the-time-an-outrageous-pub-landlord-managed-to-get-swindon-into-the-new-york-times/)

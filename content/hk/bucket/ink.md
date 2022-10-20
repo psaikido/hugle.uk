@@ -4,6 +4,9 @@ title: ink
 written: 2021-10
 type: hk/bucket
 aliases: ['/bucket/ink.html']
+images:
+- path: /images/bucket/inks.jpg 
+  alt: ink
 ---
 
 popping the lid  
@@ -50,4 +53,3 @@ was always more exciting
 than any shapes they made  
 on paper  
 
-![ink](/images/bucket/inks.jpg "ink on squeegies")

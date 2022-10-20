@@ -4,6 +4,9 @@ title: some days
 written: 2022-10
 type: hk/bucket
 aliases: ['/bucket/some-days/']
+images:
+- path: /images/bucket/churchDoor.jpg 
+  alt: church door, contemplation 
 ---
 
 some days  
@@ -40,4 +43,3 @@ no-one really
 wants to hear  
 about the end  
 
-![zen tree](/images/bucket/churchDoor.jpg)

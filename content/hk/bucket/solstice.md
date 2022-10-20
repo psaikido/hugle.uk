@@ -4,6 +4,9 @@ title: solstice
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/solstice.html']
+images:
+- path: /images/bucket/dawn-approaching.jpg 
+  alt: "dawn approaching"
 ---
 
 
@@ -82,5 +85,4 @@ towards the setting
 of that sun
 
 
-!["dawn approaching"](/images/bucket/dawn-approaching.jpg "dawn approaching")  
 credit [sunrise.maplogs.com](https://sunrise.maplogs.com/)

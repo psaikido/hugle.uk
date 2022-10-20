@@ -4,6 +4,9 @@ title: youth club
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/youth-club.html']
+images:
+- path: /images/bucket/bound-with-chains.jpg 
+  alt: "hands in chains"
 ---
 
 
@@ -104,6 +107,5 @@ and called out
 "we liked you really!"
 
 
-!["hands in chains"](/images/bucket/bound-with-chains.jpg "hands in chains")  
 [image credit](https://simplyconsiderthis.wordpress.com/2013/03/23/how-can-i-be-set-free/)  
 with thanks to [Dik Downey](https://www.opposablethumbtheatre.com/the-company)
