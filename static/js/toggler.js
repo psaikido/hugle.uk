@@ -76,8 +76,10 @@ $('#screen-print').click(function () {
     /* get the main image and set it as the background */
     var img = $('.poem-image img').attr('src');
     $('.main').css('background-image', 'url(' + img + ')');
+    $('.main').css('position', 'relative');
+    $('.main').css('isolation', 'isolate');
     $('.main').css('background-repeat', 'no-repeat');
-    $('.main').css('background-size', 'cover');
+    $('.main').css('background-size', '800px auto');
     var $mainHeight = $('.poem-text').height();
     $('.main').css('height', $mainHeight + 90);
 })

@@ -1,9 +1,3 @@
-.grid-wrap .main {
-    position: relative;
-    isolation: isolate;
-    width: 800px;
-}
-
 .poem {
     position: relative;
     min-height: 98%;
@@ -15,8 +9,6 @@
     }
 
     &.display-card {
-        width: 800px;
-
         .poem-title {
             position: absolute;
             top: 0;

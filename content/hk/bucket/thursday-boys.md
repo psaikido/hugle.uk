@@ -5,7 +5,7 @@ written: 2005
 type: hk/bucket
 aliases: ['/bucket/thursday-boys.html']
 images:
-- path: /images/bio/thursdayboys.jpg) 
+- path: /images/bio/thursdayboys.jpg
   alt: "Thursday boys 1"
 - path: /images/bio/Thursday-boys-2021-steves-wedding.jpg
   alt: "Thursday boys at Steve's wedding 2021"
