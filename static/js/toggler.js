@@ -79,7 +79,7 @@ $('#screen-print').click(function () {
     $('.main').css('position', 'relative');
     $('.main').css('isolation', 'isolate');
     $('.main').css('background-repeat', 'no-repeat');
-    $('.main').css('background-size', 'cover');
+    $('.main').css('background-size', 'contain');
     var $mainHeight = $('.poem-text').height();
     $('.main').css('height', $mainHeight + 90);
 })
