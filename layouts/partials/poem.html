@@ -1,39 +1,82 @@
-<div class="poem">
-    {{ .Scratch.Set "currentTitle" .Params.title }}
-    <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
+<style>
+.main-nav,
+heading,
+.search,
+.subnavbar,
+.poem .page-footer,
+.poem .poem-written-date,
+footer { 
+    display: none; 
+}
 
-    <div class="poem-text">
-        {{ .Content }}
+body {
+    position: relative;
+}
+.grid-wrap {
+    grid-template-columns: unset;
+}
+
+.grid-wrap main {
+    grid-area: unset;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.poem-wrap {
+    inset: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.screen-print-tools {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: grid;
+}
+</style>
+
+<div class="poem-wrap">
+    <div class="poem screen-print-overlay">
+        {{ .Scratch.Set "currentTitle" .Params.title }}
+        <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
+
+        <div class="poem-text">
+            {{ .Content }}
+        </div>
+
+        {{ if .Params.images }}
+            {{ range .Params.images }}
+                <div class="poem-image">
+                    <img src="{{ .path }}" alt="{{ .alt }}" />
+                </div>
+            {{ end }}
+        {{ end }}
+
+        {{ if .Params.youtubeData }}
+            {{ partial "youtubes.html" . }}
+        {{ end }}
+
+        {{ if .Params.written }}
+            <div class="poem-written-date">
+                HC: {{ .Params.written }}
+            </div>
+        {{ end }}
+
+        {{ partial "page-footer-yml.html" . }}
     </div>
 
     {{ if .Params.images }}
-        {{ range .Params.images }}
-            <div class="poem-image">
-                <img src="{{ .path }}" alt="{{ .alt }}" />
-            </div>
-        {{ end }}
-    {{ end }}
+        <div class="screen-print-tools">
+            <button id="screen-print">
+                screen-print 
+            </button>
 
-    {{ if .Params.youtubeData }}
-        {{ partial "youtubes.html" . }}
-    {{ end }}
-
-    {{ if .Params.written }}
-        <div class="poem-written-date">
-            HC: {{ .Params.written }}
+            <button id="screen-print-overlay">
+                screen-print overlay
+            </button>
         </div>
     {{ end }}
-
-    {{ if .Params.images }}
-        <button id="screen-print">
-            screen-print 
-        </button>
-
-        <button id="screen-print-overlay">
-            screen-print overlay
-        </button>
-    {{ end }}
-
-    {{ partial "page-footer-yml.html" . }}
 </div>
 
