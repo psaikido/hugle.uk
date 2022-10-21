@@ -8,7 +8,7 @@
         text-align: right;
     }
 
-    &.display-card {
+    &.screen-print-overlay {
         .poem-title {
             position: absolute;
             top: 0;
@@ -34,11 +34,11 @@
             margin-inline: auto;
             left: 0;
             right: 0;
+            font-size: 80%;
             font-weight: bold;
         }
 
         .poem-text::after {
-            content: '';
             position: absolute;
             inset: 0;
             text-align: right;
@@ -46,6 +46,46 @@
             mix-blend-mode: screen;
             z-index: 1;
         }
+
+        &::after {
+            position: absolute;
+            content: 'hugle.uk';
+            bottom: 0;
+            right: 0;
+            color: var(--text-accent);
+        }
+    }
+
+    &.screen-print {
+        position: relative;
+
+        .poem-title {
+            top: 8px;
+            margin: 0;
+        }
+
+        .poem-text {
+            top: 53px;
+            font-size: 70%;
+
+            & > :first-child {
+                margin-top: 0;
+            }
+        }
+
+        .poem-title,
+        .poem-text {
+            position: absolute;
+            left: 5px;
+        }
+
+        .poem-image {
+            position: absolute;
+            top: 60px;
+            right: 5px;
+            width: 47%;
+        }
+
     }
 }
 
