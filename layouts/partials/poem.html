@@ -1,44 +1,5 @@
-<style>
-.main-nav,
-heading,
-.search,
-.subnavbar,
-.poem .page-footer,
-.poem .poem-written-date,
-footer { 
-    display: none; 
-}
-
-body {
-    position: relative;
-}
-.grid-wrap {
-    grid-template-columns: unset;
-}
-
-.grid-wrap main {
-    grid-area: unset;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.poem-wrap {
-    inset: 0;
-    width: 100%;
-    height: 100%;
-}
-
-.screen-print-tools {
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: grid;
-}
-</style>
-
 <div class="poem-wrap">
-    <div class="poem screen-print-overlay">
+    <div class="poem ">
         {{ .Scratch.Set "currentTitle" .Params.title }}
         <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
 
@@ -73,9 +34,11 @@ body {
                 screen-print 
             </button>
 
-            <button id="screen-print-overlay">
-                screen-print overlay
-            </button>
+            <div class="tools">
+                <button id="screen-print-overlay">
+                    screen-print overlay
+                </button>
+            </div>
         </div>
     {{ end }}
 </div>
