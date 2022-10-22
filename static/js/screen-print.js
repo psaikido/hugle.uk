@@ -1,7 +1,7 @@
 $('#formatting-tools').click(function () {
     screenPrintHideElements();
-    $('.poem')
-        .addClass('poem-tool-default');
+    $('.poem').addClass('poem-tool-default');
+    $('.screen-print-tools').css('width', '100%');
 })
 
 $('#col-left').click(function () {
@@ -28,6 +28,22 @@ $('#col-flex').click(function () {
         .addClass('poem-flex');
 })
 
+$('#col-narrow').click(function () {
+    $('.grid-wrap')
+        .css('grid-template-columns', '0 600px 0');
+
+    $('.main')
+        .css('max-width', 'unset');
+})
+
+$('#col-regular').click(function () {
+    $('.grid-wrap')
+        .css('grid-template-columns', '0 800px 0');
+
+    $('.main')
+        .css('max-width', 'unset');
+})
+
 $('#col-wide').click(function () {
     $('.grid-wrap')
         .css('grid-template-columns', '0 1400px 0');
@@ -36,49 +52,40 @@ $('#col-wide').click(function () {
         .css('max-width', 'unset');
 })
 
-$('#cols').click(function () {
-    $('.poem')
-        .addClass('screen-print')
-        .removeClass('screen-print-overlay');
-
-    screenPrintHideElements();
-
-    var $mainHeight = $('.poem-text').height();
-    $('.main').css('background-image', 'none')
-        .css('position', 'relative')
-        .css('isolation', 'isolate')
-        .css('height', $mainHeight + 90);
-
-    $('.poem-image').css('position', 'absolute')
-        .css('display', 'block')
-        .css('top', '60px')
-        .css('right', '5px')
-        .css('width', '47%');
-})
-
 $('#set-flex').click(function () {
     $('.poem-text')
         .css('display', 'flex');
 })
 
-/* screen print a poem - overlay version */
-$('#overlay').click(function () {
-    $('.poem')
-        .addClass('screen-print-overlay')
-        .removeClass('screen-print');
-
-    screenPrintHideElements();
-    setBkg();
-})
-
 $('#bkg-contain').click(function () {
+    setBkg();
+
     $('.main')
         .css('background-size', 'contain');
 })
 
 $('#bkg-cover').click(function () {
+    setBkg();
+
     $('.main')
         .css('background-size', 'cover');
+})
+
+$('#bkg-unset').click(function () {
+    $('.poem .poem-image').css('display', 'block');
+    $('.main').css('background-image', 'none');
+})
+
+$('#bkg-overlay').click(function () {
+    $('.poem')
+        .removeClass('bkg-overlay-unset')
+        .addClass('bkg-overlay');
+})
+
+$('#bkg-overlay-unset').click(function () {
+    $('.poem')
+        .removeClass('bkg-overlay')
+        .addClass('bkg-overlay-unset');
 })
 
 function setBkg() {
