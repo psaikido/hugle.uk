@@ -25,21 +25,57 @@
             </div>
         {{ end }}
 
+        {{ if .Params.images }}
+            <button id="formatting-tools">
+                formatting tools 
+            </button>
+        {{ end }}
+
         {{ partial "page-footer-yml.html" . }}
     </div>
 
-    {{ if .Params.images }}
-        <div class="screen-print-tools">
-            <button id="screen-print">
-                screen-print 
-            </button>
-
-            <div class="tools">
-                <button id="screen-print-overlay">
-                    screen-print overlay
-                </button>
-            </div>
-        </div>
-    {{ end }}
 </div>
 
+{{ define "subnav2" }}
+    {{ if .Params.images }}
+        <aside class="subnav2 screen-print-tools">
+            <div class="tools">
+                <h3>columns</h3>
+
+                <button id="col-left">
+                    left
+                </button>
+
+                <button id="col-centre">
+                    centre
+                </button>
+
+                <button id="col-right">
+                    right
+                </button>
+
+                <button id="col-flex">
+                    flex
+                </button>
+
+                <button id="col-wide">
+                    wide
+                </button>
+
+                <h3>background</h3>
+
+                <button id="overlay">
+                    overlay
+                </button>
+
+                <button id="bkg-contain">
+                    background-size: contain;
+                </button>
+
+                <button id="bkg-cover">
+                    background-size: cover;
+                </button>
+            </div>
+        </aside>
+    {{ end }}
+{{ end }}

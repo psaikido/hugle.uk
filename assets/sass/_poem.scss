@@ -1,10 +1,18 @@
 .screen-print-tools .tools {
     display: none;
+    
+    button {
+        display: block;
+    }
 }
 
 .poem {
+    font-family: 'Schoolbell', cursive;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
     position: relative;
     min-height: 98%;
+    width: 100%;
 
     .poem-written-date {
         color: var(--text-accent);
@@ -12,51 +20,43 @@
         text-align: right;
     }
 
-    &.screen-print-overlay1 {
-        .poem-title {
-            position: absolute;
-            top: 0;
-            border: none;
-            width: 100%;
-            text-align: center;
-            margin: 0;
-            padding: 5px;
-        }
-
+    &.poem-tool-default {
         .poem-text {
-            position: absolute;
-            top: 46px;
-            z-index: 2;
+            display: block;
+            left: unset;
+            right: unset;
+            width: unset;
             opacity: .8;
+            margin-inline: unset;
+            text-align: left;
         }
+    }
 
-        .poem-title,
+    &.poem-left {
         .poem-text {
-            background-color: var(--light-grey);
-            color: var(--dark-major);
-            width: 400px;
-            margin-inline: auto;
             left: 0;
-            right: 0;
-            font-size: 80%;
-            font-weight: bold;
         }
+    }
 
-        .poem-text::after {
-            position: absolute;
-            inset: 0;
+    &.poem-centre {
+        .poem-text {
+            margin-inline: auto;
+            width: 300px;
+        }
+    }
+
+    &.poem-right {
+        .poem-text {
+            right: 0;
             text-align: right;
-            font-style: italic;
-            mix-blend-mode: screen;
-            z-index: 1;
         }
+    }
 
-        &::after {
-            position: absolute;
-            content: 'hugle.uk';
-            bottom: 0;
-            right: 0;
-            color: var(--text-accent);
+    &.poem-flex {
+        .poem-text {
+            display: flex;
+            flex-basis: 30%;
+            justify-content: center;
         }
     }
 
@@ -66,6 +66,7 @@
         .poem-title {
             top: 8px;
             margin: 0;
+            border: none;
         }
 
         .poem-text {
@@ -82,14 +83,6 @@
             position: absolute;
             left: 5px;
         }
-
-        .poem-image {
-            position: absolute;
-            top: 60px;
-            right: 5px;
-            width: 47%;
-        }
-
     }
 }
 

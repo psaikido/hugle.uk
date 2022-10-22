@@ -1,34 +1,98 @@
-/* screen print a poem - side by side version */
-$('#screen-print').click(function () {
-    $('.poem').addClass('screen-print');
-    $('.poem').removeClass('screen-print-overlay');
+$('#formatting-tools').click(function () {
+    screenPrintHideElements();
+    $('.poem')
+        .addClass('poem-tool-default');
+})
+
+$('#col-left').click(function () {
+    $('.poem')
+        .removeClass('poem-centre poem-right poem-flex')
+        .addClass('poem-left');
+})
+
+$('#col-centre').click(function () {
+    $('.poem')
+        .removeClass('poem-left poem-right poem-flex')
+        .addClass('poem-centre');
+})
+
+$('#col-right').click(function () {
+    $('.poem')
+        .removeClass('poem-left poem-centre poem-flex')
+        .addClass('poem-right');
+})
+
+$('#col-flex').click(function () {
+    $('.poem')
+        .removeClass('poem-left poem-centre poem-right')
+        .addClass('poem-flex');
+})
+
+$('#col-wide').click(function () {
+    $('.grid-wrap')
+        .css('grid-template-columns', '0 1400px 0');
+
+    $('.main')
+        .css('max-width', 'unset');
+})
+
+$('#cols').click(function () {
+    $('.poem')
+        .addClass('screen-print')
+        .removeClass('screen-print-overlay');
+
     screenPrintHideElements();
 
-    var imgSrc = $('.poem-image img').attr('src');
-    $('.main').css('position', 'relative');
-    $('.main').css('isolation', 'isolate');
     var $mainHeight = $('.poem-text').height();
-    $('.main').css('height', $mainHeight + 90);
+    $('.main').css('background-image', 'none')
+        .css('position', 'relative')
+        .css('isolation', 'isolate')
+        .css('height', $mainHeight + 90);
+
+    $('.poem-image').css('position', 'absolute')
+        .css('display', 'block')
+        .css('top', '60px')
+        .css('right', '5px')
+        .css('width', '47%');
+})
+
+$('#set-flex').click(function () {
+    $('.poem-text')
+        .css('display', 'flex');
 })
 
 /* screen print a poem - overlay version */
-$('#screen-print-overlay').click(function () {
-    $('.poem').addClass('screen-print-overlay');
-    $('.poem').removeClass('screen-print');
-    screenPrintHideElements();
+$('#overlay').click(function () {
+    $('.poem')
+        .addClass('screen-print-overlay')
+        .removeClass('screen-print');
 
+    screenPrintHideElements();
+    setBkg();
+})
+
+$('#bkg-contain').click(function () {
+    $('.main')
+        .css('background-size', 'contain');
+})
+
+$('#bkg-cover').click(function () {
+    $('.main')
+        .css('background-size', 'cover');
+})
+
+function setBkg() {
     /* get the main image and set it as the background */
     $('.poem .poem-image').css('display', 'none');
     var img = getImage($('.poem-image img'));
     
-    /*$('.main').css('width', '600px');*/
-    $('.main').css('background-image', 'url(' + img.src + ')');
-    $('.main').css('position', 'relative');
-    $('.main').css('isolation', 'isolate');
-    $('.main').css('background-repeat', 'no-repeat');
-    $('.main').css('background-size', 'cover');
-    /*$('.main').css('height', $mainHeight + 90);*/
-})
+    $('.main')
+        .css('background-image', 'url(' + img.src + ')')
+        .css('position', 'relative')
+        .css('isolation', 'isolate')
+        .css('background-repeat', 'no-repeat')
+        .css('background-size', 'cover');
+}
 
 function getImage($img) {
     const image = new Image();
@@ -44,21 +108,15 @@ function screenPrintHideElements() {
     $('.subnavbar').css('display', 'none');
     $('.poem .page-footer').css('display', 'none');
     $('.poem .poem-written-date').css('display', 'none');
+    $('#formatting-tools').css('display', 'none');
     $('footer').css('display', 'none');
-    /*
-    $('.poem-wrap').css('position', 'relative');
-    $('.poem-wrap').css('inset', '0');
-    */
-    $('.screen-print-tools').css('position', 'absolute');
-    $('.screen-print-tools').css('left', '-197px');
-    $('.screen-print-tools').css('top', '3px');
-    $('.screen-print-tools').css('display', 'grid');
     $('.screen-print-tools .tools').css('display', 'block');
     $('body').css('position', 'relative');
     $('grid-wrap').css('grid-template-columns', 'unset');
     $('grid-wrap main').css('grid-area', 'unset');
-    $('.poem-wrap').css('inset', '0');
-    $('.poem-wrap').css('width', '100%');
-    $('.poem-wrap').css('height', '100%');
+    $('.poem-wrap')
+        .css('inset', '0')
+        .css('width', '100%')
+        .css('height', '100%');
 }
 
