@@ -4,6 +4,9 @@ title: in the hall of mirrors
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/mirrors.html']
+images:
+- path: /images/bucket/city-night.jpg 
+  alt: "night city"
 ---
 
 in the hall of mirrors  
@@ -14,4 +17,3 @@ night dogs barking
 at barking dogs  
 in the night
 
-!["night city"](/images/bucket/city-night.jpg "night city")

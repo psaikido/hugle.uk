@@ -10,7 +10,7 @@ images:
 ---
 
 lifting spinning  
-breezy pleasing  
+breezy jumping    
 kite strings sing  
 whipping wind whistles  
 words flew  

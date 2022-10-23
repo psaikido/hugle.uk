@@ -26,6 +26,7 @@
     &.poem-tool-default {
         .poem-title {
             border: none;
+            margin: 0;
         }
 
         .poem-text {
@@ -33,27 +34,31 @@
             left: unset;
             right: unset;
             width: unset;
-            opacity: .8;
             margin-inline: unset;
+            margin-top: 40px;
             text-align: left;
         }
     }
 
     &.poem-left {
+        .poem-title,
         .poem-text {
             left: 0;
         }
     }
 
     &.poem-centre {
+        .poem-title,
         .poem-text {
             margin-inline: auto;
-            width: 300px;
+            width: 54%;
         }
     }
 
     &.poem-right {
+        .poem-title,
         .poem-text {
+            position: absolute;
             right: 0;
             text-align: right;
         }
@@ -69,8 +74,13 @@
     }
 
     &.bkg-overlay {
-        .poem-title,
+        .poem-title {
+            padding: .5rem;
+        }
+
         .poem-text {
+            padding: 2rem;
+            width: 54%;
             background-color: var(--light-grey);
             color: var(--dark-major);
         }

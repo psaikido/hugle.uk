@@ -76,16 +76,48 @@ $('#bkg-unset').click(function () {
     $('.main').css('background-image', 'none');
 })
 
-$('#bkg-overlay').click(function () {
+$('#bkg-overlay-hl').click(function () {
+    setBkg();
+
     $('.poem')
         .removeClass('bkg-overlay-unset')
         .addClass('bkg-overlay');
+
+    $('.poem-text')
+        .css('mix-blend-mode', 'hard-light');
+})
+
+$('#bkg-overlay-screen').click(function () {
+    setBkg();
+
+    $('.poem')
+        .removeClass('bkg-overlay-unset')
+        .addClass('bkg-overlay');
+
+    $('.poem-text')
+        .css('mix-blend-mode', 'screen');
+})
+
+$('#bkg-overlay-multiply').click(function () {
+    setBkg();
+
+    $('.poem')
+        .removeClass('bkg-overlay-unset')
+        .addClass('bkg-overlay');
+
+    $('.poem-text')
+        .css('mix-blend-mode', 'multiply');
 })
 
 $('#bkg-overlay-unset').click(function () {
     $('.poem')
         .removeClass('bkg-overlay')
         .addClass('bkg-overlay-unset');
+})
+
+$('#bkg-overlay-move').click(function () {
+    $('.poem-title').draggable();
+    $('.poem-text').draggable();
 })
 
 function setBkg() {
@@ -98,7 +130,7 @@ function setBkg() {
         .css('position', 'relative')
         .css('isolation', 'isolate')
         .css('background-repeat', 'no-repeat')
-        .css('background-size', 'cover');
+        .css('z-index', '0');
 }
 
 function getImage($img) {
