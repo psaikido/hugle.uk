@@ -4,6 +4,9 @@ title: dog at Tsopema
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/tsopema.html']
+images:
+- path: /images/pilg1/tsopema.jpg 
+  alt: Tsopema
 ---
 
 we walked around  
@@ -11,7 +14,7 @@ the holy lake
 suddenly  
 a dying dog
  
-it's wounds horrific  
+its wounds horrific  
 the pain and pathos  
 of its last breathing
  
@@ -25,4 +28,3 @@ what if I really stopped
 asking the world  
 to make me happy?
 
-!["Tsopema"](/images/pilg1/tsopema.jpg "Tsopema")

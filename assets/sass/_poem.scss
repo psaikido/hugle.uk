@@ -23,6 +23,10 @@
         text-align: right;
     }
 
+    .poem-text {
+        color: var(--mid-grey);
+    }
+
     &.poem-tool-default {
         .poem-title {
             border: none;
@@ -81,8 +85,18 @@
         .poem-text {
             padding: 2rem;
             width: 54%;
-            background-color: var(--light-grey);
             color: var(--dark-major);
+            background-color: var(--light-grey);
+        }
+
+        .poem-text.l-on-d {
+            color: var(--light-grey);
+            background-color: var(--dark-major);
+        }
+
+        .poem-text.d-on-l {
+            color: var(--dark-major);
+            background-color: var(--light-grey);
         }
     }
 

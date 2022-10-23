@@ -120,6 +120,18 @@ $('#bkg-overlay-move').click(function () {
     $('.poem-text').draggable();
 })
 
+$('#overlay-light-on-dark').click(function () {
+    $('.poem-text')
+        .removeClass('d-on-l')
+        .addClass('l-on-d');
+})
+
+$('#overlay-dark-on-light').click(function () {
+    $('.poem-text')
+        .removeClass('l-on-d')
+        .addClass('d-on-l');
+})
+
 function setBkg() {
     /* get the main image and set it as the background */
     $('.poem .poem-image').css('display', 'none');
