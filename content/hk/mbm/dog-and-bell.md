@@ -4,6 +4,9 @@ title: dog and bell
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/dog-and-bell.html']
+images:
+- path: /images/pilg1/monkanddog.jpg 
+  alt: "monk and dog"
 ---
 
 a Gothic duet  
@@ -14,4 +17,3 @@ one holds a note
 much better  
 than the other
 
-!["monk and dog"](/images/pilg1/monkanddog.jpg "monk and dog")

@@ -4,6 +4,9 @@ title: night dive
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/night-dive.html']
+images:
+- path: /images/pilg1/night-dive.jpg 
+  alt: "Thailand Andaman Sea night dive"
 ---
 
 night dive  
@@ -32,4 +35,3 @@ of wonderment
 looping above  
 looming below
 
-!["Thailand Andaman Sea night dive"](/images/pilg1/night-dive.jpg "Thailand Andaman Sea night dive")

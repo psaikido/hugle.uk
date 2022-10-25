@@ -7,6 +7,7 @@ aliases: ['/bucket/top-dogs.html']
 images:
 - path: /images/bucket/dog-and-bone.jpg 
   alt: "dog and bone"
+css: ['preset-2cols']
 ---
 
 the top dogs  

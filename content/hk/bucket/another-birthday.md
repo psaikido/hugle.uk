@@ -2,7 +2,7 @@
 bannerTitle: "bucket" 
 title: another birthday 
 written: 2021
-type: hk/bucketm
+type: hk/bucket
 aliases: ['/bucket/another-birthday.html']
 ---
 

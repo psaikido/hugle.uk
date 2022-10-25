@@ -4,6 +4,9 @@ title: Mahabodhi moonlight
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/mahabodhi-moonlight.html']
+images:
+- path: /images/pilg1/mahabodhi.jpg 
+  alt: "The Mahabodhi Temple"
 ---
 
 power cut  
@@ -19,4 +22,3 @@ and answer
  
 just answer
 
-!["The Mahabodhi Temple"](/images/pilg1/mahabodhi.jpg "The Mahabodhi Temple")

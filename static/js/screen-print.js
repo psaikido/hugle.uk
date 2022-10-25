@@ -157,8 +157,8 @@ function screenPrintHideElements() {
     $('heading').css('display', 'none');
     $('.search').css('display', 'none');
     $('.subnavbar').css('display', 'none');
-    $('.poem .page-footer').css('display', 'none');
-    $('.poem .poem-written-date').css('display', 'none');
+    $('.poem-wrap .page-footer').css('display', 'none');
+    $('.poem-wrap .poem-written-date').css('display', 'none');
     $('#formatting-tools').css('display', 'none');
     $('footer').css('display', 'none');
     $('.screen-print-tools .tools').css('display', 'block');

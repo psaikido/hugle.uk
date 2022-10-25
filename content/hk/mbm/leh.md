@@ -4,6 +4,10 @@ title: Leh
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/leh.html']
+images:
+- path: /images/pilg1/lehdogs.jpg 
+  alt: "Leh dogs"
+css: ['preset-2cols']
 ---
 
 silk route city  
@@ -22,4 +26,3 @@ a wonderful freedom
 knowing everyone  
 is me
 
-!["Leh dogs"](/images/pilg1/lehdogs.jpg "Leh dogs")

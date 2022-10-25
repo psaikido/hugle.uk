@@ -7,6 +7,7 @@ aliases: ['/bucket/solstice.html']
 images:
 - path: /images/bucket/dawn-approaching.jpg 
   alt: "dawn approaching"
+css: ['preset-2cols']
 ---
 
 

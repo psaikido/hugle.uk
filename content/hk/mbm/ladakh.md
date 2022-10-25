@@ -4,6 +4,10 @@ title: Ladakh
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/ladakh.html']
+images:
+- path: /images/pilg1/rizong.jpg 
+  alt: "Rizong Gompa, Ladakh"
+css: ['preset-overlay-left']
 ---
 
 half a day in the air  
@@ -17,4 +21,3 @@ the same silence
   
 of home
 
-!["Rizong Gompa, Ladakh"](/images/pilg1/rizong.jpg "Rizong Gompa, Ladakh")

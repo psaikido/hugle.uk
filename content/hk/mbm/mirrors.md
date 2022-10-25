@@ -1,12 +1,13 @@
 ---
 bannerTitle: "Mahabodhi Moonlight" 
-title: in the hall of mirrors
+title: hall of mirrors
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/mirrors.html']
 images:
 - path: /images/bucket/city-night.jpg 
   alt: "night city"
+css: ['preset-2cols']
 ---
 
 in the hall of mirrors  

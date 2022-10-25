@@ -4,6 +4,9 @@ title: sorcerer
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/sorcerer.html']
+images:
+- path: /images/pilg1/pilg34.jpg 
+  alt: "Pen behind the ear"
 ---
 
 the abbot at Lamayuru  
@@ -75,4 +78,3 @@ delighted
 
 at the nonsense of it all
 
-!["Pen behind the ear"](/images/pilg1/pilg34.jpg "trick")

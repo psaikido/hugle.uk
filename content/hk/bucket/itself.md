@@ -7,6 +7,7 @@ aliases: ['/bucket/itself.html']
 images:
 - path: /images/chan/JohnLeaving.jpg 
   alt: John leaving
+css: ['preset-2cols']
 ---
 
 John I still miss you  

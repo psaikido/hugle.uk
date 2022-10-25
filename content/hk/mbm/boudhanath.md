@@ -4,6 +4,9 @@ written: 2006
 title: Boudhanath stupa
 type: hk/mbm
 aliases: ['/mbm/boudhanath.html']
+images:
+- path: /images/pilg1/boudhanath.jpg 
+  alt: "Boudhanath, Katmandu"
 ---
 
 Boudhanath stupa  
@@ -18,4 +21,3 @@ and wonder
  
 what those eyes see
 
-!["Boudhanath, Katmandu"](/images/pilg1/boudhanath.jpg "Boudhanath, Katmandu")

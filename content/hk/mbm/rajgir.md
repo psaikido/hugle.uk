@@ -4,6 +4,9 @@ title: Rajgir
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/rajgir.html']
+images:
+- path: /images/pilg1/rajgir.jpg 
+  alt: "Rajgir Vulture Peak"
 ---
 
 thunderstruck  
@@ -21,5 +24,4 @@ to hear the echoes
 
 still
 
-!["Rajgir Vulture Peak"](/images/pilg1/rajgir.jpg "Rajgir Vulture Peak")  
 [what3words](https://what3words.com/emblem.counts.basically)

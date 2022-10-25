@@ -4,6 +4,9 @@ title: sleepers
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/sleepers.html']
+images:
+- path: /images/pilg1/sleepers.jpg 
+  alt: "train to Bangkok"
 ---
 
 clickety clock  
@@ -30,4 +33,3 @@ shadow schemes
 human cargo  
 of dreams
 
-!["train to Bangkok"](/images/pilg1/sleepers.jpg "train to Bangkok")

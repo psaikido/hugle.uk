@@ -4,6 +4,9 @@ title: Kushinagar
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/kushinagar.html']
+images:
+- path: /images/pilg1/kushinagar.jpg 
+  alt: "Kushinagar"
 ---
 
 that massive bell rang  
@@ -32,4 +35,3 @@ still ringing
 its ancient presence  
 pristine
 
-!["Kushinagar"](/images/pilg1/kushinagar.jpg "Kushinagar")

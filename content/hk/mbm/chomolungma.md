@@ -4,6 +4,9 @@ title: Chomolungma
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/chomolungma.html']
+images:
+- path: /images/pilg1/chomolungma.jpg 
+  alt: "Chomolungma"
 ---
 
 up through clouds  
@@ -23,4 +26,3 @@ eyes wet
 but this time  
 it's joy
 
-!["Chomolungma"](/images/pilg1/chomolungma.jpg "Chomolungma")

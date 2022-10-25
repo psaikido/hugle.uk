@@ -7,6 +7,7 @@ aliases: ['/bucket/kite.html']
 images:
 - path: /images/bucket/kite.jpg 
   alt: "kite"
+css: ['preset-overlay-left']
 ---
 
 lifting spinning  

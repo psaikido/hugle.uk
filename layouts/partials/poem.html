@@ -1,5 +1,5 @@
 <div class="poem-wrap">
-    <div class="poem ">
+    <div class="poem {{ if .Params.css }} {{- range .Params.css -}}{{- . -}}{{ end }}{{ end }}">
         {{ .Scratch.Set "currentTitle" .Params.title }}
         <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
 
@@ -18,22 +18,21 @@
         {{ if .Params.youtubeData }}
             {{ partial "youtubes.html" . }}
         {{ end }}
-
-        {{ if .Params.written }}
-            <div class="poem-written-date">
-                HC: {{ .Params.written }}
-            </div>
-        {{ end }}
-
-        {{ if .Params.images }}
-            <button id="formatting-tools">
-                formatting tools 
-            </button>
-        {{ end }}
-
-        {{ partial "page-footer-yml.html" . }}
     </div>
 
+    {{ if .Params.written }}
+        <div class="poem-written-date">
+            HC: {{ .Params.written }}
+        </div>
+    {{ end }}
+
+    {{ if .Params.images }}
+        <button id="formatting-tools">
+            formatting tools 
+        </button>
+    {{ end }}
+
+    {{ partial "page-footer-yml.html" . }}
 </div>
 
 {{ define "subnav2" }}

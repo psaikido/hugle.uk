@@ -4,6 +4,9 @@ title: Kathmandu
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/kathmandu.html']
+images:
+- path: /images/pilg1/kathmandu.jpg 
+  alt: "Kathmandu"
 ---
 
 rainy night in Kathmandu  
@@ -18,4 +21,3 @@ all but this shop
  
 shining
 
-!["Kathmandu"](/images/pilg1/kathmandu.jpg "Kathmandu")

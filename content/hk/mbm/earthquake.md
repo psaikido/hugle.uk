@@ -4,6 +4,9 @@ title: earthquake
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/earthquake.html']
+images:
+- path: /images/pilg1/pilg54.jpg 
+  alt: "Tsopema"
 ---
 
 [Ontul Rinpoche](https://www.facebook.com/ontul)'s answer  
@@ -54,6 +57,5 @@ of accepting
 our imminent  
 demise
 
-!["Tsopema"](/images/pilg1/pilg54.jpg "Nuns at Tsopema")
 [what3words](https://what3words.com/sentry.jauntily.dean)  
 [wikipedia](https://en.wikipedia.org/wiki/2005_Kashmir_earthquake)

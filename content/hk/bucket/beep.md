@@ -7,6 +7,7 @@ aliases: ['/bucket/beep.html']
 images:
 - path: /images/bucket/monitors.jpg 
   alt: "row of monitors"
+css: ['preset-2cols']
 ---
 
 the command I typed  

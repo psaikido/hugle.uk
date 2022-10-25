@@ -4,6 +4,10 @@ title: time stops
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/time-stops.html']
+images:
+- path: /images/pilg1/hughieJungle.jpg 
+  alt: "Thai jungle"
+css: ['preset-overlay-left']
 ---
 
 this is where  
@@ -17,4 +21,3 @@ for a future
 that never  
 arrives  
 
-!["Thai jungle"](/images/pilg1/hughieJungle.jpg "Thai jungle")

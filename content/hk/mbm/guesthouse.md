@@ -4,6 +4,10 @@ title: guesthouse
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/guesthouse.html']
+images:
+- path: /images/pilg1/cow.jpg 
+  alt: "Leh"
+css: ['preset-2cols']
 ---
 
 yet another guesthouse  
@@ -20,4 +24,3 @@ one day older
 my heart  
 one day lighter
 
-!["Leh"](/images/pilg1/cow.jpg "Leh")

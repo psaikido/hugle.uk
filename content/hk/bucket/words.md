@@ -7,6 +7,7 @@ aliases: ['/bucket/words.html']
 images:
 - path: /images/chan/mistymorning.jpg 
   alt: Maenllwyd morning
+css: ['preset-2cols']
 ---
 
 little time capsules  

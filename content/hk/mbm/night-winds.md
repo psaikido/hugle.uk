@@ -4,6 +4,9 @@ title: night winds
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/night-winds.html']
+images:
+- path: /images/pilg1/lamayuru.jpg 
+  alt: "Lamayuru Gompa"
 ---
 
 night winds  
@@ -17,4 +20,3 @@ roaring
 their friends  
 ransack the building  
 
-!["Lamayuru Gompa"](/images/pilg1/lamayuru.jpg "Lamayuru Gompa")

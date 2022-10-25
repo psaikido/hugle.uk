@@ -4,6 +4,10 @@ title: ladyboy
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/ladyboy.html']
+images:
+- path: /images/bucket/ladyboy.jpg 
+  alt: "ladyboy"
+css: ['preset-2cols']
 ---
 
 
@@ -70,4 +74,3 @@ one can prostitute
 oneself
 
 
-!["ladyboy"]({{ site.baseurl }}/assets/images/bucket/ladyboy.jpg "ladyboy")
