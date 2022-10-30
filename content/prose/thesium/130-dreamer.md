@@ -81,7 +81,7 @@ but after a few moments he sees that there are spaces opening between the very
 stones of the massive building, between the flagstones of the floor and between
 the plates of the hull of the Ship. As he gazes at the widening gaps in these
 plates he seems to travel forwards as the scene expands. He has no sensation of
-movement and he can still see the walls of the throne room but they now seems
+movement and he can still see the walls of the throne room but they now seem
 far off. He now looks right into the heart of the Ship of Light, all its
 components spread out from each other as he zooms in. The gears and cogs, the
 cables and plates, the great magnets at its centre, all get closer and closer
