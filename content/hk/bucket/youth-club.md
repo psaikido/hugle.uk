@@ -7,7 +7,7 @@ aliases: ['/bucket/youth-club.html']
 images:
 - path: /images/bucket/bound-with-chains.jpg 
   alt: "hands in chains"
-css: ['preset-2cols']
+css: ['preset-beneath']
 ---
 
 

@@ -237,3 +237,29 @@
         grid-column: 1 / 2;
     }
 }
+
+.preset-beneath {
+    margin-top: 30px;
+
+    &.poem {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "title"
+            "poem"
+            "bottom";
+        gap: 10px;
+    }
+
+    .poem-title {
+        grid-area: title;
+    }
+
+    .poem-text {
+        grid-area: poem;
+    }
+
+    .poem-image {
+        grid-area: bottom;
+    }
+}

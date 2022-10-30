@@ -7,7 +7,7 @@ aliases: ['/bucket/big-wig.html']
 images:
 - path: /images/bucket/darth-vader.jpg 
   alt: "Darth Vader"
-css: ['preset-2cols']
+css: ['preset-beneath']
 ---
 
 the big wig explained  
