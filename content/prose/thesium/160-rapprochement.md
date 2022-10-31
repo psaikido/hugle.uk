@@ -105,9 +105,9 @@ He was moved at how deeply the chief felt the bounty of spring. How lovely it
 was that he should honour it as another being, a great being. It bound his love
 of the people with his affection and gratitude to the seasons. As they walked
 on, his appreciation of the old man's view grew and grew. He belonged! He was
-needed! He knew his place in this world and was loved! These things made him
-want to cry as he realised that he had never before considered such things. Had
-he ever known such dignity? Such nobility?
+needed! He knew his place in this world and was loved! To his surprise he found
+that he  wanted to cry as he realised that he had never before considered such
+things. Had he ever known such dignity? Such nobility?
 
 He was transported again, this time to a young woman. Her step had vigour and
 grace. Oh, but the gentle lilting of her gait was the very fount of youth
