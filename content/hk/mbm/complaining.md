@@ -7,7 +7,10 @@ aliases: ['/mbm/complaining.html']
 images:
 - path: /images/pilg1/walltree.jpg
   alt: "Leh, Ladakh"
-css: ['preset-overlay-left']
+graphics:
+- path: /images/graphical-poems/complaining.jpg
+  alt: "graphical version"
+css: ['preset-beneath']
 ---
 
 when complaining stops  

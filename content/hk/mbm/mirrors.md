@@ -7,6 +7,9 @@ aliases: ['/mbm/mirrors.html']
 images:
 - path: /images/bucket/city-night.jpg 
   alt: "night city"
+graphics:
+- path: /images/graphical-poems/mirrors.jpg
+  alt: "graphical version"
 css: ['preset-2cols']
 ---
 
