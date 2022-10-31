@@ -15,6 +15,14 @@
             </div>
         {{ end }}
 
+        {{ if .Params.graphics }}
+            <div class="poem-graphics">
+                {{ range .Params.graphics }}
+                    <a href="{{ .path }}">{{ .alt }}</a><br />
+                {{ end }}
+            </div>
+        {{ end }}
+
         {{ if .Params.youtubeData }}
             {{ partial "youtubes.html" . }}
         {{ end }}

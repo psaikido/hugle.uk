@@ -12,7 +12,6 @@
 .poem-wrap {
     position: relative;
     min-height: 96%;
-    padding-top: 20px;
     padding-bottom: 150px;
 
     .poem-written-date {
@@ -46,6 +45,11 @@
 
     .poem-text {
         color: var(--mid-grey);
+    }
+
+    .poem-graphics {
+        margin-top: 30px;
+        font-size: 80%;
     }
 
     &.poem-tool-default {
@@ -239,8 +243,6 @@
 }
 
 .preset-beneath {
-    margin-top: 30px;
-
     &.poem {
         display: grid;
         grid-template-columns: 1fr;

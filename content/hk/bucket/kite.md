@@ -7,8 +7,9 @@ aliases: ['/bucket/kite.html']
 images:
 - path: /images/kites/theDowns-Hughku-Gucci.png 
   alt: "Matt G & H team Cool Bananas"
+graphics:
 - path: /images/graphical-poems/kite-poem-graphic.png
-  alt: poem as a graphic
+  alt: "graphical version"
 css: ['preset-beneath']
 ---
 
