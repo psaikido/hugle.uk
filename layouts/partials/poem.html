@@ -8,11 +8,11 @@
         </div>
 
         {{ if .Params.images }}
-            {{ range .Params.images }}
-                <div class="poem-image">
+            <div class="poem-image">
+                {{ range .Params.images }}
                     <img src="{{ .path }}" alt="{{ .alt }}" />
-                </div>
-            {{ end }}
+                {{ end }}
+            </div>
         {{ end }}
 
         {{ if .Params.youtubeData }}

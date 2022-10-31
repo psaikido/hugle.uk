@@ -5,9 +5,11 @@ written: 2020
 type: hk/bucket
 aliases: ['/bucket/kite.html']
 images:
-- path: /images/bucket/kite.jpg 
-  alt: "kite"
-css: ['preset-overlay-left']
+- path: /images/kites/theDowns-Hughku-Gucci.png 
+  alt: "Matt G & H team Cool Bananas"
+- path: /images/graphical-poems/kite-poem-graphic.png
+  alt: poem as a graphic
+css: ['preset-beneath']
 ---
 
 lifting spinning  
@@ -17,5 +19,4 @@ whipping wind whistles
 words flew  
 right out  
 of my head
-
 
