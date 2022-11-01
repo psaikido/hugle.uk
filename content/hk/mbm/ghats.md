@@ -7,6 +7,10 @@ aliases: ['/mbm/ghats.html']
 images:
 - path: /images/pilg1/ghats.jpg 
   alt: "The Burning Ghats at Varanasi"
+graphics:
+- path: /images/graphical-poems/ghats.jpg
+  alt: "graphical version"
+css: ['preset-beneath']
 ---
 
 through the heat shimmer  
