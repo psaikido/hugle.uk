@@ -47,6 +47,21 @@
     {{ if .Params.images }}
         <aside class="subnav2 screen-print-tools">
             <div class="tools">
+                <h3>background</h3>
+                <div class="sub-block">
+                    <button id="bkg-contain">
+                        contain
+                    </button>
+
+                    <button id="bkg-cover">
+                        cover
+                    </button>
+
+                    <button id="bkg-unset">
+                        unset
+                    </button>
+                </div>
+
                 <h3>columns</h3>
                 <div class="sub-block">
                     <button id="col-left">
@@ -75,21 +90,6 @@
 
                     <button id="col-wide">
                         wide
-                    </button>
-                </div>
-
-                <h3>background</h3>
-                <div class="sub-block">
-                    <button id="bkg-contain">
-                        contain
-                    </button>
-
-                    <button id="bkg-cover">
-                        cover
-                    </button>
-
-                    <button id="bkg-unset">
-                        unset
                     </button>
                 </div>
 
