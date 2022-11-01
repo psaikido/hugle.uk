@@ -7,7 +7,10 @@ aliases: ['/mbm/overhead.html']
 images:
 - path: /images/pilg1/choglamsarDesert.jpg 
   alt: "Choglamsar Desert"
-css: ['preset-overlay-left']
+graphics:
+- path: /images/graphical-poems/eagle.jpg
+  alt: "graphical version"
+css: ['preset-beneath']
 ---
 
 overhead  
