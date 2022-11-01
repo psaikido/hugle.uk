@@ -159,6 +159,7 @@ function screenPrintHideElements() {
     $('.subnavbar').css('display', 'none');
     $('.poem-wrap .page-footer').css('display', 'none');
     $('.poem-wrap .poem-written-date').css('display', 'none');
+    $('.poem-wrap .poem-graphics').css('display', 'none');
     $('#formatting-tools').css('display', 'none');
     $('footer').css('display', 'none');
     $('.screen-print-tools .tools').css('display', 'block');
