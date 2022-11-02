@@ -37,11 +37,32 @@
 
 .poem {
     font-family: 'Schoolbell', cursive;
-    font-size: 1.8rem;
+    font-size: 1rem;
+
+    @include screen-width('small') {
+        font-size: 1.2rem;
+    }
+
+    @include screen-width('large') {
+        font-size: 1.8rem;
+    }
+
     line-height: 2.5rem;
     position: relative;
     min-height: 98%;
     width: 100%;
+
+    .poem-title {
+        font-size: 1.2rem;
+
+        @include screen-width('small') {
+            font-size: 1.4rem;
+        }
+
+        @include screen-width('large') {
+            font-size: 1.8rem;
+        }
+    }
 
     .poem-text {
         color: var(--mid-grey);
