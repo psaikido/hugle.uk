@@ -44,7 +44,7 @@
     }
 
     @include screen-width('large') {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
 
     line-height: 2.5rem;
@@ -56,7 +56,7 @@
         font-size: 1.2rem;
 
         @include screen-width('small') {
-            font-size: 1.4rem;
+            font-size: 1.3rem;
         }
 
         @include screen-width('large') {
