@@ -34,4 +34,4 @@ in an ocean
 of darkness
 
 
-!["5 rings"]({{ site.baseurl }}/assets/images/circus/SnapdragonFinale1990HughieRings.jpg "5 rings")
+!["5 rings"](/images/circus/SnapdragonFinale1990HughieRings.jpg "5 rings")
