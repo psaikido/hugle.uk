@@ -4,6 +4,9 @@ title: library
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/library.html']
+images:
+- path: /images/bucket/grumpy-woman.jpg
+css: ['preset-2cols']
 ---
 
 the book had the title  
@@ -42,6 +45,7 @@ of something beyond the grave
 I felt that dreadful gaze on my back  
 as I speedily withdrew  
 my giggles forced down into silence  
+
 back outside  
 I think my laughter bursting out  
 was accompanied  

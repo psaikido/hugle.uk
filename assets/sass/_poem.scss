@@ -251,18 +251,17 @@
     margin-top: 30px;
 
     &.poem {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 10px;
+        position: relative;
     }
 
     .poem-image {
-        grid-column: 2 / 3;
+        position: absolute;
+        top: 40px;
+        right: 0;
+        width: 40%;
     }
 
-    .poem-title, 
     .poem-text {
-        grid-column: 1 / 2;
     }
 }
 
