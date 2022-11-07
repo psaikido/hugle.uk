@@ -103,3 +103,6 @@ menu:
 
 - title: zebra
   url: /hk/bucket/zebra/
+
+- title: blob dog
+  url: /hk/bucket/blob-dog/
