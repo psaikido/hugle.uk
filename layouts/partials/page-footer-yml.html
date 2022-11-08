@@ -1,14 +1,15 @@
-{{ range $currentIndex, $item := .Scratch.Get "menu" }}
-    {{ if eq ($.Scratch.Get "currentTitle") $item.title }}
-        {{ $prevIndex := sub $currentIndex 1 }}
-        {{ $prevItem := (index ($.Scratch.Get "menu") $prevIndex) }}
+<div class="page-footer">
+    {{ range $currentIndex, $item := .Scratch.Get "menu" }}
 
-        {{ $nextIndex := add $currentIndex 1 }}
-        {{ $nextItem := (index ($.Scratch.Get "menu") $nextIndex) }}
+        {{ if eq ($.Scratch.Get "currentTitle") $item.title }}
+            {{ $prevIndex := sub $currentIndex 1 }}
+            {{ $prevItem := (index ($.Scratch.Get "menu") $prevIndex) }}
 
-        {{ if $prevItem | or $nextItem }}
+            {{ $nextIndex := add $currentIndex 1 }}
+            {{ $nextItem := (index ($.Scratch.Get "menu") $nextIndex) }}
 
-            <div class="page-footer">
+            {{ if $prevItem | or $nextItem }}
+
                 <span class="previous">
                     {{ if $prevItem }}
                         << back <a href="{{ $prevItem.url }}" alt="{{ $prevItem.title }}">{{ $prevItem.title }}</a>
@@ -21,12 +22,13 @@
                     {{ end }}
                 </span>
 
-                <div class="scroll-to-top">
-                    <a href="#">scroll to top</a>
-                </div>
-            </div>
-        {{ end }}
+            {{ end }}
 
-        {{ break }}
+            {{ break }}
+        {{ end }}
     {{ end }}
-{{ end }}
+
+    <div class="scroll-to-top">
+        <a href="#">scroll to top</a>
+    </div>
+</div>

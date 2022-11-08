@@ -113,5 +113,5 @@ sticking out of my head
 I looked quite a bit  
 like Frankenstein's monster
 
-![Hughie, Ilkley art show](/images/bio/ilkleyartshow.jpg "black eyes")
+![Hughie, Ilkley art show](/images/faves/ilkleyartshow.jpg "black eyes")
 {.center-img }

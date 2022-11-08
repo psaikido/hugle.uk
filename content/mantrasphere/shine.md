@@ -11,7 +11,7 @@ Namo tassa bhagavato arahato samma sambuddhassa
 the Exalted One, the fully Enlightened One)  
 
 
-<img src="/images/mantrasphere/happy_grandmacarroll_1977.jpg" />  
+<img src="/images/faves/happy_grandmacarroll_1977.jpg" />  
 
 
 "All you have to do is shine".  These words are from a dream.  On the first day
