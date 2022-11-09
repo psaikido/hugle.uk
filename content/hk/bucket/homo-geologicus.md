@@ -15,12 +15,12 @@ a tortuous formation
 
 a laval eruption  
 of madness  
-when a staight jacket  
+when a staightjacket  
 of regolith  
 cracks  
 
 sedimentary deposits  
-pressed down over millenia  
+pressed down over millennia  
 into resentful mudstone  
 
 porous limestone labyrinths  
