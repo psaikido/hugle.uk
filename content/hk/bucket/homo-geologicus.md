@@ -49,8 +49,12 @@ of a fossilised sea
 ancient techtonic psychodramas  
 authority versus rebellion  
 throw up vast mountains  
-and arrid  
+and arid  
 icy deserts  
+
+nothing could withstand  
+the glacier's hydrosexual demand  
+for the ocean
 
 to wear the mantle  
 as it is  
