@@ -2,7 +2,7 @@
 bannerTitle: "bucket" 
 title: intro
 type: hk/bucket
-aliases: ['/bucket/intro.html']
+aliases: ['/bucket/intro.html', '/bucket/']
 images:
 - path: /images/faves/WiltshirePath.jpg 
   alt: Wiltshire path

@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: snow ball
 written: 2022
 type: hk/bucket
-aliases: ['/bucket/snow-ball.html']
+aliases: ['/bucket/snow-ball.html', '/bucket/snow-ball/']
 images:
 - path: /images/bucket/st-joes-upper.jpg 
   alt: St Joe's Upper School playground

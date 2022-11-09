@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: blob dog
 written: 2022-11
 type: hk/bucket
+aliases: ['/bucket/blob-dog/']
 images:
 - path: /images/circus/jake_window.jpg
   alt: "Jake aka Blob"

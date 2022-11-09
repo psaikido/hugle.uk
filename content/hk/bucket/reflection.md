@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: reflection
 written: 2022
 type: hk/bucket
-aliases: ['/bucket/reflection.html']
+aliases: ['/bucket/reflection.html', '/bucket/reflection/']
 images:
 - path: /images/mantrasphere/gallery/promo/pl_hc_ba.jpg 
   alt: Pete, Hughie, Barry

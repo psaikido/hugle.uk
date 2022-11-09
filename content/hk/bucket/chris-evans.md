@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: Chris Evans
 written: 2022
 type: hk/bucket
-aliases: ['/bucket/chris-evans.html']
+aliases: ['/bucket/chris-evans/']
 images:
 - path: /images/bucket/chris-evans-billie-piper.jpg 
   alt: Chris Evans & Billie Piper

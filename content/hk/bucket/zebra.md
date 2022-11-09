@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: zebra
 written: 2022-11
 type: hk/bucket
+aliases: ['/bucket/zebra/']
 images:
 - path: /images/bucket/2020-07-Alessio2-801.jpg
   alt: "taxidermy zebra"

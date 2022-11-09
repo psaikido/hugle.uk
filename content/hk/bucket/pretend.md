@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: pretend
 written: 2021
 type: hk/bucket
-aliases: ['/bucket/pretend.html']
+aliases: ['/bucket/pretend.html', '/bucket/pretend/']
 ---
 
 why do junkies always  

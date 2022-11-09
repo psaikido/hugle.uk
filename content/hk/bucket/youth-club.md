@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: youth club
 written: 2020
 type: hk/bucket
-aliases: ['/bucket/youth-club.html']
+aliases: ['/bucket/youth-club.html', '/bucket/youth-club/']
 images:
 - path: /images/bucket/bound-with-chains.jpg 
   alt: "hands in chains"

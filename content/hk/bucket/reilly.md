@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: Noel Reilly
 written: 2021
 type: hk/bucket
-aliases: ['/bucket/reilly.html']
+aliases: ['/bucket/reilly.html', '/bucket/reilly/']
 images:
 - path: /images/bucket/noel-reilly.jpg 
   alt: Noel Reilly

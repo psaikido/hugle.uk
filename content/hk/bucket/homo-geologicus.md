@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: homo geologicus
 written: 2022-11
 type: hk/bucket
+aliases: ['/bucket/homo-geologicus/']
 images:
 - path: /images/pilg1/pilg54.jpg
 ---

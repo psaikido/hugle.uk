@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: thirst
 written: 2022 (for Cathy)
 type: hk/bucket
-aliases: ['/bucket/thirst.html']
+aliases: ['/bucket/thirst.html', '/bucket/thirst/']
 ---
 
 it was thirst  

@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: kite
 written: 2020
 type: hk/bucket
-aliases: ['/bucket/kite.html']
+aliases: ['/bucket/kite.html', '/bucket/kite/']
 images:
 - path: /images/kites/theDowns-Hughku-Gucci.png 
   alt: "Matt G & H team Cool Bananas"

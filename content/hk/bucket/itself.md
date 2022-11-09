@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: itself
 written: 2021
 type: hk/bucket
-aliases: ['/bucket/itself.html']
+aliases: ['/bucket/itself.html', '/bucket/itself/']
 images:
 - path: /images/chan/JohnLeaving.jpg 
   alt: John leaving

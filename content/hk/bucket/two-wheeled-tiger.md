@@ -3,6 +3,7 @@ banner-title: "bucket"
 title: two wheeled tiger 
 written: 202210
 type: hk/bucket
+aliases: ['/bucket/two-wheeled-tiger/']
 images:
 - path: /images/faves/70sCarrollsHilliards.jpg 
   alt: the boys 

@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: shoes
 written: 2022
 type: hk/bucket
-aliases: ['/bucket/shoes.html']
+aliases: ['/bucket/shoes.html', '/bucket/shoes/']
 images:
 - path: /images/chan/shoes.jpg 
   alt: Chan monk shoes

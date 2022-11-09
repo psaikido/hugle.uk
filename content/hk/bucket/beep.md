@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: beep
 written: 2020
 type: hk/bucket
-aliases: ['/bucket/beep.html']
+aliases: ['/bucket/beep/']
 images:
 - path: /images/bucket/monitors.jpg 
   alt: "row of monitors"

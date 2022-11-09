@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: deluge
 written: 2022
 type: hk/bucket
-aliases: ['/bucket/deluge.html']
+aliases: ['/bucket/deluge/']
 images:
 - path: /images/bucket/underwater-christ.jpg 
   alt: underwater Christ

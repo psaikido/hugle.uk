@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: big wig
 written: 2020
 type: hk/bucket
-aliases: ['/bucket/big-wig.html']
+aliases: ['/bucket/big-wig/']
 images:
 - path: /images/bucket/darth-vader.jpg 
   alt: "Darth Vader"

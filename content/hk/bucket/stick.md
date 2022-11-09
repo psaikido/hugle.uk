@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: stick
 written: 2022-10
 type: hk/bucket
+aliases: ['/bucket/stick/']
 images:
 - path: /images/bucket/walking-stick.jpg
 ---

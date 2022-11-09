@@ -3,7 +3,7 @@ banner-title: "bucket"
 title: words 
 written: 2022
 type: hk/bucket
-aliases: ['/bucket/words.html']
+aliases: ['/bucket/words.html', '/bucket/words/']
 images:
 - path: /images/chan/mistymorning.jpg 
   alt: Maenllwyd morning

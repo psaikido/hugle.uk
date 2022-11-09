@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: Sam
 written: 2022-11
 type: hk/bucket
+aliases: ['/bucket/sam/']
 images:
 - path: /images/bucket/sam_aug75.jpg
 - path: /images/bucket/samrunning_aug75.jpg  

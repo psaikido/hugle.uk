@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: ink 
 written: 2021-10
 type: hk/bucket
-aliases: ['/bucket/ink.html']
+aliases: ['/bucket/ink.html', '/bucket/ink/']
 images:
 - path: /images/bucket/inks.jpg 
   alt: ink

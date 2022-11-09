@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: top dogs
 written: 2020
 type: hk/bucket
-aliases: ['/bucket/top-dogs.html']
+aliases: ['/bucket/top-dogs.html', '/bucket/top-dogs/']
 images:
 - path: /images/bucket/dog-and-bone.jpg 
   alt: "dog and bone"

@@ -3,6 +3,7 @@ bannerTitle: "bucket"
 title: ghost
 written: 2022-11
 type: hk/bucket
+aliases: ['/bucket/ghost/']
 images:
 - path: /images/circus/5rings.jpg
   alt: the fateful stunt

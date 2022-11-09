@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: solstice
 written: 2020
 type: hk/bucket
-aliases: ['/bucket/solstice.html']
+aliases: ['/bucket/solstice.html', '/bucket/solstice/']
 images:
 - path: /images/bucket/dawn-approaching.jpg 
   alt: "dawn approaching"

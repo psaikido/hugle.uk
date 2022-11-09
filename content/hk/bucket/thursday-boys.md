@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: Thursday boys
 written: 2005
 type: hk/bucket
-aliases: ['/bucket/thursday-boys.html']
+aliases: ['/bucket/thursday-boys.html', '/bucket/thursday-boys/']
 images:
 - path: /images/bio/thursdayboys.jpg
   alt: "Thursday boys 1"

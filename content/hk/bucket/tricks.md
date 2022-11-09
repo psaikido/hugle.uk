@@ -3,7 +3,7 @@ bannerTitle: "bucket"
 title: tricks
 written: 2021
 type: hk/bucket
-aliases: ['/bucket/tricks.html']
+aliases: ['/bucket/tricks.html', '/bucket/tricks/']
 ---
 
 impromptu magic show  
