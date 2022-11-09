@@ -1,6 +1,6 @@
 ---
 bannerTitle: "bucket" 
-title: home geologicus
+title: homo geologicus
 written: 2022-11
 type: hk/bucket
 images:
