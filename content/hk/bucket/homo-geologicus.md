@@ -46,7 +46,7 @@ the granite of high places
 brooding over memories  
 of a fossilised sea  
 
-ancient techtonic psychodramas  
+ancient tectonic psychodramas  
 authority versus rebellion  
 throw up vast mountains  
 and arid  
