@@ -23,14 +23,14 @@ sedimentary deposits
 pressed down over millennia  
 into resentful mudstone  
 
-porous limestone labyrinths  
-carving chemical confusions  
-
 bubbling springs  
 of youthful joy  
 
 alluvial meanderings  
 of maturity  
+
+porous limestone labyrinths  
+carving chemical confusions  
 
 our momentary snapshots  
 of the character of place  
