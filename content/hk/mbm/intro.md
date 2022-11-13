@@ -22,3 +22,5 @@ autobiographical poetic anecdotes that are always frank, and often
 funny." - George Marsh
 
 - review on [goodreads](https://www.goodreads.com/book/show/62708899-mahabodhi-moonlight)
+
+Download the collection as a [pdf](/media/mbm.pdf)

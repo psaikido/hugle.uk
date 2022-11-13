@@ -49,3 +49,6 @@ _– Brendan Hamley_
 - review on [goodreads](https://www.goodreads.com/book/show/55252078-yarn)
 
 [first poem - scrabble](/yarn/scrabble/)
+
+Download the collection as a [pdf](/media/yarn.pdf)
+
