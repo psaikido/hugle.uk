@@ -41,7 +41,7 @@ Bret
 
 i decided to lift it  
 using the classic  
-firemans lift  
+fireman's lift  
 
 as soon as i got it up  
 on my shoulders  
