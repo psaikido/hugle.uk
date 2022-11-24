@@ -35,7 +35,7 @@ of the upset neighbour
 
 
 bump bump bump  
-he came stomping down the stairs  
+he came stumping down the stairs  
 "I'll not be having  
 my neighbours insulted"  
 he says  
