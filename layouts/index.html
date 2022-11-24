@@ -18,7 +18,64 @@
         </div>
 
         <div class="random-hughku">
-            latest hughku: <a href="/hk/bucket/book-worm/">book worm</a>
+            latest hughku: <a id="latest-hk" href="/hk/bucket/book-worm/">book worm</a>
+
+            <script>
+                var hk = [];
+
+                function getRndInteger(minimum, maximum) {
+                    return Math.floor(Math.random() * (maximum - minimum)) + minimum;
+                }
+
+                {{ range .Site.Data.bucket.menu }}
+                    if ({{ .title }} != 'intro') {
+                        hk.push({
+                          'title': {{ .title }},
+                          'path': {{ .url }}
+                        })
+                    }
+                {{ end }}
+
+                {{ range .Site.Data.yarn.menu }}
+                    if ({{ .title }} != 'intro') {
+                        hk.push({
+                          'title': {{ .title }},
+                          'path': {{ .url }}
+                        })
+                    }
+                {{ end }}
+
+                {{ range .Site.Data.sun.menu }}
+                    if ({{ .title }} != 'intro') {
+                        hk.push({
+                          'title': {{ .title }},
+                          'path': {{ .url }}
+                        })
+                    }
+                {{ end }}
+
+                {{ range .Site.Data.mbm.menu }}
+                    if ({{ .title }} != 'intro') {
+                        hk.push({
+                          'title': {{ .title }},
+                          'path': {{ .url }}
+                        })
+                    }
+                {{ end }}
+
+                var rnd = getRndInteger(1, hk.length)
+                
+                var link = '<a href="' + hk[rnd].path + '">' + hk[rnd].title + '</a>'
+                var latest = $('#latest-hk').attr('href');
+
+                /* We might have a random hughku come out the same as the latest */
+                if (latest != hk[rnd].path) {
+                    $('<div id="rand">')
+                        .html("hughku de jour: " + link)
+                        .appendTo('.random-hughku');
+                }
+            </script>
+
         </div>
 
         <section class="home-text-box">
