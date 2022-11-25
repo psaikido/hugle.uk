@@ -6,6 +6,7 @@ type: hk/bucket
 aliases: ['/bucket/orion/']
 images:
 - path: /images/bucket/orion.jpg
+- path: /images/bucket/BernieBoo.jpg
 ---
 
 hanging over the neighbour's roof  
