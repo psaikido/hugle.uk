@@ -18,7 +18,7 @@ so stop trying to figure it out
 stop trying to fix it  
 stop trying  
 
-its only a false alarm  
+it's only a false alarm  
 remember your heart  
 is both good and true  
 and is made up out of  
