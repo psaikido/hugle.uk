@@ -1,7 +1,7 @@
 ---
 bannerTitle: "bucket" 
 title: Orion
-written: November 25, 2022
+written: Nov 2022
 type: hk/bucket
 aliases: ['/bucket/orion/']
 images:
