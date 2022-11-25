@@ -83,6 +83,10 @@ html {
             }
         }
 
+        .poem .poem-text {
+            color: var(--dark-grey);
+        }
+
         .main-content.subMenu .quote-heading {
             color: var(--blue);
         }
@@ -143,6 +147,10 @@ html {
         #overlay {
             position: initial;
             width: 100%;
+        }
+
+        .poem .poem-text {
+            color: var(--dark-major);
         }
 
         .main-content.subMenu .quote-heading {
