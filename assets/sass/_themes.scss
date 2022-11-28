@@ -53,6 +53,10 @@ html {
     }
 
     &.light {
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+
         button .button-text {
             color: var(--text-main);
         }
@@ -84,6 +88,7 @@ html {
         }
 
         .poem .poem-text {
+            font-family: 'Montserrat', sans-serif;
             color: var(--dark-grey);
         }
 
@@ -117,6 +122,7 @@ html {
             font-size: 1.2em;
             box-shadow: none;
             border: none;
+            font-family: 'Montserrat', sans-serif;
         }
 
         img {
@@ -150,6 +156,7 @@ html {
         }
 
         .poem .poem-text {
+            font-family: 'Montserrat', sans-serif;
             color: var(--dark-major);
         }
 
