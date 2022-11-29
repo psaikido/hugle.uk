@@ -11,6 +11,10 @@
             <div class="poem-image">
                 {{ range .Params.images }}
                     <img src="{{ .path }}" alt="{{ .alt }}" />
+
+                    {{ if .alt }}
+                        <div class="caption">{{ .alt }}</div>
+                    {{ end }}
                 {{ end }}
             </div>
         {{ end }}

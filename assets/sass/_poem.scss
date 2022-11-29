@@ -68,6 +68,14 @@
         color: var(--mid-grey);
     }
 
+    .poem-image {
+        .caption {
+            font-style: italic;
+            font-size: 90%;
+            text-align: center;
+        }
+    }
+
     .poem-graphics {
         margin-top: 30px;
         font-size: 80%;
