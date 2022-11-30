@@ -42,6 +42,8 @@ Some relevant poems:
 An essay on the theme:
  - [Science, Religion, Dharma](/essays/2022/02/14/true-false.html)
 
+Download Thesium as a pdf [thesium.pdf](/media/thesium.pdf)
+
 With heartfelt thanks to my late teacher, John Crook. 
 
 ![John Crook & Hughie](/images/chan/John_rainbow_Hughie.jpg)

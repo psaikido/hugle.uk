@@ -2,6 +2,7 @@
 public/
 resources/
 static/_pagefind/
+static/media/tmp/
 _site
 .sass-cache
 .jekyll-cache
