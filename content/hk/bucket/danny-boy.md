@@ -87,7 +87,7 @@ and down the mountain side'
 I felt the tears prickle   
 
 but when he sang  
-'in sunshine and in shadow'  
+'in sunshine or in shadow'  
 the heart gave way  
 
 he sang for all of us  
