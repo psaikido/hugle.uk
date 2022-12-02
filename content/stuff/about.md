@@ -49,7 +49,7 @@ He has written two volumes of poetry, [Yarn](/yarn/) and [Sunshine &
 Shadow](/sun/). He is a 'Double Triple Master' at Revolution Club38, a facebook
 group of fanatical quad-line kite fliers. He lives in the South West of the UK.
 
-Hughie can be contacted at hughie (at) hugle.co.uk.
+Hughie can be contacted at hughie (at) hugle.uk.
 
 ![Kilkenny field](/images/kites/kilkenny-hc-2022-07-m14.jpg)
 
