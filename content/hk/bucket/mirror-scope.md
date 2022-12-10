@@ -68,3 +68,6 @@ I gaze bewildered
 into this mirror-scope  
 and see the gaze itself  
 as miracle enough  
+
+
+(for Stoo)
