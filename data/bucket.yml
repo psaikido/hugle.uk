@@ -130,3 +130,6 @@ menu:
 
 - title: penalty
   url: /hk/bucket/penalty/
+
+- title: mirror-scope
+  url: /hk/bucket/mirror-scope/
