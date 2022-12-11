@@ -5,8 +5,8 @@ written: Dec 2022
 type: hk/bucket
 aliases: ['/bucket/mirror scope/']
 images:
-- path: /images/bucket/mirror-scope.png
-  alt: https://trickswalaaps.blogspot.com/2016/08/eye-lenses-png-by-me.html
+- path: https://uploads6.wikiart.org/images/john-william-waterhouse/the-crystal-ball-1902.jpg 
+  alt: John William Waterhouse 'The Crystal Ball'
 ---
 
 <div class="middle-strip">
