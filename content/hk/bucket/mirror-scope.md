@@ -17,7 +17,7 @@ in
 {.para-right}
 
 to the tiniest of details   
-insisting     
+they insist   
 on the basis of things   
 as physical   
 
@@ -32,7 +32,7 @@ out
 {.para-right}
 
 to the grandest of mysteries  
-insisting  
+insist  
 on the basis of things  
 as spiritual  
 
