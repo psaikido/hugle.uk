@@ -11,82 +11,104 @@ images:
 
 <div class="middle-strip">
 
-always microscoping in   
+always microscoping 
+
+in   
+{.para-right}
+
 to the tiniest of details   
-they insist   
+insisting     
 on the basis of things   
 as physical   
 
-that mind  
-comes out  
+mind  
+coming out  
 of matter  
 {.para-right}
 
-others telescope out  
+others telescoping  
+
+out  
+{.para-right}
+
 to the grandest of mysteries  
-always insisting  
+insisting  
 on the basis of things  
 as spiritual  
 
-that matter  
-comes out  
+matter  
+coming out  
 of mind  
 {.para-right}
 
-but what of the eye  
-behind the lens?  
-what is doing  
-the looking?  
+still others scope  
 
-what of the worry  
-about being  
-
-bad?  
+a mirror  
 {.para-right}
 
-or the laughter  
+asking  
+what of the eye  
+
+behind the lens?  
+{.para-right}
+
+what is doing  
+
+the looking?  
+{.para-right}
+
+what of the laughter  
 when a dog  
 
 farts?  
 {.para-right}
 
-what of the turmoil  
+or the worry  
 about being  
 
-mad?  
+bad?  
 {.para-right}
 
-or the concern  
+what of the concern  
 when a friend  
 
 gets ill?  
 {.para-right}
 
-what of the anguish  
+or the turmoil  
 about being  
 
-sad?  
+mad?  
 {.para-right}
 
-or the love  
+what of the love  
 that could embrace  
 
 a world?  
 {.para-right}
 
-do they glimpse  
+or the anguish  
+about being  
+
+sad?  
+{.para-right}
+
+do they scry  
 in their viewfinders  
 the broken triumph  
+
 of an ordinary day?  
+{.para-right}
 
 the abject comedy  
+
 of a lifetime?  
 {.para-right}
 
 I gaze bewildered  
 into this mirror-scope  
-and see the gaze itself  
-as miracle enough  
+the gaze itself  
+is miracle enough  
 {.para-center}
 
 
