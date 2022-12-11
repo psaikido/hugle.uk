@@ -9,14 +9,18 @@ images:
   alt: https://trickswalaaps.blogspot.com/2016/08/eye-lenses-png-by-me.html
 ---
 
-always microscoping in  
-to the tiniest of details  
-they insist  
-on the basis of things  
-as physical  
+<div class="middle-strip">
 
-that mind comes out  
+always microscoping in   
+to the tiniest of details   
+they insist   
+on the basis of things   
+as physical   
+
+that mind  
+comes out  
 of matter  
+{.para-right}
 
 others telescope out  
 to the grandest of mysteries  
@@ -24,8 +28,10 @@ always insisting
 on the basis of things  
 as spiritual  
 
-that matter comes out  
+that matter  
+comes out  
 of mind  
+{.para-right}
 
 but what of the eye  
 behind the lens?  
@@ -34,27 +40,39 @@ the looking?
 
 what of the worry  
 about being  
+
 bad?  
+{.para-right}
 
 or the laughter  
 when a dog  
+
 farts?  
+{.para-right}
 
 what of the turmoil  
 about being  
+
 mad?  
+{.para-right}
 
 or the concern  
 when a friend  
+
 gets ill?  
+{.para-right}
 
 what of the anguish  
 about being  
+
 sad?  
+{.para-right}
 
 or the love  
 that could embrace  
+
 a world?  
+{.para-right}
 
 do they glimpse  
 in their viewfinders  
@@ -63,13 +81,16 @@ of an ordinary day?
 
 the abject comedy  
 of a lifetime?  
+{.para-right}
 
 I gaze bewildered  
 into this mirror-scope  
 and see the gaze itself  
 as miracle enough  
+{.para-center}
 
 
 (for Stoo)
 
 [listen on soundcloud](https://on.soundcloud.com/vpRdw)
+</div>

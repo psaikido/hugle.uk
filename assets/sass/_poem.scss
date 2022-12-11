@@ -66,6 +66,19 @@
 
     .poem-text {
         color: var(--mid-grey);
+
+        .middle-strip {
+            width: 60%;
+            margin: 0 auto;
+
+            .para-right {
+                text-align: right;
+            }
+
+            .para-center {
+                text-align: center;
+            }
+        }
     }
 
     .poem-image {
