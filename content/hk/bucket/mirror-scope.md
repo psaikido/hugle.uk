@@ -70,9 +70,9 @@ bad?
 {.para-right}
 
 what of the concern  
-when a friend  
+when a friend gets  
 
-gets ill?  
+ill?  
 {.para-right}
 
 or the turmoil  
