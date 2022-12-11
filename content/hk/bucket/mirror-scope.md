@@ -41,9 +41,9 @@ coming out
 of mind  
 {.para-right}
 
-still others scope  
+still others scope a  
 
-a mirror  
+mirror  
 {.para-right}
 
 asking  
