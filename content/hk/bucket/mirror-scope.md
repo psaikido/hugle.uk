@@ -82,9 +82,9 @@ mad?
 {.para-right}
 
 what of the love  
-that could embrace  
+that could embrace a  
 
-a world?  
+world?  
 {.para-right}
 
 or the anguish  
