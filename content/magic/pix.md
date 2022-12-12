@@ -40,5 +40,7 @@ images:
     - img: unicef04.jpg
     - img: unicef05.jpg
     - img: unicef06.jpg
+    - img: ChrisWoods-magic.jpg
+
 ---
 
