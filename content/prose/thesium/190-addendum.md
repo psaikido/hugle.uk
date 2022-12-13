@@ -16,6 +16,9 @@ The central symbol of the ship of Thesius could easily have been "grandfather's
 axe" or "Trigger's broom" from Only Fools and Horses. It begs the question
 'what is a thing?'
 
+This is a second draft and now seems to me to be more like a diagram that hasn't been coloured in yet.
+A third draft is on the way.
+
 The brilliant images are by Damian, my eldest brother. More of his stuff can be
 found on [DeviantArt](https://www.deviantart.com/capn-damo).
 
