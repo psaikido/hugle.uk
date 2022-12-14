@@ -12,36 +12,54 @@ aliases: [/thesium/050-theocracy/]
 
 ![desert outpost - capn-damo deviantart.com](/images/thesium/desert-outpost.jpg)
 
-Theo Nimes has long since died along with the rest of the crew. Their
-many offspring remember him as 'Neems'. They are eight, perhaps nine generations
-away from the culture that spawned them. Theo is worshipped as a creator God by
-this new techno-tribe. The ship at the heart of the city has become
-a place of deep devotion. This proto-religion holds that a divine spirit
-animates them all and is most highly present in what they have come to call The
-Ship of Light. It is a vessel that will take them to an after-life. Their souls
-will merge with the Great Neems who lives somewhere up there, high in his
-heaven, high above Theo's world. It is thought of as the people's birthplace,
-their womb, and the source of the bounty all around them as the new biosphere
-together with Root works to provide for them.  
+"Yeay, bow down my children, bow down before the Ship of Light. Bow low and
+remember that we will return and be one with The Great Neems, be one with the
+soul of The Great Neems, be one in the Ship of Light beyond the clouds!"
 
-Their Chieftan is called The Neem and it is primarily him who consults with
-Root. They now call their AI 'The Helper'. The enculturation protocols had
-dropped off somewhat and Root had stood back to allow them to develop in their
-own way. It still collected all the data it could and kept a watch over things.
-The anthropology sub AIs were very diligent in their observations, but they did
-not demand the new society should follow any particular path. The consultations
-became more infrequent and largely ceremonial, symbolic affairs. The Helper
-drops more and more into the background of their lives.
+Thus the Shaman addressed the crowd. Theo Nimes has long since died along with
+the rest of the crew. Their many offspring remembered him as 'The Great Neems'.
+They were eight, perhaps nine generations away from the culture that spawned
+them. The ship at the heart of the city had become a place of deep devotion. 
 
-This hands-off approach extended to the majority but Root still needed
-help. A special group of the most intelligent were trained by Root to
-help it maintain itself. They are kept mostly separate from the Neemians in a
-place they call the Laboratory. They call themselves the 'White Coats'
-and for this group, virtually a priesthood, enculturation in the old
-ways continued. They received training in the hard sciences in the main.  
+"The divine spirit animates us all and binds us together. Here, here before the
+Ship we see and we know that it is our true mother. From it we sprang, from it
+the Helper sprang and in it we will return, yeay return I say, back unto the
+sanctity of all that is good and wholesome and far from the iniquities of the
+hot places. It is now the time of prayer to the Helper. Bring forth the holy
+vessels."
 
-Root needed to expand its data centre and created a huge facility it
-called the 'Bunker'. It copies everything, including its own code and
-bootstrap protocols, into the archive.
+Three young men in long white coats processed down a gangway from the Ship. They
+held a little office chair, an ornate carved table and a console. Placing these
+before the Shaman, a few buttons were pressed, a little screen came to life
+and they withdrew into the crowd which parted in reverence as they approached.
+
+"We praise the White Coats whom the Helper has ordained, for he too needs help.
+Help in the holy work of helping all of us."
+
+At this he approached the console and prostrated himself, touching his forehead
+to the ground. Seating himself on the little table he produced a bell and rang
+it as he chanted:
+
+"Suuuudoooo suuuuudoooo suuuuudoooo."
+
+The crowd responded with:
+
+"ReeeeeeeeeBoooooooooooooooooooooot."
+
+Ringing the bell once more, he put his hands on the keys and all eyes then fell
+upon the little blinking cursor, flashing at the bottom of the black screen.
+
+"Bring us your holy help oh Helper, we will keep you and praise you and esteem
+your White Coats in their Laboratory until we return unto the Ship of Light
+beyond the clouds."
+
+At this he pressed the largest key, the cursor jumped down a row and continued
+its blinking. The crowd intoned as one:
+
+"Suuuudoooo suuuuudoooo suuuuudoooo."
+
+The Shaman stood and faced them. Opening his arms wide he lifted his face to the
+sky and loudly proclaimed "Reeeeeeeebooooooooooot". They all bowed, shook hands
+and suddenly, it was over.
 
 
