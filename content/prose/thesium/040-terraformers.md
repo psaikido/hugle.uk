@@ -53,7 +53,7 @@ planet below by now and isn't she marvellous? (loud cheering) Root has
 incredible things to show us by and by, but the first thing is our new base.
 Root? please show us."
 
-They screens showed the base from high drone footage. Nestled in the banks of
+The screens showed the base from high drone footage. Nestled in the banks of
 gentle hills, the landing site was clearly visible and looked ready for them.
 
 "Hello everyone, you can call me 'Root'. We didn't get to know each other before
