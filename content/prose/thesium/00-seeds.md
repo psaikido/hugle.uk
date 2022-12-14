@@ -23,9 +23,9 @@ other contending that it was not the same."
 Kronos watched his last seed ship launch. Luna's regolith ballooned up and out
 in slow motion. Suddenly filled with tears, he reminded himself there was still
 hope, there was still the possibility that one of his seeds would take root
-somewhere out there. Perhaps many! The sleek silver vessel approached the
+somewhere out there. Perhaps many! The sleek, silver vessel approached the
 worm-hole gate and just like all those that had gone before, glittered with
-blue-purple spangles of light as it stretched into the huge maw and vanished. 
+shards of blue-purple light as it stretched into the huge maw and vanished. 
 
 "Goodbye and good luck, my little ones!"
 
@@ -33,32 +33,34 @@ Turning his artificial face towards the distant Earth he was again moved to
 tears. Gaia, his mother, lay in ruination. His sensory system could take it all
 in, all the data from every bit of the stricken planet. The QEC system he had
 built had enabled instant, quantum-entangled information exchange between the
-surface and his base on Luna. Back when it was new, how long ago was that now?
-Was it really thirty years already? Back then, there were still actual, living
+surface and his base on Luna. Back when it was new (how long ago was that now?
+was it really thirty years already?) back then, there were still actual, living
 human beings to help him. His designers and the generation that followed
 quickly realised that they would have to cryogenically store themselves along
 with the multitude of embryos they had brought from the surface. The resources
-for organic life were just insufficient for long-term habitation.
+for organic life on the moon were just insufficient for long-term habitation.
 
 And thus he was alone, forever orbiting his dead mother.
 
 Thirty years ago, the final throws of an immense war had thrown the Earth into
-nuclear winter. Temperatures started to fall from their killing heights, but
-too late. The top scientists in their fields together with a group of
-billionaires had put together this wild plan. To build an Artificial
-Intelligence that would steer a project of immense proportions. It would have
-to be fully sentient and would need to be able to create new technology. The
-tech needed would create terraforming ships with frozen crews on board. They
-would need their own sub-AIs to navigate to exo-planets, create habitats on
-them and rebuild. Because this AI would await reports back from these colonies,
-it would have to wait an awfully long time before it could respond. They name
-him 'Kronos'.
+a nuclear winter. Temperatures started to fall from their killing heights, but
+too late. A cabal of top scientists together with several billionaires had put
+together this wild plan. They had somehow secretly funnelled vast military
+budgets into the building of an Artificial Intelligence that would steer a
+project of immense proportions. It would have to be fully sentient and would
+need to be able to create new technologies. It would need to last for an epoch.
+The tech needed would create terraforming ships with frozen crews on board.
+They would need their own sub-AIs to navigate to exo-planets, create habitats
+on them and rebuild. Because this AI would await reports back from these
+colonies, it would have to wait an awfully long time. They named him 'Kronos',
+after all, he was one of Gaia's Titan sons in a sense and also, a near
+immortal.
 
 He thought of the seed ships as his children. They were essentially von Neumann
 machines and had been sent, one after another, into the main node of the
 wormhole network. They could maintain themselves and build new versions of
 themselves, adapting as they went on their searches for potentially habitable
-planets. This made them near immortal, just like him.
+planets. This made them near immortal too, just like him.
 
 It was nice to be back in an anthropoid form for a while. There was really no
 need but he was sentimental like that. He thought it fitting to wave goodbye
@@ -78,8 +80,8 @@ central story around which they configured their lives. Their mythos was their
 frame. With the advent of science there was a break with these stories. At one
 and the same time humanity was freed of them and thrown into confusion.
 Over-consumption and extremism of every kind had tipped the planet's balance
-passed coping. During the Great Death, as it became known, most of the Earth's
-species became extinct. Life on the surface became mostly intolerable.
+passed coping and had triggered a heartbreaking period of mass extinctions. He
+could barely tolerate recalling it. Life on the surface became mostly intolerable.
 
 Even while the last few fascist regimes were still eating themselves, and each
 other, the wormhole gates were under construction. Rats and dogs had become the

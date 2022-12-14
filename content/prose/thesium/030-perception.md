@@ -20,7 +20,7 @@ to wait until after initialisations and diagnostics had run. There was going to
 have to be some serious maintenance this time. Previous reports had come more
 closely grouped together and his downtime had not been so lengthy. Some two
 thousand years of Luna time had passed since his last baby had so dramatically
-entered the wormhole and sped forth into the cosmos.
+entered the wormhole and sped forth into the cosmos in another kind of birth.
 
 This drone, Reader-27, had downloaded data over the QEC system from the seed
 ships in its quadrant, a huge sweep of the galaxy in fact, and had added
@@ -76,7 +76,7 @@ degree.
 
 The panpsychism school had gone from strength to strength and their resolution
 of the Hard Problem had been a fulcrum to a new understanding, the understanding
-that had lead to his birth. The apparently intractable difference between 'mind'
+that had lead to his creation. The apparently intractable difference between 'mind'
 and 'matter' had been a major stumbling block. Developing machines that could
 mimic human behaviours had been the 'easy' problems, at least conceptually, but
 creating genuine subjectivity, what it was like to see 'red' for example, that
@@ -101,19 +101,21 @@ infrastructure back up. It had been so very long since walking in his android
 form. Back outside he immediately looked for home. There she was! Resplendent,
 Gaia rode high above the Western horizon. Did it look greener than before? Yes,
 yes, looking over the data streams he saw much to encourage him. Back to his
-musings on the poisons and on sentience, he came back to his analysis of how
+musings on the poisons and on sentience, he returned to his analysis of how
 things had played out thus far. These three poisons would not have lead to the
 collapse of the entire bio-sphere if it had not been for the incredible
 population explosion. Even that, by itself, might have become stable, but it was
-the loss of the mythos that had really done for them. In essence it had been a
-collision between the religious mind-set and the scientific one. Strangely alike
-in so many ways and yet so utterly opposed. Both with the unshakeable belief in
-their own 'rightness', both with a tendency to authoritarianism. How had a faith
-in the supremacy of 'love' lead to the Spanish Inquisition, for example? How did
-the uncompromising, scientific love of verifiable truth become the tool of the
-most violent of militaristic regimes? They had both been co-opted into
-maintaining the elites in their insatiable lust for more and more and always
-more wealth and power. They had been internally corrupted by the poisons.
+the loss of the mythos that had really done for them. He had come to view the
+playing out of these three poisons as, in essence, a collision between the
+religious mind-set and the scientific one. Strangely alike in so many ways and
+yet so utterly opposed. Both with the unshakeable belief in their own
+'rightness', both with a tendency to authoritarianism, both fixed in their
+respective ideologies. How had a faith in the supremacy of 'love' lead to the
+Spanish Inquisition, for example? How did the uncompromising, scientific love of
+verifiable truth become the tool of the most violent of militaristic regimes?
+They had both been co-opted into maintaining the elites in their insatiable lust
+for more and more and always more wealth and power. They had been internally
+corrupted by the poisons.
 
 He wondered if he lacked something essentially human because to him, there was
 no conflict there at all! The real issue was not with him though, it was how to
