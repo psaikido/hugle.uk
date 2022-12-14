@@ -14,56 +14,63 @@ aliases: [/thesium/060-rebellion/]
 
 ![main sequence has ended - capn-damo deviantart.com](/images/thesium/main-sequence-has-ended.jpg)
 
-XOP-108 went through a period of being called "Theo's World" but has now
-morphed into the name 'Thesium'. It has become a feudal and theocratic society
-of some two billion people. The 'High Neem' rules over a heirarchy. Men are
-superior to women. Sexuality is strictly policed to maintain hetero-normative
-standards. All non-white skin coloured people are slaves. The Neem decides what
-is Good and what is Bad. Every Neemian is deemed to have a soul which is one
-with Neem. All must pay a kind of tythe to their Lords who in their turn must
-pay tribute to the Barons. The Barons support the High Neem and do his bidding.   
+The 'High Neem' sat on the throne, legs crossed and gazed imperiously out upon
+the congregation, filling the Cathedral. Here at the centre of Thesium, now the
+name of both the planet and the vast city surrounding the Ship of Light, his
+power was uncontested. 
 
-Around the central Cathedral that houses the Ship of Light there is a sizeable
-city. The infrastructure is only just ok for most of them. Root has been
-usurped by people's own ideas about how to run things. It is really a kind of
-chaos. There is much disease. Root tries to help without being too obtrusive.  
+Men only were allowed inside where they could see the original Ship of Light,
+the women excluded. Also excluded were those whose skin was not purest white.
+Every last person crowded into the pews was fabulously wealthy and if they had any
+sexual peccadilloes, they were strictly guarded secrets. The policing of 
+sexuality was severe, hetero-normative standards enforced. 
 
-The White Coats continue to maintain the Ship of Light along with their other
-duties. There are many generations of them too by this time. This small group
-has a leader that is voted in every few years. They call him Top Prof. Each
-component is carefully examined and logged so that it can be replicated when it
-wears out. As he reviews all the parts that have been replaced, he notices 
-that every component of the Ship has been replaced multiple times. Debates
-start up concerning the supposed 'soul' that the Ship is supposed to house.
-Surely they would have found this 'soul' by now? They are yet to discover that
-which the Neemians worship.
+"Listen well, good people of Thesium, the High Neem will speak!"
 
-A faction arises arguing that their experience should be the sole arbiter of
-what is true. They argue that the High Neem's declarations are not
-sufficient explanation for how things are and that it is their duty to think
-for themselves. They have been trained in empiricism after all. Their
-experience has demonstrated that the Neemian's supposed 'soul' is non-existent.
-The Ship of Light is simply a machine without mystical properties. They call
-their faction the 'Evempiricals'.
+The bishop stepped down from the approach steps to the throne and the High Neem
+arose.
 
-The Evempiricals heresy against the Neemians gains ground. The inequalities of
-the society begin to destabilise it. Riots and strikes provoke police
-crackdowns which become increasingly violent. The openly rebellious groups who
-defy the Neemians and revolt against the many layers of injustice find in the
-Evempirical's philosophy a justification. They align and fight back against the
-tyranny. Insurgencies grow in waves until there is an assault on the Cathedral.  
+"Brethren, please be seated." There was an echoing shuffle of robes and finery
+as the people settled down. What followed was a repetition of their dogmas which
+lulled them and paralysed their thoughts, hypnotised by the flowing rhetoric.
 
-During the mayhem, the Evempiricals dismantle the Ship of Light and display it,
-piece by piece, all laid out in the main vault of the Cathedral. By this they
-hope to demonstrate the falsity of the Neemian's belief in its 'soul'.   
+Even as he spoke a group of White Coats were gathered in the Laboratory. Their
+leader had been newly voted in and now wanted to speak.
 
-The High Neem sends his crack troops to deal with the rebellion and they are
-cruelly successful. A brutal crackdown throws the whole of Thesium into martial
-law. The renegade Evempiricals' ring leaders are rounded up. The High Neem
-tries to reassert total power by holding show trials. The Evempiricals
-arguments are to be denounced and the faith of the masses is to be
-renewed.
+"Now that I have been installed as the Top Prof, let me ask you, has the Helper
+not taught us to follow where the evidence lead us? Has he not allowed us to
+think for ourselves? Of course he has, it has been often repeated to us. Now
+look here." He brought up a schematic on a large screen at the front of the
+lecture hall. "This is the Ship of Light. This is a listing of its component
+parts. And THIS is a log of how many times these parts have been replaced. Yes,
+replaced by many of you now right here in this very hall!" (much murmuring of
+assent) "Over in the Cathedral at this very moment, our High Neem is preaching
+on the soul that this ship is said to house but can anyone show me any component
+that has not been swapped out? Is there any possibility that we have missed
+something?"
 
-Root continues to facilitate Thesium, its fauna and flora, and collate
-information. The Abystery remains silent, observing.
+"Obviously not Professor, we can all see these numbers for ourselves. What is
+your point?" The student sat back down.
+
+"What if there is no 'essence' or 'soul' here to find? What then? Would that
+mean that there is no higher authority than our own intellects? Do we not owe it
+to the empirical tradition to challenge any notion that claims authority over
+what we can plainly see for ourselves?"
+
+The student stood back up saying "This right here is heresy. We are in grave
+danger. I think I speak for all of us when I say that we agree with you and have
+all held private suspicions that the doctrine of the soul cannot be true. Is
+that not so my colleagues?" Again, there were many murmurings of assent.
+
+"Alright then! I have a proposal." The Top Prof then laid out a plan of
+rebellion so audacious, so bold and reckless that many blanched. Under the guise
+of 'maintenance' they were to seal the Cathedral and dismantle the Ship of Light
+in order to display it, for all to see, as an assemblage of parts. He spoke of
+how he hoped that such a demonstration would galvanise those excluded into an
+all out rebellion against the corruptions of the elite. It was this righting of
+wrongs that brought everyone on board. They were not only right, but noble!
+
+By the end of the meeting the whole group thrilled to the sound of their new
+name. "My people, let us be known as the 'Evempiricals'!" They banged their
+tables in glee for they were indeed both evangelical and empirical.
 

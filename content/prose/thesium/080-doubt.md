@@ -7,51 +7,73 @@ aliases: [/thesium/080-doubt/]
 
 <div class="data">
 
-- XOP-108 Seeding Year 1105.
+- XOP-108 Seeding Year 1086.
 - RDR-27: narrative summary of 102 exabyte archive.  
 
 </div>
 
 ![the waiting city - capn-damo deviantart.com](/images/thesium/waiting-city.jpg)
 
-The society is structured like a walled garden. In the outer circles there are
-vast shanty towns of mostly unregulated space. Crime runs rife. Mob killings
-are common. Superstition rules and the central religion of Neemianism has
-multiple offshoots and mutations.
+The shushing sound of his gold brocade robe was loud enough for their
+conversation to have to pause as the High Neem sat down. A deep frown darkened his
+forehead as he leant back in his ornate chair. "My bishop, my friend, can we
+still count upon the barons?"
 
-Closer to the centre are industrial belts of factories and prisons together
-with the outer suburbs. They house the workers who get the majority of
-everything done in the factories, nurseries and farms. The infrastructure is
-maintained from here.
+"Why yes your Grace. There is no doubt as yet about their fealty."
 
-Closer in again are the administration zones, schools, gyms and entertainments.
-Police centres based in this zone maintain control of the population. The inner
-suburbs are interspersed throughout and house the more wealthy. 
+"Good, good! And all the Evempiricals have been forced to recant?"
 
-Around the central Cathedral are the grand halls of government. Heavily policed
-and guarded, these bastions keep the outer hoards out. These are the corridors
-of power. One half of this inner circle is the Laboratory. Here Root keeps and
-trains the White Coats. They facilitate the technical aspects of the great AI
-and have special dispensation to live beyond the dictat of the High Neem. The
-entrance to the Bunker is kept safe at its base.
+"All but a handful who have evaded us. It seems that the rebellion has lost
+ground. We will redouble our efforts to bring them to justice, your Grace."
 
-The Cathedral itself, towering over all, houses the High Neem and his couterie
-of Cardinals. His word is law which emanates out through the circles to the
-rest of Thesium.
+"See that it is so and quick mind you!"
 
-At the very centre of the Cathedral is the Ship of Light itself.
+"Of course, your Grace."
 
-After the insurrection there is a terrible suppression of Evempirical thought.
-Only the Top Prof and a small team is allowed to continue working. The Ship of
-Light is rebuilt but people remain restive. Everyone had seen for themselves
-how the Ship lay in parts, all its components exposed and no soul could be seen
-by anyone. This troubled the High Neem most of all, because he couldn't see it
-either. Groups of theologians were assembled to come up with ever cleverer
-arguments to sustain Neemianism.
+The High Neem adjusted the large opal ring on his forefinger and looked out of
+the casement window. He saw the city rippling out beneath them. His eye followed
+the concentric circles. The bastions of government first of all, he was fond of
+their glorious towers and courtyards, and further distant, the security
+perimeter with its watch towers and gates punctuating the massive walls. Beyond
+the castling he dimly made out some of the bigger factories. They stood out
+against the dark, chaotic smudges of the shanty towns that ringed them all. It
+was there that his worried thoughts turned to most.
 
-Where they lost most ground was over diseases that were running rife. The
-declarations that generations of High Neem had given over these troubles were
-becoming harder and harder to sustain. When a really high up person got really
-ill they went to the White Coats who got the Helper to, well, help! Underground
-knowledge that the Neemian way was not entirely correct could not be completely
-suppressed.
+Everyone had seen the Ship of Light lying in parts. At least, everyone had heard
+about it. The shock to the whole of Thesium was still reverberating and now,
+even after the swift and brutal crackdowns that had followed, there were reports
+that whole sections of the outer city had become no-go zones. The civil and
+religious authority which he embodied had lost its grip out there.
+
+"These damn Evempiricals, who the hell do they think they are?"
+
+"Who indeed, your Grace."
+
+"Okay, okay, knock it off with all the 'your Grace' business will you, we're in
+trouble here and we need a plan."
+
+"We could hold show trials perhaps? Bring in our very best theologians to
+demonstrate to all that the evempirical ideas are simply wrong and unholy?"
+
+"Mmm, yes, that could done. Set up a meeting with the Cardinals at once. But
+first tell me, when you saw the Ship of Light in parts like that, did you not
+question the doctrine yourself? Even a little?"
+
+"I fear such matters may be beyond my understanding your Grace. We look to you
+for stability at these times."
+
+"Oh, go and set up that meeting then and begone!" He was irritated with these
+sycophants now that he needed real counsel. Alas, it was he himself who had put
+them in their roles. If he could have banished the White Coats entirely he would
+have done so long ago. The Helper could not be done without though, the entire
+infrastructure depended on it quietly running things behind the scenes. These
+damn scientists knew how it all worked, or so they said, and so the tiresome
+business of compromise and politics had gone on. Now look!
+
+Stepping over to his shrine in his red satin shoes, he gazed upon the statue.
+The Ship's light beamed upwards into the Neemian heavens. He felt that old
+reassurance of his faith assert itself anew. Yes, his inner world was indeed
+connected to the divine. His soul knew!
+
+Glancing out of the leaded windows once more he couldn't help but catch hold of
+the tail end of a thought. "What if it is all just a story? What then?"
