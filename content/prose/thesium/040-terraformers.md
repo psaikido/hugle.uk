@@ -6,8 +6,10 @@ aliases: [/thesium/040-terraformers/]
 ---
 
 <div class="data">
-- XOP-108 Seeding Years 1 - 5.
-- rdr-108: narrative summary of 422 exabyte archive filed by root-108.  
+
+- XOP-108: Seeding Years 1 - 5.  
+- RDR-27: narrative summary of 422 exabyte archive.  
+
 </div>
 
 ![orbital - capn-damo deviantart.com](/images/thesium/orbital.jpg)

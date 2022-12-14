@@ -15,9 +15,11 @@ search for any plan of action."
 </div>
 
 <div class="data">
+
 - XOP-108 Seeding Year 1220.
-- rdr-108: narrative summary of 26 petabyte archive filed by root-108.  
+- RDR-27: narrative summary of 26 petabyte archive.  
 - root-108: anomalous entity 'Abystery' report. 
+
 </div>
 
 ![towers - capn-damo deviantart.com](/images/thesium/towers.jpg) 

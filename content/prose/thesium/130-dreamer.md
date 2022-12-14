@@ -6,9 +6,11 @@ aliases: [/thesium/130-dreamer]
 ---
 
 <div class="data">
+
 - XOP-108: Seeding Year 1220.
-- rdr-108: narrative summary of 19 petabyte archive filed by root-108.  
+- rdr-27: narrative summary of 19 petabyte archive.  
 - root-108: anomalous entity 'Abystery' report.
+
 </div>
 
 ![take it to the lab Igor - capn-damo deviantart.com](/images/thesium/take-it-to-the-lab-igor.jpg)

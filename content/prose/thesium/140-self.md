@@ -6,9 +6,11 @@ aliases: [/thesium/140-self/]
 ---
 
 <div class="data">
+
 - XOP-108 Seeding Year 1220.
-- rdr-108: narrative summary of 25 petabyte archive filed by root-108.  
+- RDR-27: narrative summary of 25 petabyte archive.  
 - root-108: anomalous entity 'Abystery' report.
+
 </div>
 
 ![splits elliptic moonlight - capn-damo deviantart.com](/images/thesium/splits-elliptic-moonlight.jpg)

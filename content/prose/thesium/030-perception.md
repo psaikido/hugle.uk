@@ -4,6 +4,13 @@ title: Perception
 type: prose/thesium
 aliases: [/thesium/030-perception/]
 ---
+
+<div class="data">
+
+- K-1: 25640426 
+
+</div>
+
 ![planet buster - capn-damo deviantart.com](/images/thesium/planet-buster.jpg)
 
 A tiny red light blipped. It blipped again and so Kronos gradually began the

@@ -6,8 +6,10 @@ aliases: [/thesium/090-renaissance/]
 ---
 
 <div class="data">
+
 - XOP-108 Seeding Year 1110.
-- rdr-108: narrative summary of 223 exabyte archive filed by root-108.  
+- RDR-27: narrative summary of 223 exabyte archive.  
+
 </div>
 
 ![Jain tech - capn-damo deviantart.com](/images/thesium/jain-tech.jpg)

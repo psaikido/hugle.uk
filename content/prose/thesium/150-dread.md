@@ -14,9 +14,11 @@ against our will, comes wisdom to us by the awful grace of God."
 </div>
 
 <div class="data">
+
 - XOP-108 Seeding Year 1220.
-- rdr-108: narrative summary of 26 petabyte archive filed by root-108.  
+- RDR-27: narrative summary of 26 petabyte archive.  
 - root-108: anomalous entity 'Abystery' report. 
+
 </div>
 
 ![dragon egg - capn-damo deviantart.com](/images/thesium/dragon-egg.jpg)

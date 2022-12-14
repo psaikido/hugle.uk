@@ -6,8 +6,10 @@ aliases: [/thesium/050-theocracy/]
 ---
 
 <div class="data">
-- XOP-108 Seeding Year 185.
-- rdr-108: narrative summary of 231 exabyte archive filed by root-108.  
+
+- XOP-108: Seeding Year 185.  
+- RDR-27: narrative summary of 231 exabyte archive.  
+
 </div>
 
 ![desert outpost - capn-damo deviantart.com](/images/thesium/desert-outpost.jpg)

@@ -6,8 +6,10 @@ aliases: [/thesium/110-industry/]
 ---
 
 <div class="data">
+
 - XOP-108 Seeding Year 1140.
-- rdr-108: narrative summary of 122 exabyte archive filed by root-108.  
+- RDR-27: narrative summary of 122 exabyte archive.  
+
 </div>
 
 

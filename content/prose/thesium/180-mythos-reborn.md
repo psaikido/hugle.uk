@@ -16,8 +16,10 @@ The same holds for sensation and perception, memory and consciousness."
 </div>
 
 <div class="data">
+
 - XOP-108 Seeding Year 1221.
-- rdr-108: narrative summary of 9 petabyte archive filed by root-108.  
+- RDR-27: narrative summary of 9 petabyte archive.  
+
 </div>
 
 ![mouette solitaire - capn-damo deviantart.com](/images/thesium/mouette-solitaire.jpg) 

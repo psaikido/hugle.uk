@@ -6,8 +6,10 @@ aliases: [/thesium/060-rebellion/]
 ---
 
 <div class="data">
-- XOP-108 Seeding Year 1085.
-- rdr-108: narrative summary of 589 exabyte archive filed by root-108.  
+
+- XOP-108 Seeding Year 1085.  
+- RDR-27: narrative summary of 589 exabyte archive.  
+
 </div>
 
 ![main sequence has ended - capn-damo deviantart.com](/images/thesium/main-sequence-has-ended.jpg)

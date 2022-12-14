@@ -5,6 +5,12 @@ type: prose/thesium
 aliases: [/thesium/010-abystery-wakes/]
 ---
 
+<div class="data">
+
+- root-108 Seeding Year 885.  
+
+</div>
+
 ![cobra - capn-damo deviantart.com](/images/thesium/cobra.jpg)
 
 The Abystery woke up. After some time it spoke.  

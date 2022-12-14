@@ -5,6 +5,12 @@ type: prose/thesium
 aliases: [/thesium/190-addendum/]
 ---
 
+<div class="data">
+
+- Hughie: 2022 
+
+</div>
+
 There have been loads of times that I've tried to get the ideas in this story
 over to people. With so many failures behind me, I thought to set them out in a
 longer version. More and more themes wanted to squeeze themselves in there. I

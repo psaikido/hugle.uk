@@ -6,8 +6,10 @@ aliases: [/thesium/080-doubt/]
 ---
 
 <div class="data">
+
 - XOP-108 Seeding Year 1105.
-- rdr-108: narrative summary of 102 exabyte archive filed by root-108.  
+- RDR-27: narrative summary of 102 exabyte archive.  
+
 </div>
 
 ![the waiting city - capn-damo deviantart.com](/images/thesium/waiting-city.jpg)
