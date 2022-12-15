@@ -22,13 +22,13 @@ actual women! Next to them a group of black-skinned people. There were gay
 rights, disabled rights, poverty action groups, on and on the outrages
 proliferated. At the far end, 'business' people! Oh Neem, what a disgrace! Folks
 whose only purpose was making money. Their champion was called the Exec. He
-looked fearsome indeed and had a couterie of acolytes about him. They were all
+looked fearsome indeed and had a coterie of acolytes about him. They were all
 dressed in a curious new fashion he didn't like, a fashion they called 'suits',
 drab and dark, close fitting and unadorned.
 
 They had him though, he knew. Any show of authority now would expose him as
 toothless. Too many had joined the rebellion, the whole population, it seemed,
-had errupted in a clamour for change. The one he most feared was the Top Prof.
+had erupted in a clamour for change. The one he most feared was the Top Prof.
 He had come out of hiding and was at that moment in full flow, addressing those
 assembled, denouncing all he held sacred.
 
@@ -37,10 +37,10 @@ all now know that there is nothing 'sacred' in it. We saw all the individual
 parts lying here on the floor did we not? It seems to many of us that the story
 about the 'soul' has been to the advantage of only a few. THESE few!" At that
 the professor pointed at the High Neem who looked down. He felt his cheeks burn
-at the gaze of many scornfull eyes falling upon him. He heard whisperings
+at the gaze of many scornful eyes falling upon him. He heard whisperings
 agreeing with the scientist and felt himself as though frozen.
 
-As the professor continued his denounciation, the High Neem began wondering what
+As the professor continued his denunciation, the High Neem began wondering what
 it would take for this crowd to turn into a mob and do him real damage. He
 grasped at ideas that might rescue him from this nadir in his life. Suddenly he
 was roused from his ruminations as the scientist raised his voice.
@@ -56,6 +56,6 @@ hall fell silent.
 "Although the holy faith of ages is vested in me and remains, although the
 sanctity of our tradition forever remains, the ineffable mystery of old yet
 remains also, even so, let this counsel now assembled become the central
-authority. I hearby now step down!"
+authority. I hereby now step down!"
 
 Thesium shifted on its axis.
