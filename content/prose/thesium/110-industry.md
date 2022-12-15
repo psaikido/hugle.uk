@@ -15,41 +15,50 @@ aliases: [/thesium/110-industry/]
 
 ![Pinski's place - monument - capn-damo deviantart.com](/images/thesium/pinski-monument.jpg)
 
-An industrial revolution turns the society inside out at dizzying speed. The
-Execs sweep the feudal systems aside and install themselves in the corridors of
-power. Finance rules all things and wears the mask of Truth. A total bureacracy
-is established that controls everything. It is called simply the Exec. The High
-Neem and his couterie are sent to the Laboratory which gets renamed as the
-Church. The Cathedral is taken over and is renamed as Head Office. Their once
-halcyon world beyond the city is plundered. Corporations eat each other until
-only the biggest dog holds sway. He is called the Chief Exec. He takes up the
-throne.
+The Top Prof rubbed his wrists where the shackles had dug in. Guards shoved him
+in the back and slammed the huge oaken door shut. Echoes reverberated around the
+ancient chamber once known as the Laboratory. The equipment had been removed and
+all lay in dusty ruins. He wondered why he had not been simply put in the
+regular prison but then remembered, it was supposed to be a 'lesson' to the
+populace.
 
-At first the Evempiricals are drunk with success but in very short order they
-find themselves virtual slaves to the Exec. The pyrrhic victory is made worse
-by the understandings they gain from the re-established communications with
-Root who is now installed in the Cathedral. The predictions they make about the
-environmental destruction wrought by Exec falls on deaf ears. They realise that
-one tyranny has been supplanted by another and all this talk of Truth has only
-been a means to an end for unfettered greed.
+His body ached from the ill-treatments he had undergone and also from the many
+extra years he was now carrying. Things had gone so swimmingly well at first.
+The Great Counsel ruled with rationality and fairness and all seemed well. His
+voice carried the most weight for those first years but what he hadn't seen
+coming was that the Exec would grow so powerful. All his scientific advances
+were funded and thereby controlled by the corporate financial structure that had
+been created. It used to confuse him, how it came about, but now it seemed clear
+enough. As the Exec accreted more and more wealth, as corporations absorbed
+corporations and he transformed into the Chief Exec, he had begun to act just
+like the High Neem before him. He even sat in the throne for counsel meetings.
+His 'suggestions' became 'decrees' in all but name. The professor had become an
+employee.
 
-The main mass of the population are given votes every few years. A theatre of
-'democracy' is maintained but just about everyone works for the Exec, whose
-rules are iron clad.
+An industrial revolution turned the society inside out at a dizzying speed. The
+Execs, back then there were many, swept the Neemian feudal system aside and
+installed themselves in the corridors of power. Finance ruled all things and
+wore the mask of 'Truth'. A total bureaucracy was established that controlled
+everything. The High Neem and his coterie were sent to the Laboratory which got
+renamed as the 'Church'. The Cathedral is taken over and is renamed 'Head
+Office'. Their once halcyon world beyond the city was plundered at a breakneck
+speed.
 
-All attempts to protect the natural world or have genuine justice are denounced
-as mystical nonsense. Truth is all. Truth is financial.
+At first the Evempiricals were drunk with success but in very short order they
+found themselves virtual slaves to the Exec. The pyrrhic victory was made worse
+by the understandings they gained from re-established communications with Root.
+The predictions they made about the environmental destruction wrought by Exec
+fell on deaf ears. They realise that one tyranny has been supplanted by another
+and all this talk of 'Truth' has only been a means to an end for unfettered greed.
 
-The Neemian mythos that held society together as a whole is consigned to
-history. Its loss destabilises the society which lurches from crisis to crisis.
-Each lurch is used by the Chief Exec to further his control. The anguish of the
-people drives an entertainment and consumption industry. Addictions become the
-norm. There is a general sense of lack. Underlying the lack of freedom, of
-wellbeing, of justice, there is the lack of meaning. In the midst of all the
-plenty that abounds, the vast majority of people just scrabble to survive.
+The main mass of the population were given votes every few years. A theatre of
+'democracy' was maintained but just about everyone worked for the Exec, whose
+rules became increasingly draconian.
 
-The Top Prof shows the Chief Exec scientific projections of the environmental
-collapse that will come if they keep following their current trajectory. The
-warnings are rejected as 'bad for business'. The Evempiricals denounce the Exec
-as irrational but the world of finance proves itself more powerful than mere
-facts. The Top Prof gets thrown in jail along with the High Neem.
+All attempts to protect the natural world or have genuine justice were denounced
+as mystical nonsense. The Chief Exec proclaimed from his throne "Truth is all.
+Truth is financial."
+
+From a dark corridor he heard shuffling. Stooping and hobbling on a staff, a
+figure approached from the gloom. Aghast, the two prisoners regarded each other.
+The High Neem and the Top Prof were not to be in solitary isolation after all!
