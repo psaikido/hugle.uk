@@ -40,7 +40,7 @@ Execs, back then there were many, swept the Neemian feudal system aside and
 installed themselves in the corridors of power. Finance ruled all things and
 wore the mask of 'Truth'. A total bureaucracy was established that controlled
 everything. The High Neem and his coterie were sent to the Laboratory which got
-renamed as the 'Church'. The Cathedral is taken over and is renamed 'Head
+renamed as the 'Church'. The Cathedral was taken over and renamed 'Head
 Office'. Their once halcyon world beyond the city was plundered at a breakneck
 speed.
 
@@ -59,6 +59,7 @@ All attempts to protect the natural world or have genuine justice were denounced
 as mystical nonsense. The Chief Exec proclaimed from his throne "Truth is all.
 Truth is financial."
 
-From a dark corridor he heard shuffling. Stooping and hobbling on a staff, a
-figure approached from the gloom. Aghast, the two prisoners regarded each other.
-The High Neem and the Top Prof were not to be in solitary isolation after all!
+From a dark corridor he heard shuffling. He turned and saw, stooping and
+hobbling on a staff, a figure approach from the gloom. Aghast, the two prisoners
+regarded each other. The High Neem and the Top Prof were not to be in solitary
+isolation after all!
