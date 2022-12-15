@@ -14,46 +14,48 @@ aliases: [/thesium/090-renaissance/]
 
 ![Jain tech - capn-damo deviantart.com](/images/thesium/jain-tech.jpg)
 
-Society is in turmoil with many millions leaving the Neemians. The
-Evempiricals, although still underground, have swollen in number.
-They extol the True over the False.
+It came to be known as the 'Great Counsel' in later years, but right then the
+High Neem knew it to be the beginning of the end. Neemian control was slipping
+through his fingers. At the centre of the main Cathedral there were now seated
+all the representatives of the excluded. Sitting right THERE, in HIS Cathedral,
+actual women! Next to them a group of black-skinned people. There were gay
+rights, disabled rights, poverty action groups, on and on the outrages
+proliferated. At the far end, 'business' people! Oh Neem, what a disgrace! Folks
+whose only purpose was making money. Their champion was called the Exec. He
+looked fearsome indeed and had a couterie of acolytes about him. They were all
+dressed in a curious new fashion he didn't like, a fashion they called 'suits',
+drab and dark, close fitting and unadorned.
 
-Rebellions cast out Neemian control over large sections of the huge city.
-Groups of White Coats train the willing in their ways. New technologies spring
-from these efforts and new economies blossom. Whole sub-cities gain great power
-locally and are run by virtual war lords of commerce. They are known as Execs.
+They had him though, he knew. Any show of authority now would expose him as
+toothless. Too many had joined the rebellion, the whole population, it seemed,
+had errupted in a clamour for change. The one he most feared was the Top Prof.
+He had come out of hiding and was at that moment in full flow, addressing those
+assembled, denouncing all he held sacred.
 
-There is a general clamour for emancipation from the Neemians but especially
-from those downtrodden. Women, black and brown skinned people, sexually
-non-conformists and other groups all extol the new insistence on Truth. The
-status-quo is challenged on all sides.
+"My good people, although this Ship of Light here has been put back together, we
+all now know that there is nothing 'sacred' in it. We saw all the individual
+parts lying here on the floor did we not? It seems to many of us that the story
+about the 'soul' has been to the advantage of only a few. THESE few!" At that
+the professor pointed at the High Neem who looked down. He felt his cheeks burn
+at the gaze of many scornfull eyes falling upon him. He heard whisperings
+agreeing with the scientist and felt himself as though frozen.
 
-The Neemians react with increasing violence. They make a point of asserting
-their power. They make very public examples of the worst 'criminals' against
-their authority. These displays of cruelty ironically undermine their claim to
-be the champions of the Good. They continually repeat that the mythos they
-embody must be maintained, that without this central mythos all will fall into
-chaos. Their souls have the same nature as the Ship of Light and this nature is
-a divine essence.
+As the professor continued his denounciation, the High Neem began wondering what
+it would take for this crowd to turn into a mob and do him real damage. He
+grasped at ideas that might rescue him from this nadir in his life. Suddenly he
+was roused from his ruminations as the scientist raised his voice.
 
-Large factories are built in the outer shanty towns and the labour out there is
-found to be willing and very cheap. The power of the Execs grows on the back of
-this. They are seen by the Neemians as a direct challenge to their rule. They
-exist beyond the scope of Neemian might which shrinks ever further back into the
-central Cathedral. The High Neem can count the cost each year as he sees the
-religion's wealth decrease. They seek a way to halt this descent.
-Many councils are held. Their theologians prove useless.
+"All these years the Neemian authority has been telling us LIES! Neemianism is
+built on a LIE!"
 
-In attempts to avert all-out war, summit meetings are held with the leading
-Execs, the Evempiricals, the out-groups and the Neemians. After much
-horse-trading a deal over power sharing is mooted. A voting system is proposed
-and trials are undertaken.
+Everyone sprang to their feet shouting "Yes! Yes!", everyone but him. The
+clamour gradually died down and all eyes were fastened upon him. Glancing up at
+the distant throne he was now not allowed to sit in, he rose to his feet and the
+hall fell silent.
 
-The crunch point comes when the Evempirical's champion, the Top Prof, directly
-confronts the High Neem over the 'soul' of the Ship of Light. He asserts that
-it is merely an assembly of parts, it has no essence and no special power.
-"Neemianism is built on a lie" he shouts. The High Neem counters with something
-about ineffable intuition and the need for a central mythos, but the general
-clamour drowns him out.
+"Although the holy faith of ages is vested in me and remains, although the
+sanctity of our tradition forever remains, the ineffable mystery of old yet
+remains also, even so, let this counsel now assembled become the central
+authority. I hearby now step down!"
 
-The world shifts on its axis.
+Thesium shifted on its axis.

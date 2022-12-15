@@ -62,18 +62,19 @@ question the doctrine yourself? Even a little?"
 "I fear such matters may be beyond my understanding your Grace. We look to you
 for stability at these times."
 
-"Oh, go and set up that meeting then and begone!" He was irritated with these
+"Oh, go and set up that meeting then will you - and begone!" He was irritated with these
 sycophants now that he needed real counsel. Alas, it was he himself who had put
 them in their roles. If he could have banished the White Coats entirely he would
 have done so long ago. The Helper could not be done without though, the entire
 infrastructure depended on it quietly running things behind the scenes. These
-damn scientists knew how it all worked, or so they said, and so the tiresome
+damn scientists knew how it all worked, or so they said, and hence the tiresome
 business of compromise and politics had gone on. Now look!
 
 Stepping over to his shrine in his red satin shoes, he gazed upon the statue.
-The Ship's light beamed upwards into the Neemian heavens. He felt that old
-reassurance of his faith assert itself anew. Yes, his inner world was indeed
+The Ship's light beamed upwards into the Neemian heavens. He felt an old
+reassurance as his faith reasserted itself. Yes, his inner world was indeed
 connected to the divine. His soul knew!
 
 Glancing out of the leaded windows once more he couldn't help but catch hold of
-the tail end of a thought. "What if it is all just a story? What then?"
+the tail end of a thought. "What if all MY parts could be laid out in the
+Cathedral? What if it is all just a story? What then?"
