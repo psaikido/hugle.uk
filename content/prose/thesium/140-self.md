@@ -7,7 +7,7 @@ aliases: [/thesium/140-self/]
 
 <div class="data">
 
-- XOP-108 Seeding Year 1220.
+- XOP-108 Seeding Year 1120.
 - RDR-27: narrative summary of 25 petabyte archive.  
 - ROOT-108: anomalous entity 'Abystery' report.
 

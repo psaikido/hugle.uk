@@ -17,7 +17,7 @@ The same holds for sensation and perception, memory and consciousness."
 
 <div class="data">
 
-- XOP-108 Seeding Year 1221.
+- XOP-108 Seeding Year 1121.
 - RDR-27: narrative summary of 9 petabyte archive.  
 
 </div>

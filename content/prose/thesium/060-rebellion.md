@@ -7,7 +7,7 @@ aliases: [/thesium/060-rebellion/]
 
 <div class="data">
 
-- XOP-108 Seeding Year 1085.  
+- XOP-108 Seeding Year 1103.  
 - RDR-27: narrative summary of 589 exabyte archive.  
 
 </div>

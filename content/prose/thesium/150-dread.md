@@ -15,7 +15,7 @@ against our will, comes wisdom to us by the awful grace of God."
 
 <div class="data">
 
-- XOP-108 Seeding Year 1220.
+- XOP-108 Seeding Year 1120.
 - RDR-27: narrative summary of 26 petabyte archive.  
 - ROOT-108: anomalous entity 'Abystery' report. 
 

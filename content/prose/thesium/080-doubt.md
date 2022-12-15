@@ -7,7 +7,7 @@ aliases: [/thesium/080-doubt/]
 
 <div class="data">
 
-- XOP-108 Seeding Year 1086.
+- XOP-108 Seeding Year 1105.
 - RDR-27: narrative summary of 102 exabyte archive.  
 
 </div>

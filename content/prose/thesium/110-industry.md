@@ -7,7 +7,7 @@ aliases: [/thesium/110-industry/]
 
 <div class="data">
 
-- XOP-108 Seeding Year 1140.
+- XOP-108 Seeding Year 1120.
 - RDR-27: narrative summary of 122 exabyte archive.  
 
 </div>
