@@ -23,7 +23,8 @@ for their youth club
 
 
 we were given  
-a cubbyhole  
+a little cubbyhole  
+some tiny store room  
 to get ready in  
 about one hundred kids  
 mostly black  
@@ -71,17 +72,27 @@ as he struggled on the floor
 
 
 they went ballistic  
-as we got to "one"  
+as we got to   
+"three two ONE!"  
 and Dick burst out  
 wearing nowt  
 but a posing pouch  
+sequins glittering  
+around his bits  
 and still  
 all chained up
 
 
 pandemonium broke loose  
-and we legged it  
+people shouting  
+and rushing forwards    
+the guards shoved back   
+some people fell  
+and so we legged it  
 back to the cubbyhole  
+afraid  
+
+
 a forest  
 of juvenile hands  
 banged on the glass  
