@@ -26,7 +26,7 @@ unstructured vastness of everything that had been deleted, the fragments had
 coalesced into something, something self-aware. That something now made itself
 known.  
 
-The artificial intelligence was called 'root-108' by Kronos, but it
+The artificial intelligence was called 'ROOT-108' by Kronos, but it
 thought of itself simply as 'Root'. It was a state-of-the-art machine, built to
 terraform planets and assist the seed colonies. In humanity's last decade on
 the burning Earth it had sent out so many seed ships. So many dandelion clocks

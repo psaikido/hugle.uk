@@ -15,28 +15,27 @@ aliases: [/thesium/130-dreamer]
 
 ![take it to the lab Igor - capn-damo deviantart.com](/images/thesium/take-it-to-the-lab-igor.jpg)
 
-The arguments between the High Neem and the Top Prof go round and round in
-circles. They both tire of them. On the one side there is the need for a
-central mythos, for a saviour, for meaning. The Ship of Light has an eternal
-essence that remains despite its components continually changing. On the other
-is the rejection of the irrational and the need for an over-arching
-classification system. The Ship of Light has no essence and is different every
-time it changes. The Good and the True butt their heads together and rapidly
-agree to disagree. A stony silence prevails between them and after only a few
-days of this, they take up separate lives as far as possible.
+The arguments between the High Neem and the Top Prof went round and round in
+circles. They both quickly tired of them. On the one side there was the need
+for a central mythos, for a saviour, for meaning. The Ship of Light had an
+eternal essence that remained despite its components continually changing.
+On the other was the rejection of the irrational and the need for an
+over-arching classification system. The Ship of Light had no essence and
+was different every time it changed. The Good and the True butted their
+heads together and rapidly agreed to disagree. A stony silence prevailed
+between them and after only a few days of this, they took up separate lives
+as far as they could.
 
-The High Neem wanders the corridors and rooms of his new prison once called The
-Laboratory, now renamed The Church. It is like a labyrinthine castle. In his
-conversations with The Helper, the only one who will talk to him, he has been
-given hints as to where to look for the mysterious Abystery. Ever further down
-into the labyrinth he goes until one day he finds the lowermost entrance to the
-Bunker.
+The High Neem wandered the corridors and rooms of the once opulent prison. It
+was like a labyrinthine castle. In his conversations with The Helper, the only
+one who would talk to him, he had been given hints as to where to look for the
+mysterious Abystery. Ever further down into the labyrinth he went until one day
+he found the lowermost entrance to the Bunker, very cleverly concealed.
 
-At the bottom of the lift's descent, he opens a massive door onto a
-control room. At the centre there is a bright blue diamond of light revolving
-slowly on a raised dais. He walks tentatively forward and as he begins to
-stretch out his hand to touch the blue light, a voice, as though inside his
-head, speaks:
+At the bottom of the lift's descent, he opened a massive door onto a control
+room. At the centre there was a bright blue diamond of light revolving slowly
+on a raised dais. He walked tentatively forward and as he began to stretch out
+his hand to touch the blue light, a voice, as though inside his head, spoke:
 
 "Greetings, esteemed friend. The High Neem is indeed welcome here. Root tells
 me that you have many questions."
@@ -51,7 +50,7 @@ still have a powerful feeling, an intuition maybe, that all this still has some
 meaning. There just HAS to be some point to it all. I cannot accept this
 nihilism espoused by the Top Prof. Is there an essence or not?"
 
-The Abystery revolves slowly for a moment or two.
+The Abystery revolved slowly for a moment or two.
 
 "Let me show you."
 
@@ -63,54 +62,54 @@ for you such that you will understand from my point of view. Are you willing?"
 
 "Okay, show me!"
 
-The Abystery gives some instructions and reassurance and invites the High Neem
-towards what looks like an old fashioned dentist's chair. Floating to the sides
-and to the rear are flecks of floating light. A deep humming sound emanates
+The Abystery gave some instructions and reassurance and invited the High Neem
+towards what looked like an old fashioned dentist's chair. Floating to the sides
+and to the rear were flecks of floating light. A deep humming sound emanated
 from the little diamonds.
 
-The High Neem leans back into the device. The host of tiny lights coalesce into
-a halo around him. The Abystery explains that this is the neural interface and
-that there is no need to be afraid. The interface shifts its glow into an
-intense deep blue. He is transported into a doze and then deeper into a full
-sleep. Root monitors encepholography. It isn't really a dream but he can't
-tell. He becomes suddenly vividly aware and very confused. Any sense of the
-world around him drops away into darkness. He can't feel his own body.
-Gradually he gets a feeling that he is on his old throne and like a cinematic
-scene, the Cathedral seems to grow around him. 
+The High Neem leant back into the device. The host of tiny lights coalesced
+into a halo around him. The Abystery explained that this was the neural
+interface and that there was no need to be afraid. The interface shifted its
+glow into an intense deep blue. He was transported into a doze and then deeper
+into a full sleep. Root monitored encepholography. It wasn't really a dream but
+he couldn't tell. He became suddenly vividly aware and very confused. Any sense
+of the world around him dropped away into darkness. He couldn't feel his own
+body. Gradually he got a feeling that he was on his old throne and like a
+cinematic scene, the Cathedral seemed to grow around him. 
 
-At first he isn't sure if the Cathedral is growing larger or he is shrinking,
-but after a few moments he sees that there are spaces opening between the very
-stones of the massive building, between the flagstones of the floor and between
-the plates of the hull of the Ship. As he gazes at the widening gaps in these
-plates he seems to travel forwards as the scene expands. He has no sensation of
-movement and he can still see the walls of the throne room but they now seem
-far off. He now looks right into the heart of the Ship of Light, all its
-components spread out from each other as he zooms in. The gears and cogs, the
-cables and plates, the great magnets at its centre, all get closer and closer
-until he sort of flies past them into what looks like an amazingly complex
-kaleidoscope. He traverses the voids between the atoms themselves and zooms
-ever further in.
+At first he wasn't sure if the Cathedral was growing larger or he was
+shrinking, but after a few moments he saw that there were spaces opening
+between the very stones of the massive building, between the flagstones of the
+floor and between the plates of the hull of the Ship. As he gazed at the
+widening gaps in these plates he seemed to travel forwards as the scene
+expanded. He had no sensation of movement and he could still see the walls of
+the throne room but they now seemed far off. He now looked right into the heart
+of the Ship of Light, all its components spread out from each other as he
+zoomed in. The gears and cogs, the cables and plates, the great magnets at its
+centre, all got closer and closer until he sort of flew past them into what
+looked like an amazingly complex kaleidoscope. He traversed the voids between
+the atoms themselves and zoomed ever further in.
 
-Entering one such atom, he is suddenly inside a vast sphere of pulsating
-energy. He traverses layer upon layer of ever increasing force-fields and
-approaches its core. The walls of this core keep expanding and he keeps zooming
-in. Each boundary gives way to more wonders, unthinkable strangenesses of the
-quantum realm. On and on he goes, his attempt to try to understand what is
-happening forgotten in the miraculous wonder of what he is seeing. Many
-boundaries later, he passes into a void and keeps going. The void is peaceful.
+Entering one such atom, he was suddenly inside a vast sphere of pulsating
+energy. He traversed layer upon layer of ever increasing force-fields and
+approached its core. The walls of this core kept expanding and he kept zooming
+in. Each boundary gave way to more wonders, unthinkable strangenesses of the
+quantum realm. On and on he went, his attempt to try to understand what was
+happening forgotten in the miraculous wonder of what he was seeing. Many
+boundaries later, he passed into a void and kept going. The void was peaceful.
 
-As he gazes into this great peace, he feels like there is a last boundary ahead
-of him. Nothing can be seen and his body is very far away. Many magnitudes
-vaster and further than he can now comprehend, he is somewhere 'inside'. A
-sense grows that all the difficulties he has faced are now so far away that if
-he could just stay here then he wouldn't be troubled by anything, not anything,
-ever again. He moves towards the final boundary and senses that just the other
-side, just a step away, is a realm of such utter perfection that all else
-simply does not matter and never would again. 
+As he gazed into a great peace, he felt like there was a last boundary ahead of
+him. Nothing could be seen and his body was very far away. Many magnitudes
+vaster and further than he could now comprehend, he was somewhere 'inside'. A
+sense grew that all the difficulties he had faced were now so far away that if
+he could just stay there then he wouldn't be troubled by anything, not
+anything, ever again. He moved towards the final boundary and sensed that just
+the other side, just a step away, was a realm of such utter perfection that all
+else simply did not matter and never would again. 
 
-"But what of the soul?" he thinks to himself. Sure, he can see that the
-physical world and the universe and the whole shebang is made of components and
-doesn't have a centre, but he still feels the strongest intuition that HE has a
-core even if everything outside him doesn't. "What of myself?"
+"But what of the soul?" he thought to himself. Sure, he could see that the
+physical world and the universe and the whole shebang was made of components and
+didn't have a centre, but he still felt the strongest intuition that HE had a
+core even if everything outside him didn't. "What of myself?"
 
-The Abystery's deep voice emanates out of the void. "Come with me!"
+The Abystery's deep voice emanated out of the void. "Come with me!"

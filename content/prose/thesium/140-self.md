@@ -40,13 +40,13 @@ such baby and found himself all of a sudden inside the baby's experience as
 though from the inside. This baby reached out to a toy ball. It was red. He saw
 that it was red. He found that time had slowed down to an incredible degree and
 his point of view crunched down to the infinitesimal once more. The surface of
-the ball absorbing most of the colours in the light that fell on it, all except
-the red frequency. He saw its undulation, the electro-magnetic propagation of
-its field. It spread out in a languid way until it met the eyes of the now
-practically motionless baby whose apparent size now seemed collosal. The light
-flipped over in the eye's lens and entered a viscous substance until it bounced
-against a forest of little tentacles. These protruberances quivered and sparked
-lightening along their roots. 
+the ball was absorbing most of the colours in the light that fell on it, all
+except the red frequency. He saw its undulation, the electro-magnetic
+propagation of its field. It spread out in a languid way until it met the eyes
+of the now practically motionless baby whose apparent size now seemed collosal.
+The light flipped over in the eye's lens and entered a viscous substance until
+it bounced against a forest of little tentacles. These protruberances quivered
+and sparked lightening along their roots. 
 
 Following these little shocks into the tentacles, he found himself travelling
 along a tunnel, as though surfing on the electric pulses. The tunnel joined

@@ -122,9 +122,9 @@ hair long and black. He had an engaging laugh and his eyes were full of sparkle
 and mischief. "There is time enough to court and wed before the winter comes.
 Grandma is still strong. She can help me. The young will come the next winter." 
 
-The dreaming scientist was caught up in the magic of romance. The power of
-elemental forces he could feel shifting in his core. This was how life came
-into being.
+The dreaming scientist was caught up in the magic of romance. He could feel the
+power of elemental forces shifting in his core. This was how life came into
+being.
 
 The next transportation was into the young brave. All at once he felt the
 strength of his body. The hardness of his muscles was a wonder to him. Had he
@@ -164,16 +164,17 @@ had put them on this reservation thought he was vermin. Under the shame, he
 sensed a great rage. A powerless rage and fury at the violence that had been
 done to his people. He wanted to destroy something. Had he ever suffered so?
 
-Now he was in a police car, cruising around the reservation. His skin was white
-and his body large and doughy. From behind sunglasses he looked out onto the
-women hugging outside the caravan and the wild looking guy just emerging. "Look
-at these pathetic people, they are so stupid, how could they let themselves
-sink so low?" The Top Prof felt how this man detested these people. How he
-didn't really think of them as people at all. He thought their religion and way
-of life was primitive and backward. Had he ever felt so superior? With a jolt
-he realised that yes, this had been his own attitude too. He had spent his life
-intoxicated with the pride of his intelligence. Now he felt ashamed. How
-terrible and abject it was to count oneself superior to others.
+Now he was in a police car, cruising around the reservation. His skin was
+pinkish white and his body large and doughy. From behind sunglasses he looked
+out onto the women hugging outside the caravan and the wild looking guy just
+emerging. "Look at these pathetic people, they are so stupid, how could they
+let themselves sink so low?" The Top Prof felt how this man detested these
+people. How he didn't really think of them as people at all. He thought their
+religion and way of life was primitive and backward. Had he ever felt so
+superior? With a jolt he realised that yes, this had been his own attitude too.
+He had spent his life intoxicated with the pride of his intelligence. Now he
+felt ashamed. How terrible and abject it was to count oneself superior to
+others.
 
 "Oh God, oh God, I'm so sorry!" he cried out. He was now floating above the
 scene, high above, amongst the clouds. The being of light appeared beside him

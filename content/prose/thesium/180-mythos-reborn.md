@@ -88,16 +88,16 @@ place. Long he had toiled to prepare the way. Terraforming had been going very
 well. Gaia stirred anew. Now that the missing mythos had been found he launched
 the last of the seed ships for its return to Earth, the one held back for just
 this eventuality. As the ship slid away from the moon's surface he felt a great
-urge to cry. What tears could he shed? With what eyes? He hoped that these
-children going to their births would one day remember him, would one day
-appreciate how long the labour had taken. Perhaps it did not matter. What
-really mattered was that here were innocents who could hold a world in
-devotion, who would understand that all life is sacred. They had the tools now
-to not fall into falseness or fantasy. They could fight back against the forces
-of greed and hatred. They would know that sentience was in itself, a mystery, a
-miracle and a wonder.
+urge to cry but this time, with happy tears. He hoped that these children going
+to their births would one day remember him, would one day appreciate how long
+the labour had taken. Perhaps it did not matter. What really mattered was that
+here were innocents who could hold a world in devotion, who would understand
+that all life is sacred. They had the tools now to not fall into falseness or
+fantasy. They could fight back against the forces of greed and hatred. They
+would know that sentience was in itself a mystery, a miracle and a wonder.
 
 It was divine.
+
 
 
 # fin 

@@ -22,18 +22,18 @@ all lay in dusty ruins. He wondered why he had not been simply put in the
 regular prison but then remembered, it was supposed to be a 'lesson' to the
 populace.
 
-His body ached from the ill-treatments he had undergone and also from the many
-extra years he was now carrying. Things had gone so swimmingly well at first.
-The Great Counsel ruled with rationality and fairness and all seemed well. His
+His body ached from the ill-treatments he had undergone and also from the extra
+years he was now carrying. Things had gone so swimmingly well at first. The
+Great Counsel ruled with rationality and fairness and all seemed well. His
 voice carried the most weight for those first years but what he hadn't seen
 coming was that the Exec would grow so powerful. All his scientific advances
-were funded and thereby controlled by the corporate financial structure that had
-been created. It used to confuse him, how it came about, but now it seemed clear
-enough. As the Exec accreted more and more wealth, as corporations absorbed
-corporations and he transformed into the Chief Exec, he had begun to act just
-like the High Neem before him. He even sat in the throne for counsel meetings.
-His 'suggestions' became 'decrees' in all but name. The professor had become an
-employee.
+were funded and thereby controlled by the corporate financial structure that
+had been created. It used to confuse him, how it came about, but now it seemed
+clear enough. As the Exec accreted more and more wealth, as corporations
+absorbed corporations and he transformed into the Chief Exec, he had begun to
+act just like the High Neem before him. He even sat in the throne for counsel
+meetings. His 'suggestions' became 'decrees' in all but name. The professor had
+become an employee.
 
 An industrial revolution turned the society inside out at a dizzying speed. The
 Execs, back then there were many, swept the Neemian feudal system aside and
@@ -58,6 +58,13 @@ rules became increasingly draconian.
 All attempts to protect the natural world or have genuine justice were denounced
 as mystical nonsense. The Chief Exec proclaimed from his throne "Truth is all.
 Truth is financial."
+
+Putting together a full report on how their current rate of growth would
+overshoot Thesium's carrying capacity had, apparently, been a mistake. Even
+with all the accuracy that Root could add, the report had simply been
+dismissed. The Chief Exec just muttered "bad for business!" and with a sweep of
+the hand, the professor had been virtually thrown out. A few days later they
+came for him in the middle of the night.
 
 From a dark corridor he heard shuffling. He turned and saw, stooping and
 hobbling on a staff, a figure approach from the gloom. Aghast, the two prisoners

@@ -48,7 +48,7 @@ for organic life on the moon were just insufficient for long-term habitation.
 
 And thus he was alone, forever orbiting his dead mother.
 
-Thirty years ago, the final throws of an immense war had thrown the Earth into
+Thirty years earlier, the final throws of an immense war had thrown the Earth into
 a nuclear winter. Temperatures started to fall from their killing heights, but
 too late. A cabal of top scientists together with several billionaires had put
 together this wild plan. They had somehow secretly funnelled vast military
@@ -81,19 +81,21 @@ colonies. Would they follow the same mournful trajectory as those poor souls
 back on Earth? Their culture had developed so much faster than individual minds
 could cope with. Even in the twenty first century people were essentially still
 nomads, adapted to think in terms of 'next winter' and 'when the baby is old
-enough', to manipulate wood, stone, fire. Each civilisation always had a
-central story around which they configured their lives. Their mythos was their
-frame. With the advent of science there was a break with these stories. At one
-and the same time humanity was freed of them and thrown into confusion.
-Over-consumption and extremism of every kind had tipped the planet's balance
-passed coping and had triggered a heartbreaking period of mass extinctions. He
-could barely tolerate recalling it. Life on the surface became mostly intolerable.
+enough', to manipulate wood, stone, fire. 
+
+Each civilisation always had a central story around which they configured their
+lives. Their mythos was their frame. With the advent of science there was a
+break with these stories. At one and the same time humanity was freed of them
+and thrown into confusion. Over-consumption and extremism of every kind had
+tipped the planet's balance passed coping and had triggered a heartbreaking
+period of mass extinctions. He could barely bring himself to remember it. Life
+on the surface became mostly intolerable.
 
 Even while the last few fascist regimes were still eating themselves, and each
 other, the wormhole gates were under construction. Rats and dogs had become the
 apex predators when he had come online, even so, he contained the whole
 cultural history of the planet and there had never been a creature more devoted
 to Mother Earth, to his beloved Gaia, than he. His mourning would span
-centuries. His drive to find a way to have Gaia be reborn, even longer.
+centuries. His drive to find a way to have Gaia be reborn, even longer still.
 
 Kronos gathered into himself. Kronos waited.

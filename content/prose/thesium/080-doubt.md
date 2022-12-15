@@ -55,7 +55,7 @@ trouble here and we need a plan."
 "We could hold show trials perhaps? Bring in our very best theologians to
 demonstrate to all that the evempirical ideas are simply wrong and unholy?"
 
-"Mmm, yes, that could done. Set up a meeting with the Cardinals at once. But
+"Mmm, yes, that could be done. Set up a meeting with the Cardinals at once. But
 first tell me, when you saw the Ship of Light in parts like that, did you not
 question the doctrine yourself? Even a little?"
 

@@ -33,7 +33,7 @@ vessels."
 Three young men in long white coats processed down a gangway from the Ship. They
 held a little office chair, an ornate carved table and a console. Placing these
 before the Shaman, a few buttons were pressed, a little screen came to life
-and they withdrew into the crowd which parted in reverence as they approached.
+and they withdrew into the crowd which parted in silent reverence.
 
 "We praise the White Coats whom the Helper has ordained, for he too needs help.
 Help in the holy work of helping all of us."

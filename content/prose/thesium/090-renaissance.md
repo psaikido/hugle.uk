@@ -45,8 +45,8 @@ it would take for this crowd to turn into a mob and do him real damage. He
 grasped at ideas that might rescue him from this nadir in his life. Suddenly he
 was roused from his ruminations as the scientist raised his voice.
 
-"All these years the Neemian authority has been telling us LIES! Neemianism is
-built on a LIE!"
+"This religion may be GOOD, but is not TRUE! All these years the Neemian
+authority has been telling us LIES! Neemianism is built on a LIE!"
 
 Everyone sprang to their feet shouting "Yes! Yes!", everyone but him. The
 clamour gradually died down and all eyes were fastened upon him. Glancing up at
@@ -54,8 +54,8 @@ the distant throne he was now not allowed to sit in, he rose to his feet and the
 hall fell silent.
 
 "Although the holy faith of ages is vested in me and remains, although the
-sanctity of our tradition forever remains, the ineffable mystery of old yet
-remains also, even so, let this counsel now assembled become the central
-authority. I hereby now step down!"
+great mystery of the continuation of essence through many changing forms
+remains, even so, let this counsel now assembled become the central authority.
+I hereby now step down!"
 
 Thesium shifted on its axis.

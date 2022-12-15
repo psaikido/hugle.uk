@@ -19,7 +19,7 @@ the congregation, filling the Cathedral. Here at the centre of Thesium, now the
 name of both the planet and the vast city surrounding the Ship of Light, his
 power was uncontested. 
 
-Men only were allowed inside where they could see the original Ship of Light,
+Only men were allowed inside where they could see the original Ship of Light,
 the women excluded. Also excluded were those whose skin was not purest white.
 Every last person crowded into the pews was fabulously wealthy and if they had any
 sexual peccadilloes, they were strictly guarded secrets. The policing of 
