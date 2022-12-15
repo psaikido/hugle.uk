@@ -7,7 +7,7 @@ aliases: [/thesium/010-abystery-wakes/]
 
 <div class="data">
 
-- root-108 Seeding Year 885.  
+- ROOT-108 Seeding Year 885.  
 
 </div>
 

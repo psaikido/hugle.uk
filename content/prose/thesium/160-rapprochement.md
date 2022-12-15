@@ -18,7 +18,7 @@ search for any plan of action."
 
 - XOP-108 Seeding Year 1220.
 - RDR-27: narrative summary of 26 petabyte archive.  
-- root-108: anomalous entity 'Abystery' report. 
+- ROOT-108: anomalous entity 'Abystery' report. 
 
 </div>
 
