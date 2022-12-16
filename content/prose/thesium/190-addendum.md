@@ -25,6 +25,8 @@ axe" or "Trigger's broom" from Only Fools and Horses. It begs the question
 The brilliant images are by Damian, my eldest brother. More of his stuff can be
 found on [DeviantArt](https://www.deviantart.com/capn-damo).
 
+[Download as a pdf](/media/thesium.pdf)
+
 The 'Abystery' is a version of Chenrezig.  
 
 ![Chenrezig](/images/mantrasphere/chenrezig.jpg)
