@@ -1,6 +1,8 @@
 <div class="prose">
     {{ .Scratch.Set "currentTitle" .Params.title }}
-    <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
+    {{ if .Params.title }}
+        <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
+    {{ end }}
 
     {{ .Content }}
 

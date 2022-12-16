@@ -1,7 +1,10 @@
 menu:
 
+- title: Thesium
+  url: /thesium/000-thesium/
+
 - title: Seeds 
-  url: /thesium/
+  url: /thesium/001-seeds/
 
 - title: Abystery
   url: /thesium/010-abystery-wakes/
