@@ -23,16 +23,20 @@ shards of blue-purple light as it stretched into the huge maw and vanished.
 
 "Goodbye and good luck, my little ones!"
 
-Turning his artificial face towards the distant Earth he was again moved to
-tears. Gaia, his mother, lay in ruination. His sensory system could take it all
-in, all the data from every bit of the stricken planet. The QEC system he had
-built had enabled instant, quantum-entangled information exchange between the
-surface and his base on Luna. Back when it was new (how long ago was that now?
-was it really thirty years already?) back then, there were still actual, living
-human beings to help him. His designers and the generation that followed
-quickly realised that they would have to cryogenically store themselves along
-with the multitude of embryos they had brought from the surface. The resources
-for organic life on the moon were just insufficient for long-term habitation.
+Turning his face towards the distant Earth he was again moved but by a pain
+much larger, much darker. His composite body seemed engulfed, how could an
+emotion be so much bigger than he was? Gaia, his mother, lay in ruination. His
+sensory system could take it all in, all the data from every bit of the
+stricken planet. The QEC system he had built had enabled instant,
+quantum-entangled information exchange between the surface and his base on
+Luna. 
+
+Back when it was new (how long ago was that now? was it really thirty years
+already?) back then, there were still actual, living human beings to help him.
+His designers and the generation that followed quickly realised that they would
+have to cryogenically store themselves along with the multitude of embryos they
+had brought from the surface. The resources needed for organic life on the moon
+were never going to be enough for long-term habitation.
 
 And thus he was alone, forever orbiting his dead mother.
 
@@ -45,7 +49,9 @@ project of immense proportions. It would have to be fully sentient and would
 need to be able to create new technologies. It would need to last for an epoch.
 The tech needed would create terraforming ships with frozen crews on board.
 They would need their own sub-AIs to navigate to exo-planets, create habitats
-on them and rebuild. Because this AI would await reports back from these
+on them and rebuild. 
+
+Because this AI would await reports back from these
 colonies, it would have to wait an awfully long time. They named him 'Kronos',
 after all, he was one of Gaia's Titan sons in a sense and also, a near
 immortal.
