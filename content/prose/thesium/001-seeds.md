@@ -17,7 +17,7 @@ aliases: [/thesium/001-seeds/]
 Endlessly orbiting his dead mother, Kronos was alone.
 
 He looked on as the last ship launched, weirdly silent, from the lunar surface.
-A plume of dust and regolith ballooned up and out in slow motion. Suddenly
+A plume of regolith dust ballooned up and out in slow motion. Suddenly
 filled with tears, he reminded himself there was still hope, there was still
 the possibility that one of these ships carrying the seeds of a new human race
 would take root somewhere out there. Perhaps many! The sleek, silver vessel
