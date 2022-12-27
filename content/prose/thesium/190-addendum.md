@@ -25,8 +25,6 @@ axe" or "Trigger's broom" from Only Fools and Horses. It begs the question
 The brilliant images are by Damian, my eldest brother. More of his stuff can be
 found on [DeviantArt](https://www.deviantart.com/capn-damo).
 
-[Download as a pdf](/media/thesium.pdf)
-
 The 'Abystery' is a version of Chenrezig.  
 
 ![Chenrezig](/images/mantrasphere/chenrezig.jpg)
@@ -48,7 +46,7 @@ Some relevant poems:
  - [mani](/mantrasphere/mani.html) (song) 
 
 An essay on the theme:
- - [Science, Religion, Dharma](/essays/2022/02/14/true-false.html)
+ - [Science, Religion, Dharma](/blogs/essays/2022-02-14-true-false/)
 
 With heartfelt thanks to my late teacher, John Crook. 
 
