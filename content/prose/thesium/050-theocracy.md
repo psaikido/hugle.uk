@@ -27,7 +27,7 @@ them. The ship at the heart of the city had become a place of deep devotion.
 Ship we see and we know that it is our true mother. From it we sprang, from it
 the Helper sprang and in it we will return, yeay return I say, back unto the
 sanctity of all that is good and wholesome and far from the iniquities of the
-hot places. It is now the time of prayer to the Helper. Bring forth the holy
+hot places. It is now the time of prayer to the Helper. Bring forth the sacred
 vessels."
 
 Three young men in long white coats processed down a gangway from the Ship. They
@@ -51,9 +51,9 @@ The crowd responded with:
 Ringing the bell once more, he put his hands on the keys and all eyes then fell
 upon the little blinking cursor, flashing at the bottom of the black screen.
 
-"Bring us your holy help oh Helper, we will keep you and praise you and esteem
-your White Coats in their Laboratory until we return unto the Ship of Light
-beyond the clouds."
+"Bring us your holy help oh great Helper, we will keep you and praise you and
+esteem your White Coats in their Laboratory until we return unto the Ship of
+Light beyond the clouds."
 
 At this he pressed the largest key, the cursor jumped down a row and continued
 its blinking. The crowd intoned as one:

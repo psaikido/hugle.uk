@@ -26,8 +26,9 @@ people? What are we doing here again?
 
 On wobbly legs they gathered gradually at the big external screens. Throughout
 the ship little groups huddled together to gawp in wonder at the planet below.
-Terraforming had been fabulously successful while they slept, circling their new
-home from above its clouds.
+They yawned, they stretched but mainly, they goggled! Terraforming had been
+fabulously successful while they slept, circling their new home from above its
+clouds.
 
 The planet had few life-forms when they arrived but now that Root has been so
 hard at work for so many years sending probes, autonomous machines and huge
@@ -45,8 +46,8 @@ the master plan is all set. Oh, and we're all seventy two years older than we
 were a fortnight ago, happy birthday old timers! Out!"
 
 Their celebratory meal had been a riot! It had taken quite a while to settle
-everyone down for his talk, but they all knew that it was what they all wanted
-to hear.  
+everyone down for his talk, so excited were they, but they really wanted to hear
+it and eventually a hush descended and Theo rose to his feet.  
 
 "This here is our new star, over here the wormhole we've come out of and right
 over there is home. We all know that we won't be returning, it's sad I know, but
@@ -84,7 +85,7 @@ float by was novel for them all. They couldn't get enough of it.
 And so it was that five full years of frenetic activity exploded forth on their
 brand new world. Their activity centred around the moored ship which was used
 primarily as an interim energy source. By the end of the fifth year its main
-components had been repurposed and used in Root's primary infrastructure.
+components had been repurposed and used in Root's new, primary infrastructure.
 Theo's shuttle craft was now no longer used either. Everything they needed was now
 close at hand. They kept it in central pride of place in the heart of their
 emerging city. A symbol of their voyage to this beautiful new world. A symbolic
