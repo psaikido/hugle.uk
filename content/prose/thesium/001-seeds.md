@@ -27,39 +27,26 @@ and vanished.
 
 "Goodbye and good luck, my little ones!"
 
-Turning his face towards the distant Earth he was again moved but by a pain
-much larger, much darker. His composite body seemed engulfed, how could an
-emotion be so much bigger than he was? Gaia, his mother, lay in ruination. His
-sensory system could take it all in, all the data from every bit of the
-stricken planet. The QEC system he had built had enabled instant,
-quantum-entangled information exchange between the surface and his base on
-Luna. 
-
-Back when it was new (how long ago was that now? was it really thirty years
-already?) back then, there were still actual, living human beings to help him.
-His designers and the generation that followed quickly realised that they would
-have to cryogenically store themselves along with the multitude of embryos they
-had brought from the surface. The resources needed for organic life on the moon
-were never going to be enough for long-term habitation.
-
-It was nice to be back in anthropoid form for a while. There was really no
-need but he was sentimental like that. He thought it fitting to wave goodbye
-with an actual hand and arm. He turned back towards the airlock and reviewed
-initial telemetry from s-108 and the far distant neutrino matter assemblers.
-No, nothing yet. Even his test vessels had taken longer to return data. The
-relativistic effects in play made even his head spin.
+His solitude hurt the most when his hope was at its strongest.
 
 Turning his face towards the distant Earth he was again moved. These tears
 where much older, much darker, for there Gaia, his mother, lay in ruination.
 His sensory system could take it all in, all the data from every bit of the
-stricken planet. Back when his monitoring system was new (how long ago was that
-now? was it really thirty years already?) back then, there were still actual,
-living human beings to help him. His designers and the generation that followed
-quickly realised that they would have to cryogenically store themselves along
-with the multitude of embryos they had brought from the surface. The resources
-for organic life on the moon were just insufficient for long-term habitation.
+stricken planet. 
 
-His solitude hurt the most when his hope was at its strongest.
+Back when his monitoring system was new (how long ago was that now? was it
+really thirty years already?) back then, there were still actual, living human
+beings to help him. His designers and the generation that followed quickly
+realised that they would have to cryogenically store themselves along with the
+multitude of embryos they had brought from the surface. The resources for
+organic life on the moon were just insufficient for long-term habitation.
+
+Moved as he was, it was still nice to be back in anthropoid form for a while.
+There was really no need but he was sentimental like that. He thought it
+fitting to wave goodbye with an actual hand and arm. He turned back towards the
+airlock and reviewed initial telemetry from s-108 and the far distant neutrino
+matter assemblers. No, nothing yet. Even his test vessels had taken longer to
+return data. The relativistic effects in play made even his head spin.
 
 Thirty years earlier, the final throws of an immense war had thrown the Earth
 into a nuclear winter. Temperatures started to fall from their killing heights,
