@@ -55,7 +55,7 @@ that is, to grow beyond the point that the mental poisons, seemingly inbuilt in
 the human mind, didn't kill them off. His anthropology amounted to studies in
 the various mixtures of three things.
 
-Greed. Hatred. Delusion.  
+Greed, hatred and delusion!  
 
 The phenomenological approach had proved a key in the development of
 artificial intelligence. After all the philosophical wrangling there
