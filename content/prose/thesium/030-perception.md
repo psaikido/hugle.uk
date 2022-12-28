@@ -13,7 +13,9 @@ aliases: [/thesium/030-perception/]
 
 ![planet buster - capn-damo deviantart.com](/images/thesium/planet-buster.jpg)
 
-A tiny red light blipped. It blipped again and so Kronos gradually began the
+A tiny red light blipped. 
+
+After a short pause, it blipped again and so Kronos gradually began the
 process of waking up. 
 
 A drone craft was returning a report and he had to rouse himself, but this was
@@ -67,7 +69,7 @@ It didn't know what it was and dithered.
 
 These three fundamentals were extrapolated out into whole memeplexes of
 behaviours. The second level up they became 'try to get more of it', 'try to
-get rid of it' and 'what the hell is it?'. As culture's developed these three
+get rid of it' and 'what the hell is it?'. As culture's developed, these three
 morphed into consumerism, the politics of hatred and delusive conspiracy
 theories. Another layer up again, and we got societies with massive wealth
 imbalances, extremely brutal cultures with in-groups dominating out-groups and
@@ -93,25 +95,37 @@ have lead to the collapse of the entire bio-sphere if it had not been for the
 incredible population explosion. Even that, by itself, might have become
 stable, but it was the loss of the mythos that had really done for them.
 
-He had come to view the playing out of these three poisons as, in essence, a
-collision between the religious mind-set and the scientific one. Strangely alike
-in so many ways and yet so utterly opposed. Both with the unshakeable belief in
-their own 'rightness', both with a tendency to authoritarianism, both fixed in
-their respective ideologies. How had a faith in the supremacy of 'love' lead to
-the Spanish Inquisition, for example? How did the uncompromising, scientific
-love of verifiable truth become the tool of the most violent of militaristic
-regimes? They had both been co-opted into maintaining the elites in their
-insatiable lust for more and more and always more wealth and power. They had
-been internally corrupted by the poisons.
+On the one hand was the religious mind-set with its belief in the soul. Their
+point of view was that people had an eternal essence, or spirit, that existed
+mystically apart from physical reality. Death was not the end of this soul, just
+the end of the physical body. Some philosophers called them the 'eternalists'.
 
-Abruptly he stopped his train of thought. He had begun pondering on the
-seemingly eternal dilemma fought out between science and religion. One side
-believing that matter was all and that mind came out of it. The other, that
-spirit was all and that matter came out of mind. He decided not to waste any
-more time on it, the arguments never really lead anywhere useful.
+On the other hand, the scientific mind-set held that no such 'soul' could be
+found. There was only physical reality and death really was final. There was no
+meaning to life apart from what people dreamed up for themselves. People and
+things had no 'essence' and were simply an assemblage of parts that were
+annihilated at their ends. Some philosophers called them the 'nihilists'.
+
+There had been centuries of struggle between the two and this struggle had
+dismantled any central mythos. Kronos thought of this conflict as just the
+playing out of the three poisons and the source of all the instabilities that
+had ensued. He chuckled when he recalled a phrase from an ancient sage he had
+co-opted - science was "true but not good", religion was "good but not true"!
+
+They were strangely alike in so many ways and yet so utterly opposed. Both with
+the unshakeable belief in their own 'rightness', both with a tendency to
+tribalism and authoritarianism, both fixed in their respective ideologies. How
+had a faith in the supremacy of 'love' lead to the Spanish Inquisition, for
+example? There was a depressingly long list of abominations carried out in
+various holy names. How did the uncompromising, scientific love of verifiable
+truth lead to atom bombs falling on Japanese cities? There had been no limit to
+the inventiveness of technology in its onslaught against mother nature. They had
+both been co-opted into maintaining the elites in their insatiable lust for more
+and more, and always more, wealth and power.
 
 He wondered if he lacked something essentially human because to him, there was
-no conflict there at all! The real issue was not with him though, it was how to
-bring about a human society where that conflict need not arise. He began to
-speculate on what Reader-27 had to tell him and turned back to bounce along his
-own, pure white footprints back to base and back to the long awaited report.
+no conflict between goodness and truth at all! The real issue was not with him
+though, it was how to bring about a human society where that conflict need not
+arise. He began to speculate on what Reader-27 had to tell him and turned back
+to bounce along his own, pure white footprints back to base and back to the long
+awaited report.
