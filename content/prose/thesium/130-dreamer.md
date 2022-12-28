@@ -32,7 +32,7 @@ one who would talk to him, he had been given hints as to where to look for the
 mysterious Abystery. Ever further down into the labyrinth he went until one day
 he found the lowermost entrance to the Bunker, very cleverly concealed.
 
-At the bottom of the lift's descent, he opened a massive door onto a control
+At the bottom of a lift's descent, he opened a massive door onto a control
 room. At the centre there was a bright blue diamond of light revolving slowly
 on a raised dais. He walked tentatively forward and as he began to stretch out
 his hand to touch the blue light, a voice, as though inside his head, spoke:
@@ -65,17 +65,17 @@ for you such that you will understand from my point of view. Are you willing?"
 The Abystery gave some instructions and reassurance and invited the High Neem
 towards what looked like an old fashioned dentist's chair. Floating to the sides
 and to the rear were flecks of floating light. A deep humming sound emanated
-from the little diamonds.
+from them as they gently glittered their spectral display.
 
-The High Neem leant back into the device. The host of tiny lights coalesced
-into a halo around him. The Abystery explained that this was the neural
-interface and that there was no need to be afraid. The interface shifted its
-glow into an intense deep blue. He was transported into a doze and then deeper
-into a full sleep. Root monitored encepholography. It wasn't really a dream but
-he couldn't tell. He became suddenly vividly aware and very confused. Any sense
-of the world around him dropped away into darkness. He couldn't feel his own
-body. Gradually he got a feeling that he was on his old throne and like a
-cinematic scene, the Cathedral seemed to grow around him. 
+The High Neem leant back into the device as the cloud of diaphanous lights
+coalesced into a halo around him. The Abystery explained that this was the
+neural interface and that there was no need to be afraid. The interface shifted
+its glow into an intensely deep blue. He was transported into a doze and then
+deeper into a full sleep. Root monitored encepholography. It wasn't really a
+dream but he couldn't tell. He became suddenly vividly aware and very confused.
+Any sense of the world around him dropped away into darkness. He couldn't feel
+his own body. Gradually he got a feeling that he was on his old throne and like
+a cinematic scene, the Cathedral seemed to grow around him. 
 
 At first he wasn't sure if the Cathedral was growing larger or he was
 shrinking, but after a few moments he saw that there were spaces opening
@@ -96,7 +96,7 @@ approached its core. The walls of this core kept expanding and he kept zooming
 in. Each boundary gave way to more wonders, unthinkable strangenesses of the
 quantum realm. On and on he went, his attempt to try to understand what was
 happening forgotten in the miraculous wonder of what he was seeing. Many
-boundaries later, he passed into a void and kept going. The void was peaceful.
+boundaries later, he passed into a void and kept going. The void was serene.
 
 As he gazed into a great peace, he felt like there was a last boundary ahead of
 him. Nothing could be seen and his body was very far away. Many magnitudes

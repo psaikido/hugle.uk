@@ -27,12 +27,13 @@ sexuality was severe, hetero-normative standards enforced.
 
 "Listen well, good people of Thesium, the High Neem will speak!"
 
-The bishop stepped down from the approach steps to the throne and the High Neem
+The bishop descended the steps below the throne and the High Neem
 arose.
 
 "Brethren, please be seated." There was an echoing shuffle of robes and finery
 as the people settled down. What followed was a repetition of their dogmas which
-lulled them and paralysed their thoughts, hypnotised by the flowing rhetoric.
+lulled them and paralysed their thoughts, hypnotised by the flowing rhetoric,
+entranced by play of sunlight streaming through the stained glass windows.
 
 Even as he spoke a group of White Coats were gathered in the Laboratory. Their
 leader had been newly voted in and now wanted to speak.
@@ -64,7 +65,7 @@ soul cannot be true. Is that not so my colleagues?" Again, there were many
 conspiratorial murmurings of assent.
 
 "Alright then! I have a proposal! But first, let us choose a name, let us be
-known as The Evempiricals, for we are both evangelical and empirical!"
+known as 'The Evempiricals', for we are both evangelical and empirical!"
 
 Emboldened, the cabal of white coated men and women banged their tables in glee.
 
