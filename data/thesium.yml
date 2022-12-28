@@ -1,61 +1,49 @@
 menu:
 
-- title: Thesium
-  url: /thesium/000-thesium/
+- title: Thesium 
+  url: /thesium/
 
 - title: Seeds 
-  url: /thesium/001-seeds/
+  url: /thesium/seeds/
 
 - title: Abystery
-  url: /thesium/010-abystery-wakes/
-
-- title: Age 7
-  url: /thesium/020-age-7/
+  url: /thesium/abystery-wakes/
 
 - title: Perception 
-  url: /thesium/030-perception/
+  url: /thesium/perception/
 
 - title: Terraformers 
-  url: /thesium/040-terraformers/
+  url: /thesium/terraformers/
 
 - title: Theocracy 
-  url: /thesium/050-theocracy/
+  url: /thesium/theocracy/
 
 - title: Rebellion 
-  url: /thesium/060-rebellion/
-
-- title: Age 13
-  url: /thesium/070-age-13/
+  url: /thesium/rebellion/
 
 - title: Doubt 
-  url: /thesium/080-doubt/
+  url: /thesium/doubt/
 
 - title: Renaissance
-  url: /thesium/090-renaissance/
-
-- title: Age 17
-  url: /thesium/100-age-17/
+  url: /thesium/renaissance/
 
 - title: Industry 
-  url: /thesium/110-industry/
+  url: /thesium/industry/
 
 - title: Dreamer
-  url: /thesium/130-dreamer/
+  url: /thesium/dreamer/
 
 - title: Self
-  url: /thesium/140-self/
+  url: /thesium/self/
 
 - title: Dread
-  url: /thesium/150-dread/
+  url: /thesium/dread/
 
 - title: Rapprochement
-  url: /thesium/160-rapprochement/
-
-- title: Age 44
-  url: /thesium/170-age-44/
+  url: /thesium/rapprochement/
 
 - title: Mythos Reborn 
-  url: /thesium/180-mythos-reborn/
+  url: /thesium/mythos-reborn/
 
 - title: addendum 
-  url: /thesium/190-addendum/
+  url: /thesium/addendum/

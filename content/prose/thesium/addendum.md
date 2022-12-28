@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Addendum 
 type: prose/thesium
-aliases: [/thesium/190-addendum/]
+aliases: [/thesium/addendum/]
 ---
 
 <div class="data">

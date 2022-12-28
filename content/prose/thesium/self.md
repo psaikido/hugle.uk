@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Self
 type: prose/thesium
-aliases: [/thesium/140-self/]
+aliases: [/thesium/self/]
 ---
 
 <div class="data">

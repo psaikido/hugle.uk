@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Dread
 type: prose/thesium
-aliases: [/thesium/150-dread/]
+aliases: [/thesium/dread/]
 ---
 
 <div class="quote">

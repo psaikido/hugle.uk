@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Mythos Reborn
 type: prose/thesium
-aliases: [/thesium/180-mythos-reborn/]
+aliases: [/thesium/mythos-reborn/]
 ---
 
 <div class="quote">

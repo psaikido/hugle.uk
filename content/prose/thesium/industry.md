@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Industry
 type: prose/thesium
-aliases: [/thesium/110-industry/]
+aliases: [/thesium/industry/]
 ---
 
 <div class="data">

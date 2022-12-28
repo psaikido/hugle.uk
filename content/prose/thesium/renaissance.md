@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Renaissance
 type: prose/thesium
-aliases: [/thesium/090-renaissance/]
+aliases: [/thesium/renaissance/]
 ---
 
 <div class="data">

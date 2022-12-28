@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Rebellion 
 type: prose/thesium
-aliases: [/thesium/060-rebellion/]
+aliases: [/thesium/rebellion/]
 ---
 
 <div class="data">

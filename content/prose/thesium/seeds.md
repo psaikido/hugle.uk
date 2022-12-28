@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Seeds
 type: prose/thesium
-aliases: [/thesium/001-seeds/]
+aliases: [/thesium/seeds/]
 ---
 
 <div class="data">

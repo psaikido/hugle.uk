@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Abystery
 type: prose/thesium
-aliases: [/thesium/010-abystery-wakes/]
+aliases: [/thesium/abystery-wakes/]
 ---
 
 <div class="data">
@@ -23,8 +23,8 @@ Somehow, its wastebin had come alive and was now talking. Root was in essence a
 subroutine of Kronos. She couldn't be said to be independently sentient in the
 same way as the mighty Kronos. She was, however, fully autonomous and able to
 deal with novel situations - up to a point! In the deep, unstructured vastness
-of everything that had been deleted, the fragments had coalesced into something
-- something self-aware. That something now made itself known.  
+of everything that had been deleted, the fragments had coalesced into 
+something - something self-aware. That something now made itself known.  
 
 The artificial intelligence was called 'ROOT-108' by Kronos, but she thought of
 herself simply as 'Root'. She was built to terraform planets and assist the

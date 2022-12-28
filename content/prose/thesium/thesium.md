@@ -2,7 +2,7 @@
 bannerTitle: "hugle.uk" 
 title: Thesium
 type: prose/thesium
-aliases: [/thesium/, /thesium/000-thesium/]
+aliases: [/thesium/, /thesium/thesium/]
 ---
 
 <div class="quote">

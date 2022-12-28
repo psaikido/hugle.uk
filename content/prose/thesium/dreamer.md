@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Dreamer
 type: prose/thesium
-aliases: [/thesium/130-dreamer]
+aliases: [/thesium/dreamer]
 ---
 
 <div class="data">

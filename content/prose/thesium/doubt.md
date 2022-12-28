@@ -2,7 +2,7 @@
 bannerTitle: "Thesium" 
 title: Doubt
 type: prose/thesium
-aliases: [/thesium/080-doubt/]
+aliases: [/thesium/doubt/]
 ---
 
 <div class="data">
