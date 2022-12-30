@@ -30,7 +30,7 @@ and vanished.
 His solitude hurt the most when his hope was at its strongest.
 
 Turning his face towards the distant Earth he was again moved. These tears
-where much older, much darker, for there Gaia, his mother, lay in ruination.
+were much older, much darker, for there Gaia, his mother, lay in ruination.
 His sensory system could take it all in, all the data from every bit of the
 stricken planet. 
 
