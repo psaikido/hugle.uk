@@ -63,15 +63,15 @@ gentle hills, the landing site was clearly visible and looked ready for them.
 your stasis began but while you've been sleeping I have done the ground work, in
 all literalness, and now need your help to further the building of
 infrastructure. The intention is to build a central 3d-printing facility over
-here and factory over there. We can bootstrap off our onboard replicators,
+here and factories over there. We can bootstrap off our onboard replicators,
 robotics can drill down into the planet, it's hot down there, and create a heat
-exchange energy plant. Materials can be collected and taken to the factory which
-will start on building the bigger stuff - dwellings, laboratories and
+exchange energy plant. Materials can be collected and taken to the main factory
+which will start on building the bigger stuff - dwellings, laboratories and
 farms. Above all, we need a nursery. The first tranch of embryos need to start
-their journeys. I'll need a computing and data collection facility which
-we want to build underground to archive and process everything. You'll have
-initial allocations already but all personel decisions will rest ultimately with
-Captain Theo."
+their journeys. I'll need a computing and data collection facility which we want
+to build underground, somewhere around here, to archive and process everything.
+You'll have initial allocations already but all personel decisions will rest
+ultimately with Captain Theo."
 
 The days that followed were spent sending shuttles to and fro, further
 establishing their base. Everyone had a multitude of tasks to perform and it was

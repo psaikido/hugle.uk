@@ -78,8 +78,8 @@ was the focus.
 
 A vast crowd parted before the High Neem as he processed up the steps to the
 closed doors of the Cathedral. He raised his jewelled staff and wrapped on the
-doors three times. "Suuudooo Suuuudooo Suuuudooo!" he intoned, and the huge
-doors were swung open.
+doors three times. "Sudowadaslav Sudowadaslav Sudowadaslav!" he intoned, and the
+huge doors were swung open.
 
 The jewelled staff clattered to the floor! His mouth hung agape as he looked
 into the space where the Ship of Light usually stood. What had happened? He cast

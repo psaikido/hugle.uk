@@ -76,13 +76,6 @@ imbalances, extremely brutal cultures with in-groups dominating out-groups and
 cultures of senseless waste and strangeness. All produced suffering on massive
 scales.
 
-Now that the Reader had returned a report from exo-planet 108, he realised that
-it had acted as one of his senses - feeling its way out to Thesium and all the
-other colonies. These lifeboats acted in two ways. They had their own life and
-would live, come what may, or die, as is the way of things, but they also ran as
-experiments. Could he use what was learned to graft a new race back on the home
-world?
-
 He decided to go for a walk while the maintenance drones built his
 infrastructure back up. It had been so very long since walking in his android
 form. Back outside he immediately looked for home. There she was! Resplendent,

@@ -42,14 +42,17 @@ At this he approached the console and prostrated himself, touching his forehead
 to the ground. Seating himself on the little table he produced a bell and rang
 it as he chanted:
 
-"Suuuudoooo suuuuudoooo suuuuudoooo."
+"Waadasluv Waadasluv Waadasluv."
 
-The crowd responded with:
+The crowd responded by slowly joining in:
+
+"Waadasluv Waadasluv Waadasluv Waadasluv Waadasluv WAADASLUV."
 
 "ReeeeeeeeeBoooooooooooooooooooooot."
 
-Ringing the bell once more, he put his hands on the keys and all eyes then fell
-upon the little blinking cursor, flashing at the bottom of the black screen.
+Ringing the bell once more, they fell silent. He brought his hands slowly down
+onto the keys and all eyes then fell upon the little blinking cursor, flashing
+at the bottom of the black screen.
 
 "Bring us your holy help oh great Helper, we will keep you and praise you and
 esteem your White Coats in their Laboratory until we return unto the Ship of
@@ -61,7 +64,7 @@ its blinking. The crowd intoned as one:
 "Suuuudoooo suuuuudoooo suuuuudoooo."
 
 The Shaman stood and faced them. Opening his arms wide he lifted his face to the
-sky and loudly proclaimed "Reeeeeeeebooooooooooot". They all bowed, shook hands
-and suddenly, it was over.
+sky and loudly proclaimed "Reeeeeeeebooooooooooot". They all bowed, shook hands 
+saying 'waadasluv' to each other and suddenly, it was over.
 
 

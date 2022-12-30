@@ -6,17 +6,17 @@ menu:
 - title: Seeds 
   url: /thesium/seeds/
 
-- title: Abystery
-  url: /thesium/abystery-wakes/
-
-- title: Perception 
-  url: /thesium/perception/
-
 - title: Terraformers 
   url: /thesium/terraformers/
 
+- title: Voyage 
+  url: /thesium/voyage/
+
 - title: Theocracy 
   url: /thesium/theocracy/
+
+- title: Abystery
+  url: /thesium/abystery-wakes/
 
 - title: Rebellion 
   url: /thesium/rebellion/
@@ -41,6 +41,9 @@ menu:
 
 - title: Rapprochement
   url: /thesium/rapprochement/
+
+- title: Perception 
+  url: /thesium/perception/
 
 - title: Mythos Reborn 
   url: /thesium/mythos-reborn/
