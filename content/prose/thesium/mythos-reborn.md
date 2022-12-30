@@ -44,7 +44,8 @@ help every single one get there before him, even down to the last blade of
 grass!"
 
 This was the kernel of the new mythos. To emulate a wisdom-being as noble as the
-Abystery.
+Abystery. To practice opening the mind in deep questioning. To know oneself as
+being made of the stuff of the universe and that it was profoundly good.
 
 Their new mythos held that the goal of science was to strive for Goodness by
 means of the Truth, and so to help all beings towards happiness. Wellbeing was
