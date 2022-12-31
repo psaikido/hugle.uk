@@ -25,6 +25,10 @@ axe" or "Trigger's broom" from Only Fools and Horses. It begs the question
 The brilliant images are by Damian, my eldest brother. More of his stuff can be
 found on [DeviantArt](https://www.deviantart.com/capn-damo).
 
+Special thanks to the [Pillow Writers](https://pillowwriters.wordpress.com/)
+group for help and support in the forming of this work. Emma and Stoo in
+particular have been heroic!
+
 The 'Abystery' is a version of Chenrezig.  
 
 ![Chenrezig](/images/mantrasphere/chenrezig.jpg)
