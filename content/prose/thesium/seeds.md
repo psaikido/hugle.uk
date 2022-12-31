@@ -39,7 +39,10 @@ really thirty years already?) back then, there were still actual, living human
 beings to help him. His designers and the generation that followed quickly
 realised that they would have to cryogenically store themselves along with the
 multitude of embryos they had brought from the surface. The resources for
-organic life on the moon were just insufficient for long-term habitation.
+organic life on the moon were just insufficient for long-term habitation. He had
+always loved bringing a tranch of people out of stasis and readying them for
+their voyages. He had always hated the wrenching feeling of loss each time they
+left, never to be seen again.
 
 Moved as he was, it was still nice to be back in anthropoid form for a while.
 There was really no need but he was sentimental like that. He thought it

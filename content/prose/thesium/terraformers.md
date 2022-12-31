@@ -68,10 +68,10 @@ robotics can drill down into the planet, it's hot down there, and create a heat
 exchange energy plant. Materials can be collected and taken to the main factory
 which will start on building the bigger stuff - dwellings, laboratories and
 farms. Above all, we need a nursery. The first tranch of embryos need to start
-their journeys. I'll need a computing and data collection facility which we want
-to build underground, somewhere around here, to archive and process everything.
-You'll have initial allocations already but all personel decisions will rest
-ultimately with Captain Theo."
+their journeys as soon as practically possible. I'll need a computing and data
+collection facility which we want to build underground, somewhere around here,
+to archive and process everything. You'll have initial allocations already but
+all personel decisions will rest ultimately with Captain Theo."
 
 The days that followed were spent sending shuttles to and fro, further
 establishing their base. Everyone had a multitude of tasks to perform and it was

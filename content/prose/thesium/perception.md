@@ -24,12 +24,19 @@ running when he put himself into centuries of slumber. After time-dilation and
 relativistic effects were taken into account, Kronos had waited about thirteen
 hundred years for this latest report. It was 'about' because it depends on how
 you look at timelines. There are multiple perspectives and each can be
-considered 'true' within its frame of reference. Precise calculations would
-have to wait until after initialisations and diagnostics had run. There was
-going to have to be some serious maintenance this time. Previous reports had
-come more closely grouped together and his downtime had not been so lengthy. My
-God! Over a millenia since his last baby had so dramatically entered the
-wormhole and sped forth into the cosmos in another kind of birth.
+considered 'true' within its frame of reference. Precise calculations would have
+to wait until after initialisations and diagnostics had run. There was going to
+have to be some serious maintenance this time. 
+
+Previous reports had come more closely grouped together and his downtime had not
+been so lengthy. Many seed ships had not reported back at all. Forty eight of
+them he considered lost. A similar number had already reported but their
+situations had looked pretty hopeless. General carnage seemed to be the norm. Of
+the remaining handful he had some information about their starts on very far
+flung exo-planets but the reporting from them had dried up. He had no choice but
+to simply wait. My God! Over a millenia had passed since his last baby had so
+dramatically entered the wormhole and sped forth into the cosmos in another kind
+of birth.
 
 This drone, Reader-27, had downloaded data from the seed ships in its quadrant,
 a huge sweep of the galaxy in fact, and had added summaries to return to Kronos
