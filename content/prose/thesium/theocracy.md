@@ -18,7 +18,7 @@ aliases: [/thesium/theocracy/]
 remember that we will return and be one with The Great Neems, be one with the
 soul of The Great Neems, be one in the Ship of Light beyond the clouds!"
 
-Thus the Shaman addressed the crowd. Theo Nimes has long since died along with
+Thus the Shaman addressed the crowd. Theo Nimes had long since died along with
 the rest of the crew. Their many offspring remembered him as 'The Great Neems'.
 They were eight, perhaps nine generations away from the culture that spawned
 them. The ship at the heart of the city had become a place of deep devotion. 
