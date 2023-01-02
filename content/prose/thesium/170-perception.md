@@ -46,15 +46,6 @@ did not need such a format of course, but it was a pleasing act of optimism
 nonetheless. Future humans on the home-world may yet come to value such
 histories.
 
-Even with his brilliant, quantum-entangled communications systems, the
-essential difficulties of interstellar travel had meant that each colony was a
-one-shot kind of deal, isolated from each other and from Kronos. Real-time
-communication with them was not possible. Their value in the big picture was
-that after the necessary centuries had passed and Kronos had been able to
-collate enough returned data, it might just become possible to create a
-biosphere somewhere with an ideal human culture. Perhaps if the Earth could
-recover enough and Gaia be reborn, it might even become home again.
-
 When sufficient brain capacity had come back online he began to review his
 anthropological data. He was getting ready to make an assessment of what had
 happened to s-108, the 108th seed ship sent out. The colonies he knew about were
@@ -65,35 +56,17 @@ the various mixtures of three things.
 
 Greed, hatred and delusion!  
 
-After all the philosophical wrangling over what was and was not 'sentient',
-there always remained the simple fact that whatever the ontological status of a
-'receiving system', it could really only respond in three fundamental ways to a
-stimulus:  
-
-It liked it and turned towards.  
-It didn't like it and turned away.  
-It didn't know what it was and dithered.  
-
-These three fundamentals were extrapolated out into whole memeplexes of
-behaviours. The second level up they became 'try to get more of it', 'try to
-get rid of it' and 'what the hell is it?'. As culture's developed, these three
-morphed into consumerism, the politics of hatred and delusive conspiracy
-theories. Another layer up again, and we got societies with massive wealth
-imbalances, extremely brutal cultures with in-groups dominating out-groups and
-cultures of senseless waste and strangeness. All produced suffering on massive
-scales.
-
 He decided to go for a walk while the maintenance drones built his
 infrastructure back up. It had been so very long since walking in his android
 form. Back outside he immediately looked for home. There she was! Resplendent,
 Gaia rode high above the Western horizon. Did it look greener than before? Yes,
 yes, looking over the data streams he saw much to encourage him. 
 
-Back to his musings on the poisons and on sentience, he returned to his
-analysis of how things had played out thus far. These three poisons would not
-have lead to the collapse of the entire bio-sphere if it had not been for the
-incredible population explosion. Even that, by itself, might have become
-stable, but it was the loss of the mythos that had really done for them.
+He returned to his analysis of how things had played out thus far. These three
+poisons would not have lead to the collapse of the entire bio-sphere if it had
+not been for the incredible population explosion. Even that, by itself, might
+have become stable, but it was the loss of the mythos that had really done for
+them.
 
 On the one hand was the religious mind-set with its belief in the soul. Their
 point of view was that people had an eternal essence, or spirit, that existed
@@ -106,11 +79,15 @@ meaning to life apart from what people dreamed up for themselves. People and
 things had no 'essence' and were simply an assemblage of parts that were
 annihilated at their ends. Some philosophers called them the 'nihilists'.
 
-There had been centuries of struggle between the two and this struggle had
-dismantled any central mythos. Kronos thought of this conflict as just the
-playing out of the three poisons and the source of all the instabilities that
-had ensued. He chuckled when he recalled a phrase from an ancient sage he had
-co-opted - science was "true but not good", religion was "good but not true"!
+The struggle between the two had gone on for millenia. He chuckled when he
+recalled a phrase from an ancient sage he had co-opted - science was "true but
+not good", religion was "good but not true"! Each side seemed blind to their
+own shadow. To Kronos it was equally valid to see patterns between things, to
+look for sameness, to seek a unifying vision, and to focus on differences, to
+break things down into their components, to separate and define. The unifiers
+just went one step too far and extrapolated out a 'divine essence'. The
+separators overlooked the need for a mythos. The death of meaning eventually
+lead to the death of society.
 
 They were strangely alike in so many ways and yet so utterly opposed. Both with
 the unshakeable belief in their own 'rightness', both with a tendency to

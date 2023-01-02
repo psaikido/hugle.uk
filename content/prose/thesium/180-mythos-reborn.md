@@ -64,14 +64,18 @@ the people soon realised that they were the same as those who, over many
 millenia on far distant planets, had held constant, had survived and had done
 so with grace.
 
-Every year on that day there was a great gathering at the cathedral. A day of
-remembrance. Each year there was a moment of high symbolism that demonstrated
-their world view. The High Neem and the Top Prof approached the Ship of Light
-at the centre of the great cathedral. The silent throng watched as the two
-stopped before it. For the briefest of moments no-one blinked and all breaths
-were suspended as the two prostrated themselves on the floor. The deepest
-devotion to that which is Good and to that which is True was embodied in their
-gesture.
+They returned to a very old notion of learning. All the various disciplines
+were considered branches of philosophy. Over specialising in fields was frowned
+upon. To be a well rounded generalist was highly prized.
+
+Every year on midsummer's day there was a great gathering at the cathedral. A
+day of remembrance. Each year there was a moment of high symbolism that
+demonstrated their world view. The High Neem and the Top Prof approached the
+Ship of Light at the centre of the great cathedral. The silent throng watched
+as the two stopped before it. For the briefest of moments no-one blinked and
+all breaths were suspended as the two prostrated themselves on the floor. The
+deepest devotion to that which is Good and to that which is True was embodied
+in their gesture.
 
 Everyone bowed.
 
@@ -88,14 +92,17 @@ When Kronos received this last report, he knew that what was needed was now in
 place. Long he had toiled to prepare the way. Terraforming had been going very
 well. Gaia stirred anew. Now that the missing mythos had been found he launched
 the last of the seed ships for its return to Earth, the one held back for just
-this eventuality. As the ship slid away from the moon's surface he felt a great
-urge to cry but this time, with happy tears. He hoped that these children going
-to their births would one day remember him, would one day appreciate how long
-the labour had taken. Perhaps it did not matter. What really mattered was that
-here were innocents who could hold a world in devotion, who would understand
-that all life is sacred. They had the tools now to not fall into falseness or
-fantasy. They could fight back against the forces of greed and hatred. They
-would know that sentience was in itself a mystery, a miracle and a wonder.
+this eventuality. After considering the report he made only a slight
+modification, he added clones of Theo & Maya to the liferaft about to return.
+
+As the ship slid away from the moon's surface he felt a great urge to cry but
+this time, with happy tears. He hoped that these children going to their births
+would one day remember him, would one day appreciate how long the labour had
+taken. Perhaps it did not matter. What really mattered was that here were
+innocents who could hold a world in devotion, who would understand that all
+life is sacred. They had the tools now to not fall into falseness or fantasy.
+They had the tools to resist the forces of greed and hatred. They would know
+that sentience was in itself a mystery, a miracle and a wonder.
 
 It was divine.
 
