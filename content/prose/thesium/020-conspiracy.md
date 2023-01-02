@@ -1,8 +1,8 @@
 ---
 bannerTitle: "Thesium" 
-title: Seeds
+title: Conspiracy
 type: prose/thesium
-aliases: [/thesium/seeds/]
+aliases: [/thesium/conspiracy/]
 ---
 
 <div class="data">

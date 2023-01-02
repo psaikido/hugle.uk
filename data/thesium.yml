@@ -3,11 +3,11 @@ menu:
 - title: Kronos 
   url: /thesium/
 
+- title: Conspiracy 
+  url: /thesium/conspiracy/
+
 - title: Seeds 
   url: /thesium/seeds/
-
-- title: Waiting 
-  url: /thesium/waiting/
 
 - title: Terraformers 
   url: /thesium/terraformers/
