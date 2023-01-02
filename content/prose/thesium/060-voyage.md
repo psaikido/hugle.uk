@@ -107,7 +107,8 @@ himself he knew that he didn't have long. All these years he had waited for the
 right moment to give them THE QUESTION! Now it seemed it was going to be on his
 death bed, in his very last words, that he'd do the best for them that he could
 think of. His eyes crinkled up as he chuckled at the thought of how cross they
-were going to be with him. Yes indeed...
+were going to be with him. It was a question that they all needed, something to
+prise them out of their assumptions, their dead-end answers. Yes indeed...
 
 What is love?
 

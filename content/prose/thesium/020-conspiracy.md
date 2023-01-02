@@ -21,7 +21,7 @@ but they had heard of each other.
 "Tell me, Doug, how's the AI research getting on? Now the Colonel has started
 the ball rolling, as it were, we can talk openly I'm sure."
 
-"Well, er Gemma is it? Well, erm, it's ok to tell you? Is it?"
+"Well, er Maya is it? Well, erm, it's ok to tell you? Is it?"
 
 "We're to swap our research and see if they can combine. You heard him didn't
 you?"
@@ -37,7 +37,7 @@ code he and his team had lived and breathed was the most advanced in history.
 He wasn't used to all the soldiers standing stiffly about the place either.
 Their hi-tech guns made him nervous. These guys never seemed to smile.
 
-Gemma leaned forward "My group's lunar base has a facility for making Von
+Maya leaned forward "My group's lunar base has a facility for making Von
 Neumann machines. We have actual working prototypes already. They can rebuild
 and reconfigure themselves. That makes them, practically speaking, immortal! Of
 course, no one can breathe a word of this but look, the Colonel thinks 
@@ -61,7 +61,7 @@ listening?"
 stealing bazillions of dollars of military funding and funneling it all into
 getting the human embryo bank up to our lunar base. We're going to put them on
 a fleet of my immortal machines so we can SURVIVE man! Survive as a race I
-mean. Surely you heard that part?" Gemma was all CIA, svelte and polished.
+mean. Surely you heard that part?" Maya was all CIA, svelte and polished.
 
 "Oh, of course, yes indeed, 'survive' yes, haha, indeed. Erm, where do I come in
 to all.."
@@ -91,7 +91,7 @@ spaceflight the day after tomorrow. Got it? Can you do that?"
 
 "Crumbs, er, right, thanks. Will there be any room for er, cats?
 
-Gemma could not believe that this was the man in charge of the most expensive,
+Maya could not believe that this was the man in charge of the most expensive,
 the most daring, the most stupendous project that human kind had ever
 undertaken. They were going to use her moon labs to integrate her
 self-replication technology with this monster of an AI. If humanity was ever to
@@ -118,7 +118,7 @@ fun.
 
 A few days later the blast off from Cape Canaveral drowned out the small arms
 fire that filled the air. The soldiery that protected them as they boarded were
-firing at anyone that even might stop them. Doug, Gemma and Colonel Nimes found
+firing at anyone that even might stop them. Doug, Maya and Colonel Nimes found
 each other and strapped themselves into seats. This in itself was a minor
 miracle. There were just over a thousand people on board, not counting the
 embryo banks safely frozen in the hold. Doug had a little plastic crate. His

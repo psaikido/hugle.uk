@@ -36,26 +36,27 @@ some from various illnesses, not all of the babies made it through their first
 year. Naturally, he had conducted the funerals.
 
 So many weddings came along too. He officiated at them all. The original crew
-paired up all over the place, him included. Maya, his first mate, became his,
-well, first mate. They fell head over heels in love, there had always been a
-little frisson between them, but so much was at stake before their arrival that
-there never seemed to be enough time to get to know each other. There's
-something about a leisurely swim in a mountain lake, a special magic around a
-bottle of wine and an afternoon in the long grass that just will not be denied.
-He still felt a glow all the way down to his feet every time he remembered that
-first time. When his fortieth birthday rolled around he was father to quite a
-gang. His own brood, three girls and a boy, merged with the larger gang,
-universally known as the wild bunch! 
+paired up all over the place, him included. Even Doug had got together with one
+of his former assistants, a programmer called Gemma. They made an awkward couple
+but sweet with it. Maya, his first mate, became his, well, first mate. They fell
+head over heels in love, there had always been a little frisson between them,
+but so much was at stake before their arrival that there never seemed to be
+enough time to get to know each other. There's something about a leisurely swim
+in a mountain lake, a special magic around a bottle of wine and an afternoon in
+the long grass that just will not be denied. He still felt a glow all the way
+down to his feet every time he remembered that first time. When his fortieth
+birthday rolled around he was father to quite a gang. His own brood, three girls
+and a boy, merged with the larger gang, universally known as the wild bunch! 
 
 Even in those early years it was clear that the wild bunch had an intensity
 about them. They spent as much time as they could in the woods of the
 surrounding hills and always together. As much as he loved the place he couldn't
 really commune with it the way they could. It was a wonder to behold.
 
-And then there were the technicians. Their communing was always with Root. The
-thrill they got from life seemed to be mathematical and technical. It was a good
-sign as far as Theo was concerned. It looked like things were going to hang
-together.
+And then there were the technicians. Doug lead a tribe of uber-geeks. Their
+communing was always with Root. The thrill they got from life seemed to be
+mathematical and technical. It was a good sign as far as Theo was concerned. It
+looked like things were going to hang together.
 
 Around the time of his fiftieth birthday there were signs of tension. The wild
 bunch had become a tribe by this time, their leaders were his own children. The
@@ -63,9 +64,9 @@ way they wanted to put his party together had caused arguments. They kept on
 about "praising the light" and similar religious sounding terms that the
 technicians thought to be silly and had managed to ignore up to that birthday.
 His son, Thito (little Theo) had got into a fight with the one nicknamed
-'Einstein'. They were both in their early twenties and all out violence would've
-been serious if he hadn't stepped in. He heard shouting and the sound of glass
-shattering and so had barged in on a party planning meeting.
+'Einstein', Doug's boy. They were both in their early twenties and all out
+violence would've been serious if he hadn't stepped in. He heard shouting and
+the sound of glass shattering and so had barged in on a party planning meeting.
 
 "What the bloody hell is going on?" he demanded.
 

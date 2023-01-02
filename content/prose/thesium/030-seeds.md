@@ -43,12 +43,12 @@ cryo-vault glow blue as it booted up. At least it was easier to keep his baby
 cool here on the moon. It needed to stay at around 35 Kelvin down there in that
 vault of qubits.
 
-After a few hours they gathered at Doug's desk. Gemma asked "Can we talk to it
+After a few hours they gathered at Doug's desk. Maya asked "Can we talk to it
 yet?"
 
 "It? He's called 'Kronos'. It used to be 'Brain-x55' but .."
 
-A disembodied voice, deep and authoritative, said "Hello Gemma! All
+A disembodied voice, deep and authoritative, said "Hello Maya! All
 initialisations are complete. How can I help you?"
 
 "Woa!" she said, standing up. "You have your prime directive I believe. We have
