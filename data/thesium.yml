@@ -1,10 +1,13 @@
 menu:
 
-- title: Thesium 
+- title: Kronos 
   url: /thesium/
 
 - title: Seeds 
   url: /thesium/seeds/
+
+- title: Waiting 
+  url: /thesium/waiting/
 
 - title: Terraformers 
   url: /thesium/terraformers/
