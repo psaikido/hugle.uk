@@ -38,7 +38,7 @@ back down at the terminal he typed:
 Doug hoped that it would be enough. His life's work had gone into creating an
 intelligence that would be able to work with such a directive. There was no way
 of knowing if it was all a mad gamble or whether the AI would be able to do it.
-They just had no choice but to try. He pressed return and turned to see the
+They just had no choice but to try. He pressed return and went over to see the
 cryo-vault glow blue as it booted up. At least it was easier to keep his baby
 cool here on the moon. It needed to stay at around 35 Kelvin down there in that
 vault of qubits.
