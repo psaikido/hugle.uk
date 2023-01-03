@@ -1,0 +1,3 @@
+#! /bin/bash
+
+wc -w ~/sites/hugle.uk/content/prose/thesium/*.md
