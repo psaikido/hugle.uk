@@ -42,7 +42,7 @@ boys and Apollo base but are still waiting to hear about the embryo bank."
 Despite all the qualms about making such a move, it had turned out to be a
 simple thing. A few of the key people, a couple of systems engineers here, a
 Chief Technical Officer there, and hey presto, their operation to commandeer
-spaceflight and a hand full of the planet's most advanced research projects was
+spaceflight and a handful of the planet's most advanced research projects was
 in the bag - nearly.
 
 A few days later Doug heard that the embryo bank was going on another Leviathan
