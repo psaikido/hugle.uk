@@ -88,6 +88,6 @@ seats. There were just over a thousand people on board. From Doug's little
 plastic crate, his cat 'Beenie' mewed pitifully.
 
 As they cleared the tower and the ferocious G-forces mounted higher and higher,
-they each one knew that this Leviathan X rocket was a life-raft and they
+every soul on board knew that this Leviathan X rocket was a life-raft and they
 were leaving a sinking ship. It was a good thing that the whole launch and
 flight was an automated process for every last one on board was panicking.
