@@ -87,7 +87,7 @@ years now, so.."
 
 "That sounds fantastic, the rumours were true then! Now, at the double and top
 top secret, you're bringing your team and all your tech and your getting on that
-spaceflight the day after tomorrow. Got it? Can you do that?"
+spaceflight this time next week. Got it? Can you do that?"
 
 "Crumbs, er, right, thanks. Will there be any room for er, cats?
 
