@@ -45,7 +45,7 @@ Waiting for the kettle to boil, he noticed the little cushion someone had
 bought for a present - "Live, Laugh, Love" it said. There was a little rainbow
 design. Again, he thought of murder. His empty flat shrugged and looked the
 other way. Clicking the door shut, he stepped down the hall and stopped.
-Muttering darkly, he returned for his phone. The door gave a propper slam that
+Muttering darkly, he returned for his phone. The door gave a proper slam that
 time. 
 
 The dust in the flat relaxed into the eternal business of swirling back
