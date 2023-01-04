@@ -99,32 +99,5 @@ return to the Earth in any numbers then it would just HAVE to work.
 
 It looked like this weird Doug character was catching on at last, so that was
 something. Dozens of similar conversations were being secretely held all over
-the world. As warfare had gotten more extreme everything had started
-collapsing. The leaders were found to be next to useless. They had got to the
-top of their trees by saying the right things to the right people, but now they
-had to DO the right things they were found to be bogged down in ideology and
-thus frozen and inept.
+the world. Insurrection was afoot.
 
-Luckily, the layer of people just below the top turned out to be the ones with
-the actual power. The ones no-one had heard of who built and ran the systems
-everyone relied on. Personal relations between scientists built up through
-conferences and inter-disciplinary initiatives had, over the years, enabled
-them to outflank those supposedly in charge. The absolute nature of their task
-had bulldozed through all the qualms anyone could raise. The various fields,
-finance, military, science, technology, all had security built in to them. They
-had simply taken over and locked out the higher ups who now found themselves
-suddenly irrelevant. If things weren't so serious it would've been a lot of
-fun.
-
-A few days later the blast off from Cape Canaveral drowned out the small arms
-fire that filled the air. The soldiery that protected them as they boarded were
-firing at anyone that even might stop them. Doug, Maya and Colonel Nimes found
-each other and strapped themselves into seats. This in itself was a minor
-miracle. There were just over a thousand people on board, not counting the
-embryo banks safely frozen in the hold. Doug had a little plastic crate. His
-cat, 'Beenie' mewed pitifully.
-
-As they cleared the tower and the ferocious G-forces mounted higher and higher,
-they each one knew that this Leviathan X rocket was a life-raft and they
-were leaving a sinking ship. It was a good thing that the whole launch and
-flight was an automated process for every last one on board panicked.

@@ -63,10 +63,11 @@ was set and Kronos got to work.
 The NASA guys had a prototype wormhole system. There had been a busy hive of
 activity on Apollo for several years. They had sent neutrino matter assemblers
 further and further away and then managed to fold spacetime back to their launch
-point. The energy required to hold the gates open had meant they were very
-disappointingly brief. Kronos solved their main issues in under two hours. He
-was going to be able to maintain the network for thirty years. You could say
-that the NASA folk went nuts - they were 'over the moon' in fact!
+point. The energy required to hold the gates open had meant they were
+disappointingly, very brief. They showed Kronos their codebase. To their
+astonishment, he solved the main issues in under two hours. He was going to be
+able to maintain the network for thirty years. You could say that the NASA folk
+went nuts - they were 'over the moon' in fact!
 
 At the end of that first week on Apollo, Kronos set out the schedule.
 
