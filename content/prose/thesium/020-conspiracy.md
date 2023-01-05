@@ -39,7 +39,7 @@ soldiers standing stiffly about the place either. Their hi-tech guns made him
 nervous. These guys never seemed to smile.
 
 Maya leaned forward "You'll know that the Apollo lunar base is mining up there
-but my project has focussed on self-replicating machines. Several secret
+but my project has focused on self-replicating machines. Several secret
 research projects are underway, I'm sure the NASA guys will want to talk to you
 too. We have actual working prototypes already by the way. The system is
 basically a hive structure with a micro AI at the top and branches down a
