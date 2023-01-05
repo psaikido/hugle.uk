@@ -98,6 +98,6 @@ self-replication technology with this monster of an AI. If humanity was ever to
 return to the Earth in any numbers then it would just HAVE to work. 
 
 It looked like this weird Doug character was catching on at last, so that was
-something. Dozens of similar conversations were being secretely held all over
+something. Dozens of similar conversations were being secretly held all over
 the world. Insurrection was afoot.
 
