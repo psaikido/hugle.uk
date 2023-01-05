@@ -58,7 +58,7 @@ listening?"
 "Oh, oh, that's right, yes. Erm, are we going to other stars then?"
 
 "Jesus! Doug you've not been listening at all have you? This Colonel here is
-stealing bazillions of dollars of military funding and funneling it all into
+stealing bazillions of dollars of military funding and funnelling it all into
 getting the human embryo bank up to our lunar base. We're going to put them on
 a fleet of my immortal machines so we can SURVIVE man! Survive as a race I
 mean. Surely you heard that part?" Maya was all CIA, svelte and polished.
