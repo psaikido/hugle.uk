@@ -36,9 +36,11 @@ hand. The Colonel introduced them and they sat once more.
 about you lot you know."
 
 The Colonel intervened. Leaning forward he said "Before we get into it, can I
-just make it perfectly clear that if any of us get caught doing this we're going
-to be executed. Not court-marshalled, not imprisoned, actually shot in the head,
-executed! Now, we've been over a lot of this in the kryptokom channel but I need
+just make it perfectly clear that if any of us get caught doing this we're
+going to be executed. Not court-marshalled, not imprisoned, actually shot in
+the head, executed! Oh, and sorry about the uniform, what with the war and all
+they've brought everyone in to try and look tough. I'm a lot more astronaut than
+officer. Now, we've been over a lot of this in the kryptokom channel but I need
 to know how much each of you know as of right now. Maya?"
 
 "You boys are going to fly your big Brain AI up to my lunar base and we're going
