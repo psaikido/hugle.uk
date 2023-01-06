@@ -26,7 +26,7 @@ even for unclassified meetings. Ah, here's Doug now."
 *He's certainly pretty fit under that, what is it, tweed? No, more like felt.*
 She looked over the young man in his crisp uniform as he stepped out of the
 skein of light to the door. He shook hands with a very awkward looking fellow
-with weird hair, ginger, wavy and diagonal, but upwards. *How do you do that*
+with weird hair, ginger, wavy and diagonal, but upwards. *How do you do that?*
 He clutched a satchel to his bosom. He panted and shuffled into the envelope.
 
 Maya saw Doug's eyes widen behind his thick glasses when she stood to shake his
