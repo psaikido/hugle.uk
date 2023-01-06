@@ -13,17 +13,10 @@ aliases: [/thesium/insurrection/]
 
 ![chip - capn-damo on deviantart.com](/images/thesium/insurrection-chip.jpg)
 
-Doug had been so wrapped up in the details of his own project that he had lost
-site of the big picture. This had always been his weakness. He kicked himself
-for coming over as such a clutz with Maya. He had been going for a "devil's
-advocate" sort of questioning but had ended up looking clueless. Never mind,
-there was nothing he could do about that now.
-
-He could see, along with most everyone else, that as warfare had gotten more
-extreme, everything had started collapsing. The leaders were found to be next to
-useless. They had got to the top of their trees by saying the right things to
-the right people, but now they had to DO the right things they were found to be
-bogged down in ideology and thus frozen and inflexible.
+Doug glanced over his shoulder, turned back to his console and pushed his
+glasses back up his nose. *In for a penny.* Tappety tap went his fingers as he
+committed high treason and a bunch of other crimes at the same time. *Let's
+see, that's treason and cybercrime and mm, fraud maybe?*
 
 The security at Brain Labs was state-of-the-art but because he had global
 superuser access, it had been child's play to take over entirely. In precisely
