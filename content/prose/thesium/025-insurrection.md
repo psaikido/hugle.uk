@@ -13,26 +13,38 @@ aliases: [/thesium/insurrection/]
 
 ![chip - capn-damo on deviantart.com](/images/thesium/insurrection-chip.jpg)
 
-Doug glanced over his shoulder, turned back to his console and pushed his
-glasses back up his nose. *In for a penny.* Tappety tap went his fingers as he
-committed high treason and a bunch of other crimes at the same time. *Let's
-see, that's treason and cybercrime and mm, fraud maybe?*
+Doug glanced over his shoulder, turned back to his systems administrator and
+pushed his glasses back up his nose. "It's time to kick out management my old
+friend." *Oh Jesus we're going to get hung for this.* 
 
-The security at Brain Labs was state-of-the-art but because he had global
-superuser access, it had been child's play to take over entirely. In precisely
-three lines of code he had reconfigured the whole security system. Everyone above
-level 5 access where booted off. Simple!
+He glanced at his watch - 2:30am. The office was dark, they didn't want to
+attract attention. He leaned over his friend's shoulder and watched as the
+tappety tap fingers committed high treason and a bunch of other crimes at the
+same time. *Let's see, that's treason and cybercrime and mm, fraud maybe?*
 
-He got on the kryptokom channel and called 'chipmonk99'. "How's the
-in..insurrection at your end? We've locked out management here."
+The security at Brain Labs was state-of-the-art but he had global superuser
+access as the lead developer and the sysadmin was all in on their insurrection
+too. In precisely three lines of code they had reconfigured the whole security
+system. Everyone above level 5 access were booted off. Simple!
+
+"Top job Steve, you may have just saved the world." *I've never seen Steve this
+way - is he going to cry?* He put his hand on Steve's shoulder. There was an
+awkward pause until Steve nodded. "Let's find out how the others are doing, ok?"
+
+He got on the kryptokom channel and called 'chipmonk99'. *Let's try to sound
+casual this time.* "How's the jolly old insurrection at your end? We've locked out
+management here." *Not too bad, at least you didn't stutter.*
 
 "Yeah baby! We got internet4's Western backbone yesterday. We got the NASA
 boys and Apollo base but are still waiting to hear about the embryo bank." 
 
-"You have to tell me that NSA have been kicked?"
+Steve smiled and stuck up his thumb.
+
+"You have to tell me that the NSA have been kicked?"
 
 "First thing we did. In fact all the spooks should be out of the picture. The
-CIA are trying to fight back but they've got no chance."
+CIA are trying to fight back but they've got no chance. Maya's got the keys to
+the kingdom over there."
 
 Despite all the qualms about making such a move, it had turned out to be a
 simple thing. A few of the key people, a couple of systems engineers here, a
@@ -40,37 +52,62 @@ Chief Technical Officer there, and hey presto, their operation to commandeer
 spaceflight and a handful of the planet's most advanced research projects was
 in the bag - nearly.
 
-A few days later Doug heard that the embryo bank was going on another Leviathan
-rocket launching from Kazakstan. He only had to concentrate on getting his rig
-and his people to Florida. No one had slept for too long and things were getting
-fraught. The plane was all lined up but getting to the runway was the problem.
-The rig had to be kept supercool, not far from absolute zero in fact. The whole
-shebang just about fitted into a container lorry, power supply and all, but the
-lab had been surrounded by soldiers and they couldn't drive it out.
+"Right, Steve, we've got to power down the Brain and load everything into the,
+the what is it?"
 
-The clock kept ticking.
+"Lorry container. It's ready in the loading dock"
 
-Someone must've blabbed, or maybe management had figured it out, but these were
-real soldiers with real guns and they meant to stop them stealing the AI.
-Doug's people were co-ordinating their own security in an armed standoff while
-Doug scrambled to talk to Colonel Nimes.
+*Oh my giddy aunt! That's liquid nitrogen in the vault. What the fuck happens if
+it gets above 40 Kelvin?* "Ok, so we'll need to move it at, let's see, 5am ok?"
 
-"Theo, Theo, er Sir, is that you? There's two dozen chaps with big guns stopping
-the lorry getting to the airport. Um, we're a bit stuck you see.."
+The kryptokom flashed. He put his finger to his ear and held his hand up to
+Steve.
 
-"Ok understood. Sit tight, I've got some contacts over there and I'll get you
-some help, don't worry. Out."
+"Right. Right ok. So the embryo bank is blasting off from, from where did you
+say?" *Shit, they were supposed to be with us.* "Kazakstan? Got it, ok thanks." 
 
-He heard shouting and some rifle fire after about half an hour but then a loud
-chunk chunk sound came over the nearby hill. A massive helicopter swooped
-towards them and slowed to a hover, thud thudding over the compound. Scooping up
-his laptop, a shoulder bag and a cat box, he ran out to meet it. A group of
-soldiers, apparently identical to the guys outside, stood beside their dangling
-abseil ropes. They got to work attaching the container and at the last minute
-shoved Doug, his staff of fifteen and themselves into the container along with
-the AI. Everyone was cheek by jowl as they took off. Bullets could be heard
-slamming into the metal box as they swung up into the Cambridgeshire afternoon.
-Doug's head swam with the scent of the young woman he was jammed up against. He
+He turned back to Steve who also had his finger to his ear. He looked alarmed.
+
+"Doug, Dougie oh shit, they're saying there's some military at the perimeter. It
+looks like they might be onto us. Someone's blabbed!"
+
+*Fuckity fuckity fuckity fuck* "Get the monitors up would you Steve?" On the
+little monitor they could see a humvee at the outer perimeter gate. Their own
+security looked like they were aware of it. They could see them having a confab
+behind the inner wall.
+
+"Management must've figured it out. Jesus, they look like real soldiers with
+real guns and everything." *How long have we got before they get backup?* "I'll
+get onto the Colonel." 
+
+"Theo? Theo? Er Colonel, Sir, is that you? There's a dozen chaps with big guns
+at our gates. It looks like they are going to try and stop us getting the lorry
+to the airport. Um, we're a bit stuck you see.. Yes..? Three hours? Ok."
+
+"He says he's got some contacts over here and he's getting us some help. Air
+support at, what's that? 5:40. Right, I'll get my team moving."
+
+He walked out to the dev lab and found the security doors propped open. His
+raggle-taggle team of uber-nerds stood about nervously waiting for him.
+
+"Right you lot, it's time, so everything just like we practiced." They sprang
+into action and for the next few hours the nerves eased up. It was much better
+when there was something to concentrate on. Moving the most advanced artificial
+intelligence ever created into a big metal box along with its power supply and
+cryovault was a very ticklish business. 
+
+He heard some rifle fire in the distance as they waited on the compound's
+forecourt. Everyone kept flinching but then a loud chunk chunk sound came over
+the nearby hill. All faces turned toward a massive helicopter swooping towards
+them. It slowed to a hover, thud thudding over the compound. He ran back inside
+and scooped up his laptop, a shoulder bag and a cat box. When he came back out
+he saw a group of soldiers abseil down from the huge chopper. They got to work
+attaching the container and at the last minute shoved Doug, his staff and
+themselves into the container along with the AI. 
+
+Everyone was cheek by jowl as they took off. Bullets could be heard slamming
+into the metal box as they swung up into the Cambridgeshire afternoon. Doug's
+head swam with the scent of the young woman's hair he was jammed up against. He
 was more embarrassed than afraid. "Gosh, so, it's Gemma isn't it?"
 
 There were no further incidents and they all slept soundly on the
