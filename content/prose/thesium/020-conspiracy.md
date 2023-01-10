@@ -14,8 +14,8 @@ aliases: [/thesium/conspiracy/]
 ![electron kiss - capn-damo on deviantart.com](/images/thesium/electron-kiss.jpg)
 
 Colonel Nimes turned on the privacy cone. Maya let the gentle purple light play
-on her fingers for a moment and then drew them back inside the envelope. They
-hadn't needed any such security on Apollo Base.
+on her fingers for a moment and then drew them back inside the field's
+envelope. They hadn't needed any such security on Apollo Base.
 
 "So we're expecting who now?" *I wonder if he's going to sidestep or tell me
 it's Doug from Brain Labs.* She liked testing people out.
@@ -27,51 +27,37 @@ even for unclassified meetings. Ah, here's Doug now."
 She looked over the young man in his crisp uniform as he stepped out of the
 skein of light to the door. He shook hands with a very awkward looking fellow
 with weird hair, ginger, wavy and diagonal, but upwards. *How do you do that?*
-He clutched a satchel to his bosom. He panted and shuffled into the envelope.
+He clutched a satchel to his bosom. He panted and shuffled into the envelope,
+the purple light scanning over him as he stepped inside.
 
 Maya saw Doug's eyes widen behind his thick glasses when she stood to shake his
 hand. The Colonel introduced them and they sat once more.
 
 "Tell me, Doug, how's the AI research getting on? There are amazing rumours
-about you lot you know."
+about..." Maya flinched as a jet screamed overhead. The whole room shuddered.
+They put their hands over their ears and involuntarily crouched. The purple
+light skittered on-off-on-off-on. The rest of the room was in complete
+darkness. There were no windows. Maya had thought they were further
+underground. 
 
-The Colonel intervened. Leaning forward he said "Before we get into it, can I
-just make it perfectly clear that if any of us get caught doing this we're
-going to be executed. Not court-marshalled, not imprisoned, actually shot in
-the head, executed! Oh, and sorry about the uniform, what with the war and all
-they've brought everyone in to try and look tough. I'm a lot more astronaut than
-officer. Now, we've been over a lot of this in the kryptokom channel but I need
-to know how much each of you know as of right now. Maya?"
+The Colonel stood and turned away, putting a finger to his ear. He nodded a few
+times and turned back. "One of ours. The fighting is getting pretty close so
+we're going to have to wrap this up pretty soon, ok? Maya, you were saying?"
 
-"You boys are going to fly your big Brain AI up to my lunar base and we're going
-to make it live forever, of course."
+"Oh I just want to hear about this fabulous AI you have, Doug?"
 
-Doug's eyes flitted between them. He still clung to his satchel. "What is the
-ah, the actual status of the self-replication research?"
+The Colonel intervened. Leaning forward he said "Oh, just a minute, before we
+get into it, can I just make it perfectly clear that if any of us get caught
+doing this we're going to be executed. Not court-marshalled, not imprisoned,
+actually shot in the head, executed! Steeling the planet's biggest human embryo
+bank and its most advanced AI in one fell swoop, and in the midst of the
+biggest and stupidest war we've ever seen..Oh, and sorry about the uniform,
+what with the war and all they've brought everyone in to try and look tough.
+I'm a lot more astronaut than officer. Now, we've been over a lot of this in
+the kryptokom channel but seeing is believing right? Maya I believe you have
+something to show us?"
 
-"I asked first. Big Brain Labs, where's it at?"
-
-Doug looked at the Colonel who nodded.
-
-"Let's see, the quantum computation part of the puzzle is fully integrated in
-our recent tests and Chalmers has cracked the other main bit, you know, the
-space-time-mind equations have been solved. Do you see? Solved finally, so the
-'machine' isn't a machine any more, in actual fact, it is genuinely sentient so
-far as we can tell that is, the singularity threshold has been maintained and
-has been for a few years now, so.." He put his satchel on the sleek conference
-table.
-
-Maya opened her mouth but just as she began, the room shuddered as a jet
-screamed overhead. They put their hands over their ears and involuntarily crouched.
-The purple light skittered on-off-on-off-on. The rest of the room was in
-complete darkness. There were no windows. Maya had thought they were further
-underground. The Colonel stood and turned away, putting a finger to his ear. He
-nodded a few times and turned back.
-
-"One of ours. The fighting is getting pretty close so we're going to have to
-wrap this up pretty soon, ok? Maya, let's have it."
-
-The two men's eyes followed the exact same path as she lent down to pick up her
+The two men's eyes followed the exact same path as she lent down to pick up a
 little container, long black hair tumbling. She really didn't look like any
 scientist either of them had worked with before.
 
@@ -113,10 +99,20 @@ The Colonel obliged, she didn't see how, and said "This is a tiny sample. At
 larger hive masses it has a distributed AI capacity that can build anything you
 like. It will turn itself into whatever tool is necessary. There's a library of
 shapes we've preprogrammed but that was just for development. It can work out
-what it needs to be from the context its in. We've had it use hydroflouric
+what it needs to be from the context it's in. We've had it use hydroflouric
 leaching on moon regolith and building a ton more of its own nanocomponents.
 There, I told you, self-replication! We can get on with making real Von Neumann
-probes now." She smiled broadly.
+probes now, you know, ships that can keep themselves going indefinitely." She
+smiled broadly. "Now, Doug, your turn."
+
+Doug's eyes flitted between them. Doug looked at the Colonel who nodded.
+
+"Let's see, the quantum computation part of the puzzle is fully integrated in
+our recent tests and Chalmers has cracked the other main bit, you know, the
+space-time-mind equations have been solved. Do you see? Solved finally, so the
+'machine' isn't a machine any more, in actual fact, it is genuinely sentient so
+far as we can tell that is, the singularity threshold has been maintained and
+has been for a few years now, so.." 
 
 Colonel Nimes stood and clapped his hands. "Fantastic! Right so Doug, you get
 your team and your rig to Florida in seven days time, right?" Doug nodded.
