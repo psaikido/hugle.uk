@@ -49,7 +49,7 @@ we're going to have to wrap this up pretty soon, ok? Maya, you were saying?"
 The Colonel intervened. Leaning forward he said "Oh, just a minute, before we
 get into it, can I just make it perfectly clear that if any of us get caught
 doing this we're going to be executed. Not court-marshalled, not imprisoned,
-actually shot in the head, executed! Steeling the planet's biggest human embryo
+actually shot in the head, executed! Stealing the planet's biggest human embryo
 bank and its most advanced AI in one fell swoop, and in the midst of the
 biggest and stupidest war we've ever seen..Oh, and sorry about the uniform,
 what with the war and all they've brought everyone in to try and look tough.
