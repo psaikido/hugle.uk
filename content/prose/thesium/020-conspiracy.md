@@ -80,7 +80,7 @@ Maya leaned in toward the pyramid. "99 up. Sync. Initialise. Search."
 
 The pyramid sprang apart and the dots fanned out across the table. They all
 looked like they were bumping into each other. Doug and the Colonel sprang back.
-A disembodied voice of young boy said "No components found. Reform." and they
+A disembodied voice of a young boy said "No components found. Reform." and they
 all jiggled back to the centre of the table again and built back up into the
 phenomenally black pyramid.
 
