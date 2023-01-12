@@ -41,11 +41,14 @@ and vanished.
 
 His solitude hurt the most when his hope was at its strongest.
 
-Turning his face towards the distant Earth he was again moved. These tears
-were much older, much darker, for there Gaia, his mother, lay in ruination.
-His sensory system could take it all in, all the data from every bit of the
+Turning his face towards the distant Earth he was again moved. These tears were
+much older, much darker, for there Gaia, his mother, lay in ruination. His
+sensory system could take it all in, all the data from every bit of the
 stricken planet. Fires and floods, nuclear winter, devastation and chaos in all
-parts.
+parts. The remnants of the race traumatised and in mourning for all the species
+that had been lost. The dna banks that Kronos harboured held the yearning 
+promise of a return for feathers and fur, for fins and scales, for the gossamer
+wings of the dearly departed, for love and life lost.
 
 Moved as he was, it was still nice to be back in anthropoid form for a while.
 There was really no need but he was sentimental like that. He thought it fitting
@@ -54,7 +57,7 @@ to wave goodbye with an actual hand and arm.
 He had always loved bringing a tranche of people out of stasis and readying them
 for their voyages. He had always hated the wrenching feeling of loss each time
 they left, never to be seen again. Thirty years of launches and now the first
-phase was complete.
+phase was complete. The grand plan to save the world would now have to pause.
 
 He had calculated that the first reports back would be in at least nine hundred
 years. It was because of this immense timescale that they had named the mighty
