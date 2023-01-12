@@ -13,19 +13,19 @@ aliases: [/thesium/insurrection/]
 
 ![chip - capn-damo on deviantart.com](/images/thesium/insurrection-chip.jpg)
 
-Doug glanced over his shoulder, turned back to his systems administrator and
-pushed his glasses back up his nose. "It's time to kick out management my old
-friend." *Oh Jesus we're going to get hung for this.* 
+Doug glanced over his shoulder and turned back to his systems administrator.
+"Ok Steve my old chum, it's time to kick out management." He pushed his glasses
+back up his nose. *Oh Jesus we're going to get hung for this.* 
 
 He glanced at his watch - 2:30am. The office was dark, they didn't want to
 attract attention. He leaned over his friend's shoulder and watched as the
-tappety tap fingers committed high treason and a bunch of other crimes at the
+tappety tap fingers committed high treason and half a dozen other crimes at the
 same time. *Let's see, that's treason and cybercrime and mm, fraud maybe?*
 
 The security at Brain Labs was state-of-the-art but he had global superuser
 access as the lead developer and the sysadmin was all in on their insurrection
-too. In precisely three lines of code they had reconfigured the whole security
-system. Everyone above level 5 access were booted off. Simple!
+too. In precisely three lines of code they reconfigured the main security
+system. Everyone above level 5 access were booted off. All the suits, gone. Simple!
 
 "Top job Steve, you may have just saved the world." *I've never seen Steve this
 way - is he going to cry?* He put his hand on Steve's shoulder. There was an
@@ -35,8 +35,9 @@ He got on the kryptokom channel and called 'chipmonk99'. *Let's try to sound
 casual this time.* "How's the jolly old insurrection at your end? We've locked out
 management here." *Not too bad, at least you didn't stutter.*
 
-"Yeah baby! We got internet4's Western backbone yesterday. We got the NASA
-boys and Apollo base but are still waiting to hear about the embryo bank." 
+"Yeah baby! We got internet4's Western backbone yesterday. We got the NASA boys
+and Apollo base but are still waiting to hear about the embryo bank. From the
+coms point of view it looks like we've got a clear run to the moon!" 
 
 Steve smiled and stuck up his thumb.
 
@@ -55,10 +56,10 @@ in the bag - nearly.
 "Right, Steve, we've got to power down the Brain and load everything into the,
 the what is it?"
 
-"Lorry container. It's ready in the loading dock"
+"It's a lorry container, Doug, sheesh! It's ready in the loading dock."
 
 *Oh my giddy aunt! That's liquid nitrogen in the vault. What the fuck happens if
-it gets above 40 Kelvin?* "Ok, so we'll need to move it at, let's see, 5am ok?"
+it gets above 70 Kelvin?* "Ok, so we'll need to move it at, let's see, 5am ok?"
 
 The kryptokom flashed. He put his finger to his ear and held his hand up to
 Steve.
@@ -90,7 +91,7 @@ support at, what's that? 5:40. Right, I'll get my team moving."
 He walked out to the dev lab and found the security doors propped open. His
 raggle-taggle team of uber-nerds stood about nervously waiting for him.
 
-"Right you lot, it's time, so everything just like we practiced." They sprang
+"Right you lot, it's time, so everything just like we practiced ok?" They sprang
 into action and for the next few hours the nerves eased up. It was much better
 when there was something to concentrate on. Moving the most advanced artificial
 intelligence ever created into a big metal box along with its power supply and
@@ -101,7 +102,7 @@ forecourt. Everyone kept flinching but then a loud chunk chunk sound came over
 the nearby hill. All faces turned toward a massive helicopter swooping towards
 them. It slowed to a hover, thud thudding over the compound. He ran back inside
 and scooped up his laptop, a shoulder bag and a cat box. When he came back out
-he saw a group of soldiers abseil down from the huge chopper. They got to work
+he saw a group of soldiers abseiling down from the huge chopper. They got to work
 attaching the container and at the last minute shoved Doug, his staff and
 themselves into the container along with the AI. 
 
@@ -123,4 +124,4 @@ pitifully.
 As they cleared the tower and the ferocious G-forces mounted higher and higher,
 every soul on board knew that this Leviathan X rocket was a life-raft and they
 were leaving a sinking ship. It was a good thing that the whole launch and
-flight was an automated process for every last one on board was panicking.
+flight was automated, for every last one on board was panicking.
