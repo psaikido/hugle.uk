@@ -46,7 +46,7 @@ much older, much darker, for there Gaia, his mother, lay in ruination. His
 sensory system could take it all in, all the data from every bit of the
 stricken planet. Fires and floods, nuclear winter, devastation and chaos in all
 parts. The remnants of the race traumatised and in mourning for all the species
-that had been lost. The dna banks that Kronos harboured held the yearning 
+that had been lost. The DNA banks that Kronos harboured held the yearning 
 promise of a return for feathers and fur, for fins and scales, for the gossamer
 wings of the dearly departed, for love and life lost.
 
