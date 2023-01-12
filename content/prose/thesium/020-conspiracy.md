@@ -27,7 +27,7 @@ even for unclassified meetings. Ah, here's Doug now."
 She looked over the young man in his crisp uniform as he stepped out of the
 skein of light to the door. He shook hands with a very awkward looking fellow
 with weird hair, ginger, wavy and diagonal, but upwards. *How do you do that?*
-He clutched a satchel to his bosom. He panted and shuffled into the envelope,
+He clutched a satchel to his chest. He panted and shuffled into the envelope,
 the purple light scanning over him as he stepped inside.
 
 Maya saw Doug's eyes widen behind his thick glasses when she stood to shake his
@@ -42,9 +42,9 @@ underground.
 
 The Colonel stood and turned away, putting a finger to his ear. He nodded a few
 times and turned back. "One of ours. The fighting is getting pretty close so
-we're going to have to wrap this up pretty soon, ok? Maya, you were saying?"
+we're going to have to wrap this up pretty quick, ok? Maya, you were saying?"
 
-"Oh I just want to hear about this fabulous AI you have, Doug?"
+"Yes, I just want to hear about this fabulous AI you have, Doug?"
 
 The Colonel intervened. Leaning forward he said "Oh, just a minute, before we
 get into it, can I just make it perfectly clear that if any of us get caught
@@ -63,8 +63,9 @@ scientist either of them had worked with before.
 
 "Look'ee here boys" She turned the box over and out onto the table came what
 Doug thought at first, was a nest of ants. Thousands of tiny black dots skated
-over the table top. Doug pulled his satchel back to his bosom. As they watched,
-all the dots began clumping together. They slowly rose into a jet black pyramid.
+over the table top. Doug clutched his satchel and jolted back. As they watched,
+all the dots began clumping together. They slowly rose into a jet black pyramid
+around 4 inches high.
 
 "That's resting state. This is a hive sample. Nanobots only yes, but these ones have
 some tricks. You want to see? Go to kryptokom 99, that's the channel they're
@@ -79,21 +80,21 @@ The purple light faded away and they were left with just the one overhead spot.
 Maya leaned in toward the pyramid. "99 up. Sync. Initialise. Search."
 
 The pyramid sprang apart and the dots fanned out across the table. They all
-looked like they were bumping into each other. Doug and the Colonel sprang back.
-A disembodied voice of a young boy said "No components found. Reform." and they
-all jiggled back to the centre of the table again and built back up into the
-phenomenally black pyramid.
+looked like they were bumping into each other. Doug and the Colonel sprang
+back. In their ear-pieces a disembodied voice of a young boy said "No
+components found. Reform." and they all jiggled back to the centre of the table
+again and built back up into the phenomenally black pyramid.
 
 "Flippety!" said Doug.
 
 Colonel Nimes looked Maya in the eye. "Ok, nice trick, but how can they build
 anything?"
 
-"Right, watch this. 99 up. Bond hash323." Over perhaps twenty seconds or so they
-stared as the nanobots morphed into a cylindrical rod about seven inches long.
-She picked it up and wrapped on the table with it. A little divot remained in
-the wooden surface. She put the rod back in the box and said. "Privacy cone
-please."
+"Right, watch this. 99 up. Bond hash323." Over perhaps twenty seconds or so
+they stared as the nanobots morphed into a cylindrical rod about seven inches
+long. She picked it up and wrapped hard on the table with it. A little divot
+was left in the wooden surface. She put the rod back in the box and said.
+"Privacy cone please."
 
 The Colonel obliged, she didn't see how, and said "This is a tiny sample. At
 larger hive masses it has a distributed AI capacity that can build anything you
@@ -122,6 +123,22 @@ won't make much difference. The word is that Mutually Assured Destruction is
 coming at us inside of a month or two and that's from five different hostile
 forces. A bullet or a nuclear bomb? I don't care anymore but what really matters
 is getting those embryos to viable environments, right? The whole shebang is
-falling apart but we're still good on security. The NASA guys are with us. Let's
-rock, I'll see you both in a week."
+falling apart but we're still good on security. The NASA guys are with us." 
+
+Doug put his hand through his shock of hair and said "Do you really think we
+can pull this off then? I'm just so disorientated these days. Every news item
+there's another extinction event let alone the war. I mean Jesus, the armies
+are killing everything as fast as they can and.." He bit his lip and frowned,
+his brows twitching.
+
+The Colonel leant on the table and said "Look, I think most of us are having
+panic attacks these days aren't we? I know it's a preposterous idea but the
+plan is working so far right? The best AI, the best self-replication tech, the
+best people, you and Maya here, come on! As I said, NASA are with us, everyone
+who wants to survive, everyone who's looking for a way out of this unholy mess.
+We can make it! Let's rock & roll ok? We can look after each other can't we?
+Let's just try to keep calm and do our best, we can't just give in to all these
+fascists and cultists can we? We've all seen too much death and destruction but
+this is a real chance at something positive. Now then, I've got to dash, I'll
+see you both in a week."
 
