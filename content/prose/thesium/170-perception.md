@@ -7,7 +7,7 @@ aliases: [/thesium/perception/]
 
 <div class="data">
 
-- K-1: 34650426 
+- CE: 3465 
 
 </div>
 

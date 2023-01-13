@@ -7,7 +7,7 @@ aliases: [/thesium/addendum/]
 
 <div class="data">
 
-- Hughie: 2022 
+- Hughie: 2023 
 
 </div>
 
@@ -26,10 +26,10 @@ The brilliant images are by Damian, my eldest brother. More of his stuff can be
 found on [DeviantArt](https://www.deviantart.com/capn-damo).
 
 Special thanks to the [Pillow Writers](https://pillowwriters.wordpress.com/)
-group for help and support in the forming of this work. Emma and Stoo in
+group for help and support in the forming of this work. Emma, Stoo and Dawn in
 particular have been heroic!
 
-The 'Abystery' is a version of Chenrezig.  
+The 'Abystery' is a version of Avalokitsvara / Chenrezig.  
 
 ![Chenrezig](/images/mantrasphere/chenrezig.jpg)
 {.img-half}

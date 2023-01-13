@@ -7,7 +7,7 @@ aliases: [/thesium/seeds/]
 
 <div class="data">
 
-- K-1: 2133 - 2164
+- CE: 2133 - 2164
 
 </div>
 

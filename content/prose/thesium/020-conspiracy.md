@@ -7,7 +7,7 @@ aliases: [/thesium/conspiracy/]
 
 <div class="data">
 
-- K-1: 2133
+- CE: 2133
 
 </div>
 
