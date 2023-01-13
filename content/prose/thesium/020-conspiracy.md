@@ -13,10 +13,10 @@ aliases: [/thesium/conspiracy/]
 
 ![electron kiss - capn-damo on deviantart.com](/images/thesium/electron-kiss.jpg)
 
-Maya stopped at the bottom of little jet's steps and smelled the air. She had
-seen nothing on the flight, the night was dark. *Is that the sound of surf over
-there? Must still be East Coast* she thought. Four security men escorted her
-towards a clearly military complex of some kind. The secrecy around this
+Maya stopped at the bottom of little the jet's steps and smelled the air. She
+had seen nothing on the flight, the night was dark. *Is that the sound of surf
+over there? Must still be East Coast* she thought. Four security men escorted
+her towards a clearly military complex of some kind. The secrecy around this
 operation was impressive.
 
 Colonel Theo Nimes greeted her and took her through to a darkened conference
