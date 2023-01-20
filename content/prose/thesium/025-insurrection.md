@@ -28,20 +28,20 @@ too. In precisely three lines of code they reconfigured the main security
 system. Everyone above level 5 access were booted off. All the suits, gone. Simple!
 
 "Top job Steve, you may have just saved the world." *I've never seen Steve this
-way - is he going to cry?* He put his hand on Steve's shoulder. There was an
-awkward pause until Steve nodded. "Let's find out how the others are doing, ok?"
+way - is he going to cry?* He put his hand on Steve's shoulder. "Let's find out
+how the others are doing, ok?" There was an awkward pause until Steve nodded. 
 
-He got on the kryptokom channel and called 'chipmonk99'. *Let's try to sound
+Doug got on the kryptokom channel and called 'chipmonk99'. *Let's try to sound
 casual this time.* "How's the jolly old insurrection at your end? We've locked out
 management here." *Not too bad, at least you didn't stutter.*
 
-"Yeah baby! We got internet4's Western backbone yesterday. We got the NASA boys
-and Apollo base but are still waiting to hear about the embryo bank. From the
-coms point of view it looks like we've got a clear run to the moon!" 
+The slightly crackly sound of the distant technician was clear enough in Doug's
+earpiece. "Yeah baby! We got internet4's Western backbone yesterday. We got the
+NASA boys and Apollo base but are still waiting to hear about the embryo bank.
+From the coms point of view it looks like we've got a clear run to the moon!" 
 
-Steve smiled and stuck up his thumb.
-
-"You have to tell me that the NSA have been kicked?"
+Steve smiled and stuck up his thumb. He had patched into the channel too. He
+asked "You have to tell us that the NSA have been kicked?"
 
 "First thing we did. In fact all the spooks should be out of the picture. The
 CIA are trying to fight back but they've got no chance. Maya's got the keys to
@@ -53,7 +53,7 @@ Chief Technical Officer there, and hey presto, their operation to commandeer
 spaceflight and a handful of the planet's most advanced research projects was
 in the bag - nearly.
 
-"Right, Steve, we've got to power down the Brain and load everything into the,
+Doug said "Right, Steve, we've got to power down the Brain and load everything into the,
 the what is it?"
 
 "It's a lorry container, Doug, sheesh! It's ready in the loading dock."
@@ -62,12 +62,13 @@ the what is it?"
 it gets above 70 Kelvin?* "Ok, so we'll need to move it at, let's see, 5am ok?"
 
 The kryptokom flashed. He put his finger to his ear and held his hand up to
-Steve.
+Steve - apparently it was a private message.
 
 "Right. Right ok. So the embryo bank is blasting off from, from where did you
 say?" *Shit, they were supposed to be with us.* "Kazakstan? Got it, ok thanks." 
 
-He turned back to Steve who also had his finger to his ear. He looked alarmed.
+He turned back to Steve who also had his finger to his ear having his own
+private call. Steve looked alarmed.
 
 "Doug, Dougie oh shit, they're saying there's some military at the perimeter. It
 looks like they might be onto us. Someone's blabbed!"
@@ -78,8 +79,8 @@ security looked like they were aware of it. They could see them having a confab
 behind the inner wall.
 
 "Management must've figured it out. Jesus, they look like real soldiers with
-real guns and everything." *How long have we got before they get backup?* "I'll
-get onto the Colonel." 
+real guns and everything" Doug said. *How long have we got before they get
+backup?* "I'll get onto the Colonel." 
 
 "Theo? Theo? Er Colonel, Sir, is that you? There's a dozen chaps with big guns
 at our gates. It looks like they are going to try and stop us getting the lorry
