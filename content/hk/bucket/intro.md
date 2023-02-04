@@ -21,4 +21,3 @@ background for some time before they come up and kind of demand to be written
 down. There is a visceral sense of completion and 'aha!' and if that happens,
 then it's in!
 
-Download the collection as a [pdf](/media/bucket.pdf)
