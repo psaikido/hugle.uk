@@ -133,3 +133,6 @@ menu:
 
 - title: mirror-scope
   url: /hk/bucket/mirror-scope/
+
+- title: dictionary
+  url: /hk/bucket/dictionary/
