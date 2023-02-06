@@ -100,7 +100,7 @@ other half want to string me up as a false prophet. Damn it, they're looking to
 me to resolve it all. I don't have any answers."
 
 That was his first inkling of how he was going to handle it. Yes, yes, he wasn't
-going to give them any answers at all.
+going to give them any answers at all!
 
 Theo couldn't help but smile at the memory. Now that he was an ancient sage
 himself he knew that he didn't have long. All these years he had waited for the

@@ -126,13 +126,13 @@ cryovault was a very ticklish business.
 He heard some rifle fire in the distance as they waited on the compound's
 forecourt. The soldiers outside had not been reinforced and hadn't made a move
 on the compound as yet. Everyone kept flinching at the sound of the firing but
-then a loud chunk chunk sound came over the nearby hill. All faces turned toward
-a massive helicopter swooping towards them. It slowed to a hover, thud thudding
-over the compound. He ran back inside and scooped up his laptop, a shoulder bag
-and a cat box. When he came back out he saw a group of soldiers abseiling down
-from the huge chopper. They got to work attaching the container and at the last
-minute shoved Doug, his staff and themselves into the container along with the
-AI. 
+then a loud chunk chunk sound came over the nearby hill. All faces turned
+toward a massive helicopter swooping towards them in the first, glorious flush
+of dawn. It slowed to a hover, thud thudding over the compound. He ran back
+inside and scooped up his laptop, a shoulder bag and a cat box. When he came
+back out he saw a group of soldiers abseiling down from the huge chopper. They
+got to work attaching the container and at the last minute shoved Doug, his
+staff and themselves into the container along with the AI. 
 
 Everyone was cheek by jowl as they took off. Bullets could be heard slamming
 into the metal box as they swung up into the Cambridgeshire afternoon. Doug's
