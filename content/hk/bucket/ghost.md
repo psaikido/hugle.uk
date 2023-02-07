@@ -6,7 +6,7 @@ type: hk/bucket
 aliases: ['/bucket/ghost/']
 images:
 - path: /images/circus/5rings.jpg
-  alt: the fateful stunt
+  alt: 5 rings practice session 
 ---
 
 the death was years ago  
