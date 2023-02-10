@@ -6,7 +6,8 @@ type: hk/bucket
 aliases: ['/bucket/ink.html', '/bucket/ink/']
 images:
 - path: /images/bucket/inks.jpg 
-  alt: ink
+  alt: squeegies
+css: ['preset-2cols']
 ---
 
 popping the lid  
@@ -53,3 +54,5 @@ was always more exciting
 than any shapes they made  
 on paper  
 
+***
+(accepted by [Young Ravens Literary Review](https://www.youngravensliteraryreview.org) for their Summer 2023 issue)
