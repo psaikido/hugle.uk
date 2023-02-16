@@ -20,3 +20,5 @@ I search the clamour and anguish
 of a language not my own  
 for a true word
 
+---
+Written for the [Dictionary of Missing Words](https://www.grahammacleodjohnson.com/dictionary-of-missing-words) Project
