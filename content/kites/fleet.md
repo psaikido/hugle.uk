@@ -67,3 +67,9 @@ the colours and the beehive hexagons. Top fun!
 
 Wow, the [fulcrum.85](https://atelierkites.com/shop/en/fulcrum/51-fulcrum.html)! Super speedy, spinny and stoppy. Ace! Here it is in my customised colours.
 
+
+#### Tarantula (2)
+
+![tarantula](/images/kites/fleet/tarantula2.jpg)
+
+My own design using the colorizer I've made for Revolution.
