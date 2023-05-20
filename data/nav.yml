@@ -56,6 +56,10 @@ nests:
           url: /thesium/
           dataFile: thesium
 
+        - title: Snapdragon (draft)
+          url: /snapdragon/
+          dataFile: snapdragon
+
       - title: blogs
         subsub:
           - title: essays
@@ -140,7 +144,7 @@ nests:
           - title: rotation codes
             url: /kites/rotation-codes/
 
-          - title: youtubes 
+          - title: club38 
             url: /kites/club38-submissions/
 
           - title: messing about vids 

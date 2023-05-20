@@ -58,6 +58,11 @@ $('.search button').click(function () {
         .val('');
 })
 
+/* youtube lists */
+$('h4.toggler').click(function () {
+    $(this).next('ul.showhide').toggle();
+})
+
 function nestParent(elem) {
     $('ul.level1-parent-dropdown-big').fadeOut();
     $(elem).siblings('ul.level1-parent-dropdown-big').fadeToggle();
@@ -73,3 +78,4 @@ function hide (elem) {
 function show (elem) {
     $(elem).fadeIn(350);
 }
+

@@ -1,187 +1,198 @@
 description: kiteYoutubes
 
 menu:
+- title: to 'Master'
+  sub:
+  - title: L1
+    date: 2020-10-20
+    url: yZBwX4gHrqs
 
-- title: L1
-  date: 2020-10-20
-  url: yZBwX4gHrqs
+  - title: L2
+    date: 2020-11-12
+    url: P1wilPAEPPQ
 
-- title: L2
-  date: 2020-11-12
-  url: P1wilPAEPPQ
+  - title: L3
+    date: 2020-11-12
+    url: IBScoVR3CS0
 
-- title: L3
-  date: 2020-11-12
-  url: IBScoVR3CS0
+  - title: L4
+    date: 2020-12-17
+    url: OrDt-EDFn4I
 
-- title: L4
-  date: 2020-12-17
-  url: OrDt-EDFn4I
+  - title: L5
+    date: 2021-01-28
+    url: P16YCLk7Dh0
 
-- title: L5
-  date: 2021-01-28
-  url: P16YCLk7Dh0
+  - title: L6
+    date: 2021-02-16
+    url: D_98aS6W_UM
 
-- title: L6
-  date: 2021-02-16
-  url: D_98aS6W_UM
+  - title: L7
+    date: 2021-02-17
+    url: e_tWZkwL7R4
 
-- title: L7
-  date: 2021-02-17
-  url: e_tWZkwL7R4
+  - title: L8
+    date: 2021-02-18
+    url: fHoS3oH-Ijc
+    desc: 
+      - for the 'Master' title
 
-- title: L8
-  date: 2021-02-18
-  url: fHoS3oH-Ijc
-  desc: 
-    - for the 'Master' title
+- title: to 'Double Master'
+  sub:
+  - title: M9
+    date: 2021-02-25
+    url: V7LPhvXamnc
 
-- title: M9
-  date: 2021-02-25
-  url: V7LPhvXamnc
+  - title: M10
+    date: 2021-03-04
+    url: qLhpUJ6BgLQ 
 
-- title: M10
-  date: 2021-03-04
-  url: qLhpUJ6BgLQ 
+  - title: M11
+    date: 2021-03-14
+    url: -QcLgaj3p2U
 
-- title: M11
-  date: 2021-03-14
-  url: -QcLgaj3p2U
+  - title: M12
+    date: 2021-03-24
+    url: P5cOIccFrO8
 
-- title: M12
-  date: 2021-03-24
-  url: P5cOIccFrO8
+  - title: M13
+    date: 2021-04-01
+    url: gayGPF0IHp8
 
-- title: M13
-  date: 2021-04-01
-  url: gayGPF0IHp8
+  - title: M14 (Hughie's)
+    date: 2021-05-15
+    url: lTYG84f8WTg
+    desc: 
+      - for the 'Double Master' title
 
-- title: M14 (Hughie's)
-  date: 2021-05-15
-  url: lTYG84f8WTg
-  desc: 
-    - for the 'Double Master' title
+- title: to 'Speed Master'
+  sub:
+  - title: Speed Series L1
+    date: 2021-05-29
+    url: ERllUcLFh6o
 
-- title: Speed Series L1
-  date: 2021-05-29
-  url: ERllUcLFh6o
+  - title: Speed Series L2
+    date: 2021-05-29
+    url: ooIZVj8fBQo
 
-- title: Speed Series L2
-  date: 2021-05-29
-  url: ooIZVj8fBQo
-
-- title: Speed Series L3
-  date: 2021-05-30
-  url: 0qkvSo5iNUI 
-  
-- title: Speed Series L4
-  date: 2021-05-31
-  url: l8WedxddbXQ
-
-- title: Speed Series L5
-  date: 2021-06-01
-  url: C3YfYP3ApZ4
-
-- title: Speed Series L6
-  date: 2021-06-01
-  url: SsW8S7Hjsf4
-
-- title: Speed Series L7
-  date: 2021-06-02
-  url: viLpSmHZs3I 
-
-- title: Speed Series L8
-  date: 2021-06-03
-  url: GeVGbnK5CNE 
-  desc:
-    - for the 'Speed Master' title
-  
-- title: Speed Series M9
-  date: 2021-06-03
-  url: WzM7y9QH5-0 
-
-- title: Speed Series M10
-  date: 2021-06-04
-  url: ZusDe0l24EE 
-
-- title: Speed Series M11
-  date: 2021-06-05
-  url: gmmD7it9AmY 
-
-- title: Speed Series M12
-  date: 2021-06-12
-  url: 8bmp3i88gYw
-
-- title: Speed Series M13
-  date: 2021-06-14
-  url: i8PVTKHLaPE 
-
-- title: Speed Series M14 (fail)
-  date: 2021-06-21
-  url: axGDY-Ber6Q 
-
-- title: Speed Series M14
-  date: 2021-06-22
-  url: QlT1zjhTVGs
-  desc:
-    - for the 'Triple Master' title
-
-- title: Perfect Series L1
-  date: 2021-06-29
-  url: JpmXboujk3k
-
-- title: Perfect Series L2
-  date: 2021-07-01
-  url: Xj0iXzrwXMg 
-
-- title: Perfect Series L3
-  date: 2021-07-09
-  url: d85VY4VfyVM 
-
-- title: Perfect Series L4
-  date: 2021-07-30
-  url: 6ZVfFUtgj2k 
-
-- title: Perfect Series L5
-  date: 2021-08-10
-  url: b_X1Z-PD_4I 
-
-- title: Perfect Series L6
-  date: 2022-04-25
-  url: G1MfIH62LkY
-
-- title: Perfect Series L7
-  date: 2022-04-27
-  url: r-M4EXW501c 
-
-- title: Perfect Series L8
-  date: 2022-04-27
-  url: l2aCfyz0AM0 
-  desc:
-    - for the 'Perfect Master' title
-
-- title: Perfect Series M9
-  date: 2022-05-19
-  url: 4ka2ARnRDA0 
-
-- title: Perfect Series M10
-  date: 2022-06-12
-  url: OKmKkDJnZMM 
-
-- title: Perfect Series M11
-  date: 2022-06-12
-  url: 1ifKDpJV774
+  - title: Speed Series L3
+    date: 2021-05-30
+    url: 0qkvSo5iNUI 
     
-- title: Perfect Series M12
-  date: 2022-06-17
-  url: LlBUk2Zk988
-    
-- title: Perfect Series M13
-  date: 2022-06-20
-  url: GuzBF51vV00
+  - title: Speed Series L4
+    date: 2021-05-31
+    url: l8WedxddbXQ
 
-- title: Perfect Series M14
-  date: 2022-07-13
-  url: yQ9607R3b3Q
-  desc:
-    - for the 'Double Triple Master' title
+  - title: Speed Series L5
+    date: 2021-06-01
+    url: C3YfYP3ApZ4
+
+  - title: Speed Series L6
+    date: 2021-06-01
+    url: SsW8S7Hjsf4
+
+  - title: Speed Series L7
+    date: 2021-06-02
+    url: viLpSmHZs3I 
+
+  - title: Speed Series L8
+    date: 2021-06-03
+    url: GeVGbnK5CNE 
+    desc:
+      - for the 'Speed Master' title
+  
+- title: to 'Triple Master'
+  sub:
+  - title: Speed Series M9
+    date: 2021-06-03
+    url: WzM7y9QH5-0 
+
+  - title: Speed Series M10
+    date: 2021-06-04
+    url: ZusDe0l24EE 
+
+  - title: Speed Series M11
+    date: 2021-06-05
+    url: gmmD7it9AmY 
+
+  - title: Speed Series M12
+    date: 2021-06-12
+    url: 8bmp3i88gYw
+
+  - title: Speed Series M13
+    date: 2021-06-14
+    url: i8PVTKHLaPE 
+
+  - title: Speed Series M14 (fail)
+    date: 2021-06-21
+    url: axGDY-Ber6Q 
+
+  - title: Speed Series M14
+    date: 2021-06-22
+    url: QlT1zjhTVGs
+    desc:
+      - for the 'Triple Master' title
+
+- title: to 'Perfect Master'
+  sub:
+  - title: Perfect Series L1
+    date: 2021-06-29
+    url: JpmXboujk3k
+
+  - title: Perfect Series L2
+    date: 2021-07-01
+    url: Xj0iXzrwXMg 
+
+  - title: Perfect Series L3
+    date: 2021-07-09
+    url: d85VY4VfyVM 
+
+  - title: Perfect Series L4
+    date: 2021-07-30
+    url: 6ZVfFUtgj2k 
+
+  - title: Perfect Series L5
+    date: 2021-08-10
+    url: b_X1Z-PD_4I 
+
+  - title: Perfect Series L6
+    date: 2022-04-25
+    url: G1MfIH62LkY
+
+  - title: Perfect Series L7
+    date: 2022-04-27
+    url: r-M4EXW501c 
+
+  - title: Perfect Series L8
+    date: 2022-04-27
+    url: l2aCfyz0AM0 
+    desc:
+      - for the 'Perfect Master' title
+
+- title: to 'Double Triple Master'
+  sub:
+  - title: Perfect Series M9
+    date: 2022-05-19
+    url: 4ka2ARnRDA0 
+
+  - title: Perfect Series M10
+    date: 2022-06-12
+    url: OKmKkDJnZMM 
+
+  - title: Perfect Series M11
+    date: 2022-06-12
+    url: 1ifKDpJV774
+      
+  - title: Perfect Series M12
+    date: 2022-06-17
+    url: LlBUk2Zk988
+      
+  - title: Perfect Series M13
+    date: 2022-06-20
+    url: GuzBF51vV00
+
+  - title: Perfect Series M14
+    date: 2022-07-13
+    url: yQ9607R3b3Q
+    desc:
+      - for the 'Double Triple Master' title
