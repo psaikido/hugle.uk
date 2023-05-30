@@ -10,6 +10,10 @@
         {{ partial "youtubes.html" . }}
     {{ end }}
 
+    {{ if .Params.youtubeDataFolding }}
+        {{ partial "youtubes-folding.html" . }}
+    {{ end }}
+
     {{ partial "page-footer-yml.html" . }}
 </div>
 

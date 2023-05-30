@@ -1,31 +1,17 @@
 {{ $youtubes := .Scratch.Get "youtubes" }}
 
 {{ range $youtubes.menu }}
-	<h4 class="toggler">{{ .title }}</h4>
+    <h4>{{ .title }}</h4>
 
-	<ul class="showhide">
-		{{ range .sub }}
-			<li>
-				{{ .title }}:
+    {{if .date }}
+        {{ .date }}
+    {{ end }}
 
-				{{if .date }}
-						{{ .date }}
-				{{ end }}
-			</li>
+    {{ partial "youtube.html" .url }}
 
-			<li>
-				{{ partial "youtube.html" .url }}
-			</li>
-
-			{{if .desc }}
-				<li>
-					<ul>
-							{{ range .desc }}
-									<li>{{ . }}</li>
-							{{ end }}
-					</ul>
-				</li>
-			{{ end }}
-		{{ end }}
-	</ul>
+    <ul>
+        {{ range .desc }}
+            <li>{{ . }}</li>
+        {{ end }}
+    </ul>
 {{ end }}
