@@ -13,7 +13,7 @@
                     <img src="{{ .path }}" alt="{{ .alt }}" />
 
                     {{ if .alt }}
-                        <div class="caption">{{ .alt }}</div>
+                        <div class="caption">{{ .alt | safeHTML }}</div>
                     {{ end }}
                 {{ end }}
             </div>
