@@ -47,3 +47,10 @@ Crochet beanie #2
 ![beanie #2](/images/stuff/beanie-2.jpg)
 
 <hr />
+
+Knitted test for a tanktop/vest pattern.  
+This will eventually be for Griff.  
+The pattern is for very different yarn and needles so the head hole has come out tiny :)  
+Made I larf!
+
+![tanktop](/images/stuff/griff-tanktop-v1.jpg)
