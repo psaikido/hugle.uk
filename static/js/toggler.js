@@ -52,10 +52,12 @@ $('aside.subnav2 > section button.toggler').click(function () {
 /* desktop toggle search field */
 $('.search button').click(function () {
     hide($(this));
+		$('.search button').css('background-image', 'none');
     show($('.pagefind-ui')); 
     $('.pagefind-ui__search-input')
         .focus()
         .val('');
+    $('.pagefind-ui__search-clear').text('');
 })
 
 /* youtube lists */
