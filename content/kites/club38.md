@@ -25,3 +25,5 @@ Levels 9-14 with a 10/10 score leads to the 'Perfect Double Master' title.  [vid
 
 If you get through all that you get the 'Double Triple Master' title.
 
+### Me & Joe at the Portsmouth Kite Festival 2023
+![Joe Hadzicki & Hughie](/images/kites/JoeHadzicki-H-PortsmouthKiteFestival.jpg)
