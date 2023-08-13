@@ -3,7 +3,7 @@ bannerTitle: kites
 title: club38 submissions 
 ---
 
-[Club38](https://revkites.com/club-38/)  
+[Revolution Kites Club38](https://revkites.com/club-38/)  
 
 For terminology see [rotation codes](/kites/rotation-codes/)
 
