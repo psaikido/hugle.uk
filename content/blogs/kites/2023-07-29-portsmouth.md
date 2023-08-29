@@ -15,6 +15,9 @@ quad-kite and runs [club38](/kites/club38), the training programme for Revolutio
 ![Joe Hadzicki & Hughie](/images/kites/JoeHadzicki-H-PortsmouthKiteFestival-2.jpg)
 Turns out there was lots to talk about.  
 
+![Joe & Hughie flying](/images/kites/Hughie-JoeHadzicki-PortsmouthKiteFestival2023.jpg)
+Flying together and entertaining the crowd was really fun :)
+
 {{< youtube Fv4cAzrez7o >}}
 
 <hr />
