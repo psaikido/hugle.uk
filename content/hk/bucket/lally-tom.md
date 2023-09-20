@@ -69,7 +69,7 @@ with the same red lipstick
 mixed with coke  
 it all seemed like fun  
 until I got violently  
-and very publically  
+and very publicly  
 sick  
 
 I'm so happy I knew them  
