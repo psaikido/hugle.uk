@@ -42,7 +42,7 @@ and derring do
 also the terrible umbra  
 of tragedy  
 haunted from the shadows  
-little Tom their son  
+Johnny their son  
 had died  
 crashing a mini  
 like Mark Bolan  
