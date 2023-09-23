@@ -39,11 +39,13 @@ _– Brendan Hamley_
 
 - &pound;5 by hand
 - &pound;8 by post payment by paypal 
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="LXC8HCD5FJR5A">
-    <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-    </form>
+		
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="KMMEKMF8YQ6QC" />
+  <input type="hidden" name="currency_code" value="GBP" />
+  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynow_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+</form>
 
 - buy on [blurb.co.uk](https://www.blurb.co.uk/b/10210368-yarn)
 - review on [goodreads](https://www.goodreads.com/book/show/55252078-yarn)
