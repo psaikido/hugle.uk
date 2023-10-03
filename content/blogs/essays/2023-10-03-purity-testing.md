@@ -25,7 +25,7 @@ it not my friends?" Another member of that group says "You should remain
 silent, you have only just been ejected whereas we have been ejected for a very
 long time." They are dissallowed in both assemblies.
 
-Thus the left censor each other. The right divides and rules.
+Thus the left censors each other. The right divides and rules.
 
 Back in college days in the early 80s, I was drinking in the bar. The rugby
 players were being rowdy. I heard them telling revolting jokes about another
