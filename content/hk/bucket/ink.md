@@ -55,4 +55,4 @@ than any shapes they made
 on paper  
 
 ***
-(accepted by [Young Ravens Literary Review](https://www.youngravensliteraryreview.org) for their Summer 2023 issue)
+(accepted by [Young Ravens Literary Review](https://www.youngravensliteraryreview.org/yr18-hugh-carroll.html) for their Summer 2023 issue)

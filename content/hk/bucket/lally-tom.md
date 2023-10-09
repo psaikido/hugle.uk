@@ -8,7 +8,7 @@ images:
 - path: /images/bucket/Lally.jpg 
   alt: Aunty Lally
 - path: /images/bucket/Graces.jpg 
-  alt: Tom, Lally, little Tom, Dick, Jonny, Andy
+  alt: Tom, Lally, Jonny, little Tom, Dick, Andy
 ---
 
 Aunty Lally was a star  
