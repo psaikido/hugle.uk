@@ -53,6 +53,7 @@ $('aside.subnav2 > section button.toggler').click(function () {
 $('.search button').click(function () {
     hide($(this));
 		$('.search button').css('background-image', 'none');
+		$('.search button').css('box-shadow', 'none');
     show($('.pagefind-ui')); 
     $('.pagefind-ui__search-input')
         .focus()
