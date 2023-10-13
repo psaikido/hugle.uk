@@ -31,3 +31,5 @@ The front done - the yarn is 'Aurora DK' by James G Brett.
 The neck didn't turn out like the pattern intended and we had to freestyle a
 bit. I added on an inch with lots of reducing. It is also way wider than she'd
 like so I'll take it in at the seams.
+
+The whole project took 7 weeks.
