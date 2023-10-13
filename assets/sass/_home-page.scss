@@ -7,8 +7,11 @@
         color: var(--text-minor);
         background-color: var(--light-grey);
         height: auto; 
-        top: 20%;
+        top: 10%;
 
+        @include screen-width('medium') {
+					top: 20%;
+				}
 
         @include screen-width('desktop') {
             top: 23%;

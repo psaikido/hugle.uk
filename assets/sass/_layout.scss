@@ -58,6 +58,7 @@ body {
 
     .search {
         grid-area: search;
+				margin: 40px auto 10px;
     }
 
     @include screen-width('medium') {
@@ -86,6 +87,9 @@ body {
                 padding-top: 16px;
             }
         }
+				.search {
+					margin: none;
+				}
     }
 
     @include screen-width('desktop') {
@@ -98,7 +102,7 @@ body {
 
     main {
         grid-area: main;
-        margin: 41px auto;
+        margin: 10px auto;
         width: 100%;
         height: auto;
         min-height: 84vh;
