@@ -25,7 +25,7 @@ body {
     }
 
     heading {
-				position: relative;
+				// position: relative;
         width: 100%;
         margin: 0 auto;
         font-size: 80%;
@@ -37,28 +37,12 @@ body {
         }
 
         h1 {
-						position: absolute;
-						display: inline-block;
-						transform: translateX(-50%);
             margin: 10px auto 20px auto;
-						text-shadow: -2px 3px .5em currentColor;
-						animation: slide 2s;
         }
-
-				@keyframes slide {
-					from {
-						transform: translateX(-100%);
-					}
-
-					to {
-						transform: translateX(-50%);
-					}
-				}
     }
 
     .search {
         grid-area: search;
-				margin: 40px auto 10px;
     }
 
     @include screen-width('medium') {
