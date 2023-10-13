@@ -11,7 +11,7 @@ body {
     margin-inline: auto;
     grid-gap: 15px;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(5, auto);
+    grid-template-rows: minmax(47px, auto) minmax(28px, auto) repeat(2, auto) 80px;
     grid-template-areas: 
         'banner'
         'search'
@@ -25,7 +25,6 @@ body {
     }
 
     heading {
-				// position: relative;
         width: 100%;
         margin: 0 auto;
         font-size: 80%;
@@ -37,8 +36,17 @@ body {
         }
 
         h1 {
+						display: block;
             margin: 10px auto 20px auto;
+						text-shadow: -2px 3px .5em currentColor;
+						animation: slide 2s;
         }
+
+				@keyframes slide {
+					from {
+						transform: translateX(-100%);
+					}
+				}
     }
 
     .search {
