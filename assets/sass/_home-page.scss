@@ -1,45 +1,52 @@
 .home-page {
     position: relative;
 
-    #overlay {
-        position: absolute;
-        opacity: .75;
-        color: var(--text-minor);
-        background-color: var(--light-grey);
-        height: auto; 
-        top: 10%;
-
-        @include screen-width('medium') {
-					top: 20%;
-				}
-
-        @include screen-width('desktop') {
-            top: 23%;
-        }
-
-        left: 50%;
-        margin-left: -40%;
-
-        a {
-            color: blue;
-        }
-    }
-
     @include screen-width('xsmall') {
         width: 96vw;
     }
 
     @include screen-width('large') {
-        #overlay {
-            font-weight: bold;
-            line-height: 2rem;
-        }
-
         .home-text-box,
         .random-hughku {
             width: 60%;
         }
     }
+
+		.mani-wrap {
+			position: absolute;
+			top: 200px;
+			left: 28px;
+			width: 90%;
+			height: 210px;
+			background-image: url(/images/site/clouds-2.jpg);
+			background-repeat: no-repeat;
+			background-size: 160%;
+			background-position-x: -250px;
+			background-clip: text;
+			-webkit-background-clip: text;
+			color: transparent;
+			animation: drift 50s ease-out infinite alternate;
+
+			@keyframes drift {
+				to {
+					background-position-x: 0px;
+				}
+			}
+
+			.mani {
+				padding-top: 85px;
+				width: 100%;
+				height: 100%;
+
+				@supports (-moz-user-select:unset) {
+					font-size: 118px;
+				}
+
+				@supports (-webkit-box-reflect:unset) {
+					font-size: 123px;
+				}
+			}
+		}
 
     .random-hughku, 
     .home-text-box,
