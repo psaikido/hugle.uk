@@ -14,10 +14,11 @@
 
 		.mani-wrap {
 			position: absolute;
-			top: 200px;
-			left: 28px;
+			top: 14%;
+			left: 32px;
 			width: 90%;
-			height: 210px;
+			height: 250px;
+			padding-top: 10%;
 			background-image: url(/images/site/clouds-2.jpg);
 			background-repeat: no-repeat;
 			background-size: 160%;
@@ -34,16 +35,14 @@
 			}
 
 			.mani {
-				padding-top: 85px;
 				width: 100%;
 				height: 100%;
+				margin-top: 20px;
+				font-size: 745%;
+				text-align: center;
 
-				@supports (-moz-user-select:unset) {
-					font-size: 118px;
-				}
-
-				@supports (-webkit-box-reflect:unset) {
-					font-size: 123px;
+				@include screen-width('xsmall') {
+					font-size: 400%;
 				}
 			}
 		}

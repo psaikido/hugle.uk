@@ -173,7 +173,7 @@
     &.bkg-overlay-unset {
         .poem-title,
         .poem-text {
-            background-color: none;
+            background-color: transparent;
             color: var(--light-grey);
         }
     }

@@ -38,7 +38,7 @@ body {
         h1 {
 						display: block;
             margin: 10px auto 20px auto;
-						text-shadow: -2px 3px .5em currentColor;
+						// text-shadow: -2px 3px .5em currentColor;
         }
     }
 
@@ -73,7 +73,7 @@ body {
             }
         }
 				.search {
-					margin: none;
+					margin: 0;
 				}
     }
 
