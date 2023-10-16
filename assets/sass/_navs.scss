@@ -42,7 +42,7 @@
     display: none;
     position: absolute;
     top: 0;
-    left: 0;
+    left: 7px;
     height: 511px;
     background-color: var(--bkg-main);
     padding: 0px 10px;
@@ -148,7 +148,8 @@
 }
 
 .sidebar-menu.big {
-    width: 933px;
+		position: relative;
+    width: 99vw;
     height: 700px;
     border: 1px solid var(--blue);
     background: var(--bkg-main);
@@ -192,6 +193,9 @@
                 left: 27px;
             }
 
+            ul.level1-parent-dropdown-big.active {
+						}
+
             li.level2-parent {
                 float: left;
                 max-width: 256px;
@@ -209,15 +213,9 @@
 
             /* galleries sub items need to be further right */
             li.level1-parent:nth-child(4) .level1-parent-dropdown-big {
-                left: 550px;
+                left: 70%;
             }
         }
-    }
-}
-
-@include screen-width('desktop') {
-    .sidebar-menu.big {
-        width: 1020px;
     }
 }
 
