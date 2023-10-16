@@ -13,12 +13,41 @@
     }
 
 		.mani-wrap {
+			--wrap-top: 12%;
+			--wrap-left: 21px;
+			--wrap-width: 90%;
+			--wrap-height: 250px;
+			--wrap-pad-top: 10%;
+			--mani-font-size: 450%;
+			--mani-margin-top: 30px;
+
+			@include screen-width('small') {
+				--wrap-top: 16%;
+				--wrap-left: 32px;
+				--mani-font-size: 600%;
+			}
+
+			@include screen-width('medium') {
+				--mani-font-size: 545%;
+			}
+
+			@include screen-width('large') {
+				--wrap-top: 20%;
+				--mani-font-size: 645%;
+			}
+
+			@include screen-width('desktop') {
+				--wrap-top: 20%;
+				--mani-font-size: 745%;
+			}
+
 			position: absolute;
-			top: 14%;
-			left: 32px;
-			width: 90%;
-			height: 250px;
-			padding-top: 10%;
+			top: var(--wrap-top);
+			left: var(--wrap-left);
+			width: var(--wrap-width);
+			height: var(--wrap-height);
+			padding-top: var(--wrap-pad-top);
+
 			background-image: url(/images/site/clouds-2.jpg);
 			background-repeat: no-repeat;
 			background-size: 160%;
@@ -37,13 +66,9 @@
 			.mani {
 				width: 100%;
 				height: 100%;
-				margin-top: 20px;
-				font-size: 745%;
+				margin-top: var(--mani-margin-top);
+				font-size: var(--mani-font-size);
 				text-align: center;
-
-				@include screen-width('xsmall') {
-					font-size: 400%;
-				}
 			}
 		}
 
