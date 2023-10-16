@@ -42,7 +42,7 @@
     display: none;
     position: absolute;
     top: 0;
-    left: 7px;
+    left: 0;
     height: 511px;
     background-color: var(--bkg-main);
     padding: 0px 10px;
@@ -148,8 +148,7 @@
 }
 
 .sidebar-menu.big {
-		position: relative;
-    width: 99vw;
+		margin-left: 15px;
     height: 700px;
     border: 1px solid var(--blue);
     background: var(--bkg-main);

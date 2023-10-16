@@ -1,9 +1,18 @@
 /* main hamburger nav show */
 $('.main-nav > .toggler').click(function () {
     const iw = window.innerWidth;
+
     if (iw < 900) {
         show($('.sidebar-menu.little'));
     } else {
+				/* work out how wide the desktop menu should be */
+				const nav = $('.main-nav').width();
+				const heading = $('heading').width();
+				const search = $('.search').width();
+				
+				/* take off the left margin from the overall width */
+				const sidebarWidth = (nav + heading + search - 15) + 'px';
+				$('.sidebar-menu.big').width(sidebarWidth);
         show($('.sidebar-menu.big'));
     }
 })
