@@ -32,5 +32,9 @@
         {{ $menu := (index $.Site.Data (print .Params.subnav)).menu }}
         {{ .Scratch.Set "menu" $menu }}
         {{ partial "subnavbar.html" . }}
+		{{ else if .Params.menu }}
+        {{ $menu := (index $.Site.Menus (print .Params.menu)) }}
+        {{ .Scratch.Set "menu" $menu }}
+        {{ partial "subnavbar-menu.html" . }}
     {{ end }}
 {{ end }}

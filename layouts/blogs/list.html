@@ -15,12 +15,3 @@
     </ul>
 
 {{ end }}
-
-{{ define "subnavbar" }}
-    {{ if .Params.subnav }}
-        {{ $menu := (index $.Site.Data (print .Params.subnav)).menu }}
-        {{ .Scratch.Set "menu" $menu }}
-        {{ partial "subnavbar.html" . }}
-    {{ end }}
-{{ end }}
-

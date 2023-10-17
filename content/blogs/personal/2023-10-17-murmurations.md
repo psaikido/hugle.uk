@@ -2,6 +2,8 @@
 bannerTitle: blog - personal
 title: murmurations 
 date: 2023-10-17
+menu: personal
+weight: 5
 ---
 
 
@@ -34,7 +36,7 @@ This word and the project brought together various strands about Post Traumatic
 Stress Disorder and living with [me/cfs](/blogs/essays/2023-08-28-mecfs/).
 Hearing other's experiences and difficulties in other, parralel situations was
 amazing and interesting. I learned a lot from it and got myself updated a bit
-about things I'd not thought about before, like how it is to live with
+about things I'd not thought much about before, like how it is to live with
 neuro-divergence, with queerness or as a non-binary person. 
 
 Overall I felt that getting some official recognition as a poet, as an older

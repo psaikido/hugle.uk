@@ -2,6 +2,8 @@
 bannerTitle: blog - personal
 title: cliff rescue 
 date: 2022-08-28
+menu: personal
+weight: 4
 ---
 
 This is how not to take your mates climbing. Jeez, one of the worst days out
@@ -85,7 +87,7 @@ Right about then the coastguard showed up in a Landrover. They told us what was
 going on as they had radio contact with the boat. They would take me and Peewee
 back to the dock and meet the fishermen with Katie there. Apparently, she was
 fine! We got what gear remained into our bags and got into the back. They
-haired off a quite a lick. Talking about this with Peewee recently, he reminded
+haired off at quite a lick. Talking about this with Peewee recently, he reminded
 me not to forget the bit about us nearly getting chucked out of the back of the
 Landy. I nearly forgot that bit, and it wouldn't be here without the reminder.
 Anyhow, the tyres they had on were not fit for normal roads. They went too fast

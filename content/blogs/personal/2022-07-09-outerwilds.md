@@ -2,6 +2,8 @@
 bannerTitle: blog - personal
 title: Outer Wilds 
 date: 2022-07-09
+menu: personal
+weight: 3
 ---
 
 
