@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - ideas
-title: Eastcott Christmas Party 
+title: Revolutions 
 date: 2013-12-15
-subnav: magic
+menu: magic
+weight: 10
 ---
 
 A flurry of activity as it gets on towards Christmas.

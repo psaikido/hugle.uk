@@ -1,9 +1,11 @@
 <aside class="subnavbar">
+		{{ $pages := .Scratch.Get "menu" }}
+
     <ul>
-        {{ range .Scratch.Get "menu" }}
-            <li class="{{ if eq $.Page.Title .title }}current{{ end }}">
-                <a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
-            </li>
+        {{ range sort $pages "Weight" "desc" }}
+					<li class="{{ if eq $.Page.Title .Title }}current{{ end }}">
+						<a href="{{ .URL }}">{{ .Title }}</a>
+					</li>
         {{ end }}
     </ul>
 </aside>

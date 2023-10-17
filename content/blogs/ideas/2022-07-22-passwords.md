@@ -2,6 +2,8 @@
 bannerTitle: blog - ideas
 title: Passwords
 date: 2022-07-22
+menu: ideas
+weight: 6
 ---
 
 A method that ticks many boxes for creating your own passwords. The main thing is to not be using a 'low hanging fruit' password, a really easy one, and have different ones for every login. Instead of relying on memory or a password service, combine two tricks:

@@ -2,7 +2,8 @@
 bannerTitle: blog - magic
 title: Paul Daniels
 date: 2013-05-01
-subnav: magic
+menu: magic
+weight: 8
 ---
 
 ![Paul Daniels](/images/magic/paulDaniels.jpg)  Amazing day with the

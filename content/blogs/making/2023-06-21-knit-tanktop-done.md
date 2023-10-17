@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: tanktop done
-
 date: 2023-06-21
+menu: making
+weight: 10
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: tanktop prep
-
 date: 2023-06-17
+menu: making
+weight: 8
 ---
 
 Buy some yarn and bamboo needles and get prepping.  

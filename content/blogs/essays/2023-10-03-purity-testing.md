@@ -2,6 +2,8 @@
 bannerTitle: blog - essays
 title: "purity testing"
 date: 2023-10-03
+menu: essays
+weight: 6
 ---
 
 Should a person speak on GB News? Is it a failure of solidarity to go on such a

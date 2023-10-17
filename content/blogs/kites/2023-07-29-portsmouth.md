@@ -2,7 +2,8 @@
 bannerTitle: blog - kites
 title: Portsmouth Kite Festival
 date: 2023-07-29
-subnav: kites
+menu: kites
+weight: 6
 ---
 
 ![Joe Hadzicki &

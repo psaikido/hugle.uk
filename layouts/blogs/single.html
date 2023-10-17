@@ -9,13 +9,13 @@
         <div class="page-footer">
             <span class="previous">
                 {{ with .PrevInSection }}
-                    << earlier <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    << <a href="{{ .Permalink }}">{{ .Title }}</a>
                 {{ end }}
             </span>
             
             <span class="next">
                 {{ with .NextInSection }}
-                    later <a href="{{ .Permalink }}">{{ .Title }}</a> >>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a> >>
                 {{ end }}
             </span>
 
@@ -28,13 +28,9 @@
 {{ end }}
 
 {{ define "subnavbar" }}
-    {{ if .Params.subnav }}
-        {{ $menu := (index $.Site.Data (print .Params.subnav)).menu }}
-        {{ .Scratch.Set "menu" $menu }}
-        {{ partial "subnavbar.html" . }}
-		{{ else if .Params.menu }}
+		{{ if .Params.menu }}
         {{ $menu := (index $.Site.Menus (print .Params.menu)) }}
         {{ .Scratch.Set "menu" $menu }}
-        {{ partial "subnavbar-menu.html" . }}
+        {{ partial "subnavbar.html" . }}
     {{ end }}
 {{ end }}

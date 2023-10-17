@@ -2,7 +2,8 @@
 bannerTitle: blog - magic
 title: Michael Vincent Lecture
 date: 2012-07-04
-subnav: magic
+menu: magic
+weight: 3
 ---
 
 

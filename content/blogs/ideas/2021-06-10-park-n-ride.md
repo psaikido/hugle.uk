@@ -1,7 +1,9 @@
 ---
 bannerTitle: blog - ideas
 title: Park & Ride
-date: 2021-06-08
+date: 2021-06-10
+menu: ideas
+weight: 3
 ---
 
 Vehicles that can get above 40ish mph, let's call them 'inter-city' vehicles, are currently used inside heavily built up areas. The problems we see are many - RTAs, pollution, parking stress, traffic jams, towns built for cars rather than people.  

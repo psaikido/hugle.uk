@@ -2,7 +2,8 @@
 bannerTitle: blog - kites
 title: Master level 14
 date: 2022-07-13
-subnav: kites
+menu: kites
+weight: 1
 ---
 
 This is the flight that got me the 'Double Triple Master' title with Revolution

@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: tanktop for Teddy
-
 date: 2023-06-23
+menu: making
+weight: 11
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: dog collar
-
 date: 2023-05-19
+menu: making
+weight: 2
 ---
 
 

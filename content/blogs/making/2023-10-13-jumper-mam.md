@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: Mam's jumper
-
 date: 2023-10-13
+menu: making
+weight: 13
 ---
 
 ![completed - 1](/images/stuff/mam-jumper-1.jpg)

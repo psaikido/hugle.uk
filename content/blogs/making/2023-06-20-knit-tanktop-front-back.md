@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: tanktop front & back
-
 date: 2023-06-20
+menu: making
+weight: 9
 ---
 
 The front & back panels completed

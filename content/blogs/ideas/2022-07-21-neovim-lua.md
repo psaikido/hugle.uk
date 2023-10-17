@@ -1,7 +1,9 @@
 ---
 bannerTitle: blog - ideas
 title: neovim and lua
-date: 2022-07-22
+date: 2022-07-21
+menu: ideas
+weight: 5
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 bannerTitle: blog - making
 title: tanktop tester
-
 date: 2023-06-15
+menu: making
+weight: 7
 ---
 
 
