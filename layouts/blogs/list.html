@@ -1,14 +1,14 @@
 {{ define "main" }}
 
     <ul class="blog-list">
-        {{ range $p := .Pages }}
+        {{ range sort .Pages "Date" "desc" }}
             <li>
                 <div class="blog-date">
-                    {{ $p.Date.Format "2006 Jan 02" }}
+                    {{ .Date.Format "2006 Jan 02" }}
                 </div>
 
                 <div class="blog-link">
-                    <a href="{{ $p.Permalink }}">{{ $p.Title }}</a>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
                 </div>
             </li>
         {{ end }}
