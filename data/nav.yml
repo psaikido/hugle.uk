@@ -20,6 +20,9 @@ solos:
     - title: contact
       url: /contact/
 
+    - title: accessibility
+      url: /accessibility/
+
 nests:
     - title: writing
       icon: writing.png
