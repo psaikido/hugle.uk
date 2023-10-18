@@ -3,6 +3,11 @@ footer.footer {
 	background: rgba(220, 220, 220, .9);
 	text-align: right;
 
+	.access {
+		float: left;
+		margin: 5px 20px;
+	}
+
 	.mantra {
 		font-size: .7rem;
 	}
