@@ -7,11 +7,11 @@ weight: 5
 ---
 
 
-The [murmurations](https://www.murmurations.life/) project had the end of
-project show event at Bristol's Watershed.
+The [murmurations](https://www.murmurations.life/) project had ending event at
+Bristol's Watershed.
 
 Through the University of Bristol's [Connecting Through Culture as we
-Age](https://connectingthroughcultureasweage.info/) project, I was invited to
+Age](https://connectingthroughcultureasweage.info/) organisation, I was invited to
 be a 'co-researcher' on a sub-project initially called 'A Dictionary of Missing
 Words'. This was through the fabulous [Unchartered
 Collective](https://uncharteredcollective.com/new-page) which is all about
