@@ -27,16 +27,6 @@ $('ul.little .level1-parent .heading').click(function () {
     $(this).siblings('ul.level1-parent-dropdown').fadeToggle();
 })
 
-/* desktop nav show/hide main categories by icon */
-$('ul.nests .level1-parent .icon').click(function () {
-    nestParent(this);
-})
-
-/* desktop nav show/hide main categories by text */
-$('ul.nests .level1-parent .heading').click(function () {
-    nestParent(this);
-})
-
 /* show/hide subnavigation links */
 $('.subnavbar > .toggler').click(function () {
     if ($('.subnavbar ul').is(':visible')) {
@@ -74,14 +64,6 @@ $('.search button').click(function () {
 $('h4.toggler').click(function () {
     $(this).next('ul.showhide').toggle();
 })
-
-function nestParent(elem) {
-    $('ul.level1-parent-dropdown-big').fadeOut();
-    $(elem).siblings('ul.level1-parent-dropdown-big').fadeToggle();
-
-    $('ul.nests > li').removeClass('active');
-    $(elem).parent().toggleClass('active');
-}
 
 function hide (elem) {
     $(elem).fadeOut();

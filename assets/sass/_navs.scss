@@ -1,310 +1,351 @@
 .main-nav {
-    position: relative;
-    font-family: 'Cabin', sans-serif;
-    cursor: pointer;
+	position: relative;
+	font-family: 'Cabin', sans-serif;
+	cursor: pointer;
 }
 
 .main-nav button.toggler {
-    position: absolute;
-    top: 5px;
-    left: 10px;
-    width: 50px;
-    height: 60px;
-    display: inline;
-    border: none;
-    padding: 0px;
-    margin: 0px;
-    margin-left: auto;
-    background-image: url(/images/site/kanji-three-shadow.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-color: transparent;
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	width: 50px;
+	height: 60px;
+	display: inline;
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	margin-left: auto;
+	background-image: url(/images/site/kanji-three-shadow.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: transparent;
 }
 
 .main-nav button .button-text {
-    margin-top: 40px;
+	margin-top: 40px;
 }
 
 @include screen-width('medium') {
-    .main-nav button.toggler {
-        top: 0;
-        right: 10px;
-    }
+	.main-nav button.toggler {
+		top: 0;
+		right: 10px;
+	}
 }
 
 .main-nav button.toggler:hover,
 .main-nav button.toggler:focus {
-    box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
-    filter: brightness(150%) grayscale(100%);
+	box-shadow: 0 1px 5px 4px rgba(200, 200, 200, .3);
+	filter: brightness(150%) grayscale(100%);
 }
 
 .sidebar-menu {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 511px;
-    background-color: var(--bkg-main);
-    padding: 0px 10px;
-    z-index: 6;
-    border: 1px solid var(--border-main);
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 511px;
+	background-color: var(--bkg-main);
+	padding: 0px 10px;
+	z-index: 6;
+	border: 1px solid var(--border-main);
 
-    button.heading.top {
-        font-family: Grandstander, sans-serif;
-        border: none;
-        @include border-fancy;
-        background-color: transparent;
-        color: var(--text-accent);
-        font-size: 1.6em;
-        height: 50px;
-    }
+	button.heading.top {
+		font-family: Grandstander, sans-serif;
+		border: none;
+		@include border-fancy;
+		background-color: transparent;
+		color: var(--text-accent);
+		font-size: 1.6em;
+		height: 50px;
+	}
 
-    ul {
-        list-style-type: none;
-        text-align: left;
+	ul {
+		list-style-type: none;
+		text-align: left;
 
-        li a,
-        li a:visited {
-            color: var(--link-main);
-            text-decoration: underline;
-            line-height: 1.2rem;
-        }
+		li a,
+		li a:visited {
+			color: var(--link-main);
+			text-decoration: underline;
+			line-height: 1.2rem;
+		}
 
-        li a:hover {
-            color: var(--text-accent);
-        }
-    }
+		li a:hover {
+			color: var(--text-accent);
+		}
+	}
 }
 
 .sidebar-menu.little ul.little,
 .sidebar-menu.big ul.nests {
-    padding-left: 5px;
+	padding-left: 5px;
 
-    li {
-        text-align: left;
-        list-style-type: none;
-        line-height: 2rem;
-    }
+	li {
+		text-align: left;
+		list-style-type: none;
+		line-height: 2rem;
+	}
 
-    li.level1-child a {
-        margin-left: 6px;
-    }
+	li.level1-child a {
+		margin-left: 6px;
+	}
 
-    li.level1-parent .heading,
-    .sub-heading {
-        font-family: Grandstander;
-        font-size: 1.2em;
-        color: var(--text-accent);
-        text-decoration: underline;
-    }
+	li.level1-parent .heading,
+	.sub-heading {
+		font-family: Grandstander;
+		font-size: 1.2em;
+		color: var(--text-accent);
+		text-decoration: underline;
+	}
 
-    li.level1-parent {
-        margin-left: 6px;
+	li.level1-parent {
+		margin-left: 6px;
 
-        button.heading {
-            background-image: url(/images/site/down-arrow-svgrepo-com.svg);
-            background-repeat: no-repeat;
-            background-size: 20px;
-            background-color: transparent;
-            background-position: 0 0;
-            border: none;
-            padding-inline: 27px;
-        }
+		button.heading {
+			background-image: url(/images/site/down-arrow-svgrepo-com.svg);
+			background-repeat: no-repeat;
+			background-size: 20px;
+			background-color: transparent;
+			background-position: 0 0;
+			border: none;
+			padding-inline: 27px;
+		}
 
-    }
+	}
 
-    ul.submenu {
-        padding: 0;
+	ul.submenu {
+		padding: 0;
 
-        li {
-            margin-bottom: 8px;
-        }
+		li {
+			margin-bottom: 8px;
+		}
 
-        li:hover {
-            color: var(--text-accent);
-        }
-    }
+		li:hover {
+			color: var(--text-accent);
+		}
+	}
 }
 
 .sidebar-menu.little {
-    width: 278px;
-    overflow-y: scroll;
+	width: 278px;
+	overflow-y: scroll;
 
-    ul.little {
-        li.level1-parent {
-            .heading {
-                background-position: right;
-            }
-        }
+	ul.little {
+		li.level1-parent {
+			.heading {
+				background-position: right;
+			}
+		}
 
-        ul.level1-parent-dropdown {
-            display: none;
-        }
+		ul.level1-parent-dropdown {
+			display: none;
+		}
 
-        li.level2-parent {
-            margin-left: 12px;
-        }
-    }
+		li.level2-parent {
+			margin-left: 12px;
+		}
+	}
 }
 
 .sidebar-menu.big {
-		margin-left: 15px;
-    height: 700px;
-    border: 1px solid var(--blue);
-    background: var(--bkg-main);
+	margin-left: 15px;
+	height: 700px;
+	// height: auto;
+	border: 1px solid var(--blue);
+	background: var(--bkg-main);
 
-    .ul-blocks {
-        display: flex;
+	.ul-blocks {
+		display: flex;
 
-        ul.solos {
-            width: 16%;
-            padding-left: 8px;
-						margin-top: 86px;
-        }
+		ul.solos {
+			width: 16%;
+			padding-left: 8px;
+			margin-top: 86px;
+		}
 
-        ul.nests {
-            width: 84%;
-            display: grid;
-            grid-auto-flow: column;
-            grid-auto-columns: 1fr;
-            position: relative;
+		ul.nests {
+			width: 84%;
+			// display: grid;
+			// grid-auto-flow: column;
+			// grid-auto-columns: 1fr;
+			position: relative;
 
-            li:hover {
-                border: none;
-            }
+			li:hover {
+				border: none;
+			}
 
-            li.level1-parent {
-                text-align: center;
+			li.level1-parent {
+				clear: both;
 
-                .icon img {
-                    width: 50px;
-                    margin: 0 auto;
-                }
-            }
+				.level1-parent-heading {
+					position: absolute;
+					top: 0;
+					text-align: center;
 
-            li.level1-parent.active {
-                border-top: 1px solid var(--text-accent);
-            }
-
-            ul.level1-parent-dropdown-big {
-                display:none;
-                position: absolute;
-                top: 130px;
-                left: 27px;
-            }
-
-            ul.level1-parent-dropdown-big.active {
+					a {
+						img {
+							display: block;
+							width: 50px;
+							margin: 0 auto;
 						}
+					}
 
-            li.level2-parent {
-                float: left;
-                max-width: 256px;
-                border-left: 1px solid transparent; 
-                border-image: linear-gradient(to bottom, var(--bkg-minor), var(--blue), var(--bkg-minor));
-                border-image-slice: 1;
-                padding-left: 8px;
-                margin-right: 40px;
+				}
+			}
 
-                .sub-heading {
-                    color: var(--text-main);
-                    text-decoration: none;
-                }
-            }
+			.level1-parent:nth-child(1) .level1-parent-heading {
+				left: 0;
+			}
 
-            /* galleries sub items need to be further right */
-            li.level1-parent:nth-child(4) .level1-parent-dropdown-big {
-                left: 70%;
-            }
-        }
-    }
+			.level1-parent:nth-child(2) .level1-parent-heading {
+				left: 28%;
+			}
+
+			.level1-parent:nth-child(3) .level1-parent-heading {
+				left: 56%;
+			}
+
+			.level1-parent:nth-child(4) .level1-parent-heading {
+				left: 82%;
+			}
+
+			li.level1-parent.active {
+				border-top: 1px solid var(--text-accent);
+			}
+
+			ul.level1-parent-dropdown-big {
+				display:none;
+				position: fixed;
+				top: 230px;
+				left: 30%;
+				opacity: 0;
+				animation: navtog 1s ease-in forwards;
+			}
+
+			ul.level1-parent-dropdown-big:target {
+				display: block;
+			}
+
+			@keyframes navtog {
+				from {
+					opacity: 0;
+					transform: rotateY(180deg);
+				}
+
+				to {
+					opacity: 1;
+				}
+			}
+
+			li.level2-parent {
+				float: left;
+				max-width: 256px;
+				border-left: 1px solid transparent; 
+				border-image: linear-gradient(to bottom, var(--bkg-minor), var(--blue), var(--bkg-minor));
+				border-image-slice: 1;
+				padding-left: 8px;
+				margin-right: 40px;
+
+				.sub-heading {
+					color: var(--text-main);
+					text-decoration: none;
+				}
+			}
+
+			/* galleries sub items need to be further right */
+			li.level1-parent:nth-child(4) .level1-parent-dropdown-big {
+				left: 50%;
+			}
+		}
+	}
 }
 
 .subnavbar:empty {
-    display: none;
+	display: none;
 }
 
 .subnavbar {
-    position: relative;
-    text-align: left;
-    font-size: 1rem;
-    font-weight: bold;
-    min-height: 30px;
+	position: relative;
+	text-align: left;
+	font-size: 1rem;
+	font-weight: bold;
+	min-height: 30px;
 
-    ul {
-        display: flex;
-        gap: 1rem;
-        flex-basis: 5rem;
-        flex-wrap: wrap;
-        list-style-type: none;
+	ul {
+		display: flex;
+		gap: 1rem;
+		flex-basis: 5rem;
+		flex-wrap: wrap;
+		list-style-type: none;
 
-        li.current a:hover {
-            color: var(--text-accent);
-        }
-    }
+		li.current a:hover {
+			color: var(--text-accent);
+		}
+	}
 
-    @include screen-width('medium') {
-        margin: 41px 0;
-        padding-top: 14px;
-        padding-right: 10px;
-        text-align: right;
+	@include screen-width('medium') {
+		margin: 41px 0;
+		padding-top: 14px;
+		padding-right: 10px;
+		text-align: right;
 
-        ul {
-            display: block;
-            margin: 0;
-            padding: 8px 8px 0 0;
-            border-right: 1px solid transparent; 
-            border-image: linear-gradient(to bottom, var(--bkg-minor), var(--blue), var(--bkg-minor));
-            border-image-slice: 1;
+		ul {
+			display: block;
+			margin: 0;
+			padding: 8px 8px 0 0;
+			border-right: 1px solid transparent; 
+			border-image: linear-gradient(to bottom, var(--bkg-minor), var(--blue), var(--bkg-minor));
+			border-image-slice: 1;
 
-            li.current a {
-                color: var(--text-accent);
-            }
-        }
-    }
+			li.current a {
+				color: var(--text-accent);
+			}
+		}
+	}
 
-    button.toggler {
-        color: var(--text-mute);
-        background-color: transparent;
-        border: none;
-        height: 30px;
-        width: 30px;
-        margin-right: 8px;
-    }
+	button.toggler {
+		color: var(--text-mute);
+		background-color: transparent;
+		border: none;
+		height: 30px;
+		width: 30px;
+		margin-right: 8px;
+	}
 
-    button.toggler.is-showing {
-        background-image: url(/images/site/hide-sdebar-vert-svgrepo-com.svg);
-        background-size: 95%;
-        background-repeat: no-repeat;
-    }
+	button.toggler.is-showing {
+		background-image: url(/images/site/hide-sdebar-vert-svgrepo-com.svg);
+		background-size: 95%;
+		background-repeat: no-repeat;
+	}
 
-    button.toggler.is-showing::before {
-        content: 'hide';
-        font-size: 1.3em;
-        margin-left: -70px;
-    }
+	button.toggler.is-showing::before {
+		content: 'hide';
+		font-size: 1.3em;
+		margin-left: -70px;
+	}
 
-    button.toggler.is-hiding {
-        background-image: url(/images/site/down-arrow-svgrepo-com.svg);
-        background-size: 50%;
-        background-position: 7px 9px;
-        background-repeat: no-repeat;
-    }
+	button.toggler.is-hiding {
+		background-image: url(/images/site/down-arrow-svgrepo-com.svg);
+		background-size: 50%;
+		background-position: 7px 9px;
+		background-repeat: no-repeat;
+	}
 
-    button.toggler.is-hiding::before {
-        content: 'show';
-        font-size: 1.3em;
-        margin-left: -70px;
-    }
+	button.toggler.is-hiding::before {
+		content: 'show';
+		font-size: 1.3em;
+		margin-left: -70px;
+	}
 
-    @include screen-width('xsmall') {
-        #subnav-chk:checked + label ~ nav {
-            display: none;
-        }
-    }
+	@include screen-width('xsmall') {
+		#subnav-chk:checked + label ~ nav {
+			display: none;
+		}
+	}
 
-    @include screen-width('small') {
-        #subnav-chk:checked + label ~ nav {
-            height: 1px;
-        }
-    }
+	@include screen-width('small') {
+		#subnav-chk:checked + label ~ nav {
+			height: 1px;
+		}
+	}
 }

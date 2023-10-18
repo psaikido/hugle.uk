@@ -1,93 +1,96 @@
 <nav class="main-nav">
-    <button class="toggler"> 
-        <div class="button-text">menu</div>
-    </button>
+	<button class="toggler"> 
+		<div class="button-text">menu</div>
+	</button>
 
-    <div class="sidebar-menu little">
-        <button class="heading top">&#x0f3a; menu &#x0f3b;</button>
-        <ul class="little">
-            {{ range .Site.Data.nav.solos }}
-                <li class="level1-child">
-                    <a href="{{ .url }}" alt="{{ .title }}">
-                        {{ .title }}
-                    </a>
-                </li>
-            {{ end }}
-            
-            {{ range .Site.Data.nav.nests }}
-                <li class="level1-parent">
-                    <button class="heading">
-                        {{ .title }}
-                    </button>
+	<div class="sidebar-menu little">
+		<button class="heading top">&#x0f3a; menu &#x0f3b;</button>
+		<ul class="little">
+			{{ range .Site.Data.nav.solos }}
+			<li class="level1-child">
+				<a href="{{ .url }}" alt="{{ .title }}">
+					{{ .title }}
+				</a>
+			</li>
+			{{ end }}
 
-                    <ul class="level1-parent-dropdown">
-                        {{ range .sub }}
-                            <li class="level2-parent">
-                                <div class="sub-heading">{{ .title }}</div>
+			{{ range .Site.Data.nav.nests }}
+			<li class="level1-parent">
+				<button class="heading">
+					{{ .title }}
+				</button>
 
-                                <ul class="submenu">
-                                    {{ range .subsub }}
-                                        <li class="subsubitem">
-                                            <a href="{{ .url }}" alt="{{ .title }}" >
-                                                {{ .title }}
-                                            </a>
-                                        </li>
-                                        {{ end }}
-                                </ul>
-                            </li>
-                        {{ end }}
-                    </ul>
-                </li>
-            {{ end }}
-        </ul>
-    </div>
+				<ul class="level1-parent-dropdown">
+					{{ range .sub }}
+					<li class="level2-parent">
+						<div class="sub-heading">{{ .title }}</div>
 
-    <div class="sidebar-menu big">
-        <button class="heading top">༺ menu ༻</button>
+						<ul class="submenu">
+							{{ range .subsub }}
+							<li class="subsubitem">
+								<a href="{{ .url }}" alt="{{ .title }}" >
+									{{ .title }}
+								</a>
+							</li>
+							{{ end }}
+						</ul>
+					</li>
+					{{ end }}
+				</ul>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
 
-        <div class="ul-blocks">
-            <ul class="solos">
+	<div class="sidebar-menu big">
+		<button class="heading top">༺ menu ༻</button>
 
-                {{ range .Site.Data.nav.solos }}
-                    <li>
-                        <a href="{{ .url }}" alt="{{ .title }}">
-                            {{ .title }}
-                        </a>
-                    </li>
-                {{ end }}
+		<div class="ul-blocks">
+			<ul class="solos">
 
-            </ul>
+				{{ range .Site.Data.nav.solos }}
+				<li>
+					<a href="{{ .url }}" alt="{{ .title }}">
+						{{ .title }}
+					</a>
+				</li>
+				{{ end }}
 
-            <ul class="nests">
+			</ul>
 
-                {{ range .Site.Data.nav.nests }}
-                    <li class="level1-parent">
-                        <div class="icon">
-                            <img src="/images/site/{{ .icon }}" alt="icon">
-                        </div>
+			<ul class="nests">
 
-                        <button class="heading">{{ .title }} </button>
+				{{ range .Site.Data.nav.nests }}
+				<li class="level1-parent">
+					<div class="level1-parent-heading">
+						
+						<a class="heading" href="#dd-{{ .title }}">
+							<img src="/images/site/{{ .icon }}" alt="icon">
+							{{ .title }}
+						</a>
+					</div>
 
-                        <ul class="level1-parent-dropdown-big">
-                            {{ range .sub }}
-                                <li class="level2-parent">
-                                    <div class="sub-heading">{{ .title }}</div>
+					<ul class="level1-parent-dropdown-big" id="dd-{{ .title }}">
 
-                                    <ul class="submenu">
-                                        {{ range .subsub }}
-                                            <li class="subsubitem">
-                                                <a href="{{ .url }}" alt="{{ .title }}">
-                                                    {{ .title }}
-                                                </a>
-                                            </li>
-                                        {{ end }}
-                                    </ul>
-                                </li>
-                            {{ end }}
-                        </ul>
-                    </li>
-                {{ end }}
-            </ul>
-        </div>
-    </div>
+						{{ range .sub }}
+						<li class="level2-parent">
+							<div class="sub-heading">{{ .title }}</div>
+
+							<ul class="submenu">
+								{{ range .subsub }}
+								<li class="subsubitem">
+									<a href="{{ .url }}" alt="{{ .title }}">
+										{{ .title }}
+									</a>
+								</li>
+								{{ end }}
+							</ul>
+						</li>
+						{{ end }}
+					</ul>
+				</li>
+				{{ end }}
+			</ul>
+		</div>
+	</div>
 </nav>
