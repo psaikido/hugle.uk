@@ -150,7 +150,6 @@
 .sidebar-menu.big {
 	margin-left: 15px;
 	height: 700px;
-	// height: auto;
 	border: 1px solid var(--blue);
 	background: var(--bkg-main);
 
@@ -165,17 +164,11 @@
 
 		ul.nests {
 			width: 84%;
-			// display: grid;
-			// grid-auto-flow: column;
-			// grid-auto-columns: 1fr;
 			position: relative;
-
-			li:hover {
-				border: none;
-			}
 
 			li.level1-parent {
 				clear: both;
+				width: max-content;
 
 				.level1-parent-heading {
 					position: absolute;
@@ -189,7 +182,10 @@
 							margin: 0 auto;
 						}
 					}
+				}
 
+				.level1-parent-heading.active {
+					border-top: 2px solid var(--text-accent);
 				}
 			}
 
@@ -207,10 +203,6 @@
 
 			.level1-parent:nth-child(4) .level1-parent-heading {
 				left: 82%;
-			}
-
-			li.level1-parent.active {
-				border-top: 1px solid var(--text-accent);
 			}
 
 			ul.level1-parent-dropdown-big {
