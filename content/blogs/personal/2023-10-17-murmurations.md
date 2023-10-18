@@ -7,8 +7,8 @@ weight: 5
 ---
 
 
-The [murmurations](https://www.murmurations.life/) project had ending event at
-Bristol's Watershed.
+The [murmurations](https://www.murmurations.life/) project had its ending event at
+Bristol's Watershed on Oct 17th 2023.
 
 Through the University of Bristol's [Connecting Through Culture as we
 Age](https://connectingthroughcultureasweage.info/) organisation, I was invited to
