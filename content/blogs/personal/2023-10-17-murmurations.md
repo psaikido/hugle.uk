@@ -7,6 +7,9 @@ weight: 5
 ---
 
 
+{{< youtube gmnQczVnpkA >}}
+
+
 The [murmurations](https://www.murmurations.life/) project had its ending event at
 Bristol's Watershed on Oct 17th 2023.
 
