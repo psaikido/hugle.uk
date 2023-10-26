@@ -27,10 +27,10 @@
 
 {{ end }}
 
-{{ define "subnavbar" }}
+{{ define "subnav1" }}
 		{{ if .Params.menu }}
         {{ $menu := (index $.Site.Menus (print .Params.menu)) }}
         {{ .Scratch.Set "menu" $menu }}
-        {{ partial "subnavbar.html" . }}
+        {{ partial "subnavbar-blog.html" . }}
     {{ end }}
 {{ end }}

@@ -1,9 +1,9 @@
 {{ define "main" }}
-    {{ .Scratch.Set "menu" .Site.Data.firstburn.menu }}
     {{ partial "prose.html" . }}
 {{ end }}
 
-{{ define "subnavbar" }}
-    {{ partial "subnavbar.html" . }}
+{{ define "subnav1" }}
+    {{ .Scratch.Set "menu" .Site.Data.firstburn.menu }}
+    {{ partial "subnav-data.html" . }}
 {{ end }}
 

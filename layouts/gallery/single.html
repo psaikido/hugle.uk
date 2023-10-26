@@ -36,7 +36,7 @@
     {{ partial "page-footer-yml.html" . }}
 {{ end }}
 
-{{ define "subnavbar" }}
+{{ define "subnav1" }}
     {{ if .Params.subnav }}
         {{ $menu := (index $.Site.Data (print .Params.subnav)).menu }}
         {{ .Scratch.Set "menu" $menu }}
