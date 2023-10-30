@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan&display=swap');
 
 *,
 *::before,
@@ -17,7 +17,7 @@ html {
 } 
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat, 'Noto Serif Tibetan', sans-serif;
     font-size: .8rem;
     letter-spacing: .12rem;
     margin: 0;
@@ -52,7 +52,7 @@ form {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Grandstander', sans-serif;
+    font-family: Ubuntu, sans-serif;
     font-style: italic;
     padding: 0 0 6px 6px;
     max-width: fit-content;

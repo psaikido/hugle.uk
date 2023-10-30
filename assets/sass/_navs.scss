@@ -50,7 +50,7 @@
 	border: 1px solid var(--border-main);
 
 	button.heading.top {
-		font-family: Grandstander, sans-serif;
+		font-family: Ubuntu, 'Noto Serif Tibetan', sans-serif;
 		border: none;
 		@include border-fancy;
 		background-color: transparent;
@@ -92,7 +92,7 @@
 
 	li.level1-parent .heading,
 	.sub-heading {
-		font-family: Grandstander;
+		font-family: Ubuntu, sans-serif;
 		font-size: 1.2em;
 		color: var(--text-accent);
 		text-decoration: underline;
