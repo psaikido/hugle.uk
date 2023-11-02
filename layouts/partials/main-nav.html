@@ -64,12 +64,16 @@
 				<li class="level1-parent">
 					<div class="level1-parent-heading">
 						
-						<a class="heading" href="#dd-{{ .title }}">
+						<a class="dd-{{ .title }}">
 							<img src="/images/site/{{ .icon }}" alt="icon">
 							{{ .title }}
 						</a>
 					</div>
+				</li>
+				{{ end }}
 
+
+				{{ range .Site.Data.nav.nests }}
 					<ul class="level1-parent-dropdown-big" id="dd-{{ .title }}">
 
 						{{ range .sub }}
@@ -88,7 +92,6 @@
 						</li>
 						{{ end }}
 					</ul>
-				</li>
 				{{ end }}
 			</ul>
 		</div>

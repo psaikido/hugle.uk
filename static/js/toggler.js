@@ -66,9 +66,22 @@ $('h4.toggler').click(function () {
 })
 
 /* desktop nav show/hide main categories by icon */
-$('ul.nests .level1-parent-heading').click(function () {
-	$('ul.nests .level1-parent-heading.active').removeClass('active');
-	$(this).toggleClass('active');
+$('ul.nests .level1-parent').click(function () {
+	$('.level1-parent-heading').removeClass('active');
+	$(this).find('.level1-parent-heading').addClass('active');
+
+	/* get the class name of the clicked heading and use it
+	 * as the id of the 'dropdown-big' */
+	const target = $(this).find('a').attr('class');
+
+	$('ul.level1-parent-dropdown-big').css('display', 'none');
+	$('#' + target).css('display', 'block');
+
+	/* place the dropdown-big centrally */
+	const currentWidth = $('#' + target).width();
+	/* it's 'about' half to account for the variable width of the solos to its left */
+	const aboutHalf = (currentWidth / 2) + 100;
+	$('#' + target).css('left', 'calc(50% - ' + aboutHalf + 'px)');
 })
 
 function hide (elem) {
