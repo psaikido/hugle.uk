@@ -3,7 +3,7 @@ bannerTitle: blog - essays
 title: "Science, Religion, Dharma"
 date: 2022-02-14
 menu: essays
-weight: 1
+weight: 2
 ---
 
 It seems to me that in the Western Enlightenment we gained a method for

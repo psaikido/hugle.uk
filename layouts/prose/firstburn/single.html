@@ -1,5 +1,8 @@
 {{ define "main" }}
     {{ partial "prose.html" . }}
+
+    {{ .Scratch.Set "menu" .Site.Data.firstburn.menu }}
+    {{ partial "page-footer-yml.html" . }}
 {{ end }}
 
 {{ define "subnav1" }}

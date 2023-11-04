@@ -11,14 +11,17 @@
 }
 
 html {
-    --bkg-main:   hsl(45, 7%, 11%);
+    --bkg-main:   hsl(45, 7%, 11%, 70%);
+    --bkg-main-solid:   hsl(45, 7%, 11%);
     --bkg-minor:  hsl(45, 7%, 21%);
+	--bkg-ghost:  #aaa2;
     --bk-text-main:  hsl(205 200% 200%);
     --text-main:  hsl(38 54% 83%);
     --text-minor: hsl(0, 0%, 20%);
     --text-accent:hsl(30 85% 55%);
     --text-mute:  hsl(0, 0%, 47%);
     --link-main:  var(--blue);
+    --link-subnav:  lightsteelblue;
     --border-main:hsl(194, 14%, 40%);
 
     &.light {

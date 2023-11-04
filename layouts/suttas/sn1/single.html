@@ -1,6 +1,7 @@
 {{ define "main" }}
     {{ .Scratch.Set "menu" .Site.Data.suttasSn1.menu }}
     {{ partial "prose.html" . }}
+    {{ partial "page-footer.html" . }}
 {{ end }}
 
 {{ define "subnav1" }}

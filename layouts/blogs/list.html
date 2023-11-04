@@ -1,17 +1,19 @@
 {{ define "main" }}
+    <div class="blog">
+		<ul class="blog-list">
+			{{ range sort .Pages "Date" "desc" }}
+				<li>
+					<div class="blog-date">
+						{{ .Date.Format "2006 Jan 02" }}
+					</div>
 
-    <ul class="blog-list">
-        {{ range sort .Pages "Date" "desc" }}
-            <li>
-                <div class="blog-date">
-                    {{ .Date.Format "2006 Jan 02" }}
-                </div>
+					<div class="blog-link">
+						<a href="{{ .Permalink }}">{{ .Title }}</a>
+					</div>
+				</li>
+			{{ end }}
+		</ul>
 
-                <div class="blog-link">
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </div>
-            </li>
-        {{ end }}
-    </ul>
-
+		{{ partial "page-footer.html" . }}
+	</div>
 {{ end }}

@@ -1,6 +1,6 @@
 <nav class="main-nav">
 	<button class="toggler"> 
-		<div class="button-text">menu</div>
+		<span class="button-text">menu</span>
 	</button>
 
 	<div class="sidebar-menu little">
@@ -8,7 +8,7 @@
 		<ul class="little">
 			{{ range .Site.Data.nav.solos }}
 			<li class="level1-child">
-				<a href="{{ .url }}" alt="{{ .title }}">
+				<a href="{{ .url }}">
 					{{ .title }}
 				</a>
 			</li>
@@ -28,7 +28,7 @@
 						<ul class="submenu">
 							{{ range .subsub }}
 							<li class="subsubitem">
-								<a href="{{ .url }}" alt="{{ .title }}" >
+								<a href="{{ .url }}">
 									{{ .title }}
 								</a>
 							</li>
@@ -50,7 +50,7 @@
 
 				{{ range .Site.Data.nav.solos }}
 				<li>
-					<a href="{{ .url }}" alt="{{ .title }}">
+					<a href="{{ .url }}">
 						{{ .title }}
 					</a>
 				</li>
@@ -65,7 +65,7 @@
 					<div class="level1-parent-heading">
 						
 						<a class="dd-{{ .title }}">
-							<img src="/images/site/{{ .icon }}" alt="icon">
+							<img src="/images/site/{{ .icon }}" title="{{ .title }}">
 							{{ .title }}
 						</a>
 					</div>
@@ -83,7 +83,7 @@
 							<ul class="submenu">
 								{{ range .subsub }}
 								<li class="subsubitem">
-									<a href="{{ .url }}" alt="{{ .title }}">
+									<a href="{{ .url }}">
 										{{ .title }}
 									</a>
 								</li>

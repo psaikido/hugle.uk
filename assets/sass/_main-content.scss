@@ -6,7 +6,6 @@
         padding: 20px;
     }
 
-    // background-color: var(--bkg-main);
     box-shadow: -4px 7px 5px 0px rgba(30, 30, 30, .6);
     text-align: left;
 
@@ -94,7 +93,6 @@
     .prose,
     .blog {
         position: relative;
-        min-height: 98%;
         padding-inline: 2rem;
         padding-bottom: 90px;
     }
@@ -104,8 +102,7 @@
     }
 
     .blog {
-        /* content with  positioned divs messes up the 
-        page footer */
+        /* content with  positioned divs messes up the page footer */
         min-height: auto;
     }
 

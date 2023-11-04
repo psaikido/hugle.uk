@@ -22,6 +22,7 @@
 }
 
 .main-nav button .button-text {
+	display: block;
 	margin-top: 40px;
 }
 
@@ -44,7 +45,7 @@
 	top: 0;
 	left: 0;
 	height: 511px;
-	background-color: var(--bkg-main);
+	background-color: var(--bkg-main-solid);
 	padding: 0px 10px;
 	z-index: 6;
 	border: 1px solid var(--border-main);
@@ -151,7 +152,7 @@
 	margin-left: 15px;
 	height: 700px;
 	border: 1px solid var(--blue);
-	background: var(--bkg-main);
+	background: var(--bkg-main-solid);
 
 	.ul-blocks {
 		display: flex;
@@ -260,6 +261,7 @@
 	font-size: 1rem;
 	font-weight: bold;
 	min-height: 30px;
+	background: var(--bkg-main-solid);
 
 	ul {
 		display: flex;
@@ -267,6 +269,11 @@
 		flex-basis: 5rem;
 		flex-wrap: wrap;
 		list-style-type: none;
+
+		li a,
+		li a:visited {
+			color: var(--link-subnav);
+		}
 
 		li.current a:hover {
 			color: var(--text-accent);
@@ -278,6 +285,7 @@
 		padding-top: 14px;
 		padding-right: 10px;
 		text-align: right;
+		background: var(--bkg-ghost);
 
 		ul {
 			display: block;

@@ -1,4 +1,5 @@
 {{ define "main" }}
+    {{ .Scratch.Set "menu" .Site.Data.bucket.menu }}
     {{ partial "poem.html" . }}
 {{ end }}
 

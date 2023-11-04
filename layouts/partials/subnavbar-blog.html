@@ -3,9 +3,9 @@
 
     <ul>
         {{ range sort $pages "Weight" "desc" }}
-					<li class="{{ if eq $.Page.Title .Title }}current{{ end }}">
-						<a href="{{ .URL }}">{{ .Title }}</a>
-					</li>
+			<li class="{{ if eq $.Page.Title .Title }}current{{ end }}">
+				<a href="{{ .URL }}">{{ .Title }}</a>
+			</li>
         {{ end }}
     </ul>
 </aside>

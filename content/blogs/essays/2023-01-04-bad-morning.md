@@ -3,7 +3,7 @@ bannerTitle: blog - essays
 title: "bad morning"
 date: 2023-01-04
 menu: essays
-weight: 4
+weight: 5
 ---
 
 Shocked by the clanging alarm, he heaved up from his slumbers and thumped the

@@ -19,6 +19,12 @@ body {
         'subnav'
         'footer';
 
+	background-image: url(/images/site/6.jpg);
+	background-color: var(--bkg-minor);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
     .main-nav,
     heading {
         grid-area: banner;

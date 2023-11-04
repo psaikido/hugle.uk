@@ -2,6 +2,9 @@
     <div class="thesium">
         {{ partial "prose.html" . }}
     </div>
+
+	{{ .Scratch.Set "menu" .Site.Data.thesium.menu }}
+	{{ partial "page-footer-yml.html" . }}
 {{ end }}
 
 {{ define "subnav1" }}
