@@ -1,6 +1,6 @@
 ---
 bannerTitle: blog - kites
-title: Tarantula from the kite end
+title: Tarantula reverse shot 
 date: 2022-08-30
 menu: kites
 weight: 2
