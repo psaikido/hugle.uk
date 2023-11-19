@@ -61,12 +61,15 @@ html {
             color: var(--text-main);
         }
 
-        .header,
         h1, h2, h3, h4, h5, h6 {
             color: var(--text-accent);
             text-shadow: none;
             border: none;
         }
+
+		heading a h1 {
+			color: var(--white);
+		}
 
         #search-term {
             background-color: var(--light-grey);
@@ -114,6 +117,10 @@ html {
                 color: var(--text-main);
             }
         }
+
+        button .button-text {
+            color: var(--white);
+        }
     }
 
     &.print {
@@ -129,7 +136,6 @@ html {
             display: none;
         }
 
-        .header,
         h1, h2, h3, h4, h5, h6 {
             color: var(--text-accent);
             text-shadow: none;
