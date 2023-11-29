@@ -16,7 +16,7 @@ I love it!
 
 ### tarantula
 
-![tarantula](/images/kites/fleet/tarantula.jpg)  
+![tarantula 1](/images/kites/fleet/tarantula.jpg)  
 
 [revkites tarantula](https://revkites.com/product/revolution-reflex-xx-tarantula/)
 
@@ -70,14 +70,14 @@ Wow, the [fulcrum.85](https://atelierkites.com/shop/en/fulcrum/51-fulcrum.html)!
 
 ### Tarantula (2)
 
-![tarantula](/images/kites/fleet/tarantula2.jpg)
+![tarantula 2](/images/kites/fleet/tarantula2.jpg)
 
 My own design using the colorizer I've made for Revolution.
 
 
 ### Tarantula (3)
 
-![tarantula](/images/kites/fleet/tarantula3.jpg)
+![tarantula 3](/images/kites/fleet/tarantula3.jpg)
 
 One of a pair for team flying one day we hope!
 
