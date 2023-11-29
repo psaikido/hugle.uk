@@ -3,7 +3,7 @@ bannerTitle: kites
 title: fleet 
 ---
 
-#### spider
+### spider
 
 ![spider](/images/kites/fleet/spider.jpg)  
 
@@ -14,7 +14,7 @@ It is vented and so can be flown in high winds without pulling too hard.
 I love it!
 
 
-#### tarantula
+### tarantula
 
 ![tarantula](/images/kites/fleet/tarantula.jpg)  
 
@@ -27,14 +27,14 @@ patterns were flown with this one. It is very responsive and stable at the same
 time. Brilliant! These are customised colours.
 
 
-#### djinn
+### djinn
 
 ![djinn](/images/kites/fleet/djinn.jpg)  
 [kiteforge](https://kiteforge.com/product/djinn/)
 I got this lovely kite for low wind days, below 10mph. It seems to do best on short lines when the wind is low. Amazing performance on the normal 80ft lines and a good wind. I went for the 'standard vent' model. It's the prettiest!
 
 
-#### blast
+### blast
 
 ![blast](/images/kites/fleet/blast.jpg)
 
@@ -45,7 +45,7 @@ of revolution kites. The [club38](https://revkites.com/club-38/) levels done
 with one of the speed series is for the 'Triple Master' title.
 
 
-#### XX
+### XX
 
 ![XX](/images/kites/fleet/usain-1.png)
 
@@ -54,22 +54,35 @@ Tarantula but unvented. It is sooo responsive and sharp. For wind around
 12-15mph when it's smooth, this is just the most lovely thing. Custom colours,
 I think of them as the 'Batman' scheme.
 
-#### Microlite
+### Microlite
 
 ![microlite](/images/kites/fleet/microlite.jpg)
 
 Super light-weight and great for low wind days. I love the 'bubblegum' feel to
 the colours and the beehive hexagons. Top fun!
 
-#### fulcrum.85
+### fulcrum.85
 
 ![fulcrum](/images/kites/fleet/fulcrum85.jpg)
 
 Wow, the [fulcrum.85](https://atelierkites.com/shop/en/fulcrum/51-fulcrum.html)! Super speedy, spinny and stoppy. Ace! Here it is in my customised colours.
 
 
-#### Tarantula (2)
+### Tarantula (2)
 
 ![tarantula](/images/kites/fleet/tarantula2.jpg)
 
 My own design using the colorizer I've made for Revolution.
+
+
+### Tarantula (3)
+
+![tarantula](/images/kites/fleet/tarantula3.jpg)
+
+One of a pair for team flying one day we hope!
+
+Dan's design with green & red on the wings like on an aircraft. If you think of
+the front of the kite as the underside of a plane then red is on the left and
+green is on the right.
+
+This is a relacement sail for my original Tarantula #1 which has worn out.
