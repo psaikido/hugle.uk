@@ -36,7 +36,6 @@
 }
 
 .poem {
-    font-family: Ubuntu, cursive;
     font-size: 1rem;
 
     @include screen-width('small') {

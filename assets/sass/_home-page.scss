@@ -12,70 +12,70 @@
         }
     }
 
-		.mani-wrap {
-			--wrap-top: 12%;
-			--wrap-left: 21px;
-			--wrap-width: 90%;
-			--wrap-height: 250px;
-			--wrap-pad-top: 10%;
-			--mani-font-size: 450%;
-			--mani-margin-top: 30px;
+	.mani-wrap {
+		--wrap-top: 12%;
+		--wrap-left: 21px;
+		--wrap-width: 90%;
+		--wrap-height: 250px;
+		--wrap-pad-top: 10%;
+		--mani-font-size: 450%;
+		--mani-margin-top: 30px;
 
-			@include screen-width('small') {
-				--wrap-top: 16%;
-				--wrap-left: 32px;
-				--mani-font-size: 600%;
-			}
+		@include screen-width('small') {
+			--wrap-top: 16%;
+			--wrap-left: 32px;
+			--mani-font-size: 600%;
+		}
 
-			@include screen-width('medium') {
-				--mani-font-size: 545%;
-			}
+		@include screen-width('medium') {
+			--mani-font-size: 545%;
+		}
 
-			@include screen-width('large') {
-				--wrap-top: 20%;
-				--mani-font-size: 645%;
-			}
+		@include screen-width('large') {
+			--wrap-top: 20%;
+			--mani-font-size: 645%;
+		}
 
-			@include screen-width('desktop') {
-				--wrap-top: 20%;
-				--mani-font-size: 745%;
-			}
+		@include screen-width('desktop') {
+			--wrap-top: 20%;
+			--mani-font-size: 745%;
+		}
 
-			position: absolute;
-			top: var(--wrap-top);
-			left: var(--wrap-left);
-			width: var(--wrap-width);
-			height: var(--wrap-height);
-			padding-top: var(--wrap-pad-top);
+		position: absolute;
+		top: var(--wrap-top);
+		left: var(--wrap-left);
+		width: var(--wrap-width);
+		height: var(--wrap-height);
+		padding-top: var(--wrap-pad-top);
 
-			background-image: url(/images/site/clouds-2.jpg);
-			background-repeat: no-repeat;
-			background-size: 160%;
-			background-position-x: -250px;
-			background-clip: text;
-			-webkit-background-clip: text;
-			color: transparent;
-			animation: drift 50s ease-out infinite alternate;
+		background-image: url(/images/site/clouds-2.jpg);
+		background-repeat: no-repeat;
+		background-size: 160%;
+		background-position-x: -250px;
+		background-clip: text;
+		-webkit-background-clip: text;
+		color: transparent;
+		animation: drift 50s ease-out infinite alternate;
 
-			@keyframes drift {
-				to {
-					background-position-x: 0px;
-				}
-			}
-
-			.mani {
-				width: 100%;
-				height: 100%;
-				margin-top: var(--mani-margin-top);
-				font-size: var(--mani-font-size);
-				text-align: center;
+		@keyframes drift {
+			to {
+				background-position-x: 0px;
 			}
 		}
+
+		.mani {
+			width: 100%;
+			height: 100%;
+			margin-top: var(--mani-margin-top);
+			font-size: var(--mani-font-size);
+			text-align: center;
+		}
+	}
 
     .random-hughku, 
     .home-text-box,
     .dharma-names {
-				font-family: Ubuntu, 'Noto Serif Tibetan', sans-serif;
+		font-family: Ubuntu, 'Noto Serif Tibetan', sans-serif;
         width: 80%;
         margin: 0 auto;
         border: 1px solid var(--border-main);
@@ -109,6 +109,7 @@
     .random-hughku {
         text-align: center;
         padding-bottom: 20px;
+		padding-top: 20px;
 
         #rand {
             padding-top: 20px;
