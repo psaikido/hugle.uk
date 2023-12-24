@@ -14,3 +14,5 @@ markup:
     parser:
       attribute:
         block: true
+    extensions:
+      table: true

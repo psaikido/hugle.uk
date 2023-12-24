@@ -104,6 +104,10 @@
     .blog {
         /* content with  positioned divs messes up the page footer */
         min-height: auto;
+
+		table {
+			width: 100%;
+		}
     }
 
     .page-footer {
