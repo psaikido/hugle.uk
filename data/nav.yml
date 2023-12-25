@@ -198,6 +198,9 @@ nests:
           - title: making blog
             url: /blogs/making/
 
+          - title: Shavian
+            url: /shavian/intro/
+
 
     - title: galleries
       icon: galleries.png
