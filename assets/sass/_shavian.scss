@@ -1,0 +1,29 @@
+.shavian  {
+	height: auto;
+	padding: 10px;
+	line-height: 3rem;
+
+	.display {
+		width: 100%;
+		border: 1px solid var(--border-main);
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: 100px;
+
+		.shv {
+			font-size: 3rem;
+			justify-self: center;
+			align-self: center;
+		}
+
+		.info {
+			font-style: italic;
+			text-align: center;
+		}
+	}
+
+	.input {
+		width: 40%;
+		margin: 0 auto;
+	}
+}
