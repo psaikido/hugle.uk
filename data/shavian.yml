@@ -1,9 +1,9 @@
 menu:
-- title: intro
+- title: Shavian
   url: /shavian/intro/
 
-- title: general info
-  url: /blogs/ideas/2023-12-24-shavian/
+- title: 'practice first ten' 
+  url: /shavian/one-ten/
 
-- title: 'practice #1' 
-  url: /shavian/prac1/
+- title: 'practice second ten' 
+  url: /shavian/eleven-twenty/
