@@ -7,6 +7,21 @@
 
 	{{ if .Params.tutor }}
 	<div class="shavian">
+		<select id="subset" onchange="selectSubset();">
+			<option value="">---</option>
+			<option value="1">first ten</option>
+			<option value="2">second ten</option>
+			<option value="3">third ten</option>
+			<option value="4">fourth ten</option>
+			<option value="5">compounds</option>
+			<option value="6">tall</option>
+			<option value="7">deep</option>
+			<option value="8">short</option>
+			<option value="9">consonants</option>
+			<option value="10">vowels</option>
+			<option value="11">all</option>
+		</select>
+
 		<div class="display">
 			<div class="shv"></div>
 
@@ -17,16 +32,17 @@
 		</div>
 
 		<div class="input">
-			<textarea id="txt" rows="1" cols="10">&nbsp;</textarea>
+			<textarea id="txt" rows="1" cols="7">&nbsp;</textarea>
 		</div>
 
+		<script src="/js/shavian.js" data-min="{{ .Params.min }}"></script>
 		<div id="result">&nbsp;</div>
-
-		<script src="/js/shavian.js"></script>
 	</div>
 	{{ end }}
 
-	{{ .Content }}
+	<div class="targetLetters">
+		{{ .Content }}
+	</div>
 
 	{{ .Scratch.Set "currentTitle" .Params.title }}
     {{ partial "page-footer-yml.html" . }}

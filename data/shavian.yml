@@ -2,8 +2,5 @@ menu:
 - title: Shavian
   url: /shavian/intro/
 
-- title: 'practice first ten' 
-  url: /shavian/one-ten/
-
-- title: 'practice second ten' 
-  url: /shavian/eleven-twenty/
+- title: 'type trainer' 
+  url: /shavian/type-trainer/
