@@ -3,6 +3,10 @@
 	padding: 10px;
 	line-height: 3rem;
 
+	#kbdPrompt, label {
+		float: right;
+	}
+
 	.display {
 		width: 100%;
 		border: 1px solid var(--border-main);
@@ -23,7 +27,7 @@
 	}
 
 	.input {
-		width: 40%;
+		width: 30%;
 		margin: 0 auto;
 	}
 }

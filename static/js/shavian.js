@@ -153,4 +153,9 @@ inp.keypress(function (e) {
     }
 });
 
+$('#kbdPrompt').click(function() {
+	// var box = document.getElementById('kbdPrompt');
+	var disp =  $('.kbd').toggle();
+});
+
 reset(chosenSubset, rnd);
