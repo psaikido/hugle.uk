@@ -64,5 +64,19 @@
 				}
 			}
 		}
+
+		&.bad {
+			animation: 1s forwards punishment;
+
+			@keyframes punishment {
+				from {
+					background-color: red;
+				}
+
+				to {
+					background-color: var(--bkg-main);
+				}
+			}
+		}
 	}
 }

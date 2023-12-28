@@ -65,14 +65,15 @@ const dict_short = [21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40]
 const dict_consonants = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
 const dict_vowels = [21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48];
 
-var chosenSubset = dict_first_ten;
-var rnd = getRndInteger(chosenSubset);
-var lastRnd = rnd;
+// var chosenSubset = dict_first_ten;
+var rnd;
+var lastRnd;
 
 function reset(chosenSubset, rnd) {
 	if (dict[chosenSubset[rnd]] === null) {
 		reset(chosenSubset, getRndInteger(chosenSubset));
 	}
+
 	$('.shavian .display .shv').html(dict[chosenSubset[rnd]].shv);
 	$('.shavian .display .info .name').html(dict[chosenSubset[rnd]].name);
 	$('.shavian .display .info .kbd').html(dict[chosenSubset[rnd]].kbd);
@@ -81,7 +82,7 @@ function reset(chosenSubset, rnd) {
 function getRndInteger(chosenSubset) {
 	const min = 1;
 	const max = chosenSubset.length;
-	lastRnd = rnd;
+
 	let r = Math.round(Math.random() * (max - min) + min);
 	if (r != lastRnd) {
 		return r;
@@ -120,6 +121,8 @@ function showSubset(idx) {
 		chosenSubset = dict_vowels;
 	} else if (idx == 11) {
 		chosenSubset = dict_all;
+	} else {
+		chosenSubset = dict_all;
 	}
 
 	const tarLtrDisplay = $('.targetLetters');
@@ -132,13 +135,21 @@ function showSubset(idx) {
 	}
 
 	tarLtrDisplay.html(tmp);
+	rnd = getRndInteger(chosenSubset);
 	reset(chosenSubset, rnd);
 }
 
 inp.keypress(function (e) {
+	if (typeof(chosenSubset) == "undefined") {
+		alert('please choose a subset');
+		return;
+	}
+
     if(e.which === 13 && !e.shiftKey) {
         e.preventDefault();
 		const res = $('#result');
+
+		$('#debug').html('shv: ' + dict[chosenSubset[rnd]].shv + ' inp: ' + inp.val());
 
 		if (dict[chosenSubset[rnd]].shv == inp.val()) {
 			res.html('yay');
@@ -152,8 +163,13 @@ inp.keypress(function (e) {
 			rnd = getRndInteger(chosenSubset);
 			reset(chosenSubset, rnd);
 		} else {
+			res.html(dict[chosenSubset[rnd]].kbd);
+			res.addClass('bad');
+			setTimeout(function() {
+				res.removeClass('bad');
+				res.html(' - ');
+			}, 1000);
 			inp.val('');
-			res.html(':(');
 		}
     }
 });
@@ -161,5 +177,3 @@ inp.keypress(function (e) {
 $('#kbdPrompt').click(function() {
 	var disp =  $('.kbd').toggle();
 });
-
-reset(chosenSubset, rnd);
