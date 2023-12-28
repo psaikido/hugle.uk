@@ -5,43 +5,54 @@
 		<h2>{{ .Params.title }}</h2>
 	{{ end }}
 
-	{{ if .Params.tutor }}
 	<div class="shavian">
-		<select id="subset" onchange="selectSubset();">
-			<option value="">---</option>
-			<option value="1">first ten</option>
-			<option value="2">second ten</option>
-			<option value="3">third ten</option>
-			<option value="4">fourth ten</option>
-			<option value="5">compounds</option>
-			<option value="6">tall</option>
-			<option value="7">deep</option>
-			<option value="8">short</option>
-			<option value="9">consonants</option>
-			<option value="10">vowels</option>
-			<option value="11">all</option>
-		</select>
+		{{ if .Params.tutor }}
+			<select id="subset" onchange="selectSubset();">
+				<option value="">---</option>
+				<option value="1">first ten</option>
+				<option value="2">second ten</option>
+				<option value="3">third ten</option>
+				<option value="4">fourth ten</option>
+				<option value="5">compounds</option>
+				<option value="6">tall</option>
+				<option value="7">deep</option>
+				<option value="8">short</option>
+				<option value="9">consonants</option>
+				<option value="10">vowels</option>
+				<option value="11">all</option>
+			</select>
 
-		<input type="checkbox" id="kbdPrompt" checked />
-		<label for="kbdPrompt">keyboard prompt visible</label>
+			<input type="checkbox" id="kbdPrompt" checked />
+			<label for="kbdPrompt">keyboard prompt visible</label>
 
-		<div class="display">
-			<div class="shv"></div>
+			<div class="display">
+				<div class="shv"></div>
 
-			<div class="info">
-				<div class="name"></div>
-				<div class="kbd"></div>
+				<div class="info">
+					<div class="name"></div>
+					<div class="kbd"></div>
+				</div>
 			</div>
-		</div>
 
-		<div class="input">
-			<textarea id="txt" rows="1" cols="7">&nbsp;</textarea>
-		</div>
+			<div class="input">
+				<textarea id="txt" rows="1" cols="7">&nbsp;</textarea>
+			</div>
 
-		<script src="/js/shavian.js" data-min="{{ .Params.min }}"></script>
+			<script src="/js/shavian.js"></script>
+		{{ end }}
+
+		{{ if .Params.words }}
+			<div class="word-display"></div>
+
+			<div class="input">
+				<textarea id="txt" rows="1" cols="10">&nbsp;</textarea>
+			</div>
+
+			<script src="/js/shavian-common-words.js"></script>
+		{{ end }}
+
 		<div id="result">&nbsp;</div>
 	</div>
-	{{ end }}
 
 	<div class="targetLetters">
 		{{ .Content }}

@@ -2,6 +2,7 @@
 bannerTitle: 𐑖𐑲𐑝𐑾𐑯
 title: "type trainer"
 tutor: true
+words: false
 ---
 
 Choose a subset of letters from the drop down. If you have a keymap setup,
