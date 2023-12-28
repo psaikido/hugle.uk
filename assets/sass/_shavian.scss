@@ -7,6 +7,10 @@
 		float: right;
 	}
 
+	#kbdPrompt {
+		margin-top: 17px;
+	}
+
 	.display {
 		width: 100%;
 		border: 1px solid var(--border-main);
@@ -36,7 +40,29 @@
 	}
 
 	.input {
-		width: 30%;
-		margin: 0 auto;
+		width: auto;
+		text-align: center;
+
+		#txt {
+			margin: 0 auto;
+		}
+	}
+
+	#result {
+		text-align: center;
+
+		&.good {
+			animation: 1s forwards reward;
+
+			@keyframes reward {
+				from {
+					background-color: green;
+				}
+
+				to {
+					background-color: var(--bkg-main);
+				}
+			}
+		}
 	}
 }

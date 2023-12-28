@@ -76,14 +76,13 @@ function reset(chosenSubset, rnd) {
 	$('.shavian .display .shv').html(dict[chosenSubset[rnd]].shv);
 	$('.shavian .display .info .name').html(dict[chosenSubset[rnd]].name);
 	$('.shavian .display .info .kbd').html(dict[chosenSubset[rnd]].kbd);
-	// $('.targetLetters').html(chosenSubset);
 }
 
 function getRndInteger(chosenSubset) {
 	const min = 1;
 	const max = chosenSubset.length;
 	lastRnd = rnd;
-	let r = Math.floor(Math.random() * (max - min) + min);
+	let r = Math.round(Math.random() * (max - min) + min);
 	if (r != lastRnd) {
 		return r;
 	} else {
@@ -143,6 +142,12 @@ inp.keypress(function (e) {
 
 		if (dict[chosenSubset[rnd]].shv == inp.val()) {
 			res.html('yay');
+			res.addClass('good');
+			setTimeout(function() {
+				res.removeClass('good');
+				res.html(' - ');
+			}, 1000);
+
 			inp.val('');
 			rnd = getRndInteger(chosenSubset);
 			reset(chosenSubset, rnd);
@@ -154,7 +159,6 @@ inp.keypress(function (e) {
 });
 
 $('#kbdPrompt').click(function() {
-	// var box = document.getElementById('kbdPrompt');
 	var disp =  $('.kbd').toggle();
 });
 
