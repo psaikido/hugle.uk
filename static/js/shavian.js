@@ -78,7 +78,7 @@ function reset(chosenSubset, rnd) {
 
 function getRndInteger(chosenSubset) {
 	const min = 0;
-	const max = chosenSubset.length;
+	const max = chosenSubset.length - 1;
 
 	return Math.round(Math.random() * (max - min) + min);
 }
