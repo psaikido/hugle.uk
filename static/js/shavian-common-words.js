@@ -229,35 +229,38 @@ dict_words[222] = {eng: "you", shv: "𐑿", shv2: "" };
 dict_words[223] = {eng: "young", shv: "𐑘𐑳𐑙", shv2: "" };
 dict_words[224] = {eng: "your", shv: "𐑘𐑫𐑼", shv2: "" };
 
+
+window.rnd; 
+
 function getRandomInteger() {
 	return Math.round(Math.random() * 224);
 }
 
-function reset(rnd) {
+function reset() {
 	const subset = $('#subset');
 	var wordDisplay;
 
 	if (subset.val() == 1) {
-		wordDisplay = dict_words[rnd].shv;
+		wordDisplay = dict_words[window.rnd].shv;
 	} else if (subset.val() == 2) {
-		wordDisplay = dict_words[rnd].shv;
+		wordDisplay = dict_words[window.rnd].shv;
 	} else if (subset.val() == 3) {
-		wordDisplay = dict_words[rnd].eng;
+		wordDisplay = dict_words[window.rnd].eng;
 	} else {
-		wordDisplay = dict_words[rnd].shv;
+		wordDisplay = dict_words[window.rnd].shv;
 	}
 
 	$('.shavian .word-display').html(wordDisplay);
 }
 
 function selectSubset() {
-	var rnd = getRandomInteger();
-	reset(rnd);
+	window.rnd = getRandomInteger();
+	reset();
 }
 
 $('#show').click(function() {
 	const res = $('#result');
-	res.html(dict_words[rnd].shv + ' ' + dict_words[rnd].eng);
+	res.html(dict_words[window.rnd].shv + ' ' + dict_words[window.rnd].eng);
 });
 
 inp.keypress(function (e) {
@@ -265,20 +268,22 @@ inp.keypress(function (e) {
         e.preventDefault();
 		const subset = $('#subset');
 		const res = $('#result');
+		const answer = inp.val().trim();
 
 		if (subset.val() == 1) {
-			wordDisplay = dict_words[rnd].shv;
+			wordDisplay = dict_words[window.rnd].shv;
 		} else if (subset.val() == 2) {
-			wordDisplay = dict_words[rnd].eng;
+			wordDisplay = dict_words[window.rnd].eng;
 		} else if (subset.val() == 3) {
-			wordDisplay = dict_words[rnd].eng;
+			wordDisplay = dict_words[window.rnd].eng;
 		} else {
-			wordDisplay = dict_words[rnd].shv;
+			wordDisplay = dict_words[window.rnd].shv;
 		}
-		// $('#debug').html(subset.val());
 
-		if (wordDisplay == inp.val()) {
-			res.html(wordDisplay);
+		// $('#debug').html(wordDisplay + ' ' + answer);
+
+		if (wordDisplay === answer) {
+			res.html(answer);
 			res.addClass('good');
 			setTimeout(function() {
 				res.removeClass('good');
@@ -286,10 +291,10 @@ inp.keypress(function (e) {
 				inp.val('');
 			}, 1000);
 
-			rnd = getRandomInteger();
-			reset(rnd);
+			window.rnd = getRandomInteger();
+			reset();
 		} else {
-			res.html(inp.val());
+			res.html(answer);
 			res.addClass('bad');
 			setTimeout(function() {
 				res.removeClass('bad');
@@ -299,6 +304,3 @@ inp.keypress(function (e) {
 		}
     }
 });
-
-var rnd = getRandomInteger();
-reset(rnd);
