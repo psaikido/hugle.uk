@@ -65,40 +65,29 @@ const dict_short = [21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40]
 const dict_consonants = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
 const dict_vowels = [21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48];
 
-// var chosenSubset = dict_first_ten;
-var rnd;
-var lastRnd;
+window.rnd; 
 
 function reset(chosenSubset, rnd) {
-	if (dict[chosenSubset[rnd]] === null) {
-		reset(chosenSubset, getRndInteger(chosenSubset));
-	}
+	window.rnd = getRndInteger(chosenSubset);
+	$('#debug').html('rnd: ' + window.rnd );
 
-	$('.shavian .display .shv').html(dict[chosenSubset[rnd]].shv);
-	$('.shavian .display .info .name').html(dict[chosenSubset[rnd]].name);
-	$('.shavian .display .info .kbd').html(dict[chosenSubset[rnd]].kbd);
+	$('.shavian .display .shv').html(dict[chosenSubset[window.rnd]].shv);
+	$('.shavian .display .info .name').html(dict[chosenSubset[window.rnd]].name);
+	$('.shavian .display .info .kbd').html(dict[chosenSubset[window.rnd]].kbd);
 }
 
 function getRndInteger(chosenSubset) {
-	const min = 1;
+	const min = 0;
 	const max = chosenSubset.length;
 
-	let r = Math.round(Math.random() * (max - min) + min);
-	if (r != lastRnd) {
-		return r;
-	} else {
-		return Math.round(Math.random() * (max - min)) + min;
-	}
+	return Math.round(Math.random() * (max - min) + min);
 }
 
 function selectSubset() {
 	const selBox = $('#subset');
 	var optionSelected = selBox.find("option:selected");
-	var valueSelected  = optionSelected.val();
-	showSubset(valueSelected);
-}
+	var idx  = optionSelected.val();
 
-function showSubset(idx) {
 	if (idx == 1) {
 		chosenSubset = dict_first_ten;
 	} else if (idx == 2) {
@@ -121,7 +110,7 @@ function showSubset(idx) {
 		chosenSubset = dict_vowels;
 	} else if (idx == 11) {
 		chosenSubset = dict_all;
-	} else {
+	} else  {
 		chosenSubset = dict_all;
 	}
 
@@ -135,8 +124,7 @@ function showSubset(idx) {
 	}
 
 	tarLtrDisplay.html(tmp);
-	rnd = getRndInteger(chosenSubset);
-	reset(chosenSubset, rnd);
+	reset(chosenSubset);
 }
 
 inp.keypress(function (e) {
@@ -149,9 +137,9 @@ inp.keypress(function (e) {
         e.preventDefault();
 		const res = $('#result');
 
-		$('#debug').html('shv: ' + dict[chosenSubset[rnd]].shv + ' inp: ' + inp.val());
-
-		if (dict[chosenSubset[rnd]].shv == inp.val()) {
+		// $('#debug').html('rnd: ' + rnd + ' shv: ' + dict[chosenSubset[rnd]].shv + ' inp: ' + inp.val());
+		$('#debug').html('rnd: ' + window.rnd );
+		if (dict[chosenSubset[window.rnd]].shv == inp.val()) {
 			res.html('yay');
 			res.addClass('good');
 			setTimeout(function() {
@@ -160,10 +148,9 @@ inp.keypress(function (e) {
 			}, 1000);
 
 			inp.val('');
-			rnd = getRndInteger(chosenSubset);
-			reset(chosenSubset, rnd);
+			reset(chosenSubset);
 		} else {
-			res.html(dict[chosenSubset[rnd]].kbd);
+			res.html(dict[chosenSubset[window.rnd]].kbd);
 			res.addClass('bad');
 			setTimeout(function() {
 				res.removeClass('bad');
