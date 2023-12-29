@@ -6,5 +6,8 @@ words: true
 ---
 
 Here we have a few hundred of the most common English words taken from the word
-list [here](https://shavian.info/spelling/). Get a random shavian word and type
-it in Latin script.
+list [here](https://shavian.info/spelling/). 
+
+- Get a random Shavian word and retype it ('shv->shv')
+- Get a random Shavian word and type it in English ('shv->eng')
+- Get a random English word and type it in Shavian ('eng->shv')
