@@ -69,7 +69,7 @@ window.rnd;
 
 function reset(chosenSubset, rnd) {
 	window.rnd = getRndInteger(chosenSubset);
-	$('#debug').html('rnd: ' + window.rnd );
+	// $('#debug').html('rnd: ' + window.rnd );
 
 	$('.shavian .display .shv').html(dict[chosenSubset[window.rnd]].shv);
 	$('.shavian .display .info .name').html(dict[chosenSubset[window.rnd]].name);
@@ -137,8 +137,6 @@ inp.keypress(function (e) {
         e.preventDefault();
 		const res = $('#result');
 
-		// $('#debug').html('rnd: ' + rnd + ' shv: ' + dict[chosenSubset[rnd]].shv + ' inp: ' + inp.val());
-		$('#debug').html('rnd: ' + window.rnd );
 		if (dict[chosenSubset[window.rnd]].shv == inp.val()) {
 			res.html('yay');
 			res.addClass('good');

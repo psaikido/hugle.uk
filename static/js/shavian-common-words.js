@@ -242,15 +242,26 @@ inp.keypress(function (e) {
         e.preventDefault();
 		const res = $('#result');
 
-		if (dict_words[rnd].lat == inp.val()) {
+		if (dict_words[rnd].shv == inp.val()) {
 			res.html(dict_words[rnd].lat);
 			inp.val('');
+			res.addClass('good');
+			setTimeout(function() {
+				res.removeClass('good');
+				res.html(' - ');
+			}, 1000);
+
 			rnd = getRandomInteger();
 			reset(rnd);
 		} else {
 			inp.val('');
 			res.html(dict_words[rnd].lat);
-			// reset(getRandomInteger());
+			res.addClass('bad');
+			setTimeout(function() {
+				res.removeClass('bad');
+				res.html(' - ');
+			}, 1000);
+
 		}
     }
 });
