@@ -250,6 +250,16 @@ function reset(rnd) {
 	$('.shavian .word-display').html(wordDisplay);
 }
 
+function selectSubset() {
+	var rnd = getRandomInteger();
+	reset(rnd);
+}
+
+$('#show').click(function() {
+	const res = $('#result');
+	res.html(dict_words[rnd].shv + ' ' + dict_words[rnd].eng);
+});
+
 inp.keypress(function (e) {
     if(e.which === 13 && !e.shiftKey) {
         e.preventDefault();
@@ -259,13 +269,13 @@ inp.keypress(function (e) {
 		if (subset.val() == 1) {
 			wordDisplay = dict_words[rnd].shv;
 		} else if (subset.val() == 2) {
-			wordDisplay = dict_words[rnd].shv;
+			wordDisplay = dict_words[rnd].eng;
 		} else if (subset.val() == 3) {
 			wordDisplay = dict_words[rnd].eng;
 		} else {
 			wordDisplay = dict_words[rnd].shv;
 		}
-		$('#debug').html(dict_words[rnd].eng);
+		// $('#debug').html(subset.val());
 
 		if (wordDisplay == inp.val()) {
 			res.html(wordDisplay);

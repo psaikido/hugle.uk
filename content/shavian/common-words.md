@@ -5,8 +5,8 @@ tutor: false
 words: true
 ---
 
-Here we have a few hundred of the most common English words taken from the word
-list [here](https://shavian.info/spelling/). 
+Here we have a few hundred of the most common English words taken from this
+[word list](https://shavian.info/spelling/). 
 
 - Get a random Shavian word and retype it ('shv->shv')
 - Get a random Shavian word and type it in English ('shv->eng')
