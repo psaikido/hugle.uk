@@ -119,7 +119,7 @@ function selectSubset() {
 	var tmp = '';
 	for (var i = 0; i < chosenSubset.length; i++) {
 		var item = dict[chosenSubset[i]];
-		tmp += item.shv + ' ' + item.name + ' ' + item.kbd + '<br />';
+		tmp += item.shv + ' <i>' + item.name + '</i> ' + item.kbd + '<br />';
 	}
 
 	tarLtrDisplay.html(tmp);
