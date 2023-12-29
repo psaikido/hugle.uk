@@ -40,11 +40,11 @@ dict_words[33] = {eng: "could", shv: "𐑒𐑫𐑛", shv2: "" };
 dict_words[34] = {eng: "day", shv: "𐑛𐑱", shv2: "" };
 dict_words[35] = {eng: "dear", shv: "𐑛𐑽", shv2: "" };
 dict_words[36] = {eng: "did", shv: "𐑛𐑦𐑛", shv2: "" };
-dict_words[37] = {eng: "didn’t", shv: "𐑛𐑦𐑛𐑩𐑯𐑑", shv2: "" };
+dict_words[37] = {eng: "didn't", shv: "𐑛𐑦𐑛𐑩𐑯𐑑", shv2: "" };
 dict_words[38] = {eng: "do", shv: "𐑛𐑵", shv2: "" };
 dict_words[39] = {eng: "does", shv: "𐑛𐑳𐑟", shv2: "" };
 dict_words[40] = {eng: "done", shv: "𐑛𐑳𐑯", shv2: "" };
-dict_words[41] = {eng: "don’t", shv: "𐑛𐑴𐑯𐑑", shv2: "" };
+dict_words[41] = {eng: "don't", shv: "𐑛𐑴𐑯𐑑", shv2: "" };
 dict_words[42] = {eng: "down", shv: "𐑛𐑬𐑯", shv2: "" };
 dict_words[43] = {eng: "during", shv: "𐑛𐑘𐑫𐑼𐑦𐑙", shv2: "" };
 dict_words[44] = {eng: "each", shv: "𐑰𐑗", shv2: "" };
@@ -145,7 +145,7 @@ dict_words[138] = {eng: "same", shv: "𐑕𐑱𐑥", shv2: "" };
 dict_words[139] = {eng: "say", shv: "𐑕𐑱", shv2: "" };
 dict_words[140] = {eng: "says", shv: "𐑕𐑧𐑟", shv2: "" };
 dict_words[141] = {eng: "shall", shv: "𐑖𐑨𐑤", shv2: "" };
-dict_words[142] = {eng: "shan’t", shv: "𐑖𐑭𐑯𐑑", shv2: "" };
+dict_words[142] = {eng: "shan't", shv: "𐑖𐑭𐑯𐑑", shv2: "" };
 dict_words[143] = {eng: "Shavian", shv: "·𐑖𐑱𐑝𐑾𐑯", shv2: "" };
 dict_words[144] = {eng: "she", shv: "𐑖𐑰", shv2: "" };
 dict_words[145] = {eng: "should", shv: "𐑖𐑫𐑛", shv2: "" };
@@ -196,7 +196,7 @@ dict_words[189] = {eng: "very", shv: "𐑝𐑧𐑮𐑦", shv2: "" };
 dict_words[190] = {eng: "want", shv: "𐑢𐑪𐑯𐑑", shv2: "" };
 dict_words[191] = {eng: "war", shv: "𐑢𐑹", shv2: "" };
 dict_words[192] = {eng: "was", shv: "𐑢𐑪𐑟", shv2: "" };
-dict_words[193] = {eng: "wasn’t", shv: "𐑢𐑪𐑟𐑩𐑯𐑑", shv2: "" };
+dict_words[193] = {eng: "wasn't", shv: "𐑢𐑪𐑟𐑩𐑯𐑑", shv2: "" };
 dict_words[194] = {eng: "way", shv: "𐑢𐑱", shv2: "" };
 dict_words[195] = {eng: "we", shv: "𐑢𐑰", shv2: "" };
 dict_words[196] = {eng: "well", shv: "𐑢𐑧𐑤", shv2: "" };
@@ -275,12 +275,12 @@ inp.keypress(function (e) {
 		} else if (subset.val() == 2) {
 			wordDisplay = dict_words[window.rnd].eng;
 		} else if (subset.val() == 3) {
-			wordDisplay = dict_words[window.rnd].eng;
+			wordDisplay = dict_words[window.rnd].shv;
 		} else {
 			wordDisplay = dict_words[window.rnd].shv;
 		}
 
-		// $('#debug').html(wordDisplay + ' ' + answer);
+		$('#debug').html(wordDisplay + ' ' + answer);
 
 		if (wordDisplay === answer) {
 			res.html(answer);
@@ -294,7 +294,7 @@ inp.keypress(function (e) {
 			window.rnd = getRandomInteger();
 			reset();
 		} else {
-			res.html(answer);
+			res.html(wordDisplay);
 			res.addClass('bad');
 			setTimeout(function() {
 				res.removeClass('bad');
