@@ -52,7 +52,7 @@ Here's my 'aide memoire' with the letter, its name and the key combo for the
 | 𐑨 ash e            | 𐑲 ice sh+e        | 𐑼 array c      |
 | 𐑩 ado d            | 𐑳 up x            | 𐑽 ear sh+c     |
 | 𐑪 on z             | 𐑴 oak v           | 𐑾 ian sh+d     |
-| V wool sh+v        | 𐑵 ooze q          | 𐑿 yew sh+q     |
+| 𐑫 wool sh+v        | 𐑵 ooze q          | 𐑿 yew sh+q     |
 | 𐑬 out t            | 𐑶 oil sh+t        |                |
 | 𐑭 ah r             | 𐑷 awe g           |                |
 
