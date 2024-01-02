@@ -60,4 +60,4 @@ Here's my 'aide memoire' with the letter, its name and the key combo for the
 
 Getting it set up on linux has been a bit of a trial. Getting Shavian keymap
 and font working on xorg seems easier than wayland. See
-https://gitlab.com/iykury/shavian-xkb. 
+[iykury]https://gitlab.com/iykury/shavian-xkb and [psaikido](https://gitlab.com/psaikido/shavian-xkb). 
