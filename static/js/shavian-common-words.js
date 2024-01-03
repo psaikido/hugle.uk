@@ -56,7 +56,7 @@ dict_words[49] = {eng: "faithfully", shv: "𐑓𐑱𐑔𐑓𐑩𐑤𐑦", shv2: 
 dict_words[50] = {eng: "far", shv: "𐑓𐑸", shv2: "" };
 dict_words[51] = {eng: "few", shv: "𐑓𐑿", shv2: "" };
 dict_words[52] = {eng: "first", shv: "𐑓𐑻𐑕𐑑", shv2: "" };
-dict_words[53] = {eng: "for", shv: "𐑓𐑹", shv2: "[𐑓]" };
+dict_words[53] = {eng: "for", shv: "𐑓𐑹", shv2: "𐑓" };
 dict_words[54] = {eng: "from", shv: "𐑓𐑮𐑪𐑥", shv2: "" };
 dict_words[55] = {eng: "give", shv: "𐑜𐑦𐑝", shv2: "" };
 dict_words[56] = {eng: "go", shv: "𐑜𐑴", shv2: "" };
@@ -188,46 +188,45 @@ dict_words[181] = {eng: "until", shv: "𐑩𐑯𐑑𐑦𐑤", shv2: "" };
 dict_words[182] = {eng: "up", shv: "𐑳𐑐", shv2: "" };
 dict_words[183] = {eng: "us", shv: "𐑳𐑕", shv2: "" };
 dict_words[184] = {eng: "use", shv: "𐑿𐑟", shv2: "" };
-dict_words[185] = {eng: "used", shv: "𐑿𐑟𐑛", shv2: "" };
-dict_words[186] = {eng: "used", shv: "to", shv2: "𐑿𐑕𐑑" };
-dict_words[187] = {eng: "usual", shv: "𐑿𐑠𐑫𐑩𐑤", shv2: "" };
-dict_words[188] = {eng: "vary", shv: "𐑝𐑺𐑦", shv2: "" };
-dict_words[189] = {eng: "very", shv: "𐑝𐑧𐑮𐑦", shv2: "" };
-dict_words[190] = {eng: "want", shv: "𐑢𐑪𐑯𐑑", shv2: "" };
-dict_words[191] = {eng: "war", shv: "𐑢𐑹", shv2: "" };
-dict_words[192] = {eng: "was", shv: "𐑢𐑪𐑟", shv2: "" };
-dict_words[193] = {eng: "wasn't", shv: "𐑢𐑪𐑟𐑩𐑯𐑑", shv2: "" };
-dict_words[194] = {eng: "way", shv: "𐑢𐑱", shv2: "" };
-dict_words[195] = {eng: "we", shv: "𐑢𐑰", shv2: "" };
-dict_words[196] = {eng: "well", shv: "𐑢𐑧𐑤", shv2: "" };
-dict_words[197] = {eng: "went", shv: "𐑢𐑧𐑯𐑑", shv2: "" };
-dict_words[198] = {eng: "were", shv: "𐑢𐑻", shv2: "" };
-dict_words[199] = {eng: "what", shv: "[𐑣]𐑢𐑪𐑑", shv2: "" };
-dict_words[200] = {eng: "where", shv: "[𐑣]𐑢𐑺", shv2: "" };
-dict_words[201] = {eng: "which", shv: "[𐑣]𐑢𐑦𐑗", shv2: "" };
-dict_words[202] = {eng: "while", shv: "[𐑣]𐑢𐑲𐑤", shv2: "" };
-dict_words[203] = {eng: "who", shv: "𐑣𐑵", shv2: "" };
-dict_words[204] = {eng: "whole", shv: "𐑣𐑴𐑤", shv2: "" };
-dict_words[205] = {eng: "whose", shv: "𐑣𐑵𐑟", shv2: "" };
-dict_words[206] = {eng: "why", shv: "[𐑣]𐑢𐑲", shv2: "" };
-dict_words[207] = {eng: "when", shv: "[𐑣]𐑢𐑧𐑯", shv2: "" };
-dict_words[208] = {eng: "will", shv: "𐑢𐑦𐑤", shv2: "" };
-dict_words[209] = {eng: "with", shv: "𐑢𐑦𐑞", shv2: "" };
-dict_words[210] = {eng: "woman", shv: "𐑢𐑫𐑥𐑩𐑯", shv2: "" };
-dict_words[211] = {eng: "women", shv: "𐑢𐑦𐑥𐑦𐑯", shv2: "" };
-dict_words[212] = {eng: "word", shv: "𐑢𐑻𐑛", shv2: "" };
-dict_words[213] = {eng: "work", shv: "𐑢𐑻𐑒", shv2: "" };
-dict_words[214] = {eng: "world", shv: "𐑢𐑻𐑤𐑛", shv2: "" };
-dict_words[215] = {eng: "would", shv: "𐑢𐑫𐑛", shv2: "" };
-dict_words[216] = {eng: "write", shv: "𐑮𐑲𐑑", shv2: "" };
-dict_words[217] = {eng: "written", shv: "𐑮𐑦𐑑𐑩𐑯", shv2: "" };
-dict_words[218] = {eng: "wrong", shv: "𐑮𐑪𐑙", shv2: "" };
-dict_words[219] = {eng: "year", shv: "𐑘𐑽", shv2: "" };
-dict_words[220] = {eng: "yesterday", shv: "𐑘𐑧𐑕𐑑𐑼𐑛𐑱", shv2: "" };
-dict_words[221] = {eng: "yet", shv: "𐑘𐑧𐑑", shv2: "" };
-dict_words[222] = {eng: "you", shv: "𐑿", shv2: "" };
-dict_words[223] = {eng: "young", shv: "𐑘𐑳𐑙", shv2: "" };
-dict_words[224] = {eng: "your", shv: "𐑘𐑫𐑼", shv2: "" };
+dict_words[185] = {eng: "used", shv: "𐑿𐑟𐑛", shv2: "𐑿𐑕𐑑" };
+dict_words[186] = {eng: "usual", shv: "𐑿𐑠𐑫𐑩𐑤", shv2: "" };
+dict_words[187] = {eng: "vary", shv: "𐑝𐑺𐑦", shv2: "" };
+dict_words[188] = {eng: "very", shv: "𐑝𐑧𐑮𐑦", shv2: "" };
+dict_words[189] = {eng: "want", shv: "𐑢𐑪𐑯𐑑", shv2: "" };
+dict_words[190] = {eng: "war", shv: "𐑢𐑹", shv2: "" };
+dict_words[191] = {eng: "was", shv: "𐑢𐑪𐑟", shv2: "" };
+dict_words[192] = {eng: "wasn't", shv: "𐑢𐑪𐑟𐑩𐑯𐑑", shv2: "" };
+dict_words[193] = {eng: "way", shv: "𐑢𐑱", shv2: "" };
+dict_words[194] = {eng: "we", shv: "𐑢𐑰", shv2: "" };
+dict_words[195] = {eng: "well", shv: "𐑢𐑧𐑤", shv2: "" };
+dict_words[196] = {eng: "went", shv: "𐑢𐑧𐑯𐑑", shv2: "" };
+dict_words[197] = {eng: "were", shv: "𐑢𐑻", shv2: "" };
+dict_words[198] = {eng: "what", shv: "[𐑣]𐑢𐑪𐑑", shv2: "" };
+dict_words[199] = {eng: "where", shv: "[𐑣]𐑢𐑺", shv2: "" };
+dict_words[200] = {eng: "which", shv: "[𐑣]𐑢𐑦𐑗", shv2: "" };
+dict_words[201] = {eng: "while", shv: "[𐑣]𐑢𐑲𐑤", shv2: "" };
+dict_words[202] = {eng: "who", shv: "𐑣𐑵", shv2: "" };
+dict_words[203] = {eng: "whole", shv: "𐑣𐑴𐑤", shv2: "" };
+dict_words[204] = {eng: "whose", shv: "𐑣𐑵𐑟", shv2: "" };
+dict_words[205] = {eng: "why", shv: "[𐑣]𐑢𐑲", shv2: "" };
+dict_words[206] = {eng: "when", shv: "[𐑣]𐑢𐑧𐑯", shv2: "" };
+dict_words[207] = {eng: "will", shv: "𐑢𐑦𐑤", shv2: "" };
+dict_words[208] = {eng: "with", shv: "𐑢𐑦𐑞", shv2: "" };
+dict_words[209] = {eng: "woman", shv: "𐑢𐑫𐑥𐑩𐑯", shv2: "" };
+dict_words[210] = {eng: "women", shv: "𐑢𐑦𐑥𐑦𐑯", shv2: "" };
+dict_words[211] = {eng: "word", shv: "𐑢𐑻𐑛", shv2: "" };
+dict_words[212] = {eng: "work", shv: "𐑢𐑻𐑒", shv2: "" };
+dict_words[213] = {eng: "world", shv: "𐑢𐑻𐑤𐑛", shv2: "" };
+dict_words[214] = {eng: "would", shv: "𐑢𐑫𐑛", shv2: "" };
+dict_words[215] = {eng: "write", shv: "𐑮𐑲𐑑", shv2: "" };
+dict_words[216] = {eng: "written", shv: "𐑮𐑦𐑑𐑩𐑯", shv2: "" };
+dict_words[217] = {eng: "wrong", shv: "𐑮𐑪𐑙", shv2: "" };
+dict_words[218] = {eng: "year", shv: "𐑘𐑽", shv2: "" };
+dict_words[219] = {eng: "yesterday", shv: "𐑘𐑧𐑕𐑑𐑼𐑛𐑱", shv2: "" };
+dict_words[220] = {eng: "yet", shv: "𐑘𐑧𐑑", shv2: "" };
+dict_words[221] = {eng: "you", shv: "𐑿", shv2: "" };
+dict_words[222] = {eng: "young", shv: "𐑘𐑳𐑙", shv2: "" };
+dict_words[223] = {eng: "your", shv: "𐑘𐑫𐑼", shv2: "" };
 
 
 window.rnd; 
@@ -272,17 +271,19 @@ inp.keypress(function (e) {
 
 		if (subset.val() == 1) {
 			wordDisplay = dict_words[window.rnd].shv;
+			wordDisplay2 = dict_words[window.rnd].shv2;
 		} else if (subset.val() == 2) {
 			wordDisplay = dict_words[window.rnd].eng;
 		} else if (subset.val() == 3) {
 			wordDisplay = dict_words[window.rnd].shv;
 		} else {
 			wordDisplay = dict_words[window.rnd].shv;
+			wordDisplay2 = dict_words[window.rnd].shv2;
 		}
 
 		$('#debug').html(wordDisplay + ' ' + answer);
 
-		if (wordDisplay === answer) {
+		if ((wordDisplay === answer) || (wordDisplay2 === answer)) {
 			res.html(answer);
 			res.addClass('good');
 			setTimeout(function() {
@@ -304,3 +305,4 @@ inp.keypress(function (e) {
 		}
     }
 });
+// don’t and don't
