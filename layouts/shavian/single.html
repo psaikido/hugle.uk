@@ -7,7 +7,7 @@
 
 	<div class="shavian">
 		{{ if .Params.tutor }}
-			<select id="subset" onchange="selectSubset();">
+			<select id="subset">
 				<option value="">---</option>
 				<option value="1">first ten</option>
 				<option value="2">second ten</option>
@@ -19,8 +19,18 @@
 				<option value="8">short</option>
 				<option value="9">consonants</option>
 				<option value="10">vowels</option>
-				<option value="11">all</option>
+				<option value="11" selected>all</option>
 			</select>
+
+			<select id="layout">
+				<option value="">---</option>
+				<option value="1">Imperial</option>
+				<option value="2">Qwerty</option>
+				<option value="3">Iskury</option>
+				<option value="4" selected>Shaw 2-Layer</option>
+			</select>
+
+			<button onclick="set()" value="set">set</button>
 
 			<input type="checkbox" id="kbdPrompt" checked />
 			<label for="kbdPrompt">keyboard prompt visible</label>
