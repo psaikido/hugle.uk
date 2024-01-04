@@ -8,6 +8,6 @@ weight: 17
 
 
 
-A bash script for reminding you about birthdays.  
+A bash script for reminding about birthdays.  
 
 It's on [github](https://github.com/psaikido/birthdayrem).
