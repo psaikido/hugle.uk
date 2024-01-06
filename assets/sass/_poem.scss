@@ -43,7 +43,7 @@
     }
 
     @include screen-width('large') {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
     }
 
     line-height: 2.5rem;
@@ -78,6 +78,24 @@
                 text-align: center;
             }
         }
+
+		.latin {
+			float: left;
+			width: 60%;
+			line-height: 2.5rem;
+		}
+
+		.shavian {
+			float: right;
+			width: 40%;
+			font-family: Ormin;
+			line-height: 2.5rem;
+			padding: 0;
+		}
+
+		.clear {
+			clear: both;
+		}
     }
 
     .poem-image {
