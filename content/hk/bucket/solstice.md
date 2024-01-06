@@ -8,6 +8,7 @@ images:
 - path: /images/bucket/dawn-approaching.jpg 
   alt: "dawn approaching"
 css: ['preset-beneath']
+shavian: true
 ---
 
 <div class="latin">

@@ -84,6 +84,11 @@ $('ul.nests .level1-parent').click(function () {
 	$('#' + target).css('left', 'calc(50% - ' + aboutHalf + 'px)');
 })
 
+$('#shavian-btn').click(function () {
+    $('.poem-text .latin').toggle();
+    $('.poem-text .shavian').toggle();
+})
+
 function hide (elem) {
 	$(elem).fadeOut();
 }

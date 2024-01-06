@@ -42,6 +42,10 @@
         font-size: 1.2rem;
     }
 
+    @include screen-width('large') {
+        font-size: 1.4rem;
+    }
+
     line-height: 2.5rem;
     position: relative;
     min-height: 98%;
@@ -75,18 +79,9 @@
             }
         }
 
-		.latin {
-			float: left;
-			width: 60%;
-			line-height: 2.5rem;
-		}
-
 		.shavian {
-			float: right;
-			width: 40%;
+			display: none;
 			font-family: Ormin;
-			line-height: 2.5rem;
-			padding: 0;
 		}
 
 		.clear {

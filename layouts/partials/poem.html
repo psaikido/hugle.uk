@@ -1,7 +1,15 @@
 <div class="poem-wrap">
     <div class="poem {{ if .Params.css }} {{- range .Params.css -}}{{- . -}}{{ end }}{{ end }}">
         {{ .Scratch.Set "currentTitle" .Params.title }}
-        <h2 class="poem-title" data-pagefind-meta="title">{{ .Scratch.Get "currentTitle" }}</h2>
+        <h2 class="poem-title" data-pagefind-meta="title">
+			{{ .Scratch.Get "currentTitle" }}
+
+			{{ if .Params.shavian }}
+				<button id="shavian-btn">
+					shavian
+				</button>
+			{{ end }}
+		</h2>
 
         <div class="poem-text">
             {{ .Content }}
