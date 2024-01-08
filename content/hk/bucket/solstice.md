@@ -1,6 +1,7 @@
 ---
 bannerTitle: "bucket" 
 title: solstice
+titleShv: "𐑕𐑪𐑤𐑕𐑑𐑦𐑕"
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/solstice.html', '/bucket/solstice/']
@@ -90,8 +91,6 @@ of that sun
 </div>
 
 <div class="shavian">
-
-## 𐑕𐑪𐑤𐑕𐑑𐑦𐑕
 
 𐑩 ·𐑜𐑤𐑨𐑕𐑑𐑩𐑯𐑚𐑳𐑮𐑦 𐑕𐑪𐑤𐑕𐑑𐑦𐑕  
 𐑯𐑻 𐑛𐑹𐑯  

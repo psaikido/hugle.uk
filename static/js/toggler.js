@@ -85,8 +85,47 @@ $('ul.nests .level1-parent').click(function () {
 })
 
 $('#shavian-btn').click(function () {
-    $('.poem-text .latin').toggle();
+    /* turn off extraneous elements */
+    $('.subnavbar').toggle();
+    $('.poem-wrap .poem-written-date').toggle();
+    $('.poem-wrap .poem-graphics').toggle();
+    $('.poem-wrap .poem-image').toggle();
+    $('#formatting-tools').toggle();
+    $('.grid-wrap').css('grid-template-columns', 'unset');
+    $('.grid-wrap .main').css('max-width', 'auto');
+    $('.grid-wrap .main').css('min-width', '100ch');
+
+    $('.poem-text .latin').css('float', 'left');
+    $('.poem-text .latin').css('width', '49%');
+    $('.shavian-title')
+		.css('display', 'block')
+		.css('position', 'absolute')
+		.css('right', '50px')
+		.css('top', '0');
+    $('.poem-text .shavian').css('float', 'left');
+    $('.poem-text .shavian').css('width', '49%');
     $('.poem-text .shavian').toggle();
+	$('#shavian-btn').css('display', 'none');
+	$('#just-latin-btn').css('display', 'block');
+})
+
+$('#just-latin-btn').click(function () {
+    /* turn off extraneous elements */
+    $('.subnavbar').toggle();
+    $('.poem-wrap .poem-written-date').toggle();
+    $('.poem-wrap .poem-graphics').toggle();
+    $('.poem-wrap .poem-image').toggle();
+    $('#formatting-tools').toggle();
+    $('.grid-wrap .main').css('max-width', '75ch');
+    $('.grid-wrap .main').css('min-width', '75ch');
+
+    $('.poem-text .latin').css('float', 'none');
+    $('.poem-text .latin').css('width', 'auto');
+    $('.shavian-title')
+		.css('display', 'none');
+    $('.poem-text .shavian').css('display', 'none');
+	$('#shavian-btn').css('display', 'block');
+	$('#just-latin-btn').css('display', 'none');
 })
 
 function hide (elem) {

@@ -1,6 +1,7 @@
 ---
 bannerTitle: "bucket" 
 title: big wig
+titleShv: "𐑚𐑦𐑜 𐑢𐑦𐑜"
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/big-wig/']
@@ -85,8 +86,6 @@ friendless?
 </div>
 
 <div class="shavian">
-
-## 𐑚𐑦𐑜 𐑢𐑦𐑜
 
 𐑞 𐑚𐑦𐑜 𐑢𐑦𐑜 𐑧𐑒𐑕𐑐𐑤𐑱𐑯𐑛  
 𐑡𐑳𐑕𐑑 𐑣𐑬 𐑝𐑧𐑮𐑦 𐑚𐑦𐑜  

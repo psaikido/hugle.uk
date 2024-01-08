@@ -26,6 +26,7 @@
     .page-footer {
         position: absolute;
         bottom: 0;
+		clear: both;
     }
 
     #formatting-tools {
@@ -63,6 +64,27 @@
         }
     }
 
+	#shavian-btn {
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+
+	#just-latin-btn {
+		display: none;
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+
+	.shavian-title {
+		display: none;
+		position: absolute;
+		top: 0;
+		left: 51%;
+		width: 40%;
+	}
+
     .poem-text {
         color: var(--mid-grey);
 
@@ -79,9 +101,14 @@
             }
         }
 
+		.latin {
+		}
+
 		.shavian {
 			display: none;
 			font-family: Ormin;
+			line-height: 2.5rem;
+			padding: 0;
 		}
 
 		.clear {

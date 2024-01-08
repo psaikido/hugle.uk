@@ -1,6 +1,7 @@
 ---
 bannerTitle: "bucket" 
 title: youth club
+titleShv: "𐑿𐑔 𐑒𐑤𐑳𐑚"
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/youth-club.html', '/bucket/youth-club/']
@@ -123,8 +124,6 @@ and called out
 </div>
 
 <div class="shavian">
-
-## 𐑿𐑔 𐑒𐑤𐑳𐑚
 
 𐑢𐑰𐑛 𐑯𐑪𐑑 𐑛𐑳𐑯 𐑩 𐑖𐑴  
 𐑑𐑩𐑜𐑧𐑞𐑼 𐑚𐑦𐑓𐑹  

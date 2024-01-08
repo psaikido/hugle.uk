@@ -1,6 +1,7 @@
 ---
 bannerTitle: "bucket" 
 title: beep
+titleShv: "𐑚𐑰𐑐"
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/beep/']
@@ -72,8 +73,6 @@ to earn a living
 </div>
 
 <div class="shavian">
-
-## 𐑚𐑰𐑐
 
 𐑞 𐑒𐑩𐑥𐑨𐑯𐑛 𐑲 𐑑𐑲𐑐𐑛  
 𐑣𐑨𐑛 𐑩 𐑕𐑐𐑱𐑕  
