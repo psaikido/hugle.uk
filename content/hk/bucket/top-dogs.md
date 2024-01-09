@@ -15,7 +15,7 @@ shavian: true
 <div class="latin">
 
 the top dogs  
-our CEO from Murca  
+our chief exec from Murca  
 with his consigliere  
 gathered the pack  
 to throw us a bone  
@@ -77,7 +77,7 @@ belongs to the animals
 <div class="shavian">
 
 𐑞 𐑑𐑪𐑐 𐑛𐑪𐑜𐑟  
-𐑬𐑼 ·𐑕𐑰𐑰𐑴 𐑓𐑮𐑪𐑥 ·𐑥𐑻𐑒𐑩  
+𐑬𐑼 𐑗𐑰𐑓 𐑧𐑜𐑟𐑧𐑒 𐑓𐑮𐑪𐑥 ·𐑥𐑻𐑒𐑩  
 𐑢𐑦𐑞 𐑣𐑦𐑟 𐑒𐑪𐑯𐑕𐑦𐑜𐑤𐑾𐑮𐑦  
 𐑜𐑨𐑞𐑻𐑛 𐑞 𐑐𐑨𐑒  
 𐑑 𐑞𐑮𐑴 𐑳𐑕 𐑩 𐑚𐑴𐑯  
