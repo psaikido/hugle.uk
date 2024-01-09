@@ -1,7 +1,7 @@
 ---
 bannerTitle: "bucket" 
 title: kite
-titleShv: 𐑒𐑲𐑑
+titleShv: "𐑒𐑲𐑑"
 written: 2020
 type: hk/bucket
 aliases: ['/bucket/kite.html', '/bucket/kite/']
