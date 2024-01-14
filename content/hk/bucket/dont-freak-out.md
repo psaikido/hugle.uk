@@ -60,7 +60,7 @@ with loving
 <div class="shavian">
 
 𐑢𐑧𐑯 ·𐑣𐑿𐑰 𐑦𐑟 𐑓𐑮𐑰𐑒𐑦𐑙 𐑬𐑑  
-·𐑗𐑨𐑙 ·𐑒𐑩 𐑕𐑱𐑟:
+·𐑗𐑨𐑙 𐑒𐑩 𐑕𐑱𐑟:
 
 𐑮𐑵𐑥𐑦𐑯𐑱𐑑𐑦𐑙 𐑪𐑯 𐑣𐑻𐑑𐑕 𐑝 𐑞 𐑐𐑨𐑕𐑑  
 𐑴𐑯𐑤𐑦 𐑣𐑻𐑑𐑕 𐑿 𐑦𐑯 𐑞 𐑐𐑮𐑨𐑟𐑩𐑯𐑑  
