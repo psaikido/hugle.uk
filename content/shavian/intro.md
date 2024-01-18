@@ -7,12 +7,23 @@ tutor: false
 ### 𐑞 𐑖𐑲𐑝𐑾𐑯 𐑨𐑤𐑓𐑩𐑛𐑧𐑑 
 (The '[Shavian](https://shavian.info/)' alphabet)
 
+𐑐 𐑚 𐑑 𐑛 𐑒 𐑜 𐑓 𐑝 𐑔 𐑞  
+𐑕 𐑟 𐑖 𐑠 𐑗 𐑡 𐑘 𐑢 𐑙 𐑣  
+𐑤 𐑮 𐑥 𐑯 𐑦 𐑰 𐑧 𐑱 𐑨 𐑲   
+𐑩 𐑳 𐑪 𐑴 𐑫 𐑵 𐑬 𐑶 𐑭 𐑷   
+  𐑸 𐑹 𐑺 𐑻 𐑼 𐑽 𐑾 𐑿  
+{.super-focus}
+
+
 ...is something I've been looking for for ages. As a kid I was taught '[Initial
 Teaching Alphabet](http://itafoundation.org/about-us/what-is-i-t-a/)' which I
 really liked. The idea was that you learned the basics of reading with a system
 that didn't have all the spelling weirdness of standard English. Ever since
 I've been irked by the silly and arbitrary spelling gotchas that abound in this
-Frankenstein language.
+Frankenstein language. It turns out that the two are related. [James
+Pitman](https://en.wikipedia.org/wiki/James_Pitman) (yes, of shorthand fame)
+invented i.t.a. and was one of the judges of the competition that gave birth to
+Shavian aka the Shaw Alphabet aka ·𐑖𐑱𐑝𐑾𐑯.
 
 ![George Bernard Shaw](https://tse2.mm.bing.net/th?id=OIP.-mv6WACERA_OdH2jGVqJewHaKJ&pid=Api) 
 {.img-half}
@@ -58,6 +69,5 @@ Here's my 'aide memoire' with the letter, its name and the key combo for the
 
 [more Shavian stuff](https://shavian.weebly.com/)
 
-Getting it set up on linux has been a bit of a trial. Getting Shavian keymap
-and font working on xorg seems easier than wayland. See
+Getting it set up on linux has been a bit of a trial. See
 [iykury](https://gitlab.com/iykury/shavian-xkb) and [psaikido](https://gitlab.com/psaikido/shavian-xkb). 
