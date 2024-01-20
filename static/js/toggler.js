@@ -97,6 +97,7 @@ $('#shavian-btn').click(function () {
 
     $('.poem-text .latin').css('float', 'left');
     $('.poem-text .latin').css('width', '49%');
+    $('.poem-text .middle-strip').css('width', '80%');
     $('.shavian-title')
 		.css('display', 'block')
 		.css('position', 'absolute')
@@ -121,6 +122,7 @@ $('#just-latin-btn').click(function () {
 
     $('.poem-text .latin').css('float', 'none');
     $('.poem-text .latin').css('width', 'auto');
+    $('.poem-text .middle-strip').css('width', '55%');
     $('.shavian-title')
 		.css('display', 'none');
     $('.poem-text .shavian').css('display', 'none');
