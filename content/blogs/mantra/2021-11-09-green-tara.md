@@ -2,6 +2,8 @@
 bannerTitle: blog - mantra
 title: "Tara stone's new home"
 date: 2021-11-09
+menu: mantra
+weight: 39
 ---
 
 Took the Tara stone to the [Palpung centre](http://palpung.org.uk/) in

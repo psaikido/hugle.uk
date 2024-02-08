@@ -2,6 +2,8 @@
 bannerTitle: blog - mantra
 title: "Green Tara #2 - Milk!"
 date: 2021-10-18
+menu: mantra
+weight: 37
 ---
 
 After I thought it was finished I took to trying to clean the uncarved face a

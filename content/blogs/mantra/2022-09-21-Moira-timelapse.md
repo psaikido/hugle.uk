@@ -2,6 +2,8 @@
 bannerTitle: blog - mantra
 title: "Moira's stone timelapse"
 date: 2022-09-21
+menu: mantra
+weight: 63
 ---
 
 A timelapse of Moira's stone as the sun rises. This has been waiting for a

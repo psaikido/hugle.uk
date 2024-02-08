@@ -2,6 +2,8 @@
 bannerTitle: blog - mantra
 title: Green Tara 
 date: 2021-10-11
+menu: mantra
+weight: 34
 ---
 
 [wikipedia](https://en.wikipedia.org/wiki/Tara_%28Buddhism%29)  

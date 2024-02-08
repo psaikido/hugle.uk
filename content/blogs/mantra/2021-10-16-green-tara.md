@@ -2,6 +2,8 @@
 bannerTitle: blog - mantra
 title: "Green Tara #2 finished"
 date: 2021-10-16
+menu: mantra
+weight: 36
 ---
 
 Om tare tuttare ture soha  

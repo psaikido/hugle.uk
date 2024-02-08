@@ -2,6 +2,8 @@
 bannerTitle: blog - mantra
 title: "four stones together"
 date: 2021-10-19
+menu: mantra
+weight: 38
 ---
 
 The four stones together. The Tara stone has had its milk treatment. Mam's (top
