@@ -1,6 +1,6 @@
 ---
 bannerTitle: blog - mantra
-title: Green Tara 
+title: Green Tara - session 3
 date: 2021-10-11
 menu: mantra
 weight: 34
