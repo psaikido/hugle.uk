@@ -87,6 +87,26 @@ nests:
     - title: Dharma
       icon: buddha.png
       sub:
+      - title: sutta anthology
+        subsub:
+        - title: intro 
+          url: /suttas/intro/
+
+        - title: core sutras 
+          url: /suttas/core-suttas/
+
+        - title: MN 
+          url: /suttas/mn/intro/
+          dataFile: suttasMn
+
+        - title: SN1 
+          url: /suttas/sn1/intro/
+          dataFile: suttasSn1
+
+        - title: SN2 
+          url: /suttas/sn2/intro/
+          dataFile: suttasSn2
+
       - title: mantrasphere
         subsub:
         - title: intro
@@ -114,26 +134,6 @@ nests:
 
         - title: gallery
           url: /gallery/stones/
-
-      - title: sutta anthology
-        subsub:
-        - title: intro 
-          url: /suttas/intro/
-
-        - title: core sutras 
-          url: /suttas/core-suttas/
-
-        - title: MN 
-          url: /suttas/mn/intro/
-          dataFile: suttasMn
-
-        - title: SN1 
-          url: /suttas/sn1/intro/
-          dataFile: suttasSn1
-
-        - title: SN2 
-          url: /suttas/sn2/intro/
-          dataFile: suttasSn2
 
 
     - title: play
