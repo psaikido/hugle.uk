@@ -1,6 +1,6 @@
 ---
 bannerTitle: Pali Canon Anthology
-title: Do Unto Other
+title: Do Unto Others
 type: suttas/sn2
 ---
 
