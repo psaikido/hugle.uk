@@ -41,9 +41,9 @@ nests:
           url: /hk/sun/intro/
           dataFile: sun
 
-        - title: Bucket
-          url: /hk/bucket/intro/
-          dataFile: bucket
+        - title: Finger Writing
+          url: /hk/finger-writing/intro/
+          dataFile: finger-writing
 
       - title: prose
         subsub:

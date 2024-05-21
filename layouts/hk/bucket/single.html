@@ -1,9 +1,0 @@
-{{ define "main" }}
-    {{ .Scratch.Set "menu" .Site.Data.bucket.menu }}
-    {{ partial "poem.html" . }}
-{{ end }}
-
-{{ define "subnav1" }}
-    {{ .Scratch.Set "menu" .Site.Data.bucket.menu }}
-    {{ partial "subnav-data.html" . }}
-{{ end }}
