@@ -15,7 +15,7 @@
         </div>
 
         <div class="random-hughku">
-            latest hughku: <a id="latest-hk" href="/hk/bucket/under-geek/">under geek</a>
+            latest hughku: <a id="latest-hk" href="/hk/finger-writing/under-geek/">under geek</a>
 
             <script>
                 var hk = [];
@@ -24,7 +24,7 @@
                     return Math.floor(Math.random() * (maximum - minimum)) + minimum;
                 }
 
-                {{ range .Site.Data.bucket.menu }}
+                {{ range .Site.Data.fingerwriting.menu }}
                     if ({{ .title }} != 'intro') {
                         hk.push({
                           'title': {{ .title }},
@@ -87,7 +87,7 @@
                     <td><a href="/shop/">Shop</a></td>
                 </tr>
                 <tr>
-                    <td><a href="/hk/bucket/intro">Bucket</a></td>
+                    <td><a href="/hk/finger-writing/intro">Finger Writing</a></td>
                     <td><a href="/pix/stones/">Mantras</a></td>
                 </tr>
                 <tr>

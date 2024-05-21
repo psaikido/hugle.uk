@@ -6,7 +6,7 @@ written: 2020
 type: hk/finger-writing
 aliases: ['/finger-writing/youth-club.html', '/finger-writing/youth-club/']
 images:
-- path: /images/finger-writing/bound-with-chains.jpg 
+- path: /images/bucket/bound-with-chains.jpg 
   alt: "hands in chains"
 css: ['preset-beneath']
 shavian: true

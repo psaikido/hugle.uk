@@ -6,7 +6,7 @@ written: Nov 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/roonerspisms/']
 images:
-- path: /images/finger-writing/DOH.png
+- path: /images/bucket/DOH.png
 shavian: true
 ---
 

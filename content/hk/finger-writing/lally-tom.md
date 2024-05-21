@@ -6,9 +6,9 @@ written: 2023
 type: hk/finger-writing
 aliases: ['/finger-writing/lally-tom.html', '/finger-writing/lally-tom/']
 images:
-- path: /images/finger-writing/Lally.jpg 
+- path: /images/bucket/Lally.jpg 
   alt: Aunty Lally
-- path: /images/finger-writing/Graces.jpg 
+- path: /images/bucket/Graces.jpg 
   alt: Tom, Lally, Jonny, little Tom, Dick, Andy
 shavian: true
 ---

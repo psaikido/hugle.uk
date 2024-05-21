@@ -6,7 +6,7 @@ written: 2020
 type: hk/finger-writing
 aliases: ['/finger-writing/big-wig/']
 images:
-- path: /images/finger-writing/darth-vader.jpg 
+- path: /images/bucket/darth-vader.jpg 
   alt: "Darth Vader"
 css: ['preset-beneath']
 shavian: true

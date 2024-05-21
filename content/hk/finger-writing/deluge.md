@@ -6,7 +6,7 @@ written: 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/deluge/']
 images:
-- path: /images/finger-writing/underwater-christ.jpg 
+- path: /images/bucket/underwater-christ.jpg 
   alt: underwater Christ
 shavian: true
 ---

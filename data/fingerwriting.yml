@@ -17,6 +17,9 @@ menu:
 - title: youth club
   url: /hk/finger-writing/youth-club/
 
+- title: clench
+  url: /hk/finger-writing/clench/
+
 - title: Noel Reilly
   url: /hk/finger-writing/reilly/
 
@@ -35,6 +38,9 @@ menu:
 - title: top dogs
   url: /hk/finger-writing/top-dogs/
 
+- title: the under geek
+  url: /hk/finger-writing/under-geek/
+
 - title: kite 
   url: /hk/finger-writing/kite/
 
@@ -49,9 +55,6 @@ menu:
 
 - title: itself
   url: /hk/finger-writing/itself/
-
-- title: clench
-  url: /hk/finger-writing/clench/
 
 - title: 30 years
   url: /hk/finger-writing/30years/
@@ -146,9 +149,6 @@ menu:
 - title: butterfly
   url: /hk/finger-writing/butterfly/
 
-- title: carpe noctem
-  url: /hk/finger-writing/carpe-noctem/
-
 - title: fairy tales
   url: /hk/finger-writing/fairy-tales/
 
@@ -158,5 +158,5 @@ menu:
 - title: locusts
   url: /hk/finger-writing/locusts/
 
-- title: the under geek
-  url: /hk/finger-writing/under-geek/
+- title: carpe noctem
+  url: /hk/finger-writing/carpe-noctem/

@@ -6,7 +6,7 @@ written: 2022-11
 type: hk/finger-writing
 aliases: ['/finger-writing/zebra/']
 images:
-- path: /images/finger-writing/2020-07-Alessio2-801.jpg
+- path: /images/bucket/2020-07-Alessio2-801.jpg
   alt: "taxidermy zebra"
 shavian: true
 ---

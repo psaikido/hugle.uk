@@ -6,7 +6,7 @@ written: 2023
 type: hk/finger-writing
 aliases: ['/finger-writing/carpe-noctem/']
 images:
-- path: /images/finger-writing/stars-in-the-night-sky-on-the-beach.jpg
+- path: /images/bucket/stars-in-the-night-sky-on-the-beach.jpg
   alt: goodfreephotos.com
 shavian: true
 ---

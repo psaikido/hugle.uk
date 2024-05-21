@@ -6,7 +6,7 @@ written: 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/chris-evans/']
 images:
-- path: /images/finger-writing/chris-evans-billie-piper.jpg 
+- path: /images/bucket/chris-evans-billie-piper.jpg 
   alt: Chris Evans & Billie Piper
 shavian: true
 ---

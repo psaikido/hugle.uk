@@ -6,7 +6,7 @@ written: 2020
 type: hk/finger-writing
 aliases: ['/finger-writing/beep/']
 images:
-- path: /images/finger-writing/monitors.jpg 
+- path: /images/bucket/monitors.jpg 
   alt: "row of monitors"
 css: ['preset-2cols']
 shavian: true

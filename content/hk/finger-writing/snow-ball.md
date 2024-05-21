@@ -6,7 +6,7 @@ written: 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/snow-ball.html', '/finger-writing/snow-ball/']
 images:
-- path: /images/finger-writing/st-joes-upper.jpg 
+- path: /images/bucket/st-joes-upper.jpg 
   alt: St Joe's Upper School playground
 shavian: true
 ---

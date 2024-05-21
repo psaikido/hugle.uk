@@ -6,7 +6,7 @@ written: 2022-11
 type: hk/finger-writing
 aliases: ['/finger-writing/deep-sea-shopping/']
 images:
-- path: /images/finger-writing/diver.jpg
+- path: /images/bucket/diver.jpg
 shavian: true
 ---
 

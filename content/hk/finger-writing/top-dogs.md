@@ -1,12 +1,12 @@
 ---
 bannerTitle: "Finger Writing" 
-title: top dogs
+title: "top dogs"
 titleShv: "𐑑𐑪𐑐 𐑛𐑪𐑜𐑟"
 written: 2020
 type: hk/finger-writing
 aliases: ['/finger-writing/top-dogs.html', '/finger-writing/top-dogs/']
 images:
-- path: /images/finger-writing/dog-and-bone.jpg 
+- path: /images/bucket/dog-and-bone.jpg 
   alt: "dog and bone"
 css: ['preset-2cols']
 shavian: true

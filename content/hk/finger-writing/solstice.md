@@ -6,7 +6,7 @@ written: 2020
 type: hk/finger-writing
 aliases: ['/finger-writing/solstice.html', '/finger-writing/solstice/']
 images:
-- path: /images/finger-writing/dawn-approaching.jpg 
+- path: /images/bucket/dawn-approaching.jpg 
   alt: "dawn approaching"
 css: ['preset-beneath']
 shavian: true

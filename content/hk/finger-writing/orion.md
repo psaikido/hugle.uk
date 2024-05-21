@@ -6,8 +6,8 @@ written: Nov 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/orion/']
 images:
-- path: /images/finger-writing/orion.jpg
-- path: /images/finger-writing/BernieBoo.jpg
+- path: /images/bucket/orion.jpg
+- path: /images/bucket/BernieBoo.jpg
 shavian: true
 ---
 

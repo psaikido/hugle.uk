@@ -6,7 +6,7 @@ written: 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/fairy-tales/']
 images:
-- path: /images/finger-writing/demon-face-drawing-56.jpg
+- path: /images/bucket/demon-face-drawing-56.jpg
   alt: drawing by heyyou <a href="http://getdrawings.com/demon-face-drawing">Demon Face Drawing</a>
 
 css: ['preset-2cols']

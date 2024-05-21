@@ -6,7 +6,7 @@ written: 2022-10
 type: hk/finger-writing
 aliases: ['/finger-writing/leaking/']
 images:
-- path: /images/finger-writing/ship-at-sea-rembrandt.jpg
+- path: /images/bucket/ship-at-sea-rembrandt.jpg
   alt: "Rembrandt's Ship at Sea"
 shavian: true
 ---

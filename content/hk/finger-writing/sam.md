@@ -6,8 +6,8 @@ written: 2022-11
 type: hk/finger-writing
 aliases: ['/finger-writing/sam/']
 images:
-- path: /images/finger-writing/sam_aug75.jpg
-- path: /images/finger-writing/samrunning_aug75.jpg  
+- path: /images/bucket/sam_aug75.jpg
+- path: /images/bucket/samrunning_aug75.jpg  
 shavian: true
 ---
 

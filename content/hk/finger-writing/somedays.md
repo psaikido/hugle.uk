@@ -6,7 +6,7 @@ written: 2022-10
 type: hk/finger-writing
 aliases: ['/finger-writing/some-days/']
 images:
-- path: /images/finger-writing/churchDoor.jpg 
+- path: /images/bucket/churchDoor.jpg 
   alt: church door, contemplation 
 shavian: true
 ---

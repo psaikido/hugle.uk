@@ -6,7 +6,7 @@ written: 2022-10
 type: hk/finger-writing
 aliases: ['/finger-writing/stick/']
 images:
-- path: /images/finger-writing/walking-stick.jpg
+- path: /images/bucket/walking-stick.jpg
 shavian: true
 ---
 

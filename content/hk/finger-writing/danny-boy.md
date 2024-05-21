@@ -6,7 +6,7 @@ written: Nov 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/danny-boy/']
 images:
-- path: /images/finger-writing/summer-wiltshire.jpg
+- path: /images/bucket/summer-wiltshire.jpg
 shavian: true
 ---
 

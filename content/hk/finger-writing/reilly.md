@@ -6,7 +6,7 @@ written: 2021
 type: hk/finger-writing
 aliases: ['/finger-writing/reilly.html', '/finger-writing/reilly/']
 images:
-- path: /images/finger-writing/noel-reilly.jpg 
+- path: /images/bucket/noel-reilly.jpg 
   alt: Noel Reilly
 shavian: true
 ---

@@ -6,7 +6,7 @@ written: 2023
 type: hk/finger-writing
 aliases: ['/finger-writing/butterfly/']
 images:
-- path: /images/finger-writing/butterfly-sitting-window.jpg
+- path: /images/bucket/butterfly-sitting-window.jpg
 shavian: true
 ---
 

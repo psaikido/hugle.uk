@@ -6,7 +6,7 @@ written: 2021-10
 type: hk/finger-writing
 aliases: ['/finger-writing/ink.html', '/finger-writing/ink/']
 images:
-- path: /images/finger-writing/inks.jpg 
+- path: /images/bucket/inks.jpg 
   alt: squeegies
 css: ['preset-2cols']
 shavian: true

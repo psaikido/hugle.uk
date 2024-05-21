@@ -6,7 +6,7 @@ written: 2023
 type: hk/finger-writing
 aliases: ['/finger-writing/dictionary.html', '/finger-writing/dictionary/']
 images:
-- path: /images/finger-writing/man-letters.jpeg 
+- path: /images/bucket/man-letters.jpeg 
   alt: https://jaumeplensa.com/works-and-projects/sculpture 
 shavian: true
 ---
