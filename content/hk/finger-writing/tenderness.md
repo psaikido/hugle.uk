@@ -8,7 +8,7 @@ aliases: ['/finger-writing/tenderness.html', '/finger-writing/tenderness/']
 
 <div class="latin">
 
-yes their are voids  
+yes there are voids  
 gulfs that stretch out  
 
 between us
