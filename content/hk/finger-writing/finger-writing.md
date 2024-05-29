@@ -18,7 +18,8 @@ shavian: true
 droplets condensed   
 on a window  
 moments ago  
-they were steam  
+they were vapour  
+
 free
 
 a hard surface  
