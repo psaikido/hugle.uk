@@ -8,7 +8,7 @@ images:
   alt: "bed, lappy, mirror & me" 
 ---
 
-These pieces were ostly written from 2019.  I couldn't think of a title at the
+These pieces were mostly written from 2019.  I couldn't think of a title at the
 beginning so I was just chucking them into a directory I called 'bucket'.
 Eventually it morphed into 'finger writing' from one of the pieces. This was
 prompted by the fact that I couldn't find a satisfying image to go with
