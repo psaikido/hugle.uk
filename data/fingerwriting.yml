@@ -56,9 +56,6 @@ menu:
 - title: itself
   url: /hk/finger-writing/itself/
 
-- title: 30 years
-  url: /hk/finger-writing/30years/
-
 - title: bins 
   url: /hk/finger-writing/bins/
 
@@ -92,8 +89,14 @@ menu:
 - title: ink 
   url: /hk/finger-writing/ink/
 
+- title: 30 years
+  url: /hk/finger-writing/30years/
+
 - title: some days 
   url: /hk/finger-writing/somedays/
+
+- title: ghost 
+  url: /hk/finger-writing/ghost/
 
 - title: leaking 
   url: /hk/finger-writing/leaking/
@@ -103,9 +106,6 @@ menu:
 
 - title: two wheeled tiger 
   url: /hk/finger-writing/two-wheeled-tiger/
-
-- title: ghost 
-  url: /hk/finger-writing/ghost/
 
 - title: Sam 
   url: /hk/finger-writing/sam/
