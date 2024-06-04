@@ -40,7 +40,7 @@ looked at me
 mute  
   
 I still thought of myself  
-as a fuckin Samurai  
+as a fuckin' Samurai  
   
 I still thought of the stick  
 as belonging to my dad  
