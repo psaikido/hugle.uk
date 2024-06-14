@@ -4,6 +4,7 @@ title: treason
 written: 2019
 type: hk/sun
 aliases: ['/sun/treason.html']
+url: '/sun/treason/'
 ---
 
 I gave you my very heart  

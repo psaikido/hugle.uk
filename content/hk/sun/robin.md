@@ -4,6 +4,7 @@ title: robin
 written: 2014
 type: hk/sun
 aliases: ['/sun/robin.html']
+url: '/sun/robin/'
 ---
 
 high on the rabbity downs  

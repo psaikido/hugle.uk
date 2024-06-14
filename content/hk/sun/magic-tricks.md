@@ -4,6 +4,7 @@ title: magic tricks
 written: 2019
 type: hk/sun
 aliases: ['/sun/magic-tricks.html']
+url: '/sun/magic-tricks/'
 ---
 
 

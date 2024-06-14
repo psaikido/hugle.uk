@@ -4,6 +4,7 @@ title: survival
 written: 2019
 type: hk/sun
 aliases: ['/sun/survival.html']
+url: '/sun/survival/'
 ---
 
 I've been angry all these years  

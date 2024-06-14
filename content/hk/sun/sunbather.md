@@ -4,6 +4,7 @@ title: sunbather
 written: 2020
 type: hk/sun
 aliases: ['/sun/sunbather.html']
+url: '/sun/sunbather/'
 ---
 
 

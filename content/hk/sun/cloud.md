@@ -4,6 +4,7 @@ title: cloud
 written: 2020
 type: hk/sun
 aliases: ['/sun/cloud.html']
+url: '/sun/cloud/'
 ---
 
 that dark cloud  

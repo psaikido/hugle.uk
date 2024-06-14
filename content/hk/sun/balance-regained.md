@@ -4,6 +4,7 @@ title: balance regained
 written: 2008
 type: hk/sun
 aliases: ['/sun/balance-regained.html']
+url: '/sun/balance-regained/'
 ---
 
 a miracle of balance regained  

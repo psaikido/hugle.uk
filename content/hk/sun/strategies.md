@@ -4,6 +4,7 @@ title: strategies
 written: 2019
 type: hk/sun
 aliases: ['/sun/strategies.html']
+url: '/sun/strategies/'
 ---
 
 astonishing scary reality  

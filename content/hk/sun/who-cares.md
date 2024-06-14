@@ -4,6 +4,7 @@ title: who cares?
 written: 2020
 type: hk/sun
 aliases: ['/sun/who-cares.html']
+url: '/sun/who-cares/'
 ---
 
 who cares?  

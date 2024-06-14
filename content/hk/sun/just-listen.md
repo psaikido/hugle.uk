@@ -4,6 +4,7 @@ title: just listen
 written: 2019
 type: hk/sun
 aliases: ['/sun/just-listen.html']
+url: '/sun/just-listen/'
 ---
 
 sorrowing yes  

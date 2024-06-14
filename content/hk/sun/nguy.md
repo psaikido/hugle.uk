@@ -4,6 +4,7 @@ title: Mrs Nguy
 written: 2020
 type: hk/sun
 aliases: ['/sun/nguy.html']
+url: '/sun/nguy/'
 ---
 
 Mrs Nguy died  

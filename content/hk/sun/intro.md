@@ -2,8 +2,8 @@
 bannerTitle: "Sunshine & Shadow" 
 title: intro 
 type: hk/sun
-aliases: [/sun/]
-aliases: ['/sun/intro.html']
+aliases: ['/sun/', '/sun/intro.html']
+url: '/sun/intro/'
 ---
 
 ![Sunshine & Shadow cover](/images/shop/sunshad-cover.jpg "Sunshine & Shadow cover")

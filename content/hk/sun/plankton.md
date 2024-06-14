@@ -4,6 +4,7 @@ title: plankton
 written: 2019
 type: hk/sun
 aliases: ['/sun/plankton.html']
+url: '/sun/plankton/'
 ---
 
 all over the hermitage  

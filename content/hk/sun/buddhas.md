@@ -4,6 +4,7 @@ title: 10,000 Buddhas
 written: 2019
 type: hk/sun
 aliases: ['/sun/buddhas.html']
+url: '/sun/buddhas/'
 ---
 
 in the hall of 10,000 Buddhas  

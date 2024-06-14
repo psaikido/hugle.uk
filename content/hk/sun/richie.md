@@ -4,6 +4,7 @@ title: Richie
 written: 2005
 type: hk/sun
 aliases: ['/sun/richie.html']
+url: '/sun/richie/'
 ---
 
 that stoopy way you had  

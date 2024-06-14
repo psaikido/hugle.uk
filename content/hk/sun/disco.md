@@ -4,6 +4,7 @@ title: behind the disco
 written: 1996
 type: hk/sun
 aliases: ['/sun/disco.html']
+url: '/sun/disco/'
 ---
 
 my dad  

@@ -4,6 +4,7 @@ title: Tim Tim Tim
 written: 2020
 type: hk/sun
 aliases: ['/sun/tim-tim-tim.html']
+url: '/sun/tim-tim-tim/'
 ---
 
 Tim Tim Tim  

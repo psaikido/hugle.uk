@@ -4,6 +4,7 @@ title: the big nowhere
 written: 2020
 type: hk/sun
 aliases: ['/sun/big-nowhere.html']
+url: '/sun/big-nowhere/'
 ---
 
 he's gone    

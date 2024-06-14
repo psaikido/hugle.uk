@@ -4,6 +4,7 @@ title: silly walks
 written: 2019
 type: hk/sun
 aliases: ['/sun/silly-walks.html']
+url: '/sun/silly-walks/'
 ---
 
 that wonderful dinner-time  

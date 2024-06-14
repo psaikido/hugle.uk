@@ -4,6 +4,7 @@ title: ancestors
 written: 2020
 type: hk/sun
 aliases: ['/sun/ancestors.html']
+url: '/sun/ancestors/'
 ---
 
 practising my juggling  

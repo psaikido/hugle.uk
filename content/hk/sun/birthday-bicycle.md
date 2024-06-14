@@ -4,6 +4,7 @@ title: birthday bicycle
 written: 2003
 type: hk/sun
 aliases: ['/sun/birthday-bicycle.html']
+url: '/sun/birthday-bicycle/'
 ---
 
 ah, the glory of that bicycle  

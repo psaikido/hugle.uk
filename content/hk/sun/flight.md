@@ -4,6 +4,7 @@ title: flight
 written: 2020
 type: hk/sun
 aliases: ['/sun/flight.html']
+url: '/sun/flight/'
 ---
 
 the weight of the words  

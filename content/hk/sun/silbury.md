@@ -4,6 +4,7 @@ title: Silbury
 written: 2017
 type: hk/sun
 aliases: ['/sun/silbury.html']
+url: '/sun/silbury/'
 ---
 
 a violent absence  

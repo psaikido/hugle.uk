@@ -38,7 +38,7 @@ nests:
           dataFile: yarn
 
         - title: Sunshine & Shadow
-          url: /hk/sun/intro/
+          url: /sun/intro/
           dataFile: sun
 
         - title: Finger Writing

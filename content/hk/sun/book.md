@@ -4,6 +4,7 @@ title: book
 written: 2020
 type: hk/sun
 aliases: ['/sun/book.html']
+url: '/sun/book/'
 ---
 
 an open book  

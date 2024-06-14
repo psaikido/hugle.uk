@@ -4,6 +4,7 @@ title: love is a dance
 written: 2002
 type: hk/sun
 aliases: ['/sun/love-dance.html']
+url: '/sun/love-dance/'
 ---
 
 flying lurching  

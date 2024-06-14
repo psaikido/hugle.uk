@@ -4,6 +4,7 @@ title: birdsong
 written: 2019
 type: hk/sun
 aliases: ['/sun/birdsong.html']
+url: '/sun/birdsong/'
 ---
 
 I bathed my broken heart  

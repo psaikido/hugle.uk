@@ -4,6 +4,7 @@ title: shadow
 written: 2019
 type: hk/sun
 aliases: ['/sun/shadow.html']
+url: '/sun/shadow/'
 ---
 
 looking at this shadow  

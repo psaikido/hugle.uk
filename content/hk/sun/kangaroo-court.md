@@ -4,6 +4,7 @@ title: kangaroo court
 written: 2020
 type: hk/sun
 aliases: ['/sun/kangaroo-court.html']
+url: '/sun/kangaroo-court/'
 ---
 
 every few days  

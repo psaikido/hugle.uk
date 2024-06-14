@@ -4,6 +4,7 @@ title: flowers
 written: 2005
 type: hk/sun
 aliases: ['/sun/flowers.html']
+url: '/sun/flowers/'
 ---
 
 I looked at the flowers  

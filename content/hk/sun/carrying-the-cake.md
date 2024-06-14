@@ -4,6 +4,7 @@ title: carrying the cake
 written: 2020
 type: hk/sun
 aliases: ['/sun/carrying-the-cake.html']
+url: '/sun/carrying-the-cake/'
 ---
 
 looking down the garden  

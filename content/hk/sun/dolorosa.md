@@ -4,6 +4,7 @@ title: la via dolorosa
 written: 2019
 type: hk/sun
 aliases: ['/sun/dolorosa.html']
+url: '/sun/dolorosa/'
 ---
 
 on the via dolorosa  

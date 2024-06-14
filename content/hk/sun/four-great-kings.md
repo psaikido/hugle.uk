@@ -4,6 +4,7 @@ title: the four great kings
 written: 2005
 type: hk/sun
 aliases: ['/sun/four-great-kings.html']
+url: '/sun/four-great-kings/'
 ---
 
 the four great kings  

@@ -4,6 +4,7 @@ title: glimpse
 written: 1996
 type: hk/sun
 aliases: ['/sun/glimpse.html']
+url: '/sun/glimpse/'
 ---
 
 the present  

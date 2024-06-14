@@ -4,6 +4,7 @@ title: jewels
 written: 2003
 type: hk/sun
 aliases: ['/sun/jewels.html']
+url: '/sun/jewels/'
 ---
 
 the solar blast  

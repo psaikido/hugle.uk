@@ -4,6 +4,7 @@ title: eyebrows
 written: 2019
 type: hk/sun
 aliases: ['/sun/eyebrows.html']
+url: '/sun/eyebrows/'
 ---
 
 De Lin the Chan Master  

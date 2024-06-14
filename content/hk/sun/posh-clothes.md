@@ -4,6 +4,7 @@ title: posh clothes
 written: 2020
 type: hk/sun
 aliases: ['/sun/posh-clothes.html']
+url: '/sun/posh-clothes/'
 ---
 
 what is it  

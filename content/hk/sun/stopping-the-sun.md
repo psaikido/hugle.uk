@@ -4,6 +4,7 @@ title: stopping the sun
 written: 2019
 type: hk/sun
 aliases: ['/sun/stopping-the-sun.html']
+url: '/sun/stopping-the-sun/'
 ---
 
 whatever the monk had told us  

@@ -4,6 +4,7 @@ title: banana moon
 written: 2020
 type: hk/sun
 aliases: ['/sun/banana-moon.html']
+url: '/sun/banana-moon/'
 ---
 
 big old banana moon  

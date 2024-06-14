@@ -4,6 +4,7 @@ title: bat detector
 written: 2019
 type: hk/sun
 aliases: ['/sun/bat-detector.html']
+url: '/sun/bat-detector/'
 ---
 
 bat detector  

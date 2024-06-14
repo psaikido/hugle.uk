@@ -4,6 +4,7 @@ title: mam
 written: 2019
 type: hk/sun
 aliases: ['/sun/mam.html']
+url: '/sun/mam/'
 ---
 
 five lunatic boys  

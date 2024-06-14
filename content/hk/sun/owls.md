@@ -4,6 +4,7 @@ title: owls
 written: 2019
 type: hk/sun
 aliases: ['/sun/owls.html']
+url: '/sun/owls/'
 ---
 
 deepening dusk  

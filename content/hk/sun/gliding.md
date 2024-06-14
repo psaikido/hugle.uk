@@ -4,6 +4,7 @@ title: gliding
 written: 2016
 type: hk/sun
 aliases: ['/sun/gliding.html']
+url: '/sun/gliding/'
 ---
 
 over my shoulder looking  

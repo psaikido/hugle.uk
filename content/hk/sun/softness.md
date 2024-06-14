@@ -4,6 +4,7 @@ title: softness
 written: 2020
 type: hk/sun
 aliases: ['/sun/softness.html']
+url: '/sun/softness/'
 ---
 
 oh but again  

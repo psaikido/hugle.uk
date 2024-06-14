@@ -4,6 +4,7 @@ title: renting
 written: 2020
 type: hk/sun
 aliases: ['/sun/renting.html']
+url: '/sun/renting/'
 ---
 
 

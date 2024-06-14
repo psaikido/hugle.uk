@@ -4,6 +4,7 @@ title: game
 written: 2020
 type: hk/sun
 aliases: ['/sun/game.html']
+url: '/sun/game/'
 ---
 
 did you not see  

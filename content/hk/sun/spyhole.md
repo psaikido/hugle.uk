@@ -4,6 +4,7 @@ title: spy hole
 written: 2020
 type: hk/sun
 aliases: ['/sun/spyhole.html']
+url: '/sun/spyhole/'
 ---
 
 

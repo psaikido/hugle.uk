@@ -4,6 +4,7 @@ title: giggle dancing
 written: 2019
 type: hk/sun
 aliases: ['/sun/giggle-dancing.html']
+url: '/sun/giggle-dancing/'
 ---
 
 the Chan nuns  

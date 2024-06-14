@@ -4,6 +4,7 @@ title: bottom feeder
 written: 2003 & 2020
 type: hk/sun
 aliases: ['/sun/bottom-feeder.html']
+url: '/sun/bottom-feeder/'
 ---
 
 bottom feeder  

@@ -4,6 +4,7 @@ title: dragon
 written: 2001
 type: hk/sun
 aliases: ['/sun/dragon.html']
+url: '/sun/dragon/'
 ---
 
 its sound is heard  

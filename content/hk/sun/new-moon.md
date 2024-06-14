@@ -4,6 +4,7 @@ title: new moon
 written: 2018
 type: hk/sun
 aliases: ['/sun/new-moon.html']
+url: '/sun/new-moon/'
 ---
 
 oh look!  

@@ -4,6 +4,7 @@ title: Gaia
 written: 2006
 type: hk/sun
 aliases: ['/sun/gaia.html']
+url: '/sun/gaia/'
 ---
 
 a great surge of love  

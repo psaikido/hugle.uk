@@ -4,6 +4,7 @@ title: what is love?
 written: 1998 & 2020
 type: hk/sun
 aliases: ['/sun/what-is-love.html']
+url: '/sun/what-is-love/'
 ---
 
 what is love?  

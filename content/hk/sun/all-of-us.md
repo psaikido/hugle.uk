@@ -4,6 +4,7 @@ title: all of us
 written: 2019
 type: hk/sun
 aliases: ['/sun/all-of-us.html']
+url: '/sun/all-of-us/'
 ---
 
 career, family, home  

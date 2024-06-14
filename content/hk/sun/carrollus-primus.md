@@ -4,6 +4,7 @@ title: Carrollus Primus
 written: 2019
 type: hk/sun
 aliases: ['/sun/carrollus-primus.html']
+url: '/sun/carrollus-primus/'
 ---
 
 my biggest brother  
