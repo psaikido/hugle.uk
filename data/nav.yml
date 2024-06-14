@@ -42,7 +42,7 @@ nests:
           dataFile: sun
 
         - title: Finger Writing
-          url: /hk/finger-writing/intro/
+          url: /finger-writing/intro/
           dataFile: finger-writing
 
       - title: prose
