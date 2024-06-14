@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Abystery
 type: prose/thesium
 aliases: [/thesium/abystery-wakes/]
+url: '/thesium/abystery-wakes/'
 ---
 
 <div class="data">

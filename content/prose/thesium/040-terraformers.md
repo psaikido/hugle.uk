@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Terraformers 
 type: prose/thesium
 aliases: [/thesium/terraformers/]
+url: '/thesium/terraformers/'
 ---
 
 <div class="data">

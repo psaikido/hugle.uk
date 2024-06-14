@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Rapprochement
 type: prose/thesium
 aliases: [/thesium/rapprochement/]
+url: '/thesium/rapprochement/'
 ---
 
 <div class="quote">

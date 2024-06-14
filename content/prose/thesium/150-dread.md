@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Dread
 type: prose/thesium
 aliases: [/thesium/dread/]
+url: '/thesium/dread/'
 ---
 
 <div class="quote">

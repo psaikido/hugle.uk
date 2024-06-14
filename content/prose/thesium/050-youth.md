@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Youth 
 type: prose/thesium
 aliases: [/thesium/youth/]
+url: '/thesium/youth/'
 ---
 
 <div class="quote">

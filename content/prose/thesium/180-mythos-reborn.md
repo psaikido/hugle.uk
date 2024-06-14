@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Mythos Reborn
 type: prose/thesium
 aliases: [/thesium/mythos-reborn/]
+url: '/thesium/mythos-reborn/'
 ---
 
 <div class="quote">

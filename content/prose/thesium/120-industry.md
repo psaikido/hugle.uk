@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Industry
 type: prose/thesium
 aliases: [/thesium/industry/]
+url: '/thesium/industry/'
 ---
 
 <div class="data">

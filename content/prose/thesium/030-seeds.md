@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Seeds
 type: prose/thesium
 aliases: [/thesium/seeds/]
+url: '/thesium/seeds'
 ---
 
 <div class="data">

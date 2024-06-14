@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Voyage 
 type: prose/thesium
 aliases: [/thesium/voyage/]
+url: '/thesium/voyage/'
 ---
 
 <div class="quote">

@@ -3,6 +3,7 @@ bannerTitle: "Thesium"
 title: Theocracy
 type: prose/thesium
 aliases: [/thesium/theocracy/]
+url: '/thesium/theocracy/'
 ---
 
 <div class="data">
