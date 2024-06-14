@@ -4,6 +4,7 @@ title: arrested
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/arrested.html']
+url: '/yarn/arrested/'
 ---
 
 in the mid 90s  

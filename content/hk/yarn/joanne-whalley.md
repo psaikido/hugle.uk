@@ -4,6 +4,7 @@ title: Joanne Whalley
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/joanne-whalley.html']
+url: '/yarn/joanne-whalley/'
 ---
 
 they were filming Edge of Darkness  

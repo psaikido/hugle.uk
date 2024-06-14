@@ -4,6 +4,7 @@ title: body-builders
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/body-builders.html']
+url: '/yarn/body-builders/'
 ---
 
 

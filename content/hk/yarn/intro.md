@@ -2,8 +2,8 @@
 bannerTitle: Yarn
 title: intro
 type: hk/yarn
-aliases: [/yarn/]
-aliases: ['/yarn/intro.html']
+aliases: ['/yarn/', '/yarn/intro.html']
+url: '/yarn/intro/'
 ---
 
 ![Yarn cover](/images/shop/yarn-cover.jpg "Yarn cover")  

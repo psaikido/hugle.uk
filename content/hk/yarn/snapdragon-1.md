@@ -4,6 +4,7 @@ title: snapdragon before
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/snapdragon-1.html']
+url: '/yarn/snapdragon-1/'
 ---
 
 so exciting  

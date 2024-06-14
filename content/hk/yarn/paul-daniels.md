@@ -4,6 +4,7 @@ title: Paul Daniels
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/paul-daniels.html']
+url: '/yarn/paul-daniels/'
 ---
 
 a tweet offered a place  

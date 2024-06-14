@@ -4,6 +4,7 @@ title: dancing Shiva
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/dancing-shiva.html']
+url: '/yarn/dancing-shiva/'
 ---
 
 dancing shiva acid  

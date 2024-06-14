@@ -4,6 +4,7 @@ title: sapphire
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/sapphire.html']
+url: '/yarn/sapphire/'
 ---
 
 the taxi driver  

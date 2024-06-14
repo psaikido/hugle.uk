@@ -4,6 +4,7 @@ title: rain
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/rain.html']
+url: '/yarn/rain/'
 ---
 
 floundering through the labyrinth  

@@ -4,6 +4,7 @@ title: Grist
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/grist.html']
+url: '/yarn/grist/'
 ---
 
 I had asked him  

@@ -4,6 +4,7 @@ title: endarkenment
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/endarkenment.html']
+url: '/yarn/endarkenment/'
 ---
 
 my endarkenment was total  

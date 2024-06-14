@@ -4,6 +4,7 @@ title: wind
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/wind.html']
+url: '/yarn/wind/'
 ---
 
 we had been climbing  

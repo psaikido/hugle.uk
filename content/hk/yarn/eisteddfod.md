@@ -4,6 +4,7 @@ title: Eisteddfod
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/eisteddfod.html']
+url: '/yarn/eisteddfod/'
 ---
 
 me and Peewee were put on last  

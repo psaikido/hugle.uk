@@ -4,6 +4,7 @@ title: The Inevitable Split
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/split.html']
+url: '/yarn/split/'
 ---
 
 the college band  

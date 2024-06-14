@@ -4,6 +4,7 @@ title: white hats
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/white-hats.html']
+url: '/yarn/white-hats/'
 ---
 
 people kept warning me  

@@ -4,6 +4,7 @@ title: sword
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/sword.html']
+url: '/yarn/sword/'
 ---
 
 my old jiu-jitsu teacher  

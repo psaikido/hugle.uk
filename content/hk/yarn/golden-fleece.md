@@ -4,6 +4,7 @@ title: the golden fleece
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/golden-fleece.html']
+url: '/yarn/golden-fleece/'
 ---
 
 all the gear fell out  

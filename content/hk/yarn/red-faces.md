@@ -4,6 +4,7 @@ title: red faces in the park
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/red-faces.html']
+url: '/yarn/red-faces/'
 ---
 
 

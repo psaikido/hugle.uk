@@ -34,7 +34,7 @@ nests:
           dataFile: mbm
 
         - title: Yarn
-          url: /hk/yarn/intro/
+          url: /yarn/intro/
           dataFile: yarn
 
         - title: Sunshine & Shadow

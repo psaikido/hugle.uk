@@ -4,6 +4,7 @@ title: Romanians
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/romanians.html']
+url: '/yarn/romanians/'
 ---
 
 my friend had a gig near me  

@@ -4,6 +4,7 @@ title: levitation
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/levitation.html']
+url: '/yarn/leviation/'
 ---
 
 there is a levitation trick  

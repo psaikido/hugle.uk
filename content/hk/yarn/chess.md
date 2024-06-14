@@ -4,6 +4,7 @@ title: chess
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/chess.html']
+url: '/yarn/chess/'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jh9JYVPCPOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -4,6 +4,7 @@ title: 2 Hot 4 July
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/2hot4july.html']
+url: '/yarn/2hot4july/'
 ---
 
 

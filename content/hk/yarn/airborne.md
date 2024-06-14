@@ -4,6 +4,7 @@ title: airborne
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/airborne.html']
+url: '/yarn/airborne/'
 ---
 
 all the stories my dad told  

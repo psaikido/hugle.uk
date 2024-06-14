@@ -4,6 +4,7 @@ title: chocolate
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/chocolate.html']
+url: '/yarn/chocolate/'
 ---
 
 long distance club passing  

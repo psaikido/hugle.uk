@@ -4,6 +4,7 @@ title: Bott
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/bott.html']
+url: '/yarn/bott/'
 ---
 
 in the IT office  

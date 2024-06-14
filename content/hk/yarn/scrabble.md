@@ -4,6 +4,7 @@ title: scrabble
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/scrabble.html']
+url: '/yarn/scrabble/'
 ---
 
 scrabble at Christmas  

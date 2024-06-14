@@ -4,6 +4,7 @@ title: bang
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/bang.html']
+url: '/yarn/bang/'
 ---
 
 weedkiller and sugar  

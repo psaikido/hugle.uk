@@ -4,6 +4,7 @@ title: shine
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/shine.html']
+url: '/yarn/shine/'
 ---
 
 dreaming of my grandma  

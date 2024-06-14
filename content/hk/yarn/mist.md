@@ -4,6 +4,7 @@ title: mist
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/mist.html']
+url: '/yarn/mist/'
 ---
 
 flying my blue motorbike  

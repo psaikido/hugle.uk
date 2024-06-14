@@ -4,6 +4,7 @@ title: El Naranjo de Bulnes
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/naranjo.html']
+url: '/yarn/naranjo/'
 ---
 
 the picture says it all

@@ -4,6 +4,7 @@ title: lynch mob
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/lynch-mob.html']
+url: '/yarn/lynch-mob/'
 ---
 
 how hard is it  

@@ -4,6 +4,7 @@ title: library
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/library.html']
+url: '/yarn/library/'
 images:
 - path: /images/bucket/grumpy-woman.jpg
 css: ['preset-2cols']

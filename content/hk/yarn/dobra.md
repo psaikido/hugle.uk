@@ -4,6 +4,7 @@ title: Dobra
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/dobra.html']
+url: '/yarn/dobra/'
 ---
 
 Nick had told me  

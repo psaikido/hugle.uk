@@ -4,6 +4,7 @@ title: XTC
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/xtc.html']
+url: '/yarn/xtc/'
 ---
 
 

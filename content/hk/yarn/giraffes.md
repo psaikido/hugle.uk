@@ -4,6 +4,7 @@ title: giraffes
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/giraffes.html']
+url: '/yarn/giraffes/'
 ---
 
 it might've been Llanelli  

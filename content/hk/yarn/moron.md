@@ -4,6 +4,7 @@ title: moron
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/moron.html']
+url: '/yarn/moron/'
 ---
 
 I have to admit  

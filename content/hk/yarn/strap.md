@@ -4,6 +4,7 @@ title: the strap
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/strap.html']
+url: '/yarn/strap/'
 ---
 
 a professional maths teacher  

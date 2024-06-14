@@ -4,6 +4,7 @@ title: scattering
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/scattering.html']
+url: '/yarn/scattering/'
 ---
 
 they had come to the island  

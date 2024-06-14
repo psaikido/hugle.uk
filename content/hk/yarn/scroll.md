@@ -4,6 +4,7 @@ title: scroll
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/scroll.html']
+url: '/yarn/scroll/'
 ---
 
 I'd been asked  

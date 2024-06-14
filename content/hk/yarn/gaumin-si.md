@@ -4,6 +4,7 @@ title: Gaumin Si
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/gaumin-si.html']
+url: '/yarn/gaumin-si/'
 ---
 
 outside the Chan hall  

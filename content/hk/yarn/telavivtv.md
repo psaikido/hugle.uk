@@ -4,6 +4,7 @@ title: Tel Aviv TV
 written: 2019
 type: hk/yarn
 aliases: ['/yarn/telavivtv.html']
+url: '/yarn/telavivtv/'
 ---
 
 

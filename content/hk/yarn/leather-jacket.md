@@ -4,6 +4,7 @@ title: leather jacket
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/leather-jacket.html']
+url: '/yarn/leather-jacket/'
 ---
 
 that leather jacket  

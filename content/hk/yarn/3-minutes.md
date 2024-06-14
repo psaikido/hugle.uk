@@ -4,6 +4,7 @@ title: 3 minutes
 written: 2020
 type: hk/yarn
 aliases: ['/yarn/3-minutes.html']
+url: '/yarn/3-minutes/'
 ---
 
 the clowing workshop  
