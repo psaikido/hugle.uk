@@ -4,6 +4,7 @@ title: ghost
 titleShv: "𐑜𐑴𐑕𐑑"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/ghost/'
 aliases: ['/finger-writing/ghost/']
 images:
 - path: /images/circus/5rings.jpg

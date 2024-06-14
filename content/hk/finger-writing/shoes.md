@@ -4,6 +4,7 @@ title: shoes
 titleShv: "𐑖𐑵𐑟"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/shoes/'
 aliases: ['/finger-writing/shoes.html', '/finger-writing/shoes/']
 images:
 - path: /images/chan/shoes.jpg 

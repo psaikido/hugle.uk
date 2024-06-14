@@ -4,6 +4,7 @@ title: Noel Reilly
 titleShv: "·𐑯𐑴𐑩𐑤 ·𐑮𐑲𐑤𐑦"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/reilly/'
 aliases: ['/finger-writing/reilly.html', '/finger-writing/reilly/']
 images:
 - path: /images/bucket/noel-reilly.jpg 

@@ -4,6 +4,7 @@ title: two wheeled tiger
 titleShv: "𐑑𐑵 𐑢𐑰𐑤𐑛 𐑑𐑲𐑜𐑼"
 written: 202210
 type: hk/finger-writing
+url: '/finger-writing/two-wheeled-tiger/'
 aliases: ['/finger-writing/two-wheeled-tiger/']
 images:
 - path: /images/faves/70sCarrollsHilliards.jpg 

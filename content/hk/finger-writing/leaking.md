@@ -4,6 +4,7 @@ title: leaking
 titleShv: "𐑤𐑰𐑒𐑦𐑙"
 written: 2022-10
 type: hk/finger-writing
+url: '/finger-writing/leaking/'
 aliases: ['/finger-writing/leaking/']
 images:
 - path: /images/bucket/ship-at-sea-rembrandt.jpg

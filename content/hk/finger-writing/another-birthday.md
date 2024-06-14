@@ -4,6 +4,7 @@ title: another birthday
 titleShv: "𐑩𐑯𐑩𐑞𐑼 𐑚𐑻𐑞𐑛𐑱"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/another-birthday/'
 aliases: ['/finger-writing/another-birthday/']
 shavian: true
 ---

@@ -4,6 +4,7 @@ title: pretend
 titleShv: "𐑐𐑮𐑩𐑑𐑧𐑯𐑛"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/pretend/'
 aliases: ['/finger-writing/pretend.html', '/finger-writing/pretend/']
 shavian: true
 ---

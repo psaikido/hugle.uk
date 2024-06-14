@@ -4,7 +4,8 @@ title: mirror-scope
 titleShv: "𐑥𐑦𐑮𐑼 𐑕𐑒𐑴𐑐"
 written: Dec 2022
 type: hk/finger-writing
-aliases: ['/finger-writing/mirror scope/']
+url: '/finger-writing/mirror-scope/'
+aliases: ['/finger-writing/mirror-scope/']
 images:
 - path: https://uploads6.wikiart.org/images/john-william-waterhouse/the-crystal-ball-1902.jpg 
   alt: John William Waterhouse 'The Crystal Ball'

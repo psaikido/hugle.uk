@@ -4,6 +4,7 @@ title: deep sea shopping
 titleShv: "𐑛𐑰𐑐 𐑕𐑰 𐑖𐑪𐑐𐑦𐑙"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/deep-sea-shopping/'
 aliases: ['/finger-writing/deep-sea-shopping/']
 images:
 - path: /images/bucket/diver.jpg

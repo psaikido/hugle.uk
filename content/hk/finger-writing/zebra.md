@@ -4,6 +4,7 @@ title: zebra
 titleShv: "𐑟𐑧𐑚𐑮𐑩"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/zebra/'
 aliases: ['/finger-writing/zebra/']
 images:
 - path: /images/bucket/2020-07-Alessio2-801.jpg

@@ -4,6 +4,7 @@ title: solstice
 titleShv: "𐑕𐑪𐑤𐑕𐑑𐑦𐑕"
 written: 2020
 type: hk/finger-writing
+url: '/finger-writing/solstice/'
 aliases: ['/finger-writing/solstice.html', '/finger-writing/solstice/']
 images:
 - path: /images/bucket/dawn-approaching.jpg 

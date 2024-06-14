@@ -4,6 +4,7 @@ title: Orion
 titleShv: "·𐑹𐑲𐑩𐑯"
 written: Nov 2022
 type: hk/finger-writing
+url: '/finger-writing/orion/'
 aliases: ['/finger-writing/orion/']
 images:
 - path: /images/bucket/orion.jpg

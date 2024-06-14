@@ -3,6 +3,7 @@ bannerTitle: "Finger Writing"
 title: intro
 type: hk/finger-writing
 aliases: ['/finger-writing/intro.html', '/finger-writing/']
+url: '/finger-writing/intro/'
 images:
 - path: /images/stuff/pillow-writers-hughie.jpg
   alt: "bed, lappy, mirror & me" 

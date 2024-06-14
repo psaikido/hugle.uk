@@ -4,6 +4,7 @@ title: homo geologicus
 titleShv: "𐑣𐑴𐑥𐑴 𐑡𐑾𐑤𐑪𐑡𐑦𐑒𐑳𐑕"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/homo-geologicus/'
 aliases: ['/finger-writing/homo-geologicus/']
 images:
 - path: /images/pilg1/pilg54.jpg

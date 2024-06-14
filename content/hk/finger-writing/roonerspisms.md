@@ -4,6 +4,7 @@ title: roonerspisms
 titleShv: "𐑮𐑵𐑩𐑼𐑕𐑐𐑦𐑟𐑩𐑥𐑟"
 written: Nov 2022
 type: hk/finger-writing
+url: '/finger-writing/roonerspisms/'
 aliases: ['/finger-writing/roonerspisms/']
 images:
 - path: /images/bucket/DOH.png

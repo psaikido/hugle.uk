@@ -4,6 +4,7 @@ title: Sam
 titleShv: "·𐑕𐑨𐑥"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/sam/'
 aliases: ['/finger-writing/sam/']
 images:
 - path: /images/bucket/sam_aug75.jpg

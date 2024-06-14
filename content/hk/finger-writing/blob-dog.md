@@ -4,6 +4,7 @@ title: blob dog
 titleShv: "𐑚𐑤𐑪𐑚 𐑛𐑪𐑜"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/blob-dog/'
 aliases: ['/finger-writing/blob-dog/']
 images:
 - path: /images/circus/jake_window.jpg

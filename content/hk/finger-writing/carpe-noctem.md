@@ -4,6 +4,7 @@ title: carpe noctem
 titleShv: "𐑒𐑸𐑐𐑱 𐑯𐑪𐑒𐑑𐑩𐑥"
 written: 2023
 type: hk/finger-writing
+url: '/finger-writing/carpe-noctem/'
 aliases: ['/finger-writing/carpe-noctem/']
 images:
 - path: /images/bucket/stars-in-the-night-sky-on-the-beach.jpg

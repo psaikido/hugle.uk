@@ -4,6 +4,7 @@ title: Olympus
 titleShv: "·𐑴𐑤𐑦𐑥𐑐𐑩𐑕"
 written: 2023
 type: hk/finger-writing
+url: '/finger-writing/olympus/'
 aliases: ['/finger-writing/olympus.html', '/finger-writing/olympus/']
 images:
 - path: https://vignette.wikia.nocookie.net/greek-myth933/images/a/a4/Olympus.jpg/revision/latest?cb=20160516102252

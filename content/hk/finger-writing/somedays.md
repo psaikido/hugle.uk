@@ -4,6 +4,7 @@ title: some days
 titleShv: "𐑕𐑳𐑥 𐑛𐑱𐑟"
 written: 2022-10
 type: hk/finger-writing
+url: '/finger-writing/some-days/'
 aliases: ['/finger-writing/some-days/']
 images:
 - path: /images/bucket/churchDoor.jpg 

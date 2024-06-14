@@ -4,6 +4,7 @@ title: guard dog
 titleShv: "𐑜𐑸𐑛 𐑛𐑪𐑜"
 written: Nov 2022
 type: hk/finger-writing
+url: '/finger-writing/guard-dog/'
 aliases: ['/finger-writing/guard-dog/']
 images:
 - path: /images/circus/jake.jpg

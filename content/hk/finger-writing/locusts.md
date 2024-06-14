@@ -4,6 +4,7 @@ title: locusts
 titleShv: "𐑤𐑴𐑒𐑩𐑕𐑑𐑕"
 written: 2024-01
 type: hk/finger-writing
+url: '/finger-writing/locusts/'
 aliases: ['/finger-writing/locusts/']
 images:
 - path: https://tse2.mm.bing.net/th?id=OIP.euIn9sLwQ1DHAgNNFEZCjwHaFS&pid=Api

@@ -4,6 +4,7 @@ title: Thursday boys
 titleShv: "𐑞𐑻𐑟𐑛𐑱 𐑚𐑬𐑟"
 written: 2005
 type: hk/finger-writing
+url: '/finger-writing/thursday-boys/'
 aliases: ['/finger-writing/thursday-boys.html', '/finger-writing/thursday-boys/']
 images:
 - path: /images/bio/thursdayboys.jpg

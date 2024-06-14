@@ -5,6 +5,7 @@ titleShv: "𐑕𐑯𐑴 𐑚𐑹𐑤"
 written: 2022
 type: hk/finger-writing
 aliases: ['/finger-writing/snow-ball.html', '/finger-writing/snow-ball/']
+url: '/finger-writing/snow-ball/'
 images:
 - path: /images/bucket/st-joes-upper.jpg 
   alt: St Joe's Upper School playground

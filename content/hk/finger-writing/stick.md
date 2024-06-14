@@ -4,6 +4,7 @@ title: stick
 titleShv: "𐑕𐑑𐑦𐑒"
 written: 2022-10
 type: hk/finger-writing
+url: '/finger-writing/stick/'
 aliases: ['/finger-writing/stick/']
 images:
 - path: /images/bucket/walking-stick.jpg

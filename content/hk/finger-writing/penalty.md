@@ -4,6 +4,7 @@ title: penalty
 titleShv: "𐑐𐑧𐑯𐑩𐑤𐑑𐑦"
 written: Nov 2022
 type: hk/finger-writing
+url: '/finger-writing/penalty/'
 aliases: ['/finger-writing/penalty/']
 images:
 - path: /images/bio/eiger.jpg

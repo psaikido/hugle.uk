@@ -4,6 +4,7 @@ title: "gotta die"
 titleShv: "𐑜𐑪𐑑𐑩 𐑛𐑲"
 written: 2014/2021
 type: hk/finger-writing
+url: '/finger-writing/gotta-die/'
 aliases: ['/finger-writing/gotta-die/']
 shavian: true
 ---

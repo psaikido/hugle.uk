@@ -4,6 +4,7 @@ title: "Lally & Tom"
 titleShv: "·𐑤𐑨𐑤𐑦 𐑯 ·𐑑𐑪𐑥"
 written: 2023
 type: hk/finger-writing
+url: '/finger-writing/lally-tom/'
 aliases: ['/finger-writing/lally-tom.html', '/finger-writing/lally-tom/']
 images:
 - path: /images/bucket/Lally.jpg 

@@ -4,6 +4,7 @@ title: "top dogs"
 titleShv: "𐑑𐑪𐑐 𐑛𐑪𐑜𐑟"
 written: 2020
 type: hk/finger-writing
+url: '/finger-writing/top-dogs/'
 aliases: ['/finger-writing/top-dogs.html', '/finger-writing/top-dogs/']
 images:
 - path: /images/bucket/dog-and-bone.jpg 

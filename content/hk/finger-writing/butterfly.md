@@ -4,6 +4,7 @@ title: butterfly
 titleShv: "𐑚𐑳𐑑𐑼𐑓𐑤𐑲"
 written: 2023
 type: hk/finger-writing
+url: '/finger-writing/butterfly/'
 aliases: ['/finger-writing/butterfly/']
 images:
 - path: /images/bucket/butterfly-sitting-window.jpg

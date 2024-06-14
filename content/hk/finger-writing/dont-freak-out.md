@@ -4,6 +4,7 @@ title: don't freak out
 titleShv: "𐑛𐑴𐑯𐑑 𐑓𐑮𐑰𐑒 𐑬𐑑"
 written: 2019
 type: hk/finger-writing
+url: '/finger-writing/dont-freak-out/'
 aliases: ['/finger-writing/dont-freak-out/']
 shavian: true
 ---

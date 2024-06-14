@@ -4,6 +4,7 @@ title: dictionary
 titleShv: "𐑦𐑒𐑖𐑩𐑯𐑼𐑦"
 written: 2023
 type: hk/finger-writing
+url: '/finger-writing/dictionary/'
 aliases: ['/finger-writing/dictionary.html', '/finger-writing/dictionary/']
 images:
 - path: /images/bucket/man-letters.jpeg 

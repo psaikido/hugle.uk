@@ -4,6 +4,7 @@ title: bins
 titleShv: "𐑚𐑦𐑯𐑜"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/bins/'
 aliases: ['/finger-writing/bins/']
 shavian: true
 ---

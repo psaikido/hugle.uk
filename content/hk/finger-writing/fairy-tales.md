@@ -4,6 +4,7 @@ title: fairy tales
 titleShv: "𐑓𐑺𐑦 𐑑𐑱𐑤𐑟"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/fairy-tales/'
 aliases: ['/finger-writing/fairy-tales/']
 images:
 - path: /images/bucket/demon-face-drawing-56.jpg

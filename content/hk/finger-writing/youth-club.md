@@ -4,6 +4,7 @@ title: youth club
 titleShv: "𐑿𐑔 𐑒𐑤𐑳𐑚"
 written: 2020
 type: hk/finger-writing
+url: '/finger-writing/youth-club/'
 aliases: ['/finger-writing/youth-club.html', '/finger-writing/youth-club/']
 images:
 - path: /images/bucket/bound-with-chains.jpg 

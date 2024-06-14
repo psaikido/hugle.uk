@@ -4,6 +4,7 @@ title: Chris Evans
 titleShv: "·𐑒𐑮𐑦𐑕 𐑧𐑝𐑩𐑯𐑟"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/chris-evans/'
 aliases: ['/finger-writing/chris-evans/']
 images:
 - path: /images/bucket/chris-evans-billie-piper.jpg 

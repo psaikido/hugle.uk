@@ -4,6 +4,7 @@ title: finger writing
 titleShv: "𐑮𐑩𐑓𐑤𐑧𐑒𐑖𐑩𐑯"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/finger-writing/'
 aliases: ['/finger-writing/finger-writing.html', '/finger-writing/finger-writing/']
 images:
 - path: /images/bucket/fingerwriting-title.png

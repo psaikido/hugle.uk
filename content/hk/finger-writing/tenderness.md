@@ -4,6 +4,7 @@ title: tenderness
 written: 2024
 type: hk/finger-writing
 aliases: ['/finger-writing/tenderness.html', '/finger-writing/tenderness/']
+url: '/finger-writing/tenderness/'
 ---
 
 <div class="latin">

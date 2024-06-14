@@ -4,6 +4,7 @@ title: words
 titleShv: "𐑢𐑻𐑛𐑟"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/words/'
 aliases: ['/finger-writing/words.html', '/finger-writing/words/']
 images:
 - path: /images/chan/mistymorning.jpg 

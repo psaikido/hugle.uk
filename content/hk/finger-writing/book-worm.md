@@ -4,6 +4,7 @@ title: book worm
 titleShv: "𐑚𐑫𐑒 𐑢𐑻𐑥"
 written: 2022-11
 type: hk/finger-writing
+url: '/finger-writing/book-worm/'
 aliases: ['/finger-writing/book-worm/']
 images:
 - path: /images/faves/7yearsold.jpg

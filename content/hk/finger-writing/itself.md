@@ -4,6 +4,7 @@ title: itself
 titleShv: "𐑦𐑑𐑕𐑧𐑤𐑓"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/itself/'
 aliases: ['/finger-writing/itself.html', '/finger-writing/itself/']
 images:
 - path: /images/chan/JohnLeaving.jpg 

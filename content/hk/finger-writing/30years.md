@@ -4,6 +4,7 @@ title: 30 years
 titleShv: "𐑞𐑻𐑑𐑦 𐑘𐑽𐑟"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/30years/'
 aliases: ['/finger-writing/30years.html', '/finger-writing/30years/']
 images:
 - path: /images/circus/suitcase.jpg 

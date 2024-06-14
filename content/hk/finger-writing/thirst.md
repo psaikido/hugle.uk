@@ -4,6 +4,7 @@ title: thirst
 titleShv: "𐑔𐑻𐑕𐑑"
 written: 2022 (for Cathy)
 type: hk/finger-writing
+url: '/finger-writing/thirst/'
 aliases: ['/finger-writing/thirst.html', '/finger-writing/thirst/']
 shavian: true
 ---

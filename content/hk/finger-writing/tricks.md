@@ -4,6 +4,7 @@ title: tricks
 titleShv: "𐑑𐑮𐑦𐑒𐑕"
 written: 2021
 type: hk/finger-writing
+url: '/finger-writing/tricks/'
 aliases: ['/finger-writing/tricks.html', '/finger-writing/tricks/']
 shavian: true
 ---

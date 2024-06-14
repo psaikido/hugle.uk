@@ -4,6 +4,7 @@ title: clench
 titleShv: "𐑒𐑤𐑧𐑯𐑗"
 written: 2020
 type: hk/finger-writing
+url: '/finger-writing/clench/'
 aliases: ['/finger-writing/clench/']
 shavian: true
 ---

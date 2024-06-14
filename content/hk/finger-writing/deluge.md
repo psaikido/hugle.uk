@@ -4,6 +4,7 @@ title: deluge
 titleShv: "𐑛𐑧𐑤𐑿𐑡"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/deluge/'
 aliases: ['/finger-writing/deluge/']
 images:
 - path: /images/bucket/underwater-christ.jpg 

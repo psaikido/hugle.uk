@@ -4,6 +4,7 @@ title: ink
 titleShv: "𐑦𐑙𐑒"
 written: 2021-10
 type: hk/finger-writing
+url: '/finger-writing/ink/'
 aliases: ['/finger-writing/ink.html', '/finger-writing/ink/']
 images:
 - path: /images/bucket/inks.jpg 

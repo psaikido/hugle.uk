@@ -4,6 +4,7 @@ title: beep
 titleShv: "𐑚𐑰𐑐"
 written: 2020
 type: hk/finger-writing
+url: '/finger-writing/beep/'
 aliases: ['/finger-writing/beep/']
 images:
 - path: /images/bucket/monitors.jpg 

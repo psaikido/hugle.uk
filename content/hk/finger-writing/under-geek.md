@@ -4,6 +4,7 @@ title: "the under geek"
 written: 2024-02
 type: hk/finger-writing
 aliases: ['/finger-writing/under-geek/']
+url: '/finger-writing/under-geek/'
 ---
 
 I am  

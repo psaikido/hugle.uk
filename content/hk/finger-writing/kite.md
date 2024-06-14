@@ -4,6 +4,7 @@ title: kite
 titleShv: "𐑒𐑲𐑑"
 written: 2020
 type: hk/finger-writing
+url: '/finger-writing/kite/'
 aliases: ['/finger-writing/kite.html', '/finger-writing/kite/']
 images:
 - path: /images/kites/theDowns-Hughku-Gucci.png 

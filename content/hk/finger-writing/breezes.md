@@ -4,6 +4,7 @@ title: breezes
 titleShv: "𐑚𐑮𐑰𐑟𐑩𐑟"
 written: 2022
 type: hk/finger-writing
+url: '/finger-writing/breezes/'
 aliases: ['/finger-writing/breezes/']
 images:
 - path: https://www.publicdomainpictures.net/pictures/260000/velka/sunrise-boy-flying-kite.jpg

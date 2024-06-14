@@ -4,6 +4,7 @@ title: Danny Boy
 titleShv: "·𐑛𐑨𐑯𐑦 𐑚𐑶"
 written: Nov 2022
 type: hk/finger-writing
+url: '/finger-writing/danny-boy/'
 aliases: ['/finger-writing/danny-boy/']
 images:
 - path: /images/bucket/summer-wiltshire.jpg
