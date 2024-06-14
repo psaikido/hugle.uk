@@ -4,6 +4,7 @@ title: blue
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/blue.html']
+url: '/mbm/blue/'
 images:
 - path: /images/pilg1/mantaray.jpg 
   alt: "manta ray"

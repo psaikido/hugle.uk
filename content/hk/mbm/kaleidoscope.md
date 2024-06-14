@@ -4,6 +4,7 @@ title: kaleidoscope
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/kaleidoscope.html']
+url: '/mbm/kaleidoscope/'
 ---
 
 yesterday's endless kaleidoscope  

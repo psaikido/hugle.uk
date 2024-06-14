@@ -4,6 +4,7 @@ title: Chomolungma
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/chomolungma.html']
+url: '/mbm/chomolungma/'
 images:
 - path: /images/pilg1/chomolungma.jpg 
   alt: "Chomolungma"

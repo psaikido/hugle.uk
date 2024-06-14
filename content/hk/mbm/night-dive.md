@@ -4,6 +4,7 @@ title: night dive
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/night-dive.html']
+url: '/mbm/night-dive/'
 images:
 - path: /images/pilg1/night-dive.jpg 
   alt: "Thailand Andaman Sea night dive"

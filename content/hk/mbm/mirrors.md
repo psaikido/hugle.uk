@@ -4,6 +4,7 @@ title: hall of mirrors
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/mirrors.html']
+url: '/mbm/mirrors/'
 images:
 - path: /images/bucket/city-night.jpg 
   alt: "night city"

@@ -4,6 +4,7 @@ title: ladyboy
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/ladyboy.html']
+url: '/mbm/ladyboy/'
 images:
 - path: /images/bucket/ladyboy.jpg 
   alt: "ladyboy"

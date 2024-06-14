@@ -4,6 +4,7 @@ title: Mahabodhi moonlight
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/mahabodhi-moonlight.html']
+url: '/mbm/mahabodhi-moonlight/'
 images:
 - path: /images/pilg1/mahabodhi.jpg 
   alt: "The Mahabodhi Temple"

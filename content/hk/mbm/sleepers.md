@@ -4,6 +4,7 @@ title: sleepers
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/sleepers.html']
+url: '/mbm/sleepers/'
 images:
 - path: /images/pilg1/sleepers.jpg 
   alt: "train to Bangkok"

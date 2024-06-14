@@ -4,6 +4,7 @@ title: complaining
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/complaining.html']
+url: '/mbm/complaining/'
 images:
 - path: /images/pilg1/walltree.jpg
   alt: "Leh, Ladakh"

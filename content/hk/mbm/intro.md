@@ -2,7 +2,8 @@
 bannerTitle: "Mahabodhi Moonlight" 
 title: intro 
 type: hk/mbm
-aliases: [/mbm/, '/mbm/intro.html']
+aliases: ['/mbm/', '/mbm/intro.html']
+url: '/mbm/intro/'
 ---
 
 A Buddhist pilrimage undergone in 2005/6. The writing in prose form

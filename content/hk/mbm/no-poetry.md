@@ -4,6 +4,7 @@ title: no poetry
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/no-poetry.html']
+url: '/mbm/no-poetry/'
 ---
 
 today I have no poetry  

@@ -4,6 +4,7 @@ title: Rajgir
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/rajgir.html']
+url: '/mbm/rajgir/'
 images:
 - path: /images/pilg1/rajgir.jpg 
   alt: "Rajgir Vulture Peak"

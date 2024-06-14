@@ -4,6 +4,7 @@ title: never
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/never.html']
+url: '/mbm/never/'
 ---
 
 pain body condensed  

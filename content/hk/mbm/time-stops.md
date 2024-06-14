@@ -4,6 +4,7 @@ title: time stops
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/time-stops.html']
+url: '/mbm/time-stops/'
 images:
 - path: /images/pilg1/hughieJungle.jpg 
   alt: "Thai jungle"

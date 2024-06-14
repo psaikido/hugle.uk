@@ -4,6 +4,7 @@ title: cholera
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/cholera.html']
+url: '/mbm/cholera/'
 ---
 
 over the doctor's shoulder  

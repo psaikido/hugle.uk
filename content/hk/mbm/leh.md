@@ -4,6 +4,7 @@ title: Leh
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/leh.html']
+url: '/mbm/leh/'
 images:
 - path: /images/pilg1/lehdogs.jpg 
   alt: "Leh dogs"

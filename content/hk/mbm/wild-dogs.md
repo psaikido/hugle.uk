@@ -4,6 +4,7 @@ title: wild dogs
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/wild-dogs.html']
+url: '/mbm/wild-dogs/'
 ---
 
 wild dogs barking  

@@ -4,6 +4,7 @@ title: for Bankei
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/for-bankei.html']
+url: '/mbm/for-bankei/'
 ---
 
 my birth pangs  

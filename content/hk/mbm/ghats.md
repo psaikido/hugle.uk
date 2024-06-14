@@ -4,6 +4,7 @@ title: the burning ghats
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/ghats.html']
+url: '/mbm/ghats/'
 images:
 - path: /images/pilg1/ghats.jpg 
   alt: "The Burning Ghats at Varanasi"

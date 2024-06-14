@@ -4,6 +4,7 @@ title: Kushinagar
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/kushinagar.html']
+url: '/mbm/kushinagar/'
 images:
 - path: /images/pilg1/kushinagar.jpg 
   alt: "Kushinagar"

@@ -4,6 +4,7 @@ title: how could love?
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/how-could-love.html']
+url: '/mbm/how-could-love/'
 images:
 - path: /images/bio/hughieCrisps.jpg 
   alt: Crisps

@@ -30,7 +30,7 @@ nests:
       - title: poetry
         subsub: 
         - title: Mahabodhi Moonlight
-          url: /hk/mbm/intro/
+          url: /mbm/intro/
           dataFile: mbm
 
         - title: Yarn

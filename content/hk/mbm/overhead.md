@@ -4,6 +4,7 @@ title: overhead
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/overhead.html']
+url: '/mbm/overhead/'
 images:
 - path: /images/pilg1/choglamsarDesert.jpg 
   alt: "Choglamsar Desert"

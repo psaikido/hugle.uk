@@ -4,6 +4,7 @@ title: sorcerer
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/sorcerer.html']
+url: '/mbm/sorcerer/'
 images:
 - path: /images/pilg1/pilg34.jpg 
   alt: "Pen behind the ear"

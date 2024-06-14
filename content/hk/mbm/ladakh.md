@@ -4,6 +4,7 @@ title: Ladakh
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/ladakh.html']
+url: '/mbm/ladakh/'
 images:
 - path: /images/pilg1/rizong.jpg 
   alt: "Rizong Gompa, Ladakh"

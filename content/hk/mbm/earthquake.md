@@ -4,6 +4,7 @@ title: earthquake
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/earthquake.html']
+url: '/mbm/earthquake/'
 images:
 - path: /images/pilg1/pilg54.jpg 
   alt: "Tsopema"

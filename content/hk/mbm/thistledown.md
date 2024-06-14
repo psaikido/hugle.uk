@@ -4,6 +4,7 @@ title: thistledown
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/thistledown.html']
+url: '/mbm/thistledown/'
 ---
 
 homeless thistledown  

@@ -4,6 +4,7 @@ written: 2006
 title: Boudhanath stupa
 type: hk/mbm
 aliases: ['/mbm/boudhanath.html']
+url: '/mbm/boudhanath/'
 images:
 - path: /images/pilg1/boudhanath.jpg 
   alt: "Boudhanath, Katmandu"

@@ -4,6 +4,7 @@ title: dog at Tsopema
 written: 2005
 type: hk/mbm
 aliases: ['/mbm/tsopema.html']
+url: '/mbm/tsopema/'
 images:
 - path: /images/pilg1/tsopema.jpg 
   alt: Tsopema

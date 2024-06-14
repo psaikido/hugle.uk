@@ -4,6 +4,7 @@ title: long train
 written: 2020
 type: hk/mbm
 aliases: ['/mbm/long-train.html']
+url: '/mbm/long-train/'
 images:
 - path: /images/pilg1/pilg84.jpg 
   alt: "H does a trick for an Indian boy"

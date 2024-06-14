@@ -4,6 +4,7 @@ title: guesthouse
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/guesthouse.html']
+url: '/mbm/guesthouse/'
 images:
 - path: /images/pilg1/cow.jpg 
   alt: "Leh"

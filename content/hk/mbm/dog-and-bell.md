@@ -4,6 +4,7 @@ title: dog and bell
 written: 2006
 type: hk/mbm
 aliases: ['/mbm/dog-and-bell.html']
+url: '/mbm/dog-and-bell/'
 images:
 - path: /images/pilg1/monkanddog.jpg 
   alt: "monk and dog"
