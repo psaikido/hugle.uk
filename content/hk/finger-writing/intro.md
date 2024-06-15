@@ -9,6 +9,9 @@ images:
   alt: "bed, lappy, mirror & me" 
 ---
 
+![Finger Writing cover](/images/bucket/fingerwriting-cover-front.png "Finger Writing cover")  
+{.img-half}
+
 These pieces were mostly written from 2019.  I couldn't think of a title at the
 beginning so I was just chucking them into a directory I called 'bucket'.
 Eventually it morphed into 'finger writing' from one of the pieces. This was

@@ -7,8 +7,6 @@ type: hk/finger-writing
 url: '/finger-writing/finger-writing/'
 aliases: ['/finger-writing/finger-writing.html', '/finger-writing/finger-writing/']
 images:
-- path: /images/bucket/fingerwriting-title.png
-  alt: cover
 - path: /images/mantrasphere/gallery/promo/pl_hc_ba.jpg 
   alt: Pete, Hughie, Barry
 shavian: true
