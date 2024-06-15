@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Mind State 
 type: prose/pilgrimage
+url: '/pilgrimage/mind-state'
 ---
 
 

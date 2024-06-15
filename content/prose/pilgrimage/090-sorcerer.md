@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Sorcerer
 type: prose/pilgrimage
+url: '/pilgrimage/sorcerer'
 ---
 
 

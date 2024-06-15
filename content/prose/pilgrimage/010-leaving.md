@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Leaving
 type: prose/pilgrimage
+url: '/pilgrimage/'
 ---
 
 !["Hugh Carroll, Ladakh 2005"](/images/pilg1/pilg14a.jpg "Hugh Carroll, Ladakh 2005")

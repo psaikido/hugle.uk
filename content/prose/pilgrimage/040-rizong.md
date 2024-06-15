@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Rizong
 type: prose/pilgrimage
+url: '/pilgrimage/rizong'
 ---
 
 The next suggestion was to go to Rizong Gompa and find Geshi

@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: HH the Dalai Lama
 type: prose/pilgrimage
+url: '/pilgrimage/hhdl'
 ---
 
 

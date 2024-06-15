@@ -48,7 +48,7 @@ nests:
       - title: prose
         subsub:
         - title: Pilgrimage 
-          url: /prose/pilgrimage/010-leaving/
+          url: /pilgrimage/
           dataFile: pilgrimage
 
         - title: First Burn

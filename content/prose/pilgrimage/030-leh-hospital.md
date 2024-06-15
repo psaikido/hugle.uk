@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Leh hospital
 type: prose/pilgrimage
+url: '/pilgrimage/leh-hospital'
 ---
 
 

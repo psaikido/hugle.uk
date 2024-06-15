@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Lamayuru
 type: prose/pilgrimage
+url: '/pilgrimage/lamayuru'
 ---
 
 

@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Gotsang Gompa
 type: prose/pilgrimage
+url: '/pilgrimage/gotsang'
 ---
 
 !["Gotsang Gompa"](/images/pilg1/dscn0093.jpg "Taklung Rinpoche")

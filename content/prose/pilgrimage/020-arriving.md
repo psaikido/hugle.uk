@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Arriving
 type: prose/pilgrimage
+url: '/pilgrimage/arriving'
 ---
 
 

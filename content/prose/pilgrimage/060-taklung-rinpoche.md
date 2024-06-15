@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Taklung Rinpoche
 type: prose/pilgrimage
+url: '/pilgrimage/taklung-rinpoche'
 ---
 
 

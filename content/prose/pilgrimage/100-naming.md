@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Naming
 type: prose/pilgrimage
+url: '/pilgrimage/naming'
 ---
 
 !["Kunchok Namdrol and me – Lamayuru 2005"](/images/pilg1/pilg32.jpg "Kunchok Namdrol and me – Lamayuru 2005")

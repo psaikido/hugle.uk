@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Ayu Lhamo
 type: prose/pilgrimage
+url: '/pilgrimage/ayu-lhamo'
 ---
 
 

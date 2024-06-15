@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: Mareike 
 type: prose/pilgrimage
+url: '/pilgrimage/mareike'
 ---
 
 !["Mareike, Lamayuru 2005"](/images/pilg1/Mareike_H.jpg "Mareike, Lamayuru 2005")

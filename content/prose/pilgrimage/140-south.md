@@ -2,6 +2,7 @@
 bannerTitle: Pilgrimage
 title: South
 type: prose/pilgrimage
+url: '/pilgrimage/south'
 ---
 
 
@@ -90,5 +91,5 @@ I really hope to return to Ladakh one day.
 
 #### fin
 
-_([a collection of poems from this pilgrimage](/hk/mbm/intro/))_
+_([a collection of poems from this pilgrimage](/mbm/intro/))_
 

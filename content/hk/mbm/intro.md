@@ -8,9 +8,9 @@ url: '/mbm/intro/'
 
 A Buddhist pilrimage undergone in 2005/6. The writing in prose form
 about that journey is called
-[Pilgrimage](/prose/pilgrimage/010-leaving/). The printed form of
+[Pilgrimage](/pilgrimage/). The printed form of
 these poems are the second part of the little book [Sunshine &
-Shadow](/hk/sun/intro/).
+Shadow](/sun/intro/).
 
 "Hughie Carroll gives himself to his life so wholeheartedly that the
 reader fears for him, exposed to raw pain, then flooded with love.
