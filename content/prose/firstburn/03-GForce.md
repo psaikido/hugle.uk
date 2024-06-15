@@ -2,6 +2,7 @@
 bannerTitle: First Burn
 title: GForce
 type: prose/firstburn
+url: '/firstburn/gforce'
 ---
 
 The warhead was roomy inside the tip of the missile. He relied on the exo to

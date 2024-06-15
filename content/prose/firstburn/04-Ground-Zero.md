@@ -2,6 +2,7 @@
 bannerTitle: First Burn 
 title: Ground Zero 
 type: prose/firstburn
+url: '/firstburn/ground-zero'
 ---
 
 Since unhitching the rope at the bottom of the shaft, total warfare had filled

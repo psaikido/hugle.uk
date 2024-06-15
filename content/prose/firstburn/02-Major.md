@@ -2,6 +2,7 @@
 bannerTitle: First Burn
 title: Major
 type: prose/firstburn
+url: '/firstburn/major'
 ---
 
 Hr09 stepped into the debriefing room at the command centre, eight hours after

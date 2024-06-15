@@ -52,7 +52,7 @@ nests:
           dataFile: pilgrimage
 
         - title: First Burn
-          url: /prose/firstburn/01-mn04/
+          url: /firstburn/
           dataFile: firstburn
 
         - title: Thesium 
