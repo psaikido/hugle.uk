@@ -18,5 +18,6 @@ aliases: [/mantrasphere/songs/]
 [11 The Sailing Stars](/mantrasphere/sailing-stars)  
 [12 Tonglen](/mantrasphere/tonglen)  
 
-### bonus 
+### Fragments 
 [Secret Sun](/mantrasphere/secret-sun)  
+[Namo Avalokitesvara](https://soundcloud.com/mantrasphere/namo-avalokitesvara)  
