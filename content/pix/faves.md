@@ -158,5 +158,8 @@ images:
 
     - img: faves/sr_p_rog_pt_m.jpg
       text: Sarah, Peewee, Roger, Pete, Emma, Barbury Castle, 1999
+
+    - img: bio/tiger_hughie06.jpg
+      text: Visiting the tiger temple 2006
 ---
 

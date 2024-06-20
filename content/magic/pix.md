@@ -27,6 +27,8 @@ images:
     - img: theSpot.jpg
     - img: unicef03.jpg
     - img: unicef06.jpg
+    - img: SamAndPaulWeddingMagic.jpg
+    - img: Hugle-GreenGathering2018.jpg 
 
 ---
 
