@@ -12,7 +12,7 @@ images:
 ![Finger Writing cover](/images/bucket/fingerwriting-cover-front.png "Finger Writing cover")  
 {.img-half}
 
-The title poem ['Finger Writing'](/finger-writing/finger-writing/) comes from the symbol
+The title poem [Finger Writing](/finger-writing/finger-writing/) comes from the symbol
 of water vapour condensing into droplets when it meets a plate of cold glass
 which is quite a bit like the process of writing. Amorphous ideas, emotions,
 sentiments, ‘condense’ into ink marks on the surface of the page or screen. In
